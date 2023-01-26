@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/ai/</link>
+    <description>Recent content in AI on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 17:17:58 +0530</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Momentous Change</title>
+      <link>http://rahulmatthan.github.io/posts/2023/momentous_change/</link>
+      <pubDate>Thu, 05 Jan 2023 17:17:58 +0530</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/posts/2023/momentous_change/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We are potentially on the verge of momentous change. Artificial intelligence has improved to the point where it could pass as human. As a result, the search technology that was responsible for so much of the modern internet is facing its strongest challenge and with it the business model of the internet as we know it is under threat.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

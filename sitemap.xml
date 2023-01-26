@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/tags/ai/</loc>
+    <lastmod>2023-01-05T17:17:58+05:30</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
     <lastmod>2023-01-05T17:17:58+05:30</lastmod>
   </url><url>
@@ -9,6 +12,9 @@
     <lastmod>2023-01-05T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2023-01-05T17:17:58+05:30</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2023-01-05T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/2022/looking_back/</loc>
@@ -33,7 +39,5 @@
     <priority>0</priority>
   </url><url>
     <loc>http://rahulmatthan.github.io/categories/</loc>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
   </url>
 </urlset>
