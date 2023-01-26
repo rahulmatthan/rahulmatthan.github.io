@@ -1,267 +1,124 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
-<head>
-    <script defer language="javascript" type="text/javascript" src="http://rahulmatthan.github.io/js/light_dark.js"></script>
-<script defer language="javascript" type="text/javascript" src="http://rahulmatthan.github.io/js/tabs.js"></script>
+<html lang="en-us">
+  <head>
+    <title>Truth and LLMs | Ex Machina</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="If the purpose of education is to equip the younger generation with the skills they need to face the challenges of the world they are growing into, it is important to constantly re-evaluate the role that technology will play in that future. While we must not expect the skill of the past to continue to be useful we should guard against trusting technology blindly.">
+<meta name="generator" content="Hugo 0.109.0">
 
 
-<script defer language="javascript" type="text/javascript" src="http://rahulmatthan.github.io/js/katex.min.js"></script>
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 
-<script defer language="javascript" type="text/javascript" src="http://rahulmatthan.github.io/js/auto-render.min.js"></script>
+<link rel="stylesheet" href="/css/style.css">
 
 
-<script defer language="javascript" type="text/javascript" src="http://rahulmatthan.github.io/js/katex.js"></script>
-<script defer language="javascript" type="text/javascript" src="http://rahulmatthan.github.io/js/toc.js"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
 
 
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="generator" content="Hugo 0.109.0">
-
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>Truth and LLMs &middot; Ex Machina</title>
-    <meta name="description" content="" />
-
-    
-    <link type="text/css" rel="stylesheet" href="http://rahulmatthan.github.io/css/poole.css">
-<link type="text/css" rel="stylesheet" href="http://rahulmatthan.github.io/css/syntax.css">
-<link type="text/css" rel="stylesheet" href="http://rahulmatthan.github.io/css/hyde.css">
-<link type="text/css" rel="stylesheet" href="http://rahulmatthan.github.io/css/poison.css">
-<link type="text/css" rel="stylesheet" href="http://rahulmatthan.github.io/css/fonts.css">
-<link type="text/css" rel="stylesheet" href="http://rahulmatthan.github.io/css/katex.min.css">
-<link type="text/css" rel="stylesheet" href="http://rahulmatthan.github.io/css/tabs.css">
 
 
-    
-    
-    <style>
-    body {
-        --sidebar-bg-color: #202020;
-        --sidebar-img-border-color: #515151;
-        --sidebar-p-color: #909090;
-        --sidebar-h1-color: #FFF;
-        --sidebar-a-color: #FFF;
-        --sidebar-socials-color: #FFF;
-        --text-color: #222;
-        --bkg-color: #FAF9F6;
-        --post-title-color: #303030;
-        --list-color: #5a5a5a;
-        --link-color: #268bd2;
-        --date-color: #515151;
-        --code-color: #bf616a;
-        --code-background-color: #f9f9f9;
-        --moon-sun-color: #FFF;
-        --moon-sun-background-color: #515151;
-    }
-    body.dark-theme {
-        --text-color: #eee;
-        --bkg-color: #121212;
-        --post-title-color: #DBE2E9;
-        --list-color: #9d9d9d;
-        --link-color: #268bd2;
-        --date-color: #9a9a9a;
-        --code-color: #ff7f7f;
-        --code-background-color: #393D47;
-    }
-    body {
-        background-color: var(--bkg-color);
-    }
-</style>
 
-</head>
 
-    <body class="dark-theme">
-        <aside class="sidebar">
-    <div class="container sidebar-sticky">
-        <div class="light-dark" align="right">
-    <button class="btn-light-dark">
-        <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16">
-            <path fill="currentColor" d="M6 .278a.768.768 0 0 1 .08.858a7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277c.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316a.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71C0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/>
-        </svg>
-        <svg class="sun" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 16 16">
-            <path fill="currentColor" d="M8 12a4 4 0 1 0 0-8a4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2A.5.5 0 0 1 3 8zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/>
-        </svg>
-    </button>
-</div>
 
-        <div class="sidebar-about">
-    <h1 class="brand">
-        
-            <a href="http://rahulmatthan.github.io/">
-                <img src="/images/author.jpg" alt="brand image">
-            </a>
-        
-        
-            <a href="http://rahulmatthan.github.io/">
-                <h1>Ex Machina</h1>
-            </a>
-        
-    </h1>
-    <p class="lead">
-    Essays at the Intersection of Law Technology and Society.
-    </p>
-</div>
+  </head>
 
-        <nav>
-    <ul class="sidebar-nav">
-        
-        
-        
-        
-            
-                
-                    <li class="heading">
-                        <a href="/about/">About</a>
-                    </li>
-                    
-                
-            
-                
-            
-        
-        
-            
-                
-            
-                
-                    <li class="heading">
-                        <a href="/posts/">Posts</a>
-                    </li>
-                    
-                        <li class="sub-heading">
-                            
-                        </li>
-                        
-                            <li class="bullet">
-                                <a href="http://rahulmatthan.github.io/posts/2023/momentous_change/">Momentous Change</a>
-                            </li>
-                        
-                            <li class="bullet">
-                                <a href="http://rahulmatthan.github.io/posts/2022/looking_back/">Looking Back</a>
-                            </li>
-                        
-                            <li class="bullet">
-                                <a href="http://rahulmatthan.github.io/posts/2022/idea_factories/">Idea Factories</a>
-                            </li>
-                        
-                            <li class="bullet">
-                                <a href="http://rahulmatthan.github.io/posts/2022/truth_and_llms/">Truth and LLMs</a>
-                            </li>
-                        
-                            <li class="bullet">
-                                <a href="http://rahulmatthan.github.io/posts/2016/trusting_the_sharing_economy/">Trusting the Sharing Economy</a>
-                            </li>
-                        
-                    
-                
-            
-        
+  <body>
+    <nav class="navigation">
+	
+		<a href="/"> <span class="arrow">←</span>Home</a>
+	
+	<a href="/posts">Archive</a>
+	<a href="/tags">Tags</a>
+	<a href="/about">About</a>
 
-    </ul>
+	
+
+	
 </nav>
 
-        
 
-    <a target="_blank" class="social" href="https://linkedin.com/in/rahul-matthan-b095543/">
-        <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1.2em" viewBox="0 0 448 512">
-            <path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5c0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7c-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5c67.2 0 79.7 44.3 79.7 101.9V416z"/>
-        </svg>
-    </a>
+    <main class="main">
+      
 
+<section id="single">
+    <h1 class="title">Truth and LLMs</h1>
 
-    <a target="_blank" class="social" href="https://twitter.com/matthan">
-        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 16 16">
-            <path fill="currentColor" d="M5.032 14.286c6.037 0 9.34-4.837 9.34-9.032c0-.137 0-.274-.01-.41A6.56 6.56 0 0 0 16 3.2c-.6.256-1.235.425-1.885.5a3.207 3.207 0 0 0 1.443-1.757c-.645.37-1.35.63-2.085.77a3.322 3.322 0 0 0-1.862-.958a3.384 3.384 0 0 0-2.082.334a3.223 3.223 0 0 0-1.442 1.49a3.08 3.08 0 0 0-.208 2.03a9.57 9.57 0 0 1-3.747-.963a9.269 9.269 0 0 1-3.018-2.354a3.086 3.086 0 0 0-.36 2.314c.189.787.68 1.475 1.376 1.924a3.344 3.344 0 0 1-1.49-.398v.04c0 .734.263 1.444.743 2.01a3.3 3.3 0 0 0 1.89 1.102c-.483.128-.99.146-1.482.055a3.19 3.19 0 0 0 1.168 1.577a3.36 3.36 0 0 0 1.9.627A6.732 6.732 0 0 1 0 12.86a9.527 9.527 0 0 0 5.032 1.423"/>
-        </svg>
-    </a>
+    <div class="tip">
+        <time datetime="2022-12-14 17:17:58 &#43;0530 IST">Dec 14, 2022</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          1043 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          5 minute read
+        </span>
+    </div>
 
-
-
-
-
-
-    <a target="_blank" class="social" href="https://instagram.com/matthan/">
-        <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1.2em" viewBox="0 0 448 512">
-            <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9S287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7s74.7 33.5 74.7 74.7s-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8c-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8s26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9c-26.2-26.2-58-34.4-93.9-36.2c-37-2.1-147.9-2.1-184.9 0c-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9c1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0c35.9-1.7 67.7-9.9 93.9-36.2c26.2-26.2 34.4-58 36.2-93.9c2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6c-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6c-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6c29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6c11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/>
-        </svg>
-    </a>
-
-
-
-        <p class="footnote">
-powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a target="_blank" href="https://github.com/lukeorth/poison">poison</a>
-    <br>
-    &copy; 2023 Ex Machina. All rights reserved.
-</p>
-
-  </div>
-</aside>
-
-        <main class="content container">
-            <div class="post">
-  <div class="info">
-    <h1 class="post-title">
-        <a href="http://rahulmatthan.github.io/posts/2022/truth_and_llms/">Truth and LLMs</a>
-    </h1>
-    <time datetime="2022-12-14T17:17:58&#43;0530" class="post-date">
-        December 14, 2022
-    </time>
     
     
-    
-    
-    
-    
-</div>
 
-  <p><em>If the purpose of education is to equip the younger generation with the skills they need to face the challenges of the world they are growing into, it is important to constantly re-evaluate the role that technology will play in that future. While we must not expect the skill of the past to continue to be useful we should guard against trusting technology blindly.</em></p>
+
+    <div class="content">
+      <p><em>If the purpose of education is to equip the younger generation with the skills they need to face the challenges of the world they are growing into, it is important to constantly re-evaluate the role that technology will play in that future. While we must not expect the skill of the past to continue to be useful we should guard against trusting technology blindly.</em></p>
 <hr>
 <p>When I was in school, we were prohibited from using electronic aids during our exams. Even then, I couldn’t understand why we had to do sums in our heads when it was so much simpler to use an electronic calculator. But when I had the temerity to question my teachers, I was given a lecture about how the ability to multiply numbers in my head would stand me in good stead when I was older.</p>
 <p>Today, with the perfect vision of hindsight, I can say that not only have I rarely put that skill to use, I end up using the calculator app on my phone all the time—even for the simplest of sums. And I am none the worse for it.</p>
-<h2 id="tools-not-skills">Tools Not Skills</h2>
-<p>I am happy to say that there are schools today that are a lot less anachronistic. Not only can my son carry a calculator into his exam hall, he is actively encouraged to use it. I guess mental multiplication is no longer considered the important life-skill that it once was. I was also pleased to note that they’ve extended a similar relaxation to another bane of my schoolboy life, spelling, with examiners being encouraged to ignore spelling mistakes unless they impede comprehension.</p>
+<h2 id="tools-not-skills">Tools Not Skills <a href="#tools-not-skills" class="anchor">🔗</a></h2><p>I am happy to say that there are schools today that are a lot less anachronistic. Not only can my son carry a calculator into his exam hall, he is actively encouraged to use it. I guess mental multiplication is no longer considered the important life-skill that it once was. I was also pleased to note that they’ve extended a similar relaxation to another bane of my schoolboy life, spelling, with examiners being encouraged to ignore spelling mistakes unless they impede comprehension.</p>
 <p>Today, calculators and spell checkers routinely do for us what we had no option but to do ourselves when we were little. And since they are built directly into technology that surrounds us, they are reliably available whenever we need them. If the purpose of our education system is to equip our children with the skills they need to succeed in life, we need to be looking at what they will need to survive in the world they are growing into,  rather than teaching them skills that might have been useful when their teachers were growing up.</p>
 <p>I was also gratified to note that my son is being actively encouraged to think beyond his text books. When we were in school, we were tested on our ability to regurgitate answers that we had learnt by rote. The focus of modern education programmes seems to have shifted away from this and towards evaluating students on their ability to sift through information and find arguments that best support their propositions. They are being required to develop different writing skills, ones that do not depend on their ability to memorise, but instead forces them to think how to present answers in ways that most cogently make their case. From personal experience, I can readily confirm that these skills will take you further in life than the ability to calculate sums in your head. It will help equip students, not only for a life in academia, but for all types of knowledge work.</p>
 <p>And yet, as useful as these skills are, are they what our children need to survive in the world they are growing up into?</p>
-<h2 id="ai-for-research">AI for Research</h2>
-<p>In the recent past, we have seen tremendous improvement in large language models (LLMs). Just a few years ago, these systems were little more than glorified autocomplete algorithms that used pattern recognition to approximate human conversation. Today, having gorged themselves on the contents of much of the navigable internet, it seems there isn’t a lot that these applications cannot do. A few weeks ago, I used one of these programs to part-write one of my articles in this column. Most readers couldn’t tell that it had been written, almost entirely, by a computer till the big reveal in the penultimate paragraph.</p>
+<h2 id="ai-for-research">AI for Research <a href="#ai-for-research" class="anchor">🔗</a></h2><p>In the recent past, we have seen tremendous improvement in large language models (LLMs). Just a few years ago, these systems were little more than glorified autocomplete algorithms that used pattern recognition to approximate human conversation. Today, having gorged themselves on the contents of much of the navigable internet, it seems there isn’t a lot that these applications cannot do. A few weeks ago, I used one of these programs to part-write one of my articles in this column. Most readers couldn’t tell that it had been written, almost entirely, by a computer till the big reveal in the penultimate paragraph.</p>
 <p>There are a variety of different applications to which these technologies are being put, including, most pertinently to our current discussion, research. Today, an LLM can be tasked with conducting research on pretty much any issue worthy of study, and it will generate an accurate summary of the most relevant papers in a form indistinguishable from what a human would have produced. If this is the direction research is headed, is there really any point in training our children the old-fashioned way? If it is inevitable that machines will replace human researchers, would it not be better for us to train our children to use AI as a research tool?</p>
 <p>But I believe that there is another, entirely different issue presaged by these developments that is worthy of our attention. One that if we fail to make young students aware of, our failure will leave them ill-prepared for their future.</p>
-<h2 id="truth-from-fiction">Truth from Fiction</h2>
-<p>Unlike in the past, where we could take it for granted that all the academic literature that we come across has been peer-reviewed and is therefore reliably accurate, given the ease with which LLMs generate articles out of thin air, there is a growing concern that even the most seemingly authentic primary source material might have been entirely made up. We’ve all seen how fake news has affected journalism and eroded trust in media as a whole. I can see how academic research could meet the same fate once LLM-generated content begins to proliferate to such an extent that it is impossible to distinguish genuine research from that which has been made up.</p>
+<h2 id="truth-from-fiction">Truth from Fiction <a href="#truth-from-fiction" class="anchor">🔗</a></h2><p>Unlike in the past, where we could take it for granted that all the academic literature that we come across has been peer-reviewed and is therefore reliably accurate, given the ease with which LLMs generate articles out of thin air, there is a growing concern that even the most seemingly authentic primary source material might have been entirely made up. We’ve all seen how fake news has affected journalism and eroded trust in media as a whole. I can see how academic research could meet the same fate once LLM-generated content begins to proliferate to such an extent that it is impossible to distinguish genuine research from that which has been made up.</p>
 <p>This is the future our children are growing into and if there is one thing we need to teach them, it is the art of figuring out whether the material they are relying on is genuine or generated out of thin air.</p>
 <p>To do this, we need to inculcate in them a sense of healthy scepticism, so that they question all the information they are presented with, no matter how reliable the source might seem to be. We need to train them to cross-reference sources and only accept facts that have been adequately corroborated.</p>
 <p>Our current peer-review system was supposed to take care of all of this, but if we can no longer rely on that time-tested system, we will need to learn anew how to fend for ourselves.</p>
-  <hr>
-<div class="footer">
-    
-	    
-            
-	            <a class="previous-post" href="http://rahulmatthan.github.io/posts/2016/trusting_the_sharing_economy/?ref=footer">« Trusting the Sharing Economy</a>
-	        
-        
-	    
-            
-	            <a class="next-post" href="http://rahulmatthan.github.io/posts/2022/idea_factories/?ref=footer">Idea Factories »</a>
-	        
-        
-    
-</div>
+    </div>
 
-  <div class="article-toc " >
-    <h4></h4>
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#tools-not-skills">Tools Not Skills</a></li>
-    <li><a href="#ai-for-research">AI for Research</a></li>
-    <li><a href="#truth-from-fiction">Truth from Fiction</a></li>
-  </ul>
-</nav>
-</div>
+    
+    
+    
 
-</div>
-        </main>
-    </body>
+</section>
+
+
+    </main>
+    
+    <footer id="footer">
+    
+
+    <div class="copyright">
+    
+       © Copyright 
+       2023 
+       <span class="split">
+        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
+</svg>
+       </span>
+       
+    
+    </div>
+
+    
+      <div class="powerby">
+        Powered by <a href='http://www.gohugo.io/'>Hugo</a> Theme By <a href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
+      </div>
+    
+</footer>
+
+
+
+  </body>
 </html>
