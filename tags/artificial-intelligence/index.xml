@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 17:17:58 +0530</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Momentous Change</title>
+      <link>http://rahulmatthan.github.io/05/january/2023/momentous-change/</link>
+      <pubDate>Thu, 05 Jan 2023 17:17:58 +0530</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/05/january/2023/momentous-change/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We are potentially on the verge of momentous change. Artificial intelligence has improved to the point where it could pass as human. As a result, the search technology that was responsible for so much of the modern internet is facing its strongest challenge and with it the business model of the internet as we know it is under threat.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Truth and LLMs</title>
+      <link>http://rahulmatthan.github.io/14/december/2022/truth-and-llms/</link>
+      <pubDate>Wed, 14 Dec 2022 17:17:58 +0530</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/14/december/2022/truth-and-llms/</guid>
+      <description>&lt;p&gt;&lt;em&gt;If the purpose of education is to equip the younger generation with the skills they need to face the challenges of the world they are growing into, it is important to constantly re-evaluate the role that technology will play in that future. While we must not expect the skill of the past to continue to be useful we should guard against trusting technology blindly.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

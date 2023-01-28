@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rahulmatthan.github.io/tags/ai/</loc>
+    <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2023-01-05T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
     <lastmod>2023-01-05T17:17:58+05:30</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2023/momentous_change/</loc>
+    <loc>http://rahulmatthan.github.io/podcast/</loc>
+    <lastmod>2023-01-05T17:17:58+05:30</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/05/january/2023/momentous-change/</loc>
     <lastmod>2023-01-05T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/</loc>
@@ -17,43 +20,46 @@
     <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2023-01-05T17:17:58+05:30</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2022/looking_back/</loc>
+    <loc>http://rahulmatthan.github.io/28/december/2022/looking-back/</loc>
     <lastmod>2022-12-28T17:17:58+05:30</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2022/idea_factories/</loc>
+    <loc>http://rahulmatthan.github.io/21/december/2022/idea-factories/</loc>
     <lastmod>2022-12-21T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/ip/</loc>
     <lastmod>2022-12-21T17:17:58+05:30</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2022/truth_and_llms/</loc>
+    <loc>http://rahulmatthan.github.io/14/december/2022/truth-and-llms/</loc>
     <lastmod>2022-12-14T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/ethics/</loc>
     <lastmod>2016-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2016/ethics_of_automation/</loc>
+    <loc>http://rahulmatthan.github.io/16/june/2016/ethics-of-automation/</loc>
     <lastmod>2016-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/sharing-economy/</loc>
     <lastmod>2016-06-08T17:17:58+05:30</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2016/trusting_the_sharing_economy/</loc>
+    <loc>http://rahulmatthan.github.io/08/june/2016/trusting-the-sharing-economy/</loc>
     <lastmod>2016-06-08T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/maps/</loc>
     <lastmod>2016-05-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2016/what_the_new_gs_bill_means_for_you/</loc>
+    <loc>http://rahulmatthan.github.io/16/may/2016/what-the-new-geospatial-bill-means-for-you/</loc>
     <lastmod>2016-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/identity/</loc>
     <lastmod>2016-03-24T17:17:58+05:30</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/2016/stiff_backbone_of_the_aadhaar_bill/</loc>
+    <loc>http://rahulmatthan.github.io/24/march/2016/the-stiff-backbone-of-the-aadhaar-act/</loc>
     <lastmod>2016-03-24T17:17:58+05:30</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/about/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/books/</loc>
     <priority>0</priority>
   </url><url>
     <loc>http://rahulmatthan.github.io/categories/</loc>
