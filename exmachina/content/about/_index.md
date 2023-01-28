@@ -1,0 +1,1 @@
+I am a lawyer based in India. Since 2016 I've written a weekly column called Ex Machina on issues at the intersection of Law, Technology and Society. This website is a running archive of the column.

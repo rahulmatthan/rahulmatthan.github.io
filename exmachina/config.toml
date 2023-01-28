@@ -1,0 +1,73 @@
+baseURL = 'http://rahulmatthan.github.io/'
+languageCode = 'en'
+title = 'Ex Machina'
+theme = "mainroad"
+paginate = 5
+pluralizelisttitles = false
+dateformat = "2006-01-02" # Change the format of dates
+[permalinks]
+  posts = '/:day/:monthname/:year/:title/'
+enableRSS = true
+showToc = true
+
+# Add page to a main, side, and footer menu
+menu = "main"
+
+[Author]
+  name = "Rahul Matthan"
+  bio = "Rahul Matthan is a lawyer who works at the intersection of law, technology and society."
+  avatar = "/images/avatar.png"
+
+[menu]
+[[menu.main]]
+  name = 'About'
+  pre = "<i class='fa fa-road'></i>"
+  url = '/about/'
+  weight = -100
+[[menu.main]]
+  name = 'Podcast'
+  pre = "<i class='fa fa-road'></i>"
+  url = '/podcast/'
+  weight = -100
+[[menu.main]]
+  name = 'Books'
+  pre = "<i class='fa fa-road'></i>"
+  url = '/books/'
+  weight = -100
+
+[Params]
+  description = "Rahul Matthan's Collected Writings" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["posts", "about"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default) 
+
+[Params.logo]
+  image = "/images/exmachina.jpg"
+  title = "Ex Machina"
+  subtitle = "Law. Technology. Society."
+
+[Params.thumbnail]
+  # Show thumbnail only for list items
+  visibility = ["list"]
+
+[Params.sidebar]
+  home = "right"
+  list = "false"
+  single = "false"
+  # Enable widgets in given order
+  widgets = ["recent", "categories", "taglist", "social"]
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  twitter = "matthan"
+  instagram = "matthan"
+  linkedin = "rahulmatthan"
+  
