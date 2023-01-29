@@ -4,8 +4,9 @@ date: 2016-06-08T17:17:58+05:30
 tags: [Sharing Economy]
 ---
 *On-demand services that comprise the sharing economy are superior to their real world counterparts because of the dual feedback system. Trust identity based on dual feedback loops could create the civilised commercial ecosystem that has always been the ultimate objective of putting in place a regulatory framework.*
-
 <!--more-->
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/Opinion/M0bICogjjyStm8aSbyaRtK/Trusting-the-sharing-economy.html).*
+
 ---
 
 The crackdown by the Karnataka government on taxi aggregators Ola and Uber has caused considerable consternation in print and social media. However, this type of government action is nothing new for the sharing economy. Almost from the moment on-demand services began operations, governments around the world have literally fallen over themselves to regulate them—egged on, for the most part, by lobbies comprising the same mainstream industries that these start-ups were working to disrupt. These “threatened" industries argued that while they are obliged to comply with industry regulations, these new disruptive industries were providing the same service without complying with regulatory requirements.

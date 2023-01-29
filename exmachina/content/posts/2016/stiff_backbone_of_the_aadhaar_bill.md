@@ -4,8 +4,9 @@ date: 2016-03-24T17:17:58+05:30
 tags: [Identity]
 ---
 *While it is not without its flaws, the Aadhaar Act imposes some of the strongest fetters on government over-reach of any legislation in the country.*
-
 <!--more-->
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/Opinion/HzYm3AxWjrs5BhbD7ghFMM/Pros-and-cons-of-Aadhaar-bill.html).*
+
 ---
 
 When the National Democratic Alliance (NDA) introduced the Aadhaar Bill in Parliament late last week, it looked like the government was trying to latch the stable door a few years after the horse had bolted. This is 2016. We are approaching the one billion-mark in number of Aadhaar cards issued. Passing an enabling legislation now is a bit like planning a coronation to celebrate the diamond jubilee of the Queen.

@@ -23,7 +23,7 @@ Be that as it may, based on the two laws that are already in the public domain, 
 
 I have long believed that this is the only way to regulate fast moving technologies and I am glad to see the government take important first steps in this direction. What, remains to be seen is what sort of regulator is appointed and the amount of autonomy it is given to operate.
 
-## DPI - India Style
+### DPI - India Style
 
 But what was most exciting to witness, over the course of the year, was the evolution of India's digital public infrastructure. Today, India's fast payments system, UPI, clocks in excess of [7 billion transactions per month](https://www.npci.org.in/what-we-do/upi/product-statistics) and is ubiquitous across the length and breadth of the country. As a result people across a wide cross-section of society have easy access to affordable and efficient digital payment systems allowing them to transfer money amongst themselves and engage in all manner of commercial activities. But as impressive as all this is the really exciting story is one level up the stack.
 
