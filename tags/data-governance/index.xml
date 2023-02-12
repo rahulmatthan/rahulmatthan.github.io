@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Governance on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/data-governance/</link>
+    <description>Recent content in Data Governance on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/data-governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithmic Oversight</title>
+      <link>http://rahulmatthan.github.io/21/september/2016/algorithmic-oversight/</link>
+      <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/21/september/2016/algorithmic-oversight/</guid>
+      <description>&lt;p&gt;&lt;em&gt;It is next to impossible to avoid the increasing personalisation of the internet. As more and more businesses look to understand their client better by personalising their services to them lawmakers have begun to look into the consequences of these actions. Could we develop software solutions for regulatory oversight so that we fight fire with fire?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data is a Capital Asset</title>
+      <link>http://rahulmatthan.github.io/09/september/2016/data-is-a-capital-asset/</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/09/september/2016/data-is-a-capital-asset/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The insights we derive from data could help with governance in new and interesting ways. While they are already being used to predict crime what if instead of forcing companies and businesses to report their compliance, governments use data insights to predict it.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

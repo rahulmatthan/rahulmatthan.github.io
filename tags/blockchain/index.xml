@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockchain on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/blockchain/</link>
+    <description>Recent content in Blockchain on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain Governance</title>
+      <link>http://rahulmatthan.github.io/13/july/2016/blockchain-governance/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/13/july/2016/blockchain-governance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The idea behind the concept of the blockchain and a distributed ledger can be applied in so many ways otehr than the bitcoin use case that it is most popularly known for. We need to think of how it can be used for smart contracts and novel governance usecases.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

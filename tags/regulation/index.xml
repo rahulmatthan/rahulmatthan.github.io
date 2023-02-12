@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regulation on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/regulation/</link>
+    <description>Recent content in Regulation on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/regulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Regulatory Sandbox</title>
+      <link>http://rahulmatthan.github.io/25/january/2017/regulatory-sandbox/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/25/january/2017/regulatory-sandbox/</guid>
+      <description>&lt;p&gt;&lt;em&gt;If we can we should test the effect of new regulations in a sandboxed environment to understand what the consequences of enacting a new legislation could be. And if we do this perhaps we will be able to make our legislations a bit more precise.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The New Imperialists</title>
+      <link>http://rahulmatthan.github.io/09/november/2016/the-new-imperialists/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/09/november/2016/the-new-imperialists/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In order for new technologies to take hold we have often offered the companies that operate them special exemptions. This has allowed them to build vast commercial networks that they exert extraordinary influence over the world. These are the real imperialists and unless we remain vigilant history will repeat itself.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Regtech Will Change the Way we Regulate</title>
+      <link>http://rahulmatthan.github.io/26/october/2016/regtech-will-change-the-way-we-regulate/</link>
+      <pubDate>Wed, 26 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/26/october/2016/regtech-will-change-the-way-we-regulate/</guid>
+      <description>&lt;p&gt;&lt;em&gt;As we begin to increasingly use more and more technology for compliance we will inevitably graduate to a more proactive approach. API-driven compliance will allow regulators to directly connect to regulated entities so that relevant compliance information can be collected on a real-time basis.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

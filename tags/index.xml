@@ -17,47 +17,155 @@
     </item>
     
     <item>
-      <title>IP</title>
-      <link>http://rahulmatthan.github.io/tags/ip/</link>
+      <title>Intellectual Property</title>
+      <link>http://rahulmatthan.github.io/tags/intellectual-property/</link>
       <pubDate>Wed, 21 Dec 2022 17:17:58 +0530</pubDate>
       
-      <guid>http://rahulmatthan.github.io/tags/ip/</guid>
+      <guid>http://rahulmatthan.github.io/tags/intellectual-property/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ethics</title>
-      <link>http://rahulmatthan.github.io/tags/ethics/</link>
-      <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
+      <title>Regulation</title>
+      <link>http://rahulmatthan.github.io/tags/regulation/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://rahulmatthan.github.io/tags/ethics/</guid>
+      <guid>http://rahulmatthan.github.io/tags/regulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sharing Economy</title>
-      <link>http://rahulmatthan.github.io/tags/sharing-economy/</link>
-      <pubDate>Wed, 08 Jun 2016 17:17:58 +0530</pubDate>
+      <title>Health</title>
+      <link>http://rahulmatthan.github.io/tags/health/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://rahulmatthan.github.io/tags/sharing-economy/</guid>
+      <guid>http://rahulmatthan.github.io/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maps</title>
       <link>http://rahulmatthan.github.io/tags/maps/</link>
-      <pubDate>Mon, 16 May 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/maps/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Digital Public Infrastructure</title>
+      <link>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</link>
+      <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>http://rahulmatthan.github.io/tags/education/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://rahulmatthan.github.io/tags/privacy/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autonomous Technology</title>
+      <link>http://rahulmatthan.github.io/tags/autonomous-technology/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/autonomous-technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Governance</title>
+      <link>http://rahulmatthan.github.io/tags/data-governance/</link>
+      <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/data-governance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Payments</title>
+      <link>http://rahulmatthan.github.io/tags/payments/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/payments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Identity</title>
       <link>http://rahulmatthan.github.io/tags/identity/</link>
-      <pubDate>Thu, 24 Mar 2016 17:17:58 +0530</pubDate>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/identity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business of Law</title>
+      <link>http://rahulmatthan.github.io/tags/business-of-law/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/business-of-law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing Economy</title>
+      <link>http://rahulmatthan.github.io/tags/sharing-economy/</link>
+      <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/sharing-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>http://rahulmatthan.github.io/tags/social-media/</link>
+      <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://rahulmatthan.github.io/tags/blockchain/</link>
+      <pubDate>Wed, 13 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drones</title>
+      <link>http://rahulmatthan.github.io/tags/drones/</link>
+      <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/drones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ethics</title>
+      <link>http://rahulmatthan.github.io/tags/ethics/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/ethics/</guid>
       <description></description>
     </item>
     

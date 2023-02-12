@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Health on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/health/</link>
+    <description>Recent content in Health on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rare Diseases: Orphan Drugs</title>
+      <link>http://rahulmatthan.github.io/18/january/2017/rare-diseases-orphan-drugs/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/18/january/2017/rare-diseases-orphan-drugs/</guid>
+      <description>&lt;p&gt;&lt;em&gt;There are some diseases that afflict such a small percentage of the population that pharmaceutical companies do not have the commercial incentive to discover the drugs to cure them. Or if they do, they price it so high that it is unaffordable. We need a policy approach to ensure that orphan drugs like these get to those who need them.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cutting the Code</title>
+      <link>http://rahulmatthan.github.io/23/november/2016/cutting-the-code/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/23/november/2016/cutting-the-code/</guid>
+      <description>&lt;p&gt;&lt;em&gt;CRISPR offers us the opportunity to eliminate a number of genetic diseases that cause untold human suffering. That said, the ethics of carrying out such radical alterations to our DNA need to be considered at every step. But even so, if we have the opportunity to eliminate huma suffering are we not obliged to at least give it a shot?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quantified Self</title>
+      <link>http://rahulmatthan.github.io/19/october/2016/quantified-self/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/19/october/2016/quantified-self/</guid>
+      <description>&lt;p&gt;&lt;em&gt;As wearable devices and constant monitoring technologies change the nature of the health data we have access to there is an opportunity to change the way we think of medicine - from the ways in which we diagnose to how we treat disease. But this will require us to make changes to our regulatory frameworks around diagnosis and drug discovery.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Database of our Maladies</title>
+      <link>http://rahulmatthan.github.io/28/september/2016/database-of-our-maladies/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/28/september/2016/database-of-our-maladies/</guid>
+      <description>&lt;p&gt;&lt;em&gt;India is about to build a new healthcare data systems from scratch. This is an opportunity to make sure that we do nto make the mistakes that healthcare data systems in other countries suffer from. We should make sure that patients not only own their data within these systems, they also have access to them.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

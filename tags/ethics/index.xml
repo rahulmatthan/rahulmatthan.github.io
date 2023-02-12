@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ethics on Ex Machina</title>
+    <title>Ethics on Ex Machina</title>
     <link>http://rahulmatthan.github.io/tags/ethics/</link>
-    <description>Recent content in ethics on Ex Machina</description>
+    <description>Recent content in Ethics on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 16 Jun 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/16/june/2016/ethics-of-automation/</guid>
-      <description>All of a sudden, so many of our appliances—televisions, coffee machines, bathroom scales, light bulbs—have grown smart and integrated themselves into an enormous hive-mind that miraculously keeps us fit, our home temperatures controlled and our lives organised. It seems we are on the threshold of a new age, but even at this early stage, the enormous strains that this fundamental technological shift will place on the world, are already becoming visible.</description>
+      <description>&lt;p&gt;&lt;em&gt;We need to develop the ethical frameworks within which vehicle manufacturers should operate or else they will ensure that the parameters on which autonomous vehicles are regulated serve their own interests. Autonomous vehicles should not have to comply with laws designed for vehicles are driven by humans.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
