@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telecommunication on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/telecommunication/</link>
+    <description>Recent content in Telecommunication on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/telecommunication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Collaborative AI</title>
+      <link>http://rahulmatthan.github.io/15/march/2017/collaborative-ai/</link>
+      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/15/march/2017/collaborative-ai/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Establishing the correct model of collaboration between different profit centres can yield powerful outcomes. Many law firms have adopted the lock-step to strike a balance between agressive competitiveness and collegiate collaboration. Stock market traders have built a new system for collaboration using artificial intelligence and blockchain, that might be a model for others to follow.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FOMO and the Law</title>
+      <link>http://rahulmatthan.github.io/01/march/2017/fomo-and-the-law/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/01/march/2017/fomo-and-the-law/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Legislators cannot predict the many ways in which laws will be put to the test. And so they load statutes with open ended clauses designed to cover precisely these instances. The Other Service Provider is one such regulation. With open-ended definitions of terms like IT Enabled Services every modern business could end up being brought within the regulatory net.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space on Ex Machina</title>
+    <link>http://rahulmatthan.github.io/tags/space/</link>
+    <description>Recent content in Space on Ex Machina</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPS is a Time Machine</title>
+      <link>http://rahulmatthan.github.io/16/february/2017/gps-is-a-time-machine/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/16/february/2017/gps-is-a-time-machine/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Today most of the systems that we rely on across all walks of life rely on the ability to accurately synchronise time across a range of different sub-systems. Most such applications rely on the precision of GPS based time. But since the US controls all of the GPS satellites the rest of the world is beholden to it in ways we do not really fathom.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
