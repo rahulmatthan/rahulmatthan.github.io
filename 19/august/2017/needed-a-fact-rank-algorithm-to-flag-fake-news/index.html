@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Needed: A Fact Rank Algorithm to Flag Fake News - Ex Machina</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:title" content="Needed: A Fact Rank Algorithm to Flag Fake News" />
+<meta property="og:description" content="Historically, false news has influenced major events, from anti-Semitic libels to the Spanish-American War. With the rise of social media, exposure to unregulated, biased news has increased, exploiting human tendencies like implicit and confirmation biases. This creates echo chambers, reinforcing beliefs without exposure to differing views. The evolution of fake news now includes realistic audio and potential video fabrications. Addressing this, technology, not regulation, might offer solutions, such as a &ldquo;FactRank&rdquo; algorithm to assess news accuracy, akin to Google&rsquo;s PageRank for search results." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://rahulmatthan.github.io/19/august/2017/needed-a-fact-rank-algorithm-to-flag-fake-news/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2017-08-19T00:00:00+00:00" />
+<meta property="article:modified_time" content="2017-08-19T00:00:00+00:00" />
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Ex Machina" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/images/exmachina.jpg">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Ex Machina</div>
+					<div class="logo__tagline">Law. Technology. Society.</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/books/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Books</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/podcast/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Podcast</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Needed: A Fact Rank Algorithm to Flag Fake News</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2017-08-19T00:00:00Z">August 19, 2017</time></div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p><em>Historically, false news has influenced major events, from anti-Semitic libels to the Spanish-American War. With the rise of social media, exposure to unregulated, biased news has increased, exploiting human tendencies like implicit and confirmation biases. This creates echo chambers, reinforcing beliefs without exposure to differing views. The evolution of fake news now includes realistic audio and potential video fabrications. Addressing this, technology, not regulation, might offer solutions, such as a &ldquo;FactRank&rdquo; algorithm to assess news accuracy, akin to Google&rsquo;s PageRank for search results.</em></p>
+<p><em>This article was first published in The Mint. You can read the original at <a href="https://www.livemint.com/Opinion/NvmUUoong1b2xYk9KGeFvI/Needed-A-FactRank-algorithm-to-flag-fake-news.html">this link</a>.</em></p>
+<hr>
+<p>David Mamet’s 1998 black comedy, Wag the Dog, introduced us to the behind-the-scenes world of political spin doctors—and showed us how easy it is to fabricate a war if one wants to divert attention away from a presidential scandal. At the time, the movie seemed like an improbable fantasy. Two decades on, it feels almost prophetic.</p>
+<p>To be fair, the practice of creating false news stories is as old as time. Rumours about Jews and their habit of drinking the blood of young children contributed significantly to their persecution over the centuries—even though this “blood libel&quot; was roundly denounced by no less eminent a personality than the pope himself. Paris, during the French Revolution, was flooded with pamphlets that provided uncorroborated details of the precarious financial situation of the government that led, at least in part, to the uprising. The explosion that sank the USS Maine, was never proved to be anything more than an accident, but was still spun by the US press into evidence of Spanish aggression in order to force the American government into the Spanish-American war.</p>
+<p>It was largely in response to stories like these, published as they were without care to establish the unbiased facts, that journalists agreed to regulate themselves according to a code of ethics designed to ensure accuracy in reporting and eliminate bias. It is why we can afford to operate under the reasonable expectation that the news we read will be accurate and balanced. However, as we start to get more of our news from social media, we increase our exposure to news produced by entities that do not operate under the same ethical constraints.</p>
+<p>Behavioural economics suggests that the reason we fall for fake news is because these stories are designed to simultaneously play to our susceptibility to implicit bias as well as confirmation bias. Implicit bias is the human tendency to lump people together into categories of us and them where we implicitly trust members of our own group and distrust all those who are not. Confirmation bias, on the other hand, is our increased willingness to accept information that confirms what we already believe.</p>
+<p>When both these biases are operating together, we are doubly vulnerable. Implicit bias makes us view those of our own group more positively. It consequently makes us insulate ourselves from the views of those outside our circle. Since everyone in our group, by definition, shares our beliefs, the “facts&quot; that they share with us tend to “confirm&quot; our beliefs—and in turn our biases. This is a powerful feedback loop that, if allowed to perpetuate unchecked, forces us into an artificial bubble where we are not exposed to any views other than our own.</p>
+<p>Social media has the ability to amplify this feedback loop—often without our knowledge. In the attention economy, internet companies are incentivised to expose us to as many people from “our group&quot; as possible to improve our experience on the platform. As a result, we only ever hear news that other like-minded people discuss and consequently become increasingly oblivious of the views and perspectives of anyone else. News reports that these people share tends to confirm our existing beliefs and, thanks to confirmation bias, we tend to believe them more wholeheartedly. Social media gives us the insights necessary to divide people by their beliefs so that we can design and selectively distribute fake news to play to our implicit and confirmation biases, so that the news itself is unquestioningly accepted as true.</p>
+<p>The impact of fake news is evident all around us. Elections around the world have been won and lost because of it. But so far, all fake news stories have been text-based —which is the very tip of the iceberg.</p>
+<p>Audio sampling software already allows us to accurately sample individual voices and speech mannerisms so as to be able to realistically fabricate whole conversations where none existed—to the point where it is impossible to tell that the conversation never took place. Given the extent to which CGI is already incorporated into films, the falsification of video evidence must be following fast on its heels.</p>
+<p>We need new tools to deal with fake news. Unlike mainstream news, I believe it will be impossible to satisfactorily regulate these technologies so that we can be assured of the veracity of the news we’re reading. Instead, I believe we must use technology to solve this problem.</p>
+<p>We can for instance, draw inspiration from Google’s PageRank algorithm that ranks search results based on the pages that are linked to it.</p>
+<p>We could, along these lines, devise an algorithm that ranks an item of news based on how accurately it represents the unbiased facts. This “FactRank&quot; algorithm could apply across platforms, finally offering us the ability to identify the fake news from the real.</p>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/social-media/" rel="tag">Social Media</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Rahul Matthan avatar" src="/images/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Rahul Matthan</span>
+	</div>
+	<div class="authorbox__description">
+		Rahul Matthan is a lawyer who works at the intersection of law, technology and society.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/16/august/2017/the-robots-are-taking-our-jobs/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">The robots are taking our jobs</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/23/august/2017/breaking-down-data-silos/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Breaking Down Data Silos</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2023 Ex Machina.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

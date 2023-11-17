@@ -6,14 +6,241 @@
     <description>Recent content in Data Governance on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Sep 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/data-governance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/data-governance/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Algorithmic Oversight</title>
-      <link>http://rahulmatthan.github.io/21/september/2016/algorithmic-oversight/</link>
-      <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+      <title>Asymmetry</title>
+      <link>http://rahulmatthan.github.io/04/october/2022/asymmetry/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://rahulmatthan.github.io/21/september/2016/algorithmic-oversight/</guid>
-      <description>&lt;p&gt;&lt;em&gt;It is next to impossible to avoid the increasing personalisation of the internet. As more and more businesses look to understand their client better by personalising their services to them lawmakers have begun to look into the consequences of these actions. Could we develop software solutions for regulatory oversight so that we fight fire with fire?&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://rahulmatthan.github.io/04/october/2022/asymmetry/</guid>
+      <description>Data asymmetry allows those with access to large data sets to gain insights that can be used for various purposes, including manipulation. Solutions like India&amp;rsquo;s DEPA framework aim to reduce this asymmetry. However, challenges remain in knowledge and intelligence asymmetry, requiring democratisation of data science techniques and addressing biases in AI algorithms.
+This article was first published in The Mint. You can read the original at this link.
+Anyone who possesses a large enough store of data can reasonably expect to glean powerful insights from it.</description>
+    </item>
+    
+    <item>
+      <title>Data Breach Notifications</title>
+      <link>http://rahulmatthan.github.io/10/may/2022/data-breach-notifications/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/10/may/2022/data-breach-notifications/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In India, the absence of comprehensive privacy law has led to over-reliance on CERT-In Rules, 2013, for data breach guidance. Recent directions by the Ministry of Electronics and Information Technology has expanded mandatory reporting requirements, raising concerns about inundating CERT-In with trivial incidents and, as a result, hindering its ability to respond to serious breaches.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Unfulfilled Promise</title>
+      <link>http://rahulmatthan.github.io/19/april/2022/the-unfulfilled-promise/</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/19/april/2022/the-unfulfilled-promise/</guid>
+      <description>&lt;p&gt;&lt;em&gt;John Perry Barlow&amp;rsquo;s 1996 &amp;ldquo;A Declaration of the Independence of Cyberspace&amp;rdquo; argued for internet exceptionalism, where the online world would be free from real-world regulations. This belief shaped the liberal terms of service on websites, but with the internet&amp;rsquo;s growth and concentration in the hands of dominant platforms, the enforcement of these terms has led to serious global consequences. Barlow&amp;rsquo;s vision of a more humane online civilization may have been overly optimistic.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>National Priorities</title>
+      <link>http://rahulmatthan.github.io/05/april/2022/national-priorities/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/05/april/2022/national-priorities/</guid>
+      <description>&lt;p&gt;&lt;em&gt;European negotiators have agreed on the Digital Markets Act, a law aimed at regulating dominant platforms in Europe. A key focus appears to be interoperability, particularly among messaging platforms. While it is intended to increase competition, mandatory interoperability may degrade privacy and create conflicts with global technology platforms&amp;rsquo; policies.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Global Data Stability</title>
+      <link>http://rahulmatthan.github.io/08/march/2022/global-data-stability/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/08/march/2022/global-data-stability/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We can have a new international approach to data governance that draws inspiration from the Bretton Woods Agreement. This would call for the creation of a global alliance with a commitment to data protection as well as a Data Stability Board to coordinate regulatory dialogue, aiming for harmonization and interoperability in global data governance.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Different Strokes</title>
+      <link>http://rahulmatthan.github.io/01/march/2022/different-strokes/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/01/march/2022/different-strokes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;There are divergent approaches to data regulation across the US, China, and Europe. The US has a laissez-faire approach, China tends to be oriented towards state-centric control, and Europe is overtly rights-based. The growing schisms between these approaches are causing fragmentation, leading to a call for a common ground in global data governance.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Autocracy or Vetocracy</title>
+      <link>http://rahulmatthan.github.io/15/february/2022/autocracy-or-vetocracy/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/15/february/2022/autocracy-or-vetocracy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Francis Fukuyama coined the term &amp;ldquo;vetocracy&amp;rdquo; to describe a gridlocked decision-making system where individuals can prevent policy implementation through vetoes. But while the physical world may suffer from excessive vetocracy, the digital sphere often leans towards autocracy. We need a balance between these two extremes and that is even more important in the context of India&amp;rsquo;s digital infrastructure. Vetocratic processes can be used to protect core principles, while maintaining flexibility to foster innovation.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smart Regulation</title>
+      <link>http://rahulmatthan.github.io/15/december/2021/smart-regulation/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/15/december/2021/smart-regulation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;There is a growing recognition of the fact that we can use technology tools to make our regulations smarter. There are 2 categories of tools to do this. The first gives users more control over what can be done with their data by placing data in pods and only allowing them to be accessed in accordance with the privacy management protocols. The second unlocks data silos allowing data to move between them with the consent of the user. While these tools seem contradictory they operate at opposite ends of the data spectrum can can be combined to augment statutory frameworks.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Predicting the Future</title>
+      <link>http://rahulmatthan.github.io/17/november/2021/predicting-the-future/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/17/november/2021/predicting-the-future/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The fictional science of psychohistory is predicated on the proposition that while human behaviour is erratic in isolation, when aggregated to population scale it becomes predictable. Today we use big data to predict customer behaviour and third wave economics uses real-time data to solve real world problems. In time this will allow us to understand the steps we need to take to shape desirable outcomes.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>To Forget or Not to Forget...</title>
+      <link>http://rahulmatthan.github.io/11/august/2021/to-forget-or-not-to-forget.../</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/11/august/2021/to-forget-or-not-to-forget.../</guid>
+      <description>&lt;p&gt;&lt;em&gt;On the one hand the internet is so good at remembering things that we have to create legal frameworks to force it to forget. On the other hand, in those instances where we expect the internet to remember things in the same way we used to rely on libraries link-rot and content-drift has resulted in valuable information no longer being traceable.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A New Westphalia</title>
+      <link>http://rahulmatthan.github.io/11/may/2021/a-new-westphalia/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/11/may/2021/a-new-westphalia/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The concept of a sovereign nation-state grew out of the Treaty of Westphalia that established the absolute authority of a sovereign power over its territory. Technology compresses distances and helped improve control over the far flung regions of nation-states. The internet compressed distances even more. This coupled with globalisation has challenged the concept of sovereignty. Nations have opposed this with data localisation laws and slowly big tech companies are agreeing to be bound by concepts of regional sovereignty.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Subscription Economy</title>
+      <link>http://rahulmatthan.github.io/23/march/2021/the-subscription-economy/</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/23/march/2021/the-subscription-economy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;When measures being put in place to prevent third-party cookies from tracking individuals across the internet, companies that relied on these cookies to deliver personalised services had to find workarounds. Privacy activists are concerned that all this does is concentrate power in the hands of fewer gatekeepers. We can use this opportunity to move away from advertising as the business model for the internet and explore the subscription model.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Age Gating</title>
+      <link>http://rahulmatthan.github.io/09/march/2021/age-gating/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/09/march/2021/age-gating/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Nowhere in the world have age verification obligations been imposed on online services like in India&amp;rsquo;s data protection law. Requiring users to prove their identity before the link they have clicked on can open will break the internet. Requiring children to get parental consent is not necessarily a good thing as parents often have a lesser understanding of privacy risk than their children who are digital natives. Instead we should hold platforms accountable for harms caused to children.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data is not the New Oil</title>
+      <link>http://rahulmatthan.github.io/12/january/2021/data-is-not-the-new-oil/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/12/january/2021/data-is-not-the-new-oil/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Data is not the new oil. It is infinite and unconstrained by geography. It is not destroyed when it is consumed and can be used simultaneously or repeatedly without degradation in quality. Countries should not try to regulate data like they regulate oil - by bringing it under their physical control. They should not only try and force big tech to share the datasets they have created, but also make the effort to learn what it takes to build datasets of our own—and then go about building them relevant to our context.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contract as Code</title>
+      <link>http://rahulmatthan.github.io/10/november/2020/contract-as-code/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/10/november/2020/contract-as-code/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Lawrence Lessig was the first person to come up wtih the idea of regulating the Internet through code, suggesting that restrictions on digital platforms could be implemented through code. This approach, that could streamline complex, multi-party transactions, make them scalable and reduce the risk of non-performance is an idea whose time has come.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why community data trustees should also be regulated</title>
+      <link>http://rahulmatthan.github.io/15/july/2020/why-community-data-trustees-should-also-be-regulated/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/15/july/2020/why-community-data-trustees-should-also-be-regulated/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The first draft report of India&amp;rsquo;s Non-Personal Data Committee suggests democratizing data and introducing a new category of data principal - the community. However, absent guidelines for data trusts, the potential risks of politicization and favoritism within community action groups could result in potential misuse.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>An opportunity lost for an internet we could all rely on</title>
+      <link>http://rahulmatthan.github.io/27/may/2020/an-opportunity-lost-for-an-internet-we-could-all-rely-on/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/27/may/2020/an-opportunity-lost-for-an-internet-we-could-all-rely-on/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In times of uncertainty - such as during a pandemic, conspiracy theories abound. This gives lie to the notion that free speech ensures that truth will prevail. Since the internet lacks bi-directional links and user-editable pages, its design contributes to misinformation spread, unlike Wikipedia&amp;rsquo;s more reliable, interconnected model.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>We need greater clarity on internet freedom in India</title>
+      <link>http://rahulmatthan.github.io/15/january/2020/we-need-greater-clarity-on-internet-freedom-in-india/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/15/january/2020/we-need-greater-clarity-on-internet-freedom-in-india/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The Supreme Court of India&amp;rsquo;s recent judgment on internet shutdowns was initially seen as a strong denouncement, but closer examination reveals it&amp;rsquo;s not an outright condemnation. While emphasizing that shutdowns must be reasonable and proportionate, the court did not elevate internet access to a fundamental right, nor did it provide a clear ruling on the constitutionality of internet shutdowns.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>We may need a whole new approach to data protection</title>
+      <link>http://rahulmatthan.github.io/09/october/2019/we-may-need-a-whole-new-approach-to-data-protection/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/09/october/2019/we-may-need-a-whole-new-approach-to-data-protection/</guid>
+      <description>&lt;p&gt;&lt;em&gt;There is a tension between data collectors and data subjects regarding ownership and value of their data. WHile traditional ownership concepts have not really succeeded when it comes to data regulation, contained within the idea of either collector-centric or subject-centric  data trusts we might find an alternative approach to data governance.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Agility should characterize the future of governance</title>
+      <link>http://rahulmatthan.github.io/02/october/2019/agility-should-characterize-the-future-of-governance/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/02/october/2019/agility-should-characterize-the-future-of-governance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Agile governance, essential for managing rapid technological change and global scale of new technologies, involves systems thinking and design thinking for policy-making. It emphasizes multi-stakeholder participation, regulatory sandboxes for controlled experimentation, and data sharing for efficient regulation. India, with its digital public infrastructure, is well-positioned to lead in this agile governance approach.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>We need a cost-benefit analysis of data localization</title>
+      <link>http://rahulmatthan.github.io/31/july/2019/we-need-a-cost-benefit-analysis-of-data-localization/</link>
+      <pubDate>Wed, 31 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/31/july/2019/we-need-a-cost-benefit-analysis-of-data-localization/</guid>
+      <description>&lt;p&gt;&lt;em&gt;India&amp;rsquo;s draft Personal Data Protection Bill has sparked debate over data localization, with the government insisting on processing personal data within the country. Unlike other nations that restrict data transfers, India has made localization the default, an approach seen as out of character with its global trade stance.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why shutting down the internet is no longer an option</title>
+      <link>http://rahulmatthan.github.io/29/may/2019/why-shutting-down-the-internet-is-no-longer-an-option/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/29/may/2019/why-shutting-down-the-internet-is-no-longer-an-option/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The McKinsey Digital India Report highlights India&amp;rsquo;s rapid digitization. With 560 million internet subscribers, it is second only to China. Despite a low Country Digital Adoption Index score of 32, India is digitizing faster than most countries - all the more reason for there to be fewer internet shutdowns.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Skinny Solstice</title>
+      <link>http://rahulmatthan.github.io/10/january/2018/skinny-solstice/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/10/january/2018/skinny-solstice/</guid>
+      <description>&lt;p&gt;&lt;em&gt;There is value in large datasets that reveal statistically relevant insights - such as trends in fast food visits or sleep patterns. This is relevant to India&amp;rsquo;s growing data economy given the potential to use aggregated anonymous data to make informed decisions. We need to implement privacy by design, and for that organizations need to de-identify personal information to prevent potential harm if the data is lost or stolen.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Recommendation engines</title>
+      <link>http://rahulmatthan.github.io/25/october/2017/recommendation-engines/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/25/october/2017/recommendation-engines/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Algorithms in streaming services and e-book libraries curate content based on individual preferences, often with impressive accuracy. However, the downside to this is the eventual homogenization of content. By continually reinforcing original preferences, the algorithms can lead to a lack of diversity in the content presented. We need to seek out new and different content, recognizing that while algorithms are powerful tools, they have limitations. They are only as good as the data they&amp;rsquo;ve been trained on, and without regular updates to keep them fresh and relevant, they can become restrictive rather than expansive in their recommendations.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Big Bad Data</title>
+      <link>http://rahulmatthan.github.io/11/january/2017/big-bad-data/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/11/january/2017/big-bad-data/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Statistician Fredrick Hoffman, known for identifying health risks like asbestos and tobacco, is also remembered for his flawed 1896 study claiming African Americans were inherently sicker than whites. This study, influenced by prejudice, had lasting negative impacts. As we increasingly rely on data and predictive algorithms, it&amp;rsquo;s crucial to avoid such biases and ensure fair, accurate interpretations to prevent perpetuating discrimination and injustice.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The New Imperialists</title>
+      <link>http://rahulmatthan.github.io/09/november/2016/the-new-imperialists/</link>
+      <pubDate>Wed, 09 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/09/november/2016/the-new-imperialists/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Europe supplanted Asian dominance in the 1700s, thanks to the European discovery of ignorance and its subsequent pursuit of knowledge. There are parallels between this and today&amp;rsquo;s technological revolution, where virtual networks and global corporations have created a new form of influence, that are a modern form of colonization.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -22,7 +249,7 @@
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/09/september/2016/data-is-a-capital-asset/</guid>
-      <description>&lt;p&gt;&lt;em&gt;The insights we derive from data could help with governance in new and interesting ways. While they are already being used to predict crime what if instead of forcing companies and businesses to report their compliance, governments use data insights to predict it.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Data is a critical capital asset, driving major business transformations. Industries from retail to transportation are adopting data-driven strategies, with sensor technology and analytics optimizing performance and service. Governments are recognizing data&amp;rsquo;s value in smart city development and predictive policing, suggesting a future where data not only informs decisions but also automates regulatory compliance, potentially revolutionizing governance and business operations.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
