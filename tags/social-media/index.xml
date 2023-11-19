@@ -6,7 +6,25 @@
     <description>Recent content in Social Media on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sufficient Decentralisation</title>
+      <link>http://rahulmatthan.github.io/07/december/2022/sufficient-decentralisation/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/07/december/2022/sufficient-decentralisation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We need to think about creating &amp;ldquo;sufficiently decentralized&amp;rdquo; social networks. While decentralization offers more control to users, it has drawbacks - such as non-unique usernames across the network. If we can use smart contracts to create a decentralized name registry we might be able to balance user control and functionality, and create a more user-empowered internet.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Federated Social Media</title>
+      <link>http://rahulmatthan.github.io/16/november/2022/federated-social-media/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/16/november/2022/federated-social-media/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Elon Musk&amp;rsquo;s takeover of Twitter has reignited debates on content moderation and free speech. But today it is not content that is the challenge but context. We need to move from centralized platforms to federated, protocol-based networks, allowing user-controlled, context-sensitive conversations. This is a model already successful in India&amp;rsquo;s digital public infrastructure. digital public infrastructure content moderation context data governance.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Context is King</title>
       <link>http://rahulmatthan.github.io/03/may/2022/context-is-king/</link>

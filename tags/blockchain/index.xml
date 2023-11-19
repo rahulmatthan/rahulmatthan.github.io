@@ -6,7 +6,34 @@
     <description>Recent content in Blockchain on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proof of Humanness</title>
+      <link>http://rahulmatthan.github.io/23/august/2023/proof-of-humanness/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/23/august/2023/proof-of-humanness/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Worldcoin has been designed to address the concern that in a world saturated with artificial intelligence we are going to need a proof of humanness. As true as that might be, I believe we need to go much further. And also tackle truth in content.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Unified Ledger</title>
+      <link>http://rahulmatthan.github.io/01/march/2023/the-unified-ledger/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/01/march/2023/the-unified-ledger/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Central Bank Digital Currencies (CBDCs) and the tokenization of private money deposits could revolutionize the financial system. Agustin Carstens suggests a unified digital ledger for both public and private digital money, enabling efficiencies like smart contracts and instant settlements. This approach could extend to tokenizing various assets, transforming governance by embedding compliance within transactions.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sufficient Decentralisation</title>
+      <link>http://rahulmatthan.github.io/07/december/2022/sufficient-decentralisation/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/07/december/2022/sufficient-decentralisation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We need to think about creating &amp;ldquo;sufficiently decentralized&amp;rdquo; social networks. While decentralization offers more control to users, it has drawbacks - such as non-unique usernames across the network. If we can use smart contracts to create a decentralized name registry we might be able to balance user control and functionality, and create a more user-empowered internet.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>A New Digital Coin</title>
       <link>http://rahulmatthan.github.io/12/july/2022/a-new-digital-coin/</link>

@@ -6,7 +6,16 @@
     <description>Recent content in Payments on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/payments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/payments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Unified Ledger</title>
+      <link>http://rahulmatthan.github.io/01/march/2023/the-unified-ledger/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/01/march/2023/the-unified-ledger/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Central Bank Digital Currencies (CBDCs) and the tokenization of private money deposits could revolutionize the financial system. Agustin Carstens suggests a unified digital ledger for both public and private digital money, enabling efficiencies like smart contracts and instant settlements. This approach could extend to tokenizing various assets, transforming governance by embedding compliance within transactions.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>The Micropayment Alternative</title>
       <link>http://rahulmatthan.github.io/28/july/2021/the-micropayment-alternative/</link>

@@ -6,7 +6,16 @@
     <description>Recent content in E-Commerce on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Governance Module</title>
+      <link>http://rahulmatthan.github.io/20/september/2023/the-governance-module/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/20/september/2023/the-governance-module/</guid>
+      <description>&lt;p&gt;&lt;em&gt;As more and more of our transactions take place within environments that are digital from end-to-end, the easier it is for us to embed regulations directly into the code that these environments are made of. To do that we will need to build governance modules into our digital public infrastructure.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Unpacking the Retail Stack</title>
       <link>http://rahulmatthan.github.io/23/september/2021/unpacking-the-retail-stack/</link>

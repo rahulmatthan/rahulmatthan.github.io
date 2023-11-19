@@ -6,7 +6,25 @@
     <description>Recent content in Content Moderation on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/content-moderation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/content-moderation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moderating Systems</title>
+      <link>http://rahulmatthan.github.io/10/may/2023/moderating-systems/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/10/may/2023/moderating-systems/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Content moderation challenges arise from the vast volume of online content and diverse user beliefs. Current moderation uses automated tools and human moderators, but both have flaws. Evelyn Douek suggests a &amp;ldquo;systems thinking&amp;rdquo; approach, focusing on systemic solutions rather than individual errors. As India drafts the Digital India Act, a shift towards addressing systemic issues in content moderation is essential.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dis-Content</title>
+      <link>http://rahulmatthan.github.io/22/february/2023/dis-content/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/22/february/2023/dis-content/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In the early internet era, websites were liable for third-party content, leading to legal challenges. US Section 230 was introduced, protecting online platforms from being treated as publishers for user-generated content. However, in Gonzales vs. Google, YouTube&amp;rsquo;s recommendation algorithms are under scrutiny, potentially redefining Section 230&amp;rsquo;s protections. The decision could reshape online content moderation globally.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Appealing Moderation</title>
       <link>http://rahulmatthan.github.io/14/june/2022/appealing-moderation/</link>

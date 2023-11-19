@@ -6,20 +6,20 @@
     <description>Recent content in Tags on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Climate Change</title>
-      <link>http://rahulmatthan.github.io/tags/climate-change/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <title>Digital Public Infrastructure</title>
+      <link>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://rahulmatthan.github.io/tags/climate-change/</guid>
+      <guid>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence</title>
       <link>http://rahulmatthan.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/artificial-intelligence/</guid>
       <description></description>
@@ -28,7 +28,7 @@
     <item>
       <title>Regulation</title>
       <link>http://rahulmatthan.github.io/tags/regulation/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/regulation/</guid>
       <description></description>
@@ -37,45 +37,144 @@
     <item>
       <title>Data Governance</title>
       <link>http://rahulmatthan.github.io/tags/data-governance/</link>
-      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/data-governance/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Telecommunication</title>
-      <link>http://rahulmatthan.github.io/tags/telecommunication/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <title>E-Commerce</title>
+      <link>http://rahulmatthan.github.io/tags/e-commerce/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://rahulmatthan.github.io/tags/telecommunication/</guid>
+      <guid>http://rahulmatthan.github.io/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://rahulmatthan.github.io/tags/blockchain/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity</title>
+      <link>http://rahulmatthan.github.io/tags/identity/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/identity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy</title>
       <link>http://rahulmatthan.github.io/tags/privacy/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Innovation</title>
-      <link>http://rahulmatthan.github.io/tags/innovation/</link>
-      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <title>Health</title>
+      <link>http://rahulmatthan.github.io/tags/health/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://rahulmatthan.github.io/tags/innovation/</guid>
+      <guid>http://rahulmatthan.github.io/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competition</title>
+      <link>http://rahulmatthan.github.io/tags/competition/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://rahulmatthan.github.io/tags/technology/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport</title>
+      <link>http://rahulmatthan.github.io/tags/transport/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content Moderation</title>
+      <link>http://rahulmatthan.github.io/tags/content-moderation/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/content-moderation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Payments</title>
+      <link>http://rahulmatthan.github.io/tags/payments/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/payments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intellectual Property</title>
       <link>http://rahulmatthan.github.io/tags/intellectual-property/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/intellectual-property/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telecommunication</title>
+      <link>http://rahulmatthan.github.io/tags/telecommunication/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/telecommunication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>http://rahulmatthan.github.io/tags/innovation/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/innovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>http://rahulmatthan.github.io/tags/social-media/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Change</title>
+      <link>http://rahulmatthan.github.io/tags/climate-change/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/climate-change/</guid>
       <description></description>
     </item>
     
@@ -89,56 +188,11 @@
     </item>
     
     <item>
-      <title>Blockchain</title>
-      <link>http://rahulmatthan.github.io/tags/blockchain/</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/blockchain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Business of Law</title>
       <link>http://rahulmatthan.github.io/tags/business-of-law/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/business-of-law/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Content Moderation</title>
-      <link>http://rahulmatthan.github.io/tags/content-moderation/</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/content-moderation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Media</title>
-      <link>http://rahulmatthan.github.io/tags/social-media/</link>
-      <pubDate>Tue, 03 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transport</title>
-      <link>http://rahulmatthan.github.io/tags/transport/</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/transport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Digital Public Infrastructure</title>
-      <link>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</guid>
       <description></description>
     </item>
     
@@ -161,38 +215,11 @@
     </item>
     
     <item>
-      <title>Health</title>
-      <link>http://rahulmatthan.github.io/tags/health/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>E-Commerce</title>
-      <link>http://rahulmatthan.github.io/tags/e-commerce/</link>
-      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/e-commerce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gaming</title>
       <link>http://rahulmatthan.github.io/tags/gaming/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Payments</title>
-      <link>http://rahulmatthan.github.io/tags/payments/</link>
-      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/payments/</guid>
       <description></description>
     </item>
     
@@ -215,29 +242,11 @@
     </item>
     
     <item>
-      <title>Technology</title>
-      <link>http://rahulmatthan.github.io/tags/technology/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Future of Work</title>
       <link>http://rahulmatthan.github.io/tags/future-of-work/</link>
       <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/future-of-work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Competition</title>
-      <link>http://rahulmatthan.github.io/tags/competition/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/competition/</guid>
       <description></description>
     </item>
     
@@ -328,15 +337,6 @@
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/environment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identity</title>
-      <link>http://rahulmatthan.github.io/tags/identity/</link>
-      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/identity/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,61 @@
     <description>Recent content in Data Governance on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/data-governance/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/data-governance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A New Delhi Effect</title>
+      <link>http://rahulmatthan.github.io/25/october/2023/a-new-delhi-effect/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/25/october/2023/a-new-delhi-effect/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The &amp;ldquo;Brussels Effect&amp;rdquo; is the phenomenon where other countries adopt regulation similar to the EU&amp;rsquo;s and as a result ends up extending Europe&amp;rsquo;s regulatory dominance. However, regulations like the GDPR have faced criticism for its burdensome compliance requirements. India&amp;rsquo;s DPI approach offers a new data governance model. But in order for this approach to be globally successful, strong regulatory institutions and a commitment to techno-legal governance are necessary.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Third Way</title>
+      <link>http://rahulmatthan.github.io/18/october/2023/the-third-way/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/18/october/2023/the-third-way/</guid>
+      <description>&lt;p&gt;&lt;em&gt;There is a commonly held belief that there are basically three different approaches when it comes to data governance - the US, the Chinese and the European. But both the US and China leave regulation in the hands of technology companies - while the EU imposes regulations that these companies need to comply with. The middle path is the Indian techno-legal approach.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Designing Data Governance</title>
+      <link>http://rahulmatthan.github.io/29/march/2023/designing-data-governance/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/29/march/2023/designing-data-governance/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Data governance faces challenges in enforcement due to businesses seeking ways around regulations to maximise data usage. Traditional laws are often outpaced by evolving business practices. The &amp;ldquo;Privacy by Design&amp;rdquo; concept embeds privacy into technology design, but its success depends on businesses&amp;rsquo; willingness to adopt it. India&amp;rsquo;s techno-legal approach, emphasising interoperability, federation, and protocol-based design in its digital public infrastructure, offers a model for embedding regulatory principles directly into technology, ensuring more effective data governance.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Breach</title>
+      <link>http://rahulmatthan.github.io/30/november/2022/data-breach/</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/30/november/2022/data-breach/</guid>
+      <description>&lt;p&gt;&lt;em&gt;India&amp;rsquo;s new draft data protection law mandates that data fiduciaries must notify affected individuals and the Data Protection Board of a breach, but it lacks specifics as to timelines or remedial actions. I worry that over-reporting minor incidents could lead to public desensitization, and would have preferred a more balanced approach that only requires notification of only the most high-risk breaches, similar to the European GDPR.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Exceptionally Simple</title>
+      <link>http://rahulmatthan.github.io/24/november/2022/exceptionally-simple/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/24/november/2022/exceptionally-simple/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The new draft of India&amp;rsquo;s digital data protection bill is praised for its simplicity and relatability, although it has raised concerns for its lack of detail and government exemptions. The draft also misses key concepts like data portability and uses non-standard terminology.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Personal Data Protection</title>
+      <link>http://rahulmatthan.github.io/23/november/2022/digital-personal-data-protection/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/23/november/2022/digital-personal-data-protection/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The latest draft of India&amp;rsquo;s Digital Data Protection Bill, 2022, stands out for its simplicity and new concepts like &amp;ldquo;voluntary undertaking&amp;rdquo; and official recognition of &amp;ldquo;consent managers.&amp;rdquo; However, it omits features like data portability and the right to be forgotten. Critics argue the draft lacks safeguards and over-delegates legislative authority, particularly around the concept of &amp;ldquo;deemed consent.&amp;rdquo; But the principles-based approach it espouses could ensure agile and enduring data protection regulation.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Asymmetry</title>
       <link>http://rahulmatthan.github.io/04/october/2022/asymmetry/</link>
