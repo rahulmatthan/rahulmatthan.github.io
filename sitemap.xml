@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/13/12/2023/ai-for-the-global-south/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/06/12/2023/human-writing/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2023-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/06/12/2023/human-writing/</loc>
     <lastmod>2023-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/29/11/2023/governing-the-governors/</loc>
@@ -46,6 +49,9 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/11/10/2023/no-time-for-false-modesty/</loc>
     <lastmod>2023-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
+    <lastmod>2023-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/04/10/2023/solar-geoengineering/</loc>
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
@@ -223,9 +229,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/09/11/2022/data-governance-the-dpi-way/</loc>
     <lastmod>2022-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/25/10/2022/green-fuel/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
