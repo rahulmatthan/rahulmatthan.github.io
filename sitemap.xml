@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/telecommunication/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/20/12/2023/the-big-telecom-reform/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/13/12/2023/ai-for-the-global-south/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2023-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2023-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/06/12/2023/human-writing/</loc>
@@ -195,9 +201,6 @@
     <lastmod>2023-01-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/28/12/2022/looking-back/</loc>
-    <lastmod>2022-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/telecommunication/</loc>
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/21/12/2022/idea-factories/</loc>
