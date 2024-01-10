@@ -37,7 +37,10 @@
       <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/29/03/2023/designing-data-governance/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Data governance faces challenges in enforcement due to businesses seeking ways around regulations to maximise data usage. Traditional laws are often outpaced by evolving business practices. The &amp;ldquo;Privacy by Design&amp;rdquo; concept embeds privacy into technology design, but its success depends on businesses&amp;rsquo; willingness to adopt it. India&amp;rsquo;s techno-legal approach, emphasising interoperability, federation, and protocol-based design in its digital public infrastructure, offers a model for embedding regulatory principles directly into technology, ensuring more effective data governance.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/designing-data-governance.png&#34; width=&#34;auto&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;Data governance faces challenges in enforcement due to businesses seeking ways around regulations to maximise data usage. Traditional laws are often outpaced by evolving business practices. The &amp;ldquo;Privacy by Design&amp;rdquo; concept embeds privacy into technology design, but its success depends on businesses&amp;rsquo; willingness to adopt it. India&amp;rsquo;s techno-legal approach, emphasising interoperability, federation, and protocol-based design in its digital public infrastructure, offers a model for embedding regulatory principles directly into technology, ensuring more effective data governance.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/health/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/10/01/2024/micro-robots/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/intellectual-property/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/03/01/2024/nyt-v.-the-llms/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
@@ -103,9 +109,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/08/08/2023/the-business-end-of-the-dpdp-act/</loc>
     <lastmod>2023-08-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/health/</loc>
-    <lastmod>2023-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/02/08/2023/studying-human-infection/</loc>
     <lastmod>2023-08-02T00:00:00+00:00</lastmod>
