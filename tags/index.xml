@@ -6,7 +6,16 @@
     <description>Recent content in Tags on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Governance</title>
+      <link>http://rahulmatthan.github.io/tags/data-governance/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/tags/data-governance/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Health</title>
       <link>http://rahulmatthan.github.io/tags/health/</link>
@@ -58,15 +67,6 @@
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>http://rahulmatthan.github.io/tags/regulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Governance</title>
-      <link>http://rahulmatthan.github.io/tags/data-governance/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://rahulmatthan.github.io/tags/data-governance/</guid>
       <description></description>
     </item>
     

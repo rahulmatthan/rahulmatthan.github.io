@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/17/01/2024/the-zone-of-mischief/</loc>
+    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/health/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/10/01/2024/micro-robots/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
@@ -60,9 +66,6 @@
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/25/10/2023/a-new-delhi-effect/</loc>
-    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/18/10/2023/the-third-way/</loc>
