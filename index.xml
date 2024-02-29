@@ -6,7 +6,31 @@
     <description>Recent content on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning from Failure</title>
+      <link>http://rahulmatthan.github.io/29/02/2024/learning-from-failure/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/29/02/2024/learning-from-failure/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/ser.jpg&#34; width=&#34;auto&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;We need to encourage a culture of failure around AI so that when it fails we can understand why and disseminate those learnings throughout the industry. It is only when we can fail without fear that we will learn to do what it takes to build safe AI systems.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Virtual Power Plants</title>
+      <link>http://rahulmatthan.github.io/21/02/2024/virtual-power-plants/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/21/02/2024/virtual-power-plants/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/vpp.jpg&#34; width=&#34;auto&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;Everyone says we need to embrace renewable energy to address the challenges of climate change. But integrating variable supplies of electricity into our current grid is easier said than done. One way to do that might be to virtualise our power plants.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>CAS Regulations for AI</title>
       <link>http://rahulmatthan.github.io/14/02/2024/cas-regulations-for-ai/</link>
