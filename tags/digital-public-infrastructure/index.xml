@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>digital public infrastructure on Ex Machina</title>
+    <title>Digital Public Infrastructure on Ex Machina</title>
     <link>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</link>
-    <description>Recent content in digital public infrastructure on Ex Machina</description>
+    <description>Recent content in Digital Public Infrastructure on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diversity Through AI</title>
+      <link>http://rahulmatthan.github.io/05/06/2024/diversity-through-ai/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/05/06/2024/diversity-through-ai/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/ai-diversity.jpg&#34; width=&#34;auto&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;Artificial Intelligence has the potential to significantly enhance our digital public infrastructure by bringing variety to a DPI approach that has so far been optimised for standardisation.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>A New Model for UPI</title>
       <link>http://rahulmatthan.github.io/03/04/2024/a-new-model-for-upi/</link>
