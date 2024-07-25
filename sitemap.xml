@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/17/07/2024/are-we-willing-to-change/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/tags/competition/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/</loc>
@@ -60,9 +66,6 @@
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/10/04/2024/age-tokens/</loc>
-    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/03/04/2024/a-new-model-for-upi/</loc>
