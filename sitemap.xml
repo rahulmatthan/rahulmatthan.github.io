@@ -2,28 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/14/08/2024/a-commitment-to-reuse/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/future-of-work/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/07/08/2024/storytelling-reimagined/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/innovation/</loc>
+    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/intellectual-property/</loc>
+    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/31/07/2024/open-ai-innovation/</loc>
+    <lastmod>2024-07-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/17/07/2024/are-we-willing-to-change/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/competition/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/17/07/2024/dpi-for-competition/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
-    <lastmod>2024-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/10/07/2024/digitally-accessible/</loc>
@@ -31,9 +52,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/technology/</loc>
     <lastmod>2024-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/03/07/2024/time-limited-arguments/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
@@ -115,9 +133,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/10/01/2024/micro-robots/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/intellectual-property/</loc>
-    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/03/01/2024/nyt-v.-the-llms/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
@@ -285,9 +300,6 @@
     <lastmod>2022-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/21/12/2022/idea-factories/</loc>
-    <lastmod>2022-12-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/innovation/</loc>
     <lastmod>2022-12-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/14/12/2022/truth-and-llms/</loc>
@@ -523,9 +535,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/09/06/2021/networked-thought/</loc>
     <lastmod>2021-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/future-of-work/</loc>
-    <lastmod>2021-06-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/02/06/2021/hybrid-work/</loc>
     <lastmod>2021-06-02T00:00:00+00:00</lastmod>

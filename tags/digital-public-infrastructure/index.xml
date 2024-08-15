@@ -6,7 +6,19 @@
     <description>Recent content in Digital Public Infrastructure on Ex Machina</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Commitment to Reuse</title>
+      <link>http://rahulmatthan.github.io/14/08/2024/a-commitment-to-reuse/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://rahulmatthan.github.io/14/08/2024/a-commitment-to-reuse/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/a-commitment-to-reuse.jpg&#34; width=&#34;auto&#34;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;em&gt;The traditional approach to the digital transformation of governance has been to build full-stack solutions that are narrowly geared to addressing specific problems. This is highly inefficient and unless we commit to designing them so that they use shared, re-useable building blocks we are simply not going to achieve the outcomes we need.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>DPI for Competition</title>
       <link>http://rahulmatthan.github.io/17/07/2024/dpi-for-competition/</link>
