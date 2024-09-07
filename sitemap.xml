@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/tags/content-moderation/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/05/09/2024/the-loss-of-immunity/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/innovation/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/28/08/2024/synthetic-biology/</loc>
-    <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/technology/</loc>
@@ -247,9 +253,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/17/05/2023/ill-advised-advisory/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/content-moderation/</loc>
-    <lastmod>2023-05-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/10/05/2023/moderating-systems/</loc>
     <lastmod>2023-05-10T00:00:00+00:00</lastmod>
