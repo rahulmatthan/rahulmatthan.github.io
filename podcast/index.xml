@@ -4,8 +4,9 @@
     <title>Ex Machina - the Podcast on Ex Machina</title>
     <link>http://rahulmatthan.github.io/podcast/</link>
     <description>Recent content in Ex Machina - the Podcast on Ex Machina</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 17:17:58 +0530</lastBuildDate><atom:link href="http://rahulmatthan.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://rahulmatthan.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
