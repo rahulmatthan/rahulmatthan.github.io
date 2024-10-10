@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homo Privaticus</title>
+      <link>http://rahulmatthan.github.io/09/10/2024/homo-privaticus/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/09/10/2024/homo-privaticus/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/homo-privaticus.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;We have built our data protection laws on the edifice of consent. As a result, they are based on constructs that are derived from contractual frameworks. While this may have been acceptable in the early days of privacy law, the harms they need to protect against today are perhaps more effectively dealt with under tort law. We need to re-think consent.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Data Transfer Interoperability</title>
       <link>http://rahulmatthan.github.io/02/10/2024/data-transfer-interoperability/</link>
