@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/06/11/2024/networked-privacy/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/30/10/2024/ai-optimisation/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/regulation/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2024-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/16/10/2024/acquiring-genetic-data/</loc>
-    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/09/10/2024/homo-privaticus/</loc>
