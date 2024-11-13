@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/13/11/2024/a-tidal-wave-of-disruption/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/business-of-law/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/06/11/2024/networked-privacy/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/30/10/2024/ai-optimisation/</loc>
@@ -64,9 +70,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/28/08/2024/synthetic-biology/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/business-of-law/</loc>
-    <lastmod>2024-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/21/08/2024/on-courts/</loc>
     <lastmod>2024-08-21T00:00:00+00:00</lastmod>
