@@ -6,8 +6,15 @@
     <description>Recent content in Digital Public Infrastructure on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Solutions for Use Limitation</title>
+      <link>http://rahulmatthan.github.io/20/11/2024/tech-solutions-for-use-limitation/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/20/11/2024/tech-solutions-for-use-limitation/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/tech-solutions-for-use-limitation.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;The Account Aggregator system has implemented most data protection principles directly into code. With one exception - use limitation. A recent paper offers a technical solution to this problem through sharding and confidential multiparty compute.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A DPI for Non-Financial Data</title>
       <link>http://rahulmatthan.github.io/17/09/2024/a-dpi-for-non-financial-data/</link>
