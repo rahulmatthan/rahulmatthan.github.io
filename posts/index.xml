@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Liability</title>
+      <link>http://rahulmatthan.github.io/27/11/2024/ai-liability/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/27/11/2024/ai-liability/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/ai-liability.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;AI is a probalistic, non-deterministic technology. This is the reason why it is capable of doing much of what we appreciate it for. However, this does not align with our legal system that is binary in application. We need to rethink our approach to liability if we are to avail the benefits of AI.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tech Solutions for Use Limitation</title>
       <link>http://rahulmatthan.github.io/20/11/2024/tech-solutions-for-use-limitation/</link>
