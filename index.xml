@@ -6,8 +6,15 @@
     <description>Recent content on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secondary Use of Health Data</title>
+      <link>http://rahulmatthan.github.io/18/12/2024/secondary-use-of-health-data/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/18/12/2024/secondary-use-of-health-data/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/secondary-use-of-health-data.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;While it is generally advisable to anonymise health data doing so at population scale would allow us to get the benefits of secondary use. The ABDM envisages such use-cases but by also deploying Secure Data Environments it should be possible to augment the level of data protection.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>A New AI Law</title>
       <link>http://rahulmatthan.github.io/11/12/2024/a-new-ai-law/</link>
@@ -567,13 +574,6 @@
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://rahulmatthan.github.io/12/04/2023/pro-innovation-regulation/</guid>
       <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/pro-innovation-ai-regulation.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;While AI will transform society and make certain jobs obsolete, it will also create new opportunities. Different countries have proposed varied regulatory approaches, from the US&amp;rsquo;s hands-off stance to the EU&amp;rsquo;s detailed guidelines. The UK&amp;rsquo;s agile, principle-based approach, which adapts based on experience and avoids rigid legislation, is recommended for India to harness AI&amp;rsquo;s potential without stifling innovation.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Future of Technology</title>
-      <link>http://rahulmatthan.github.io/05/04/2023/future-of-technology/</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/05/04/2023/future-of-technology/</guid>
-      <description>&lt;p&gt;&lt;em&gt;For India, AI represents a new opportunitiy to accelerate its development. We need to adopt a regulatory approach that will allows us to benefit from the technology while still safeguarding ourselves from the harm that it can cause.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Designing Data Governance</title>

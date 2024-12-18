@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/health/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/18/12/2024/secondary-use-of-health-data/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/11/12/2024/a-new-ai-law/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/06/12/2024/a-dpi-for-climate-change/</loc>
@@ -182,9 +188,6 @@
     <loc>http://rahulmatthan.github.io/17/01/2024/the-zone-of-mischief/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/tags/health/</loc>
-    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/10/01/2024/micro-robots/</loc>
     <lastmod>2024-01-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -307,9 +310,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/12/04/2023/pro-innovation-regulation/</loc>
     <lastmod>2023-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/05/04/2023/future-of-technology/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/29/03/2023/designing-data-governance/</loc>
     <lastmod>2023-03-29T00:00:00+00:00</lastmod>
