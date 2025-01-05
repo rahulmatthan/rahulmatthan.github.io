@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1>Articles Listed by Topic</h1>
+  {{ range $tagName, $tag := .Site.Taxonomies.tags }}
+    {{ $.Scratch.Set "counter" 0 }} <!-- Reset the counter for each tag -->
+      {{ $formattedTagName := $tagName | replaceRE "-" " " | title }}
+      <h2>{{ $formattedTagName }}</h2>
+        {{ range $tag.Pages }}
+          {{ $.Scratch.Add "counter" 1 }} <!-- Increment the counter -->
+        <div>
+          {{ $.Scratch.Get "counter" }}. <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </div>
+    {{ end }}
+  <div style="height: 20px;"></div>
+    {{ $formattedTagName := $tagName | replaceRE "-" " " | title }}
+  
+  {{ end }}
+{{ end }}

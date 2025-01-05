@@ -1,0 +1,34 @@
+---
+title: "The Movement of Ideas"
+date: "2017-04-06"
+tags: ["Social Media"]
+widgets: 
+- "categories"
+---
+
+*There are parallels to be drawn between Martin Luther's use of printing technology and modern communication technologies. Technology has historically accelerated the dissemination of ideas and we need to adapt that understanding to new mediums like the internet.*
+<!--more-->
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/Opinion/CiLBSkd7Kb1bdbgxhmgx1J/The-movement-of-ideas.html).*
+
+---
+
+On 31 October 1517, Martin Luther, at the time a relatively unknown German theologian, nailed to the door of the church in Wittenberg, a Latin treatise entitled 95 Theses on the Power and Efficacy of Indulgences, in which he excoriated the Catholic Church for trying to convince gullible believers that they could save themselves from purgatory by buying indulgences. This simple act set in motion a series of events that led to the Reformation, a religious movement that reverberated throughout Europe and eventually split Christianity into two.
+
+While the incident has obvious historical significance, what interests me is its parallels with current history—particularly, in the context of the role that technology played.
+
+Five hundred years ago, ideas moved slowly. Books were scarce and available only to the clergy and the very wealthy—who consequently controlled public discourse. Dissent, if ever it reared its head, was local and limited to the distance that the spoken word could travel.
+
+When Martin Luther nailed the 95 Theses to the door of the church, he caused a furore in academic circles. Interestingly, and for the first time in history, the academic discourse caught the eye of printers who began to produce short booklets of the 95 Theses in an easy-to-circulate format. The pamphlet spread like wildfire. Everyone who liked it recommended it to their friends who in turn recommended it further. Travellers carried pamphlets to other towns, introducing this thinking further afield. Local printers in those towns responded to popular demand by printing more copies. Within two months, 95 Theses was available as far away as Leipzig, Nuremberg and Basel and as soon as translations were available, throughout all Christendom.
+
+Even Luther was surprised by the speed at which his message spread but he quickly adapted to the new medium. His next publication—The Sermon on Indulgences and Grace—was written in native German and reprinted 14 times in 1518 alone. Of the 6,000 pamphlets that were printed in the Germanic nations between 1520 and 1526, 1,700 were attributed to Martin Luther.
+
+By the time the Church realized that Luther’s teachings were gaining ground, it was already too late. They tried to engage with him intellectually, but everyone who responded to his arguments did so in Latin—so no one understood their arguments. The Vatican called his teachings a cancerous disease that needed to be excised to prevent them spreading and tried to ban them, but materials printed elsewhere quickly flowed in to fill the vacuum. Even though they didn’t realize it at the time, they were witnessing the proliferation of the world’s first viral message.
+
+Throughout history, whenever technology has offered us a new form of communication, it has accelerated the pace at which ideas move by altering the manner in which they travel. We rarely appreciate that this is happening until someone comes along, who truly gets the potential of these new technologies and shows us how he can leverage them to his advantage.
+
+Just as Martin Luther capitalized on the print medium, Adolf Hitler saw, in public radio, a technology ideally suited to his own brand of nationalist propaganda. One of the first acts of the Nazi Party was to make cheap radio receivers—Volksempfängers— widely available throughout the country, converting every household, even those of poor Germans, into passive recipients of radio broadcasts. The Reich Broadcasting Corp. made sure that Hitler’s nationalistic message was disseminated widely, ensuring that his massive Nuremberg rallies reached a much larger audience than the crowds that were present in person. They also ensured, through censorship and fiat, that the people of Germany heard nothing on the airwaves that contradicted the speeches of the Führer, comprehensively brainwashing the populace into accepting the Nazi version of the truth. So much so that, in April 1945, even after the Allies had surrounded Berlin, most Germans believed they were still comfortably winning the war.
+
+Today we are witnessing, yet again, a transformation in the way ideas move. We’ve already seen that anyone who understands the Internet can get himself elected to the most powerful office in the world. It is, however, just as important to recognize that, during this phase of transition, we will encounter new constructs—concepts like “post truth" and “alternative facts" that we will struggle to reconcile with our traditional understanding of the news. Our instinctive reaction has been to decry these developments as abominations—that should not be allowed to persist. In doing so, our actions are not that different from the Vatican when it had to deal with Luther’s growing popularity.
+
+Engaging with these new constructs in a traditional format or even banning the proponents of this new discourse from participation will bring us about as much success as it did the Catholic Church. Instead, we would do well to understand the new medium better and re-align ourselves to engage with it on its own terms.
+

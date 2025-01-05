@@ -1,0 +1,37 @@
+---
+title: "Vaccinate"
+date: "2021-04-28"
+tags: ["Health"]
+widgets: 
+- "categories"
+---
+
+*We must combat vaccine hesitancy and get everyone vaccinated against covid-19. The only strategy to survive in India is to not get infected or to get fully vaccinated. The risk of blood clots is insignificant compared to the risk of getting the disease.*
+<!--more-->
+
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/opinion/online-views/we-can-t-afford-to-let-vaccine-scepticism-get-in-the-way-11619554921963.html).*
+
+---
+
+The last time I saw my dad was through the plexiglass porthole on the door of the ambulance that was taking him to hospital. For over a decade and a half, my father had stoically suffered various ailments, silently putting up with pain that our best medical science could only dull but not eliminate. When the pandemic descended on us, given his other medical conditions he was extra vigilant about masking and staying indoors. So it was a shock to us when he tested positive. Still, since he was just one dose short of complete vaccine immunity, we were hopeful that he'd come back home after no more than a short stint at the hospital.
+
+The second wave was just beginning when my father was admitted into hospital. Even then hospitals were dealing with a rising numbers of patients that would eventually turn into the tidal wave that has overwhelmed them depleting our national stores of medical oxygen and putting a strain on critical drugs. Much has been said about the catastrophe we are in so I will not spill any more ink on the subject - except to say that unless you've had a loved one go through the disease it is impossible to understand how utterly brutal it can be. And to remind you that as bad as things might seem, having stood at ground zero, it is clear to me that things will only get worse before they get better.
+
+Much has also been written about how we got here - tales of complacence, ineptitude and misplaced political priorities. But now is not the time for post mortems. Our medical infrastructure is crumbling and we need to find a way to stem the rot. If our only effective strategy to survive COVID in India, is not to get it in the first place, we need to be focussing our energies on ensuring that those who are not yet infected remain safe so that they don't put any more strain on our already battered infrastructure than is absolutely necessary.
+
+Unlike last year, when the virus first hit us, we have vaccines — that will provide us immunity at best, and, at worst, blunt the full force of the disease. And yet vaccine uptake in the initial months was disappointingly weak. Even though the second wave has spurred more people to join vaccination queues, many remain skeptical, trotting out excuses that range from conspiracy theories about the avarice of Big Pharma, to fears about rare blood clots. Since this column has never stooped to debunking conspiracy theories, I am going to skip right past that and focus on the blood clot risk.
+
+According to [WHO's Global Advisory Committee on Vaccine Safety](https://www.who.int/news/item/07-04-2021-interim-statement-of-the-covid-19-subcommittee-of-the-who-global-advisory-committee-on-vaccine-safety), of the over 200 million people who have received the AstraZeneca vaccine around the world, only very few have suffered from clots making the connection between the vaccine and the clotting side-effect "plausible but not confirmed". According to [Tim Harford](https://www.ft.com/content/090f1b3c-95d9-4b10-9a7c-ba3a7f290fee), UK data suggests that there is a one-in-a-million chance of death in the vaccinated - which means that even if every last person in India were to get the shot, just over 1300 people will have fatal side-effects.
+
+That said, of all my friends who got themselves vaccinated, one suffered a micro-stroke and another experienced an inexplicable burning sensation in his chest that he has been forced to treat with blood thinners. Though they can't confirm a causal link, doctors are reasonably certain that both episodes are vaccine-related. If I myself know two people who have reported serious vaccine side-effects, surely the risk is greater than advertised.
+
+At the end of the day, every time your body is presented with a portion of a virus to build immunity — as happens with the AstraZeneca vaccine — there is always a risk of immune dysfunction. But we have to keep reminding ourselves that this is nothing compared to the risk of exposing our bodies to the full-blown pathogen.
+
+Even so, there are other factors to consider. We've always known that COVID-19 disproportionately affects the elderly. The youth, on the other hand, have, for the most part, been able to fight off the disease with minimal medical assistance. That being the case, we have to ask ourselves whether the risk of exposing young people to vaccine related blood clots is worth it if their younger bodies have an innate ability to overcome the disease.
+
+Unfortunately, anecdotal evidence seems to suggest that India's second wave is an equal opportunity offender, sending the young and old alike to hospital. The doctors I spoke to over the past weeks told me that, if anything, this time around more young people are dying than old. Which is why, when the government opens up vaccines for everyone over the age of 18, I sincerely hope the youth will show up in large numbers.
+
+None of this is meant, in any way, to divert attention from all that must be done immediately - procuring supplies of oxygen and life saving drugs and ramping up the establishment of COVID care facilities - both intensive care for the serious cases as well as isolation facilities, telemedicine and home health care for mild to moderate cases. But as we work to buttress our battered infrastructure to help the sick and the dying, we must not forget that it is just as important to keep the healthy out of hospital. We cannot allow vaccine scepticism to come in the way of this.
+
+My father never made it back home - his weakened body couldn't weather the ravages of the disease. In his case not only did he got all the medical help he needed, I have only gratitude for all that the doctors at Ramaiah Hospital did for him. Still I cannot help wonder how different things might have been had he caught the infection after he had taken his second dose.
+

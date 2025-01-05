@@ -1,0 +1,32 @@
+---
+title: "The mission to put health records at doctors fingertips"
+date: "2020-08-12"
+tags: ["Health"]
+widgets: 
+- "categories"
+---
+
+*The National Digital Health Mission's Strategy Overview outlines India's plan to become a Digital Health Nation, leveraging the nascent state of healthcare digitization to learn from other countries and avoid their mistakes. The strategy involves adapting India's data portability architecture, using the Data Empowerment and Protection Architecture (DEPA) for healthcare data sharing. It proposes a radically-federated design, storing healthcare data at its generation point and enabling rapid data transfer across the health system.*
+
+<!--more-->
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/opinion/columns/the-mission-to-put-health-records-at-doctors-fingertips-11597155777755.html).*
+
+---
+
+The National Digital Health Mission recently released a Strategy Overview document that laid out, in broad strokes, the National Health Authority’s (NHA’s) plan to build India into a Digital Health Nation. What is apparent from this paper is that the NHA sees the nascent state of digitization of our healthcare system as an opportunity to learn from the experiences of other countries that are much further down this road. While this allows us to avoid the mistakes that other countries have made, the sheer scale of what the document attempts to deliver seems too vast for what is possible for us to achieve.
+
+There is a lot to unpack in the document. At the outset, it is good to see that the NHA has decided to adapt and extend India’s novel data portability architecture to facilitate transfers across the digital health ecosystem. The regulatory basis for India’s unique brand of data portability is set out in the draft Personal Data Protection Bill, 2019. However, the technological scaffolding on which this portability will be implemented is contained in the Data Empowerment and Protection Architecture (DEPA), a framework that is already being used for the sharing of financial information through the central bank’s account aggregator framework.
+
+If we can successfully implement DEPA in healthcare, we just might be able to make good on the ambitious, radically-federated design that the National Digital Health Mission has selected for the country. According to the strategy document, healthcare data must be stored as close as possible to the point of its generation. This means that, instead of creating a single, centralized database, data can remain in the hospitals, pharmacies, diagnostic laboratories and polyclinics where they first came into existence. As long as all these disparate nodes of the healthcare ecosystem adopt software that’s compliant with NDHM standards, as they are supposed to, data can rapidly be shunted across the digital health system from its original place of storage to wherever it is immediately required.
+
+The most obvious benefit of this sort of radical portability is how much easier it will become for patients to get second opinions. With the click of a button, any specialist they are consulting will be able to gain access to all the lab reports, test results and diagnosis documents that are stored in the hospitals where they were first admitted. This will obviate the necessity for the many repetitive and expensive tests we currently undergo each time we go to another doctor for a different point of view.
+
+But perhaps most importantly, this framework facilitates the creation of a personal health record, a patient-centric history of all of our interactions with the medical ecosystem. This will generate, for the first time, a record of all our interactions with every node on the medical ecosystem, giving doctors all the information they need to provide us with a complete diagnosis.
+
+In order for all this to work, it is important to ensure that all the healthcare providers who currently make up the ecosystem conform to the same digital health standards. Around the world, the digitization of healthcare has historically been driven by the internal billing departments of large hospitals and the insurance companies that are responsible for healthcare payments. This has resulted in the creation of health data standards that cater to the requirements of administrative departments of large medical institutions, instead of providing doctors with the data they need to treat patients. The reason healthcare software systems have atomized medical procedures into smaller and smaller fragments is that they allow these procedures to be billed more granularly. While this is useful from a financial and administrative perspective, it has little or no medical benefit. As we look to select the standards for India’s digital healthcare ecosystem, we need to choose one that places a clear premium on medical outcomes. #Digital Health Standards
+
+From that perspective, it is heartening to note that the NHA has recommended the use of FHIR-R4 resource format in its Strategy Overview document. This Fast Health Interoperability Resources standard looks to treat any item of clinical data as a resource that can be described using medically relevant attributes like “medication prescription", “adverse reaction", “procedure" and “condition". This would allow for medical data to be placed in a contextual framework that is far more relevant to a clinician than the ailment coding standards that are currently used in various medical systems around the world.
+
+What’s even more exciting, however, is that FHIR offers application programme interfaces through which health data can be easily accessed. This will allow for the creation of apps that allow us to interrogate the data and generate the kind of results and analyses that would otherwise not have been possible. More importantly, it promises to enable the integration of data from a variety of non-traditional sources—wearable and Internet-of-Things devices—that are capable of generating the sort of always-on data that was earlier available only at a healthcare facility. All this can unlock new possibilities of treatment and patient care, and thus transform the Indian health system.
+
+The path that the NHA has chosen for the country is ambitious and aggressive. As we start down this journey, we would do well to remember that the urgency to build the digital health infrastructure India needs is only surpassed by the risk of not getting it right.

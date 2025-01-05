@@ -2,38 +2,50 @@ baseURL = 'http://rahulmatthan.github.io/'
 languageCode = 'en'
 title = 'Ex Machina'
 theme = "mainroad"
-paginate = 5
+
 pluralizelisttitles = false
 dateformat = "2006-01-02" # Change the format of dates
-[permalinks]
-  posts = '/:day/:monthname/:year/:title/'
+
 enableRSS = true
 showToc = true
+
+[pagination]
+pagersize=10
+
+[permalinks]
+  posts = '/:day/:month/:year/:title/'
 
 # Add page to a main, side, and footer menu
 menu = "main"
 
-[Author]
-  name = "Rahul Matthan"
-  bio = "Rahul Matthan is a lawyer who works at the intersection of law, technology and society."
-  avatar = "/images/avatar.png"
 
 [menu]
 [[menu.main]]
-  name = 'About'
-  pre = "<i class='fa fa-road'></i>"
-  url = '/about/'
-  weight = -100
+  name = 'About' # Name of the menu item
+  pre = "<i class='fa fa-road'></i>" # Icon of the menu item
+  url = '/about/' # URL of the menu item
+  weight = 5 # Weight of the menu item
 [[menu.main]]
   name = 'Podcast'
-  pre = "<i class='fa fa-road'></i>"
-  url = '/podcast/'
-  weight = -100
+  pre = "<i class='fa fa-road'></i>" # Icon of the menu item
+  url = '/podcast/' # URL of the menu item
+  weight = 4 # Weight of the menu item
 [[menu.main]]
   name = 'Books'
   pre = "<i class='fa fa-road'></i>"
-  url = '/books/'
-  weight = -100
+  url = '/books/' # URL of the menu item
+  weight = 3 # Weight of the menu item
+[[menu.main]]
+    identifier = "chronological-feed" # Identifier of the menu item
+    name = "Index"
+    url = "/index/" # URL of the menu item
+    weight = 1 # Weight of the menu item
+[[menu.main]]
+    identifier = "topics" # Identifier of the menu item
+    name = "Topics"
+    url = "/topics/" # URL of the menu item
+    weight = 2 # Weight of the menu item
+
 
 [Params]
   description = "Rahul Matthan's Collected Writings" # Description of your site
@@ -44,6 +56,12 @@ menu = "main"
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["posts", "about"]
+
+
+[Params.author]
+  name = "Rahul Matthan"
+  bio = "Rahul Matthan is a lawyer who works at the intersection of law, technology and society."
+  avatar = "/images/avatar.png"
 
 [Params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget

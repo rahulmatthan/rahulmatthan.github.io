@@ -1,0 +1,32 @@
+---
+title: "How Britain got ahead of us in economic development"
+date: "2020-01-08"
+tags: ["Geopolitics of Technology"]
+widgets: 
+- "categories"
+---
+
+*By substituting wood with coal England to achieve a far higher energy utilization and lower the cost of manufacture of iron and steel, generating large amounts of ferrous products and bringing into the production process a level of industrialization that India could not. Since cotton was a valuable trade commodity, effort was invested into producing textiles, resulting in the discovery of new means of production that launched the industrial revolution. This resulted in a loss of demand for various other goods whose continued development would have increased the pace of technological innovation in India. It translated into the destruction of educational institutions that generated knowledge and reduced the patronage for scientific and technical inquiry.*
+<!--more-->
+
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/opinion/columns/how-britain-got-ahead-of-us-in-economic-development-11578418906151.html).*
+
+---
+
+In the 18th century, Indian cotton dominated the world. It was shipped in such volumes to South-East Asia, Africa, West Asia, Europe and the Americas that historians called it the most important manufactured good of the 17th and 18th centuries in world trade. As there was precious little of value that the West had to offer up in exchange, Indian craftspersons were paid in such volumes of silver that between 1600 and 1800, India accumulated approximately a fifth of the world’s total silver production. Yet, despite India’s clear dominance over global trade, by the 1850s, Western Europe, seemingly out of nowhere, became the undisputed centre of the global cotton trade and consequently the world economy.
+
+What was it about Europe’s, and particularly Britain’s, path to economic and scientific development that allowed it to dominate the world? And where and why did it diverge so significantly from India’s? In his deeply researched book, Why Europe Grew Rich And Asia Did Not, Prasannan Parthasarathi offers some plausible answers.
+
+By the end of the 18th century, Britain was facing a severe shortage of wood because of aggressive deforestation. It was forced to turn to coal for energy, a fuel harder to access than wood but which was far richer in calorific value. The substitution of wood with coal dramatically altered the energy economy of the country, allowing England to achieve a far higher utilization than was previously possible. India, on the other hand, was blessed with an abundance of forest cover and consequently was under no compulsion to look for alternative sources of energy. The immediate consequence of this was that Britain was able to lower the cost of manufacture of iron and steel, generating large amounts of ferrous products and bringing into the production process a level of industrialization that India was not even aspiring to achieve.
+
+The second and probably more significant external force was the tremendous competitive challenge that Indian cottons posed to England. Given its importance as a trade commodity, significant effort was being invested into imitating Indian textiles, resulting in the discovery of new and more efficient means of production that eventually launched the industrial revolution. By coupling innovations in mechanized spinning and weaving with steam power and industrial production, the first great textile factories were born. This resulted in the centre of global manufacturing rapidly shifting from Asia to Europe. As a result, the textile exporting regions of India such as Gujarat, Bengal and South India suffered a tremendous decline in the global demand for their products from which they never recovered.
+
+In time, Britain consolidated its advantage by establishing military dominion over the subcontinent through the East India Company. This resulted in a loss of demand for various other goods whose continued development would have increased the pace of technological innovation in India. It translated into the destruction of educational institutions that generated knowledge and reduced the patronage for scientific and technical inquiry. The cumulative effect of these events opened up a huge technological gap between India and the West that hasn’t been completely bridged till this day.
+
+The British response to the pressures of global trade and its own internal energy shortfall was to forge a radically new path that diverged significantly from those adopted by Asian economies. As a result, it was able to establish its dominion over the once powerful Indian states, reducing them to colonial outposts of the empire. While India certainly had the ability and the resources to make these technological advances, it had no urgency to radically transform itself, since it faced none of the pressures that England did. And so, it found itself over-run by a rapacious nation not afraid to use its technological advantage to further its national goals.
+
+Significant shifts in the [[global economy]] are often the outcome of external pressures more apparent in hindsight than orchestrated with forethought. However, serendipitous circumstances are useful only if acted upon decisively by strong national governments. As much as the shift in power from Asia to the West was occasioned by such unconnected events and political dynamics, had it not been for the aggressive support of the British monarchy, the mills of Lancashire might never have defeated the craftsmen of the East.
+
+Over this past decade, it feels as if the pendulum has begun to swing in the other direction. While Western economies remain dominant, Asia has begun to assume a significance that is hard to overlook. Technology allowed the West to gain ascendance over Asia, and it is technology that Asia is using to re-assert itself.
+
+China has taken advantage of these new circumstances by implementing novel policies designed to enhance its economy. If India is to have any hope of regaining its former glory, it needs to follow suit. To do that, it will need to implement policies that take advantage of shifting global forces.

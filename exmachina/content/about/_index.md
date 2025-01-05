@@ -1,1 +1,7 @@
-I am a lawyer based in India. Since 2016 I've written a weekly column called Ex Machina on issues at the intersection of Law, Technology and Society. This website is a running archive of the column.
+My name is Rahul Matthan. I am a technology lawyer and a partner at Trilegal, a leading law firm based in India. I have, since 2016, written a weekly column called Ex Machina in The Mint on various issues at the intersection of Law, Technology and Society. From time to time, I have also contributed to other papers - chiefly the Hindusthan Times, the sister paper of the Mint. This website is a running archive of all my writings.
+
+The articles are posted as they are published, slightly staggered from the data of publication. They are also broadly categorised by topic so you can, from the main page, click on a tag to read all the articles in a given category. There is also a page with an index of all the articles in chronological order in case there is a particular article you are looking to find. 
+
+I am also a published author and in the "Book" page you will find links to where you can purchase my two most recent books. 
+
+Finally, I released 5 episodes of a podcast (also under the name Ex Machina) that, despite my best efforts I was not able to extend to a second season. I love what I was able to create and I have still not given up on the hope that I will, someday, be able to take this up again.

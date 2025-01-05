@@ -1,0 +1,30 @@
+---
+title: "How the covid pandemic could reshape life in our cities"
+date: "2020-05-20"
+tags: ["Health", "Future of Work"]
+widgets: 
+- "categories"
+---
+
+*Cities are dense hubs of economic activity. However when they come up against an epidemic like COVID-19, it prompts rethinking urban design, emphasizing remote work, local markets, and reduced physical contact, while considering the impact on migrant populations and urban efficiency.*
+<!--more-->
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/opinion/columns/how-the-covid-pandemic-could-reshape-life-in-our-cities-11589909022877.html).*
+
+---
+
+Cities are and have always been the economic and social engines of the national economy. They are incredibly efficient hubs of economic activity, offering unique mechanisms for supercharging innovation. They maximize specialization by relying on their large populations to both produce and consume the multitude of special services they offer. By design, they are dependent on highly specialized individual production, super-efficient supply chains, and a high degree of mutual interdependence to achieve the economic prosperity that they generate. The efficiency of a city is a function of its density. The denser the urban agglomeration, the more efficient is its use of resources, as its services can be delivered to a larger number of people over a shorter period of time.
+
+However, when faced with an epidemic like covid–19 that spreads silently within an urban community, this sort of human density has proven to be a tremendous liability. The worst hit spots on the planet—Mumbai, Milan, Madrid, London and New York City—have also been the world’s most densely populated. As economically efficient as these cities might be, the pandemic has shone a light on their vulnerability to a disease that runs rampant through metropolitan settings. In the aftermath of the pandemic, it is inevitable that demands will arise to fundamentally redesign the way these urban spaces function.
+
+The lockdown has shown us how the current conceptualization of urban work, dependent as it is on people commuting every day to a central business district or a business park on the periphery of the city, is a mirage. The white- collar workforce has seen that it can achieve remotely from home much of what office-goers thought they needed to go to office for. Advances in technology have shown them that not only do they have the means of communication, but also the supply and distribution chains necessary to work efficiently while confined to their homes. As a result, questions have been raised over whether they will ever need to physically come together in a central work space again. Some employers have already declared that, going forward, as much as 75% of their workforces can continue to work from home even after the immediate coronavirus crisis has passed.
+
+By de-emphasizing work districts, cities have a remarkable opportunity to promote a more local lifestyle. Rather than encouraging the development of large department stores to which people must travel from farther away, cities can begin to promote smaller local markets that address the limited needs of the area’s proximate community. Stores like these cater to the rich and poor alike, and could stay open even during a pandemic. Consequently, they would be able to achieve a greater social objective. At the same time, technology-enhanced logistics solutions allow for the delivery of hyperlocal products to the far corners of an urban area without buyers needing to travel long distances from home.
+
+What will this mean for the city as we know it today? Will we all have to live in small suburban or rural localities, connected to one another only via digital communication facilities and technology-enhanced delivery networks? As much as our locked-down present seems to suggest, this is hardly likely to be the case. Urban living offers levels of efficiencies that cannot be ignored. It allows us to leverage community and gives us efficient access to basic services and quality healthcare. Rather than retiring to a bucolic existence, we should learn to preserve the benefits of urban life while mitigating the harms.
+
+In order to do this, cities of the world need to learn how to reduce contact between their residents while still maintaining current levels of urban efficiency. We have already begun seeing some evolution in this direction, with contactless delivery features being built into various services. These features will likely remain long after the current crisis is behind us. In time, municipal governments will need to reconsider their reluctance so far to deploy autonomous means of transport—such as drones and autonomous electric vehicles—as these types of technologies, particularly in small self-contained localities, offer us effective ways by which human-to-human contact in public can be reduced.
+
+Most importantly, governments themselves will need to redesign the manner in which they interact with the people they govern, systematically eliminating the many physical touch-points that currently characterize their functioning to only those that are absolutely essential. India has made major strides in this direction with the establishment of powerful platforms for digital payments and service delivery. It now has a unique opportunity to use these platforms to build efficiencies while reducing contact.
+
+No examination of the future of life in an Indian city can be complete without discussing how the lives of migrant populations, the people who keep urban conglomerations running, will be affected. The stories we have heard over the past month, of their struggles to cope with the vicissitudes they have been dealt in the aftermath of the lockdown, have been heart-breaking. We might be tempted to use technology to craft an urban future that does not rely on migrants at all—or one that at least somewhat reduces our current reliance on them. But if, while doing so, we simply ignore the hardship they will suffer as a result, that would not only be wrong, but also deeply immoral.
+

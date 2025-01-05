@@ -1,0 +1,37 @@
+---
+title: "Needed: A Fact Rank Algorithm to Flag Fake News"
+date: "2017-08-19"
+tags: ["Social Media"]
+widgets: 
+- "categories"
+---
+
+*Historically, false news has influenced major events, from anti-Semitic libels to the Spanish-American War. With the rise of social media, exposure to unregulated, biased news has increased, exploiting human tendencies like implicit and confirmation biases. This creates echo chambers, reinforcing beliefs without exposure to differing views. The evolution of fake news now includes realistic audio and potential video fabrications. Addressing this, technology, not regulation, might offer solutions, such as a "FactRank" algorithm to assess news accuracy, akin to Google's PageRank for search results.*
+
+<!--more-->
+*This article was first published in The Mint. You can read the original at [this link](https://www.livemint.com/Opinion/NvmUUoong1b2xYk9KGeFvI/Needed-A-FactRank-algorithm-to-flag-fake-news.html).*
+
+---
+
+David Mamet’s 1998 black comedy, Wag the Dog, introduced us to the behind-the-scenes world of political spin doctors—and showed us how easy it is to fabricate a war if one wants to divert attention away from a presidential scandal. At the time, the movie seemed like an improbable fantasy. Two decades on, it feels almost prophetic.
+
+To be fair, the practice of creating false news stories is as old as time. Rumours about Jews and their habit of drinking the blood of young children contributed significantly to their persecution over the centuries—even though this “blood libel" was roundly denounced by no less eminent a personality than the pope himself. Paris, during the French Revolution, was flooded with pamphlets that provided uncorroborated details of the precarious financial situation of the government that led, at least in part, to the uprising. The explosion that sank the USS Maine, was never proved to be anything more than an accident, but was still spun by the US press into evidence of Spanish aggression in order to force the American government into the Spanish-American war.
+
+It was largely in response to stories like these, published as they were without care to establish the unbiased facts, that journalists agreed to regulate themselves according to a code of ethics designed to ensure accuracy in reporting and eliminate bias. It is why we can afford to operate under the reasonable expectation that the news we read will be accurate and balanced. However, as we start to get more of our news from social media, we increase our exposure to news produced by entities that do not operate under the same ethical constraints.
+
+Behavioural economics suggests that the reason we fall for fake news is because these stories are designed to simultaneously play to our susceptibility to implicit bias as well as confirmation bias. Implicit bias is the human tendency to lump people together into categories of us and them where we implicitly trust members of our own group and distrust all those who are not. Confirmation bias, on the other hand, is our increased willingness to accept information that confirms what we already believe.
+
+When both these biases are operating together, we are doubly vulnerable. Implicit bias makes us view those of our own group more positively. It consequently makes us insulate ourselves from the views of those outside our circle. Since everyone in our group, by definition, shares our beliefs, the “facts" that they share with us tend to “confirm" our beliefs—and in turn our biases. This is a powerful feedback loop that, if allowed to perpetuate unchecked, forces us into an artificial bubble where we are not exposed to any views other than our own.
+
+Social media has the ability to amplify this feedback loop—often without our knowledge. In the attention economy, internet companies are incentivised to expose us to as many people from “our group" as possible to improve our experience on the platform. As a result, we only ever hear news that other like-minded people discuss and consequently become increasingly oblivious of the views and perspectives of anyone else. News reports that these people share tends to confirm our existing beliefs and, thanks to confirmation bias, we tend to believe them more wholeheartedly. Social media gives us the insights necessary to divide people by their beliefs so that we can design and selectively distribute fake news to play to our implicit and confirmation biases, so that the news itself is unquestioningly accepted as true.
+
+The impact of fake news is evident all around us. Elections around the world have been won and lost because of it. But so far, all fake news stories have been text-based —which is the very tip of the iceberg.
+
+Audio sampling software already allows us to accurately sample individual voices and speech mannerisms so as to be able to realistically fabricate whole conversations where none existed—to the point where it is impossible to tell that the conversation never took place. Given the extent to which CGI is already incorporated into films, the falsification of video evidence must be following fast on its heels.
+
+We need new tools to deal with fake news. Unlike mainstream news, I believe it will be impossible to satisfactorily regulate these technologies so that we can be assured of the veracity of the news we’re reading. Instead, I believe we must use technology to solve this problem.
+
+We can for instance, draw inspiration from Google’s PageRank algorithm that ranks search results based on the pages that are linked to it.
+
+We could, along these lines, devise an algorithm that ranks an item of news based on how accurately it represents the unbiased facts. This “FactRank" algorithm could apply across platforms, finally offering us the ability to identify the fake news from the real.
+

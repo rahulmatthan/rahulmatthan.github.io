@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "49489693bd4c0a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "f897b3c6ea839fa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e264b47b63d67c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "account-aggregators-and-e-consent-for-credit-markets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88a377c7df3a95e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_blueprint_for_an_effective_data_protection_authority.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d9b081875d0b95e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "284280eb3b631b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b1957a7224ba568",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "390c0f6431e2af40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc2ee54c5ea6acb2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "191076858143f401",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eba3f216deb6bd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e947764d546ad76a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "a_blueprint_for_an_effective_data_protection_authority.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02ecc517ee89edc4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "a_blueprint_for_an_effective_data_protection_authority.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16f5b4bfa4528bea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6d515b229f49c20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "a_blueprint_for_an_effective_data_protection_authority.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "88a377c7df3a95e0",
+  "lastOpenFiles": [
+    "__Index.md",
+    "a_blueprint_for_an_effective_data_protection_authority.md",
+    "account-aggregators-and-e-consent-for-credit-markets.md",
+    "a_creeping_expansion_of_trais_authority.md"
+  ]
+}

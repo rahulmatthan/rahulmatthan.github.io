@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ $currentYear := 0 }}
+  {{ $currentMonth := 0 }}
+  {{ range .Site.RegularPages.ByDate.Reverse }}
+    {{ if not .Params.exclude_from_feed }}
+      {{ if ne $currentYear .Date.Year }}
+        {{ $currentYear = .Date.Year }}
+        <div style="height: 20px;"></div>
+        <h2>{{ $currentYear }}</h2>
+     {{ end }}
+     {{ if or (ne $currentMonth .Date.Month) (ne $currentYear .Date.Year) }}
+      {{ $currentMonth = .Date.Month }}
+      <div style="height: 20px;"></div>
+      <h3>{{ .Date.Format "January" }}</h3>
+    {{ end }}
+    <div>
+      <span>{{ .Date.Format "January 2" }}:</span>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
