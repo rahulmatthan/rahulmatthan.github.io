@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encryption on Ex Machina</title>
-    <link>http://rahulmatthan.github.io/tags/encryption/</link>
+    <link>http://localhost:1313/tags/encryption/</link>
     <description>Recent content in Encryption on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rahulmatthan.github.io/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Traceability is Antithetical to Liberty</title>
-      <link>http://rahulmatthan.github.io/02/03/2021/traceability-is-antithetical-to-liberty/</link>
+      <link>http://localhost:1313/02/03/2021/traceability-is-antithetical-to-liberty/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/02/03/2021/traceability-is-antithetical-to-liberty/</guid>
+      <guid>http://localhost:1313/02/03/2021/traceability-is-antithetical-to-liberty/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Indian Intermediary Guidelines require messaging services to be able to identify the first originator of information. For those services that are end-to-end encrypted complying with this obligation will mean that they can no longer guarantee the anonymity of the parties. By asking message originators to be identified, it requires every single message to be tracked. In trying to identify a few criminals, it makes criminals of us all.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prepare for a world of quantum haves and have-nots</title>
-      <link>http://rahulmatthan.github.io/05/02/2020/prepare-for-a-world-of-quantum-haves-and-have-nots/</link>
+      <link>http://localhost:1313/05/02/2020/prepare-for-a-world-of-quantum-haves-and-have-nots/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/05/02/2020/prepare-for-a-world-of-quantum-haves-and-have-nots/</guid>
+      <guid>http://localhost:1313/05/02/2020/prepare-for-a-world-of-quantum-haves-and-have-nots/</guid>
       <description>&lt;p&gt;&lt;em&gt;Google&amp;rsquo;s recent achievement of &amp;ldquo;quantum supremacy&amp;rdquo; has highlighted the urgency of commercializing quantum computing. Once viable, it will render current encryption methods obsolete, as quantum computers could easily defeat even the highest encryption. India must invest in quantum computing research and development to remain technologically relevant and independent in the future.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
