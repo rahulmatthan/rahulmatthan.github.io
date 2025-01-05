@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IoT on Ex Machina</title>
-    <link>http://localhost:1313/tags/iot/</link>
+    <link>http://rahulmatthan.github.io/tags/iot/</link>
     <description>Recent content in IoT on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rahulmatthan.github.io/tags/iot/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The chilling consequences of the Internet of Things</title>
-      <link>http://localhost:1313/14/05/2019/the-chilling-consequences-of-the-internet-of-things/</link>
+      <link>http://rahulmatthan.github.io/14/05/2019/the-chilling-consequences-of-the-internet-of-things/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/14/05/2019/the-chilling-consequences-of-the-internet-of-things/</guid>
+      <guid>http://rahulmatthan.github.io/14/05/2019/the-chilling-consequences-of-the-internet-of-things/</guid>
       <description>&lt;p&gt;&lt;em&gt;The proliferation of Internet of Things devices has eroded traditional boundaries of privacy, collecting and analyzing personal data in unprecedented ways. While offering benefits, this pervasive data collection raises ethical concerns and challenges our ability to control personal information. Upgraded laws and new control mechanisms are needed to address this evolving landscape.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>It’s time to frame rules for our artificial companions</title>
-      <link>http://localhost:1313/10/04/2019/its-time-to-frame-rules-for-our-artificial-companions/</link>
+      <link>http://rahulmatthan.github.io/10/04/2019/its-time-to-frame-rules-for-our-artificial-companions/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/10/04/2019/its-time-to-frame-rules-for-our-artificial-companions/</guid>
+      <guid>http://rahulmatthan.github.io/10/04/2019/its-time-to-frame-rules-for-our-artificial-companions/</guid>
       <description>&lt;p&gt;&lt;em&gt;The rapid advancement of smart home devices, with their increasing conversational intelligence, is leading to a future where touch-based inputs may become obsolete. These devices offer significant benefits, such as aiding the elderly and entertaining children, but also raise complex ethical and legal challenges. Issues like privacy, psychological impacts, especially on the young and elderly, and the handling of sensitive information, such as potential abuse reports, require careful consideration. The evolving nature of these interactions necessitates a new framework to address the multifaceted implications of conversational AI in our daily lives.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Easing the regulatory burden on the Internet of Things</title>
-      <link>http://localhost:1313/11/07/2018/easing-the-regulatory-burden-on-the-internet-of-things/</link>
+      <link>http://rahulmatthan.github.io/11/07/2018/easing-the-regulatory-burden-on-the-internet-of-things/</link>
       <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/11/07/2018/easing-the-regulatory-burden-on-the-internet-of-things/</guid>
+      <guid>http://rahulmatthan.github.io/11/07/2018/easing-the-regulatory-burden-on-the-internet-of-things/</guid>
       <description>&lt;p&gt;&lt;em&gt;The growth of IoT, particularly in sectors like transportation, faces regulatory challenges in India. Current telecom regulations, including customer verification for SIMs and limits on M2M (machine-to-machine) SIMs, hinder IoT development. We need less burdensome alternatives, like data-only SIMs and automatic deactivation upon removal, to balance industry growth with security concerns.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How connected devices will change our lives</title>
-      <link>http://localhost:1313/16/05/2018/how-connected-devices-will-change-our-lives/</link>
+      <link>http://rahulmatthan.github.io/16/05/2018/how-connected-devices-will-change-our-lives/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/16/05/2018/how-connected-devices-will-change-our-lives/</guid>
+      <guid>http://rahulmatthan.github.io/16/05/2018/how-connected-devices-will-change-our-lives/</guid>
       <description>&lt;p&gt;&lt;em&gt;The proliferation of smart devices offers convenience by automating and personalizing daily tasks, like brewing coffee when an alarm is switched off. Integrating these devices with AI-powered smart speakers enhances this automation, but raises privacy concerns as these systems collect detailed personal data. This data could revolutionize e-commerce by predicting and fulfilling consumer needs before they&amp;rsquo;re explicitly expressed, shifting from a shop-then-ship to a ship-then-shop model, but at the cost of increased surveillance and data collection.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quantified Self</title>
-      <link>http://localhost:1313/19/10/2016/quantified-self/</link>
+      <link>http://rahulmatthan.github.io/19/10/2016/quantified-self/</link>
       <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/19/10/2016/quantified-self/</guid>
+      <guid>http://rahulmatthan.github.io/19/10/2016/quantified-self/</guid>
       <description>&lt;p&gt;&lt;em&gt;Wearable devices are increasingly common, tracking various physical activities and even finding their way into legal evidence. The future of medicine may lie in this quantified personal measurement, allowing for customized treatment tailored to individual patients. However, to reach this future, changes to regulatory frameworks and a rethinking of privacy notions are needed to allow for more patient-centric medical treatment and algorithmic diagnosis.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

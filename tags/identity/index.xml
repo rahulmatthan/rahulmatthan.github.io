@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Identity on Ex Machina</title>
-    <link>http://localhost:1313/tags/identity/</link>
+    <link>http://rahulmatthan.github.io/tags/identity/</link>
     <description>Recent content in Identity on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rahulmatthan.github.io/tags/identity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proof of Humanness</title>
-      <link>http://localhost:1313/23/08/2023/proof-of-humanness/</link>
+      <link>http://rahulmatthan.github.io/23/08/2023/proof-of-humanness/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/23/08/2023/proof-of-humanness/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/proof-of-humanness.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Worldcoin has been designed to address the concern that in a world saturated with artificial intelligence we are going to need a proof of humanness. As true as that might be, I believe we need to go much further. And also tackle truth in content.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://rahulmatthan.github.io/23/08/2023/proof-of-humanness/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/proof-of-humanness.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Worldcoin has been designed to address the concern that in a world saturated with artificial intelligence we are going to need a proof of humanness. As true as that might be, I believe we need to go much further. And also tackle truth in content.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Aadhaar: The Fine Balance between Identity and Anonymity</title>
-      <link>http://localhost:1313/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</link>
+      <link>http://rahulmatthan.github.io/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</link>
       <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</guid>
+      <guid>http://rahulmatthan.github.io/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</guid>
       <description>&lt;p&gt;&lt;em&gt;In &amp;ldquo;Homo Deus&amp;rdquo;, Yuval Noah Harari suggests that Homo sapiens&amp;rsquo; success is due to our unique ability to believe in myths, like nation-states, which unite individuals under a common identity. This concept is crucial in modern society, where identity systems like India&amp;rsquo;s Aadhaar balance social responsibilities with personal privacy, highlighting the need for privacy laws to maintain this equilibrium.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Evolution of Identity</title>
-      <link>http://localhost:1313/24/08/2016/the-evolution-of-identity/</link>
+      <link>http://rahulmatthan.github.io/24/08/2016/the-evolution-of-identity/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/24/08/2016/the-evolution-of-identity/</guid>
+      <guid>http://rahulmatthan.github.io/24/08/2016/the-evolution-of-identity/</guid>
       <description>&lt;p&gt;&lt;em&gt;With the introduction of Aadhaar, the concept of anonymity on the Internet has been diminishing in India. While this shift has benefits, it contrasts with the continued presence of anonymous trolls online. Embracing verified accounts could restore normalcy and trust on the Internet.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Stiff Backbone of the Aadhaar Bill</title>
-      <link>http://localhost:1313/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</link>
+      <link>http://rahulmatthan.github.io/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</link>
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/stiff-backbone-of-aadhaar.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;While it is not without its flaws, a closer examination of the provisions of the Aadhaar Act will make it clear that it imposes on the government, some of the strongest fetters on executive over-reach of any legislation in the country.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://rahulmatthan.github.io/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/stiff-backbone-of-aadhaar.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;While it is not without its flaws, a closer examination of the provisions of the Aadhaar Act will make it clear that it imposes on the government, some of the strongest fetters on executive over-reach of any legislation in the country.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

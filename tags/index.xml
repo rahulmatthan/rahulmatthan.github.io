@@ -2,262 +2,262 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ex Machina</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://rahulmatthan.github.io/tags/</link>
     <description>Recent content in Tags on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://rahulmatthan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
+      <link>http://rahulmatthan.github.io/tags/technology/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/technology/</guid>
+      <guid>http://rahulmatthan.github.io/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Health</title>
-      <link>http://localhost:1313/tags/health/</link>
+      <link>http://rahulmatthan.github.io/tags/health/</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/health/</guid>
+      <guid>http://rahulmatthan.github.io/tags/health/</guid>
       <description></description>
     </item>
     <item>
       <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <link>http://rahulmatthan.github.io/tags/artificial-intelligence/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
+      <guid>http://rahulmatthan.github.io/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Digital Public Infrastructure</title>
-      <link>http://localhost:1313/tags/digital-public-infrastructure/</link>
+      <link>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/digital-public-infrastructure/</guid>
+      <guid>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Business of Law</title>
-      <link>http://localhost:1313/tags/business-of-law/</link>
+      <link>http://rahulmatthan.github.io/tags/business-of-law/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/business-of-law/</guid>
+      <guid>http://rahulmatthan.github.io/tags/business-of-law/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/tags/privacy/</link>
+      <link>http://rahulmatthan.github.io/tags/privacy/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/privacy/</guid>
+      <guid>http://rahulmatthan.github.io/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Regulation</title>
-      <link>http://localhost:1313/tags/regulation/</link>
+      <link>http://rahulmatthan.github.io/tags/regulation/</link>
       <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/regulation/</guid>
+      <guid>http://rahulmatthan.github.io/tags/regulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Content Moderation</title>
-      <link>http://localhost:1313/tags/content-moderation/</link>
+      <link>http://rahulmatthan.github.io/tags/content-moderation/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/content-moderation/</guid>
+      <guid>http://rahulmatthan.github.io/tags/content-moderation/</guid>
       <description></description>
     </item>
     <item>
       <title>Innovation</title>
-      <link>http://localhost:1313/tags/innovation/</link>
+      <link>http://rahulmatthan.github.io/tags/innovation/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/innovation/</guid>
+      <guid>http://rahulmatthan.github.io/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
       <title>Future of Work</title>
-      <link>http://localhost:1313/tags/future-of-work/</link>
+      <link>http://rahulmatthan.github.io/tags/future-of-work/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/future-of-work/</guid>
+      <guid>http://rahulmatthan.github.io/tags/future-of-work/</guid>
       <description></description>
     </item>
     <item>
       <title>Intellectual Property</title>
-      <link>http://localhost:1313/tags/intellectual-property/</link>
+      <link>http://rahulmatthan.github.io/tags/intellectual-property/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/intellectual-property/</guid>
+      <guid>http://rahulmatthan.github.io/tags/intellectual-property/</guid>
       <description></description>
     </item>
     <item>
       <title>Competition</title>
-      <link>http://localhost:1313/tags/competition/</link>
+      <link>http://rahulmatthan.github.io/tags/competition/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/competition/</guid>
+      <guid>http://rahulmatthan.github.io/tags/competition/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>http://localhost:1313/tags/blockchain/</link>
+      <link>http://rahulmatthan.github.io/tags/blockchain/</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <guid>http://rahulmatthan.github.io/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Climate Change</title>
-      <link>http://localhost:1313/tags/climate-change/</link>
+      <link>http://rahulmatthan.github.io/tags/climate-change/</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/climate-change/</guid>
+      <guid>http://rahulmatthan.github.io/tags/climate-change/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Governance</title>
-      <link>http://localhost:1313/tags/data-governance/</link>
+      <link>http://rahulmatthan.github.io/tags/data-governance/</link>
       <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-governance/</guid>
+      <guid>http://rahulmatthan.github.io/tags/data-governance/</guid>
       <description></description>
     </item>
     <item>
       <title>Telecommunication</title>
-      <link>http://localhost:1313/tags/telecommunication/</link>
+      <link>http://rahulmatthan.github.io/tags/telecommunication/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/telecommunication/</guid>
+      <guid>http://rahulmatthan.github.io/tags/telecommunication/</guid>
       <description></description>
     </item>
     <item>
       <title>E-Commerce</title>
-      <link>http://localhost:1313/tags/e-commerce/</link>
+      <link>http://rahulmatthan.github.io/tags/e-commerce/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/e-commerce/</guid>
+      <guid>http://rahulmatthan.github.io/tags/e-commerce/</guid>
       <description></description>
     </item>
     <item>
       <title>Identity</title>
-      <link>http://localhost:1313/tags/identity/</link>
+      <link>http://rahulmatthan.github.io/tags/identity/</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/identity/</guid>
+      <guid>http://rahulmatthan.github.io/tags/identity/</guid>
       <description></description>
     </item>
     <item>
       <title>Transport</title>
-      <link>http://localhost:1313/tags/transport/</link>
+      <link>http://rahulmatthan.github.io/tags/transport/</link>
       <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/transport/</guid>
+      <guid>http://rahulmatthan.github.io/tags/transport/</guid>
       <description></description>
     </item>
     <item>
       <title>Payments</title>
-      <link>http://localhost:1313/tags/payments/</link>
+      <link>http://rahulmatthan.github.io/tags/payments/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/payments/</guid>
+      <guid>http://rahulmatthan.github.io/tags/payments/</guid>
       <description></description>
     </item>
     <item>
       <title>Social Media</title>
-      <link>http://localhost:1313/tags/social-media/</link>
+      <link>http://rahulmatthan.github.io/tags/social-media/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-media/</guid>
+      <guid>http://rahulmatthan.github.io/tags/social-media/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
+      <link>http://rahulmatthan.github.io/tags/space/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/space/</guid>
+      <guid>http://rahulmatthan.github.io/tags/space/</guid>
       <description></description>
     </item>
     <item>
       <title>Virtual Reality</title>
-      <link>http://localhost:1313/tags/virtual-reality/</link>
+      <link>http://rahulmatthan.github.io/tags/virtual-reality/</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/virtual-reality/</guid>
+      <guid>http://rahulmatthan.github.io/tags/virtual-reality/</guid>
       <description></description>
     </item>
     <item>
       <title>Surveillance</title>
-      <link>http://localhost:1313/tags/surveillance/</link>
+      <link>http://rahulmatthan.github.io/tags/surveillance/</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/surveillance/</guid>
+      <guid>http://rahulmatthan.github.io/tags/surveillance/</guid>
       <description></description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>http://localhost:1313/tags/gaming/</link>
+      <link>http://rahulmatthan.github.io/tags/gaming/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gaming/</guid>
+      <guid>http://rahulmatthan.github.io/tags/gaming/</guid>
       <description></description>
     </item>
     <item>
       <title>Drones</title>
-      <link>http://localhost:1313/tags/drones/</link>
+      <link>http://rahulmatthan.github.io/tags/drones/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/drones/</guid>
+      <guid>http://rahulmatthan.github.io/tags/drones/</guid>
       <description></description>
     </item>
     <item>
       <title>Renewable Energy</title>
-      <link>http://localhost:1313/tags/renewable-energy/</link>
+      <link>http://rahulmatthan.github.io/tags/renewable-energy/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/renewable-energy/</guid>
+      <guid>http://rahulmatthan.github.io/tags/renewable-energy/</guid>
       <description></description>
     </item>
     <item>
       <title>Maps</title>
-      <link>http://localhost:1313/tags/maps/</link>
+      <link>http://rahulmatthan.github.io/tags/maps/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/maps/</guid>
+      <guid>http://rahulmatthan.github.io/tags/maps/</guid>
       <description></description>
     </item>
     <item>
       <title>Encryption</title>
-      <link>http://localhost:1313/tags/encryption/</link>
+      <link>http://rahulmatthan.github.io/tags/encryption/</link>
       <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/encryption/</guid>
+      <guid>http://rahulmatthan.github.io/tags/encryption/</guid>
       <description></description>
     </item>
     <item>
       <title>Geopolitics of Technology</title>
-      <link>http://localhost:1313/tags/geopolitics-of-technology/</link>
+      <link>http://rahulmatthan.github.io/tags/geopolitics-of-technology/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/geopolitics-of-technology/</guid>
+      <guid>http://rahulmatthan.github.io/tags/geopolitics-of-technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
+      <link>http://rahulmatthan.github.io/tags/education/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/education/</guid>
+      <guid>http://rahulmatthan.github.io/tags/education/</guid>
       <description></description>
     </item>
     <item>
       <title>Standards</title>
-      <link>http://localhost:1313/tags/standards/</link>
+      <link>http://rahulmatthan.github.io/tags/standards/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/standards/</guid>
+      <guid>http://rahulmatthan.github.io/tags/standards/</guid>
       <description></description>
     </item>
     <item>
       <title>Autonomous Technology</title>
-      <link>http://localhost:1313/tags/autonomous-technology/</link>
+      <link>http://rahulmatthan.github.io/tags/autonomous-technology/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/autonomous-technology/</guid>
+      <guid>http://rahulmatthan.github.io/tags/autonomous-technology/</guid>
       <description></description>
     </item>
     <item>
       <title>IoT</title>
-      <link>http://localhost:1313/tags/iot/</link>
+      <link>http://rahulmatthan.github.io/tags/iot/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/iot/</guid>
+      <guid>http://rahulmatthan.github.io/tags/iot/</guid>
       <description></description>
     </item>
     <item>
       <title>Trust</title>
-      <link>http://localhost:1313/tags/trust/</link>
+      <link>http://rahulmatthan.github.io/tags/trust/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/trust/</guid>
+      <guid>http://rahulmatthan.github.io/tags/trust/</guid>
       <description></description>
     </item>
     <item>
       <title>Environment</title>
-      <link>http://localhost:1313/tags/environment/</link>
+      <link>http://rahulmatthan.github.io/tags/environment/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/environment/</guid>
+      <guid>http://rahulmatthan.github.io/tags/environment/</guid>
       <description></description>
     </item>
   </channel>
