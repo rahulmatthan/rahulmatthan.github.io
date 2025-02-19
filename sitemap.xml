@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/19/02/2025/an-internet-for-energy/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/identity/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/12/02/2025/is-there-anybody-out-there/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/05/02/2025/new-identity-solutions/</loc>
@@ -25,9 +34,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/29/01/2025/targeted-legislation/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
-    <lastmod>2025-01-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/22/01/2025/taking-stock/</loc>
     <lastmod>2025-01-22T00:00:00+00:00</lastmod>
@@ -193,9 +199,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/29/02/2024/learning-from-failure/</loc>
     <lastmod>2024-02-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
-    <lastmod>2024-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/21/02/2024/virtual-power-plants/</loc>
     <lastmod>2024-02-21T00:00:00+00:00</lastmod>

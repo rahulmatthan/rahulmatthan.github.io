@@ -6,8 +6,15 @@
     <description>Recent content in Digital Public Infrastructure on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An Internet for energy</title>
+      <link>http://rahulmatthan.github.io/19/02/2025/an-internet-for-energy/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/19/02/2025/an-internet-for-energy/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/an-internet-for-energy.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;There is an urgent need to re-design our energy grid to take better advantage of all that digital has to offer. A recent paper describes how we can add a digital layer to existing infrastructure and use this digital energy grid to unlock greater efficiencies. But in order to realise this goal we will need a shift in our regulatory mindset.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Taking Stock</title>
       <link>http://rahulmatthan.github.io/22/01/2025/taking-stock/</link>
@@ -20,7 +27,7 @@
       <link>http://rahulmatthan.github.io/06/12/2024/a-dpi-for-climate-change/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://rahulmatthan.github.io/06/12/2024/a-dpi-for-climate-change/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/a-dpi-for-climate-change.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;AI is a probalistic, non-deterministic technology. This is the reason why it is capable of doing much of what we appreciate it for. However, this does not align with our legal system that is binary in application. We need to rethink our approach to liability if we are to avail the benefits of AI.&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/a-dpi-for-climate-change.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Brazil has developed a rural environmental registry to encourage agriculturalists to follow sustainable land use policies and promote environmental preservation. If transformed into a DPI it can provide other countries a useful tool that, with some adaptation, they can use to meet their own environmental targets.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tech Solutions for Use Limitation</title>
