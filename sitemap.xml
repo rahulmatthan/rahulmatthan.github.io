@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/05/03/2025/threading-the-needle/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/26/02/2025/consent-managers/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
-    <lastmod>2025-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/19/02/2025/an-internet-for-energy/</loc>
@@ -214,9 +220,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/24/01/2024/embracing-odr/</loc>
     <lastmod>2024-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
-    <lastmod>2024-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/17/01/2024/the-zone-of-mischief/</loc>
     <lastmod>2024-01-17T00:00:00+00:00</lastmod>
