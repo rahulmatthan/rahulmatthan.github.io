@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/12/03/2025/assembly-theory/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+    <loc>http://rahulmatthan.github.io/tags/regulation/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/05/03/2025/threading-the-needle/</loc>
@@ -91,9 +97,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/30/10/2024/ai-optimisation/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/regulation/</loc>
-    <lastmod>2024-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/23/10/2024/the-ban-reflex/</loc>
     <lastmod>2024-10-23T00:00:00+00:00</lastmod>
