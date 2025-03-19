@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/technology/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/19/03/2025/the-cost-of-cold/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/12/03/2025/assembly-theory/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/tags/regulation/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
@@ -33,9 +42,6 @@
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/19/02/2025/an-internet-for-energy/</loc>
-    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
     <lastmod>2025-02-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/identity/</loc>
@@ -63,9 +69,6 @@
     <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/25/12/2024/a-look-back-at-2024/</loc>
-    <lastmod>2024-12-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/technology/</loc>
     <lastmod>2024-12-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/health/</loc>
