@@ -7,11 +7,11 @@ widgets: ["categories"]
 
 {{< figure src="/images/a-dpi-for-climate-change.jpg" width="auto" >}}
 
-_AI is a probalistic, non-deterministic technology. This is the reason why it is capable of doing much of what we appreciate it for. However, this does not align with our legal system that is binary in application. We need to rethink our approach to liability if we are to avail the benefits of AI._
+_Brazil has developed a rural environmental registry to encourage agriculturalists to follow sustainable land use policies and promote environmental preservation. If transformed into a DPI it can provide other countries a useful tool that, with some adaptation, they can use to meet their own environmental targets._
 
 <!--more-->
 
-_This article was first published in The Mint. You can read the original at [_this link_](https://www.livemint.com/opinion/columns/well-have-to-update-legislative-frameworks-for-an-age-of-artificial-intelligence-ai-llms-software-legislation-11732519329836.html). If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this [link](https://paragraph.xyz/@exmachina)._
+_This article was first published in The Mint. You can read the original at [_this link_](https://www.livemint.com/opinion/columns/digital-public-infrastructure-could-help-the-world-fight-climate-change-dpi-cop-29-brazil-sustainability-goals-11733297323341.html). If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this [link](https://paragraph.xyz/@exmachina)._
 
 ---
 When you spend so much of your time working on India’s digital public infrastructure, it is easy to overlook all the other countries that are building population-scale infrastructure. Sometimes to your detriment.

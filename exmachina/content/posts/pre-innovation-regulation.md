@@ -29,8 +29,6 @@ As it happens, over the past few years, more than a few countries have attempted
 
 The European Commission, on the other hand, has come up with a full-blown legislative proposal that lists in excruciating detail how it is going to regulate “high risk AI systems”. This includes requiring AI companies to ensure constant iterative evaluation of risks; making sure they only use error-free data-sets for training; and imposing on them an obligation to establish audit trails for transparency. It also intends to establish a European AI Board and institute a penalty regime that is even steeper than the General Data Protection Regulation (GDPR), with fines of up to 6% of global turnover for transgressions.
 
-This tracks with EUs generally cautious approach to new technology and the
-
 Both these regulatory proposals attempt to fix what we believe we know—based on our current experience—is wrong about algorithmic systems. They prevent the discrimination we’ve seen these systems perpetrate because they have been trained on human data, with all its implicit biases. And attempt to mitigate privacy harms that could occur when AI systems use our information for purposes other than what they were collected for or process it without notice.
 
 ### A New Approach
