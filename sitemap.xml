@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <loc>http://rahulmatthan.github.io/tags/content-moderation/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/regulation/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/26/03/2025/transparent-take-down/</loc>
+    <lastmod>2025-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/technology/</loc>
@@ -24,9 +33,6 @@
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
-    <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/regulation/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
@@ -121,9 +127,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/11/09/2024/the-grand-bargain/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/content-moderation/</loc>
-    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/05/09/2024/the-loss-of-immunity/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
