@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/07/05/2025/de-extinction/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/technology/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/30/04/2025/bias-is-good/</loc>
-    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2025-04-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/climate-change/</loc>
@@ -40,9 +46,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/26/03/2025/transparent-take-down/</loc>
     <lastmod>2025-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/technology/</loc>
-    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/19/03/2025/the-cost-of-cold/</loc>
     <lastmod>2025-03-19T00:00:00+00:00</lastmod>
