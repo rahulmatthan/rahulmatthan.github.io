@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
-    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <loc>http://rahulmatthan.github.io/21/05/2025/big-data-protection/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/digital-public-infrastructure/</loc>
     <lastmod>2025-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/14/05/2025/verifiable-credentials/</loc>
@@ -58,9 +64,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/tags/data-governance/</loc>
     <lastmod>2025-03-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/privacy/</loc>
-    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/05/03/2025/threading-the-needle/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
