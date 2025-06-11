@@ -6,8 +6,15 @@
     <description>Recent content in Digital Public Infrastructure on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are We There Yet?</title>
+      <link>http://rahulmatthan.github.io/11/06/2025/are-we-there-yet/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/11/06/2025/are-we-there-yet/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/are-we-there-yet.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;As anyone who lives in India knows, it is really hard to get aroundon your own. Our addressing system is broken and while GPS gets you to vicinity of where you need to be no trip is complete without making a phone call to navigate the last mile. We need a better system. And we might just have got one.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Verifiable Credentials</title>
       <link>http://rahulmatthan.github.io/14/05/2025/verifiable-credentials/</link>
