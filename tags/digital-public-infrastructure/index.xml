@@ -6,8 +6,15 @@
     <description>Recent content in Digital Public Infrastructure on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/tags/digital-public-infrastructure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tragedy of the Commons</title>
+      <link>http://rahulmatthan.github.io/02/07/2025/tragedy-of-the-commons/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/02/07/2025/tragedy-of-the-commons/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/tragedy-of-the-commons.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;The open source sustainability crisis refers to the fact that many of the foundational open source applications on which all of us depend are maintained by small teams of volunteers in their spare time. Since the DPGs are also open source, do we run the risk of facing a similar challenge as we build DPI solutions using them?&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Are We There Yet?</title>
       <link>http://rahulmatthan.github.io/11/06/2025/are-we-there-yet/</link>
