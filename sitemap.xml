@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://rahulmatthan.github.io/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/30/07/2025/mobile-number-validation/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/posts/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://rahulmatthan.github.io/tags/telecommunication/</loc>
+    <lastmod>2025-07-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://rahulmatthan.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://rahulmatthan.github.io/</loc>
-    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://rahulmatthan.github.io/tags/intellectual-property/</loc>
-    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/posts/</loc>
-    <lastmod>2025-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/</loc>
     <lastmod>2025-07-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/23/07/2025/writing-for-readers/</loc>
@@ -292,9 +298,6 @@
   </url><url>
     <loc>http://rahulmatthan.github.io/27/12/2023/looking-back-on-2023/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://rahulmatthan.github.io/tags/telecommunication/</loc>
-    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://rahulmatthan.github.io/20/12/2023/the-big-telecom-reform/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>

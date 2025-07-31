@@ -6,8 +6,15 @@
     <description>Recent content in Telecommunication on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://rahulmatthan.github.io/tags/telecommunication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mobile Number Validation</title>
+      <link>http://rahulmatthan.github.io/30/07/2025/mobile-number-validation/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://rahulmatthan.github.io/30/07/2025/mobile-number-validation/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/mobile-number-validation.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Given how widely OTPs are used for a range of different purposes, it has become the focus of attention for malicious actors. While that might be the case, the system that the Department of Telecommunications is building to crack down on these abuses, will excessively centralise data and exceed its authority.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Big Telecom Reform</title>
       <link>http://rahulmatthan.github.io/20/12/2023/the-big-telecom-reform/</link>
