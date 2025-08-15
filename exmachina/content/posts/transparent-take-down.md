@@ -11,7 +11,7 @@ widgets:
 _Content moderation is a wicked problem - that calls on us to balance the fundamental right to speech and expression with the need to prevent the spread of harmful content. This is a fine balance that we need to strike with careful attention to constitutional principles._
 
 <!--more-->
-_This is a link-enhanced version of an article that first appeared in the Mint. You can read the original [here](https://www.livemint.com/opinion/online-views/x-karnataka-high-court-sahyog-portal-it-act-section-69a-content-moderation-freedom-of-speech-online-content-section-79-c-11742808642810.html). If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this [link](https://paragraph.xyz/@exmachina)._
+_This is a link-enhanced version of an article that first appeared in the Mint. You can read the original [here](https://archive.rahulmatthan.com/archive/1748500469.88437/www.livemint.com/opinion/online-views/x-karnataka-high-court-sahyog-portal-it-act-section-69a-content-moderation-freedom-of-speech-online-content-section-79-c-11742808642810.html). If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this [link](https://paragraph.xyz/@exmachina)._
 
 ---
 

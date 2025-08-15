@@ -11,7 +11,7 @@ widgets:
 _The climate consensus is rapidly unravelling. With the developing world consistently failing to make the level of commitment required to prevent global warming from exceeding 1.5 degrees above pre-industrial levels, we need to think differently about achieving sustainable development. Could we apply DPI Thinking to this problem?_
 
 <!--more-->
-_This is a link-enhanced version of an article that first appeared in the Mint. You can read the original [here](https://www.livemint.com/opinion/online-views/climate-change-developing-countries-climate-mitigation-paris-agreement-carbon-emissions-renewable-energy-climate-adapt-11743406104939.html). If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this [link](https://paragraph.xyz/@exmachina)._
+_This is a link-enhanced version of an article that first appeared in the Mint. You can read the original [here](https://archive.rahulmatthan.com/archive/1748500684.207341/www.livemint.com/opinion/online-views/climate-change-developing-countries-climate-mitigation-paris-agreement-carbon-emissions-renewable-energy-climate-adapt-11743406104939.html). If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this [link](https://paragraph.xyz/@exmachina)._
 
 ---
 
