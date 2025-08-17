@@ -23,7 +23,7 @@ For the most part, this is because of the tremendous effort that manufacturers h
 
 All this has added to the weight of the car, forcing manufacturers to make their engines even more powerful, which has, in turn, further increased the [vehicle’s weight](https://austinvernon.site/blog/cheaptransportation.html?utm_source=substack&utm_medium=email). What all this means is that, year after year, our streets are being filled with even more massive metal machines that are far heavier and more powerful than they need to be.
 
-There is an economic cost to all this. Since they are designed to meet crash standards, our cars today are far less aerodynamic than they could have been, and, as a result, consume far more fuel than they need to. Given the additional weight of their safety features and much larger engines, their tyres suffer far more wear and tear, which has increased maintenance costs all around.
+There is an economic cost to all this. Since they are designed to meet crash standards, our cars today are far less aerodynamic than they could have been, and, a s a result, consume far more fuel than they need to. Given the additional weight of their safety features and much larger engines, their tyres suffer far more wear and tear, which has increased maintenance costs all around.
 
 We know that it is technically possible to design cars up to ten times lighter without sacrificing speed or comfort. All we need to do is adopt a more aerodynamic design and a more lightweight frame—one that simply protects occupants from the elements and nothing more. This, however, is currently unthinkable because there is no way to ensure that light aerodynamic cars are safe.
 
