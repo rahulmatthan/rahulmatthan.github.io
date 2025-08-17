@@ -15,7 +15,7 @@ _This is a link-enhanced version of an article that first appeared in the Mint. 
 
 ---
 
-Each year, over a million people die in automobile accidents around the world. While this might seem like a high number in absolute terms, it has been trending downwards on a per capita basis from its peak in the mid-20th century.
+Each year, over a million people die in automobile accidents around the world. While this might seem like a high number in absolute terms, it has been trending downwards, on a per capita basis, from its peak in the mid-20th century.
 
 For the most part, this is because of the tremendous effort that manufacturers have put into making sure that their vehicles are safe. Since the vast majority of automobile accidents are on account of human error, today our cars come with airbags, crash harnesses, crumple zones and reinforced structures to give passengers the best chance of escaping unscathed. So much so that for more than half a century, our design efforts have been focused on protecting us from ourselves, rather than building more efficient transportation.
 
