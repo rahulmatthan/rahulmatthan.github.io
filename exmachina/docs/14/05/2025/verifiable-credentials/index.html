@@ -1,6 +1,185 @@
-<!doctype html><html class=no-js lang=en><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge"><title>Verifiable Credentials - Ex Machina</title><script>(function(e,t){e[t]=e[t].replace("no-js","js")})(document.documentElement,"className")</script><meta name=description content><meta property="og:url" content="http://rahulmatthan.github.io/14/05/2025/verifiable-credentials/"><meta property="og:site_name" content="Ex Machina"><meta property="og:title" content="Verifiable Credentials"><meta property="og:description" content="We built technology systems to enable data portability only to realise that system-to-system integration is a non-trivial lift. A far simpler solution is to create self-custodial verifiable credentials that are capable of being verified without relying on their issuers."><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2025-05-14T00:00:00+00:00"><meta property="article:modified_time" content="2025-05-14T00:00:00+00:00"><meta property="article:tag" content="Digital Public Infrastructure"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=/css/style.css><link rel="shortcut icon" href=/favicon.ico></head><body class=body><div class="container container--outer"><header class=header><div class="container header__container"><div class="logo logo--mixed"><a class=logo__link href=/ title="Ex Machina" rel=home><div class="logo__item logo__imagebox"><img class=logo__img src=/images/exmachina.jpg></div><div class="logo__item logo__text"><div class=logo__title>Ex Machina</div><div class=logo__tagline>Law. Technology. Society.</div></div></a></div><nav class=menu><button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
-<span class=menu__btn-title tabindex=-1>Menu</span></button><ul class=menu__list><li class=menu__item><a class=menu__link href=/index/><span class=menu__text>Index</span></a></li><li class=menu__item><a class=menu__link href=/topics/><span class=menu__text>Topics</span></a></li><li class=menu__item><a class=menu__link href=/books/><i class='fa fa-road'></i>
-<span class=menu__text>Books</span></a></li><li class=menu__item><a class=menu__link href=/podcast/><i class='fa fa-road'></i>
-<span class=menu__text>Podcast</span></a></li><li class=menu__item><a class=menu__link href=/about/><i class='fa fa-road'></i>
-<span class=menu__text>About</span></a></li></ul></nav></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><article class=post><header class=post__header><h1 class=post__title>Verifiable Credentials</h1><div class="post__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class=meta__text datetime=2025-05-14T00:00:00Z>May 14, 2025</time></div></div></header><div class="content post__content clearfix"><figure><img src=/images/verifiable-credentials.jpg width=auto></figure><p><em>We built technology systems to enable data portability only to realise that system-to-system integration is a non-trivial lift. A far simpler solution is to create self-custodial verifiable credentials that are capable of being verified without relying on their issuers.</em></p><p><em>This is a link-enhanced version of an article that first appeared in the Mint. You can read the original <a href=https://archive.rahulmatthan.com/archive/1748510517.914127/www.livemint.com/opinion/online-views/digilocker-digiyatra-data-portability-digital-public-infrastructure-self-custodial-personal-data-gdpr-dpdp-dpi-qr-code-11747052653483.html>here</a>. If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this <a href=https://paragraph.xyz/@exmachina>link</a>.</em></p><hr><p>Back in the day, all we had to rely on were paper records. When we visited a doctor, we carried along with us a file containing all our medical records—prescriptions, diagnostic results, etc, for the doctor to review before treating what currently ailed us. When we went to our bank, it was always with passbook in hand, so that the history of our transactions could be manually updated in its pages for our record. This allowed us to do with this information what we pleased. If we needed a second opinion, we carried that same file to a new doctor so that he or she could read through it without needing to speak to our primary physician. If we applied for a loan from some other bank, we simply showed them our passbook so that they could assure themselves of our creditworthiness.</p><p>Over time, as these systems became more digital, the organisations we interacted with offered us new conveniences. They built digital systems that stored our data and designed internet portals and mobile applications we could use to access and interact with them. Eventually, these organisations came to realise that this data was valuable and, in order to preserve their competitive advantage, began to make the data hard for others to access. In the process, it also denies us, those to whom that data pertains, the ability to properly avail ourselves of it.</p><h3 id=data-portability>Data Portability</h3><p>Countries around the world have found different ways to address this problem. Europe included the right to data portability in its General Data Protection Regulation (<a href=https://gdpr-info.eu/>GDPR</a>), allowing residents to invoke this right in order to access their personal data that happens to be under the control of a data fiduciary. Other countries built large population-scale digital infrastructure to enable data transfers—in Australia, this is called the <a href=https://www.cdr.gov.au/>Consumer Data Rights</a> initiative, and in India, the Data Empowerment and Protection Architecture (<a href=https://www.niti.gov.in/sites/default/files/2023-03/Data-Empowerment-and-Protection-Architecture-A-Secure-Consent-Based.pdf>DEPA</a>).</p><p>Today, these digital infrastructure projects are considered among the most important elements of a country’s digital public infrastructure (DPI) stack, making up, along with digital identities and payments, the holy trinity of DPI implementation. As currently envisaged, they connect different isolated systems to each other so as to enable data in one silo to be moved to another.</p><p>To work properly, we have to ensure that the digital system of a given organisation is capable of interacting with that of every other one that it needs to share data with, communicating in a language they all understand. We do this by putting in place Application Programming Interfaces (APIs), simple schema that all entities have to align with in order to understand data requests made by any one of them and be able to respond in a useful way.</p><h3 id=verifiable-credentials>Verifiable Credentials</h3><p>Despite the success we have had, this system-to-system approach is hard to implement at scale. Getting multiple organisations of different sizes and technical capabilities to align their digital applications with the requirements of these APIs takes months, sometimes years. And while we may have managed to pull this off in the financial services sector, it will be much harder to do so in others.</p><p>A <a href=https://drive.google.com/file/d/1kOEvGqjsKxoYvK3KglB77-DmmiZIykhA/view>recent paper by FIDE</a> suggests that the answer might lie in going back to where we started. When we only had paper records to rely on, we carried copies of our personal data with us. This self-custodial approach allowed us to use our information as we wanted and to share it with whomever we chose. If we can replicate this concept in the digital realm, we can regain agency over what is done with our data while still availing the benefits that digital systems provide.</p><p>A verifiable credential is a cryptographically secure digital representation of the claims made by an issuer (say, a bank) about a subject (such as the financial records of a customer) that is presented in a tamper-evident format capable of being independently verified without relying on its issuer. While we may not have realised it, we deal with verifiable credentials all the time. During COVID, for example, the credentials of the digital vaccination certificates we carried could be verified using a QR code. All the contents of our DigiLocker—digital versions of our driver’s licences, PAN cards and other government documents—are verifiable credentials, as are the aircraft boarding passes we place in the DigiYatra app for smooth airport security clearance.</p><p>If banks can provide us with personal information such as our bank statements and other financial records in the form of verifiable credentials, they will no longer have to worry whether the organisations seeking access to it have actually obtained our consent to use it. By giving us custody of that information in a robust machine-readable format, it is up to us to share it with whoever we choose. At the same time, since verifiable credentials are cryptographically guaranteed not to have been tampered with, recipients can trust that their contents are authentic. This establishes a user-centric, self-custodial solution to the data sharing problem that is easily scalable across ecosystems as they digitise.</p><h3 id=self-custodial-portability>Self-Custodial Portability</h3><p>APIs made data portable for institutions. Verifiable credentials will do that for users at a fraction of the cost. If we can get every bank, hospital and telecom company to issue verifiable credentials, we can reclaim agency over our data without the need for massive back-end systems that facilitate this.</p><p>We will need legislative and regulatory support to make this possible.</p><p>But that should not be too much to ask.</p></div><footer class=post__footer><div class="post__tags tags clearfix"><svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5.0 11V3C0 1.5.8.8.8.8S1.5.0 3 0h8c1.5.0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 100-6 3 3 0 000 6z"/></svg><ul class=tags__list><li class=tags__item><a class="tags__link btn" href=/tags/digital-public-infrastructure/ rel=tag>digital public infrastructure</a></li></ul></div></footer></article></main><div class="authorbox clearfix"><figure class=authorbox__avatar><img alt="Rahul Matthan avatar" src=/images/avatar.png class=avatar height=90 width=90></figure><div class=authorbox__header><span class=authorbox__name>About Rahul Matthan</span></div><div class=authorbox__description>Rahul Matthan is a lawyer who works at the intersection of law, technology and society.</div></div><nav class="pager flex"><div class="pager__item pager__item--prev"><a class=pager__link href=/07/05/2025/de-extinction/ rel=prev><span class=pager__subtitle>«&#8201;Previous</span><p class=pager__title>De-Extinction</p></a></div><div class="pager__item pager__item--next"><a class=pager__link href=/21/05/2025/big-data-protection/ rel=next><span class=pager__subtitle>Next&#8201;»</span><p class=pager__title>Big Data Protection</p></a></div></nav></div><aside class=sidebar></aside></div><footer class=footer><div class="container footer__container flex"><div class=footer__copyright>&copy; 2025 Ex Machina.
-<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> theme.</span></div></div></footer></div><script async defer src=/js/menu.js></script></body></html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Verifiable Credentials - Ex Machina</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="https://exmachina.in/14/05/2025/verifiable-credentials/">
+  <meta property="og:site_name" content="Ex Machina">
+  <meta property="og:title" content="Verifiable Credentials">
+  <meta property="og:description" content="We built technology systems to enable data portability only to realise that system-to-system integration is a non-trivial lift. A far simpler solution is to create self-custodial verifiable credentials that are capable of being verified without relying on their issuers.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-05-14T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-05-14T00:00:00+00:00">
+    <meta property="article:tag" content="Digital Public Infrastructure">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Ex Machina" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/images/exmachina.jpg">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Ex Machina</div>
+					<div class="logo__tagline">Law. Technology. Society.</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/index/">
+				
+				<span class="menu__text">Index</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/topics/">
+				
+				<span class="menu__text">Topics</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/books/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Books</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/podcast/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Podcast</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Verifiable Credentials</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2025-05-14T00:00:00Z">May 14, 2025</time></div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<figure><img src="/images/verifiable-credentials.jpg" width="auto">
+</figure>
+
+<p><em>We built technology systems to enable data portability only to realise that system-to-system integration is a non-trivial lift. A far simpler solution is to create self-custodial verifiable credentials that are capable of being verified without relying on their issuers.</em></p>
+<p><em>This is a link-enhanced version of an article that first appeared in the Mint. You can read the original <a href="https://archive.rahulmatthan.com/archive/1748510517.914127/www.livemint.com/opinion/online-views/digilocker-digiyatra-data-portability-digital-public-infrastructure-self-custodial-personal-data-gdpr-dpdp-dpi-qr-code-11747052653483.html">here</a>. If you would like to receive these articles in your inbox every week please consider subscribing by clicking on this <a href="https://paragraph.xyz/@exmachina">link</a>.</em></p>
+<hr>
+<p>Back in the day, all we had to rely on were paper records. When we visited a doctor, we carried along with us a file containing all our medical records—prescriptions, diagnostic results, etc, for the doctor to review before treating what currently ailed us. When we went to our bank, it was always with passbook in hand, so that the history of our transactions could be manually updated in its pages for our record. This allowed us to do with this information what we pleased. If we needed a second opinion, we carried that same file to a new doctor so that he or she could read through it without needing to speak to our primary physician. If we applied for a loan from some other bank, we simply showed them our passbook so that they could assure themselves of our creditworthiness.</p>
+<p>Over time, as these systems became more digital, the organisations we interacted with offered us new conveniences. They built digital systems that stored our data and designed internet portals and mobile applications we could use to access and interact with them. Eventually, these organisations came to realise that this data was valuable and, in order to preserve their competitive advantage, began to make the data hard for others to access. In the process, it also denies us, those to whom that data pertains, the ability to properly avail ourselves of it.</p>
+<h3 id="data-portability">Data Portability</h3>
+<p>Countries around the world have found different ways to address this problem. Europe included the right to data portability in its General Data Protection Regulation (<a href="https://gdpr-info.eu/">GDPR</a>), allowing residents to invoke this right in order to access their personal data that happens to be under the control of a data fiduciary. Other countries built large population-scale digital infrastructure to enable data transfers—in Australia, this is called the <a href="https://www.cdr.gov.au/">Consumer Data Rights</a> initiative, and in India, the Data Empowerment and Protection Architecture (<a href="https://www.niti.gov.in/sites/default/files/2023-03/Data-Empowerment-and-Protection-Architecture-A-Secure-Consent-Based.pdf">DEPA</a>).</p>
+<p>Today, these digital infrastructure projects are considered among the most important elements of a country’s digital public infrastructure (DPI) stack, making up, along with digital identities and payments, the holy trinity of DPI implementation. As currently envisaged, they connect different isolated systems to each other so as to enable data in one silo to be moved to another.</p>
+<p>To work properly, we have to ensure that the digital system of a given organisation is capable of interacting with that of every other one that it needs to share data with, communicating in a language they all understand. We do this by putting in place Application Programming Interfaces (APIs), simple schema that all entities have to align with in order to understand data requests made by any one of them and be able to respond in a useful way.</p>
+<h3 id="verifiable-credentials">Verifiable Credentials</h3>
+<p>Despite the success we have had, this system-to-system approach is hard to implement at scale. Getting multiple organisations of different sizes and technical capabilities to align their digital applications with the requirements of these APIs takes months, sometimes years. And while we may have managed to pull this off in the financial services sector, it will be much harder to do so in others.</p>
+<p>A <a href="https://drive.google.com/file/d/1kOEvGqjsKxoYvK3KglB77-DmmiZIykhA/view">recent paper by FIDE</a> suggests that the answer might lie in going back to where we started. When we only had paper records to rely on, we carried copies of our personal data with us. This self-custodial approach allowed us to use our information as we wanted and to share it with whomever we chose. If we can replicate this concept in the digital realm, we can regain agency over what is done with our data while still availing the benefits that digital systems provide.</p>
+<p>A verifiable credential is a cryptographically secure digital representation of the claims made by an issuer (say, a bank) about a subject (such as the financial records of a customer) that is presented in a tamper-evident format capable of being independently verified without relying on its issuer. While we may not have realised it, we deal with verifiable credentials all the time. During COVID, for example, the credentials of the digital vaccination certificates we carried could be verified using a QR code. All the contents of our DigiLocker—digital versions of our driver’s licences, PAN cards and other government documents—are verifiable credentials, as are the aircraft boarding passes we place in the DigiYatra app for smooth airport security clearance.</p>
+<p>If banks can provide us with personal information such as our bank statements and other financial records in the form of verifiable credentials, they will no longer have to worry whether the organisations seeking access to it have actually obtained our consent to use it. By giving us custody of that information in a robust machine-readable format, it is up to us to share it with whoever we choose. At the same time, since verifiable credentials are cryptographically guaranteed not to have been tampered with, recipients can trust that their contents are authentic. This establishes a user-centric, self-custodial solution to the data sharing problem that is easily scalable across ecosystems as they digitise.</p>
+<h3 id="self-custodial-portability">Self-Custodial Portability</h3>
+<p>APIs made data portable for institutions. Verifiable credentials will do that for users at a fraction of the cost. If we can get every bank, hospital and telecom company to issue verifiable credentials, we can reclaim agency over our data without the need for massive back-end systems that facilitate this.</p>
+<p>We will need legislative and regulatory support to make this possible.</p>
+<p>But that should not be too much to ask.</p>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/digital-public-infrastructure/" rel="tag">digital public infrastructure</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Rahul Matthan avatar" src="/images/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Rahul Matthan</span>
+	</div>
+	<div class="authorbox__description">
+		Rahul Matthan is a lawyer who works at the intersection of law, technology and society.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/07/05/2025/de-extinction/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">De-Extinction</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/21/05/2025/big-data-protection/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Big Data Protection</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 Ex Machina.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

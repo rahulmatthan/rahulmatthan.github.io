@@ -1,4 +1,5 @@
-baseURL = 'http://rahulmatthan.github.io/'
+baseURL = 'https://exmachina.in/'
+publishDir = "docs"
 languageCode = 'en'
 title = 'Ex Machina'
 theme = "mainroad"
