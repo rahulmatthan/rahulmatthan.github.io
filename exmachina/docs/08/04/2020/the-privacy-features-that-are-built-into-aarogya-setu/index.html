@@ -1,6 +1,180 @@
-<!doctype html><html class=no-js lang=en><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge"><title>The privacy features that are built into Aarogya Setu - Ex Machina</title><script>(function(e,t){e[t]=e[t].replace("no-js","js")})(document.documentElement,"className")</script><meta name=description content><meta property="og:url" content="https://exmachina.in/08/04/2020/the-privacy-features-that-are-built-into-aarogya-setu/"><meta property="og:site_name" content="Ex Machina"><meta property="og:title" content="The privacy features that are built into Aarogya Setu"><meta property="og:description" content="The Indian government’s Aarogya Setu app aims to slow the spread of COVID-19 by tracking and testing those who have come into contact with infected individuals. Despite concerns over personal privacy, the app incorporates privacy protections such as dissociating personal data, retaining data on the device by default, and strict data retention policies."><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2020-04-08T00:00:00+00:00"><meta property="article:modified_time" content="2020-04-08T00:00:00+00:00"><meta property="article:tag" content="Privacy"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=/css/style.css><link rel="shortcut icon" href=/favicon.ico></head><body class=body><div class="container container--outer"><header class=header><div class="container header__container"><div class="logo logo--mixed"><a class=logo__link href=/ title="Ex Machina" rel=home><div class="logo__item logo__imagebox"><img class=logo__img src=/images/exmachina.jpg></div><div class="logo__item logo__text"><div class=logo__title>Ex Machina</div><div class=logo__tagline>Law. Technology. Society.</div></div></a></div><nav class=menu><button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
-<span class=menu__btn-title tabindex=-1>Menu</span></button><ul class=menu__list><li class=menu__item><a class=menu__link href=/index/><span class=menu__text>Index</span></a></li><li class=menu__item><a class=menu__link href=/topics/><span class=menu__text>Topics</span></a></li><li class=menu__item><a class=menu__link href=/books/><i class='fa fa-road'></i>
-<span class=menu__text>Books</span></a></li><li class=menu__item><a class=menu__link href=/podcast/><i class='fa fa-road'></i>
-<span class=menu__text>Podcast</span></a></li><li class=menu__item><a class=menu__link href=/about/><i class='fa fa-road'></i>
-<span class=menu__text>About</span></a></li></ul></nav></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><article class=post><header class=post__header><h1 class=post__title>The privacy features that are built into Aarogya Setu</h1><div class="post__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class=meta__text datetime=2020-04-08T00:00:00Z>April 08, 2020</time></div></div></header><div class="content post__content clearfix"><p><em>The Indian government&rsquo;s Aarogya Setu app aims to slow the spread of COVID-19 by tracking and testing those who have come into contact with infected individuals. Despite concerns over personal privacy, the app incorporates privacy protections such as dissociating personal data, retaining data on the device by default, and strict data retention policies.</em></p><p><em>This article was first published in The Mint. You can read the original at <a href=https://www.livemint.com/opinion/columns/the-privacy-features-that-are-built-into-aarogya-setu-11586279239882.html>this link</a>.</em></p><hr><p>The biggest challenge in dealing with covid-19 is that infected people are contagious long before they are visibly symptomatic. This means that by the time you know for sure that you are ill, you would have already infected a number of people. These people, in turn, would have infected others, and so on in an outward ripple. If we can quickly track and test everyone who an infected patient came in contact with and isolate them before they transmit the disease, we have a chance to slow its spread.</p><p>Last week, the Indian government launched an app called Aarogya Setu to try and use data science to solve this problem. The app is already wildly popular, having been downloaded over 10 million times at the time of writing this. But in the privacy circles I inhabit, it’s been met with cynical scepticism. This is hardly surprising, since its stated purpose—to identify everyone you might have contacted so that they can be tested if you contract covid-19—clearly has the potential to violate personal privacy.</p><p>Over the past two weeks, I have been advising the government on how best to design Aarogya Setu so that it can achieve its stated objective while safeguarding user privacy. Given that much of what the app needs to do to achieve its purpose could also affect personal privacy, there were many unavoidable trade-offs that had to be made. But even so, the app has incorporated in its design a number of important privacy protections. Given the widespread concern, I thought I’d use this week’s column to highlight the features of the app that give me comfort.</p><p>Aarogya Setu was designed on the assumption that if two mobile phones are within Bluetooth range of each other, their owners are probably close enough to transmit the virus. When two phones on which the app has been installed come close to each other, the app gets activated and both phones quietly exchange information about where the contact happened, with whom, and for what duration. If you subsequently test positive for the virus, details of all those you came in contact with over the past 30 days and who have a high likelihood of having been infected by you are sent to the Union health ministry so that they can be tested on priority.</p><p>So what exactly was done to protect the personal privacy of Aarogya Setu users?</p><p>To begin with, the app dissociates you from your data very early on during the on-boarding process. All personally identifiable information submitted at registration—your name, age, sex, telephone number—is securely uploaded to its server and hashed with a unique, randomly generated device ID number (DiD). This DiD is your identifier for all further app interactions. When you come in contact with someone, it is this DiD that is sent to his or her device, not your name and phone number. When the app needs to calculate your probability of being infected, it is this DiD that is uploaded to the server along with your contact history. It is only when your risk of infection is so high that the government needs to tell you to get tested that the DiD is reconnected to your personal information.</p><p>Secondly, data collected by the app is designed to remain, by default, on your device. In order to work, the app needs to collect location information and contact histories. All this information is stored in the app and on your device. It is only if you are unwell with the virus and at risk of infecting others that your GPS location history as well as the details of everyone you came in contact with are sent to the cloud.</p><p>Finally, the app has strict data retention policies that ensure all information collected is purged after a specified duration. Contact and location information on the app is deleted on a 30-day rolling cycle, with similar data retention rules applying to information on the cloud. What this means is that even though the app collects a lot of information, all that data is destroyed once it’s no longer required.</p><p>At present, use of the app is entirely voluntary. Those who do not want Aarogya Setu to collect or share their information can simply choose not to download it. Even if you have already installed the app on your device, you can at any time turn off location services or simply uninstall it. Giving users such choice is critical to personal privacy.</p><p>Aarogya Setu was designed to serve the legitimate state purpose of trying to stop the spread of a deadly pandemic. It incorporates the well-established privacy principles of use limitation, purpose limitation, data minimization, its retention and security. To the extent that it impinges on personal privacy, it does so reasonably and with due adherence to accepted privacy principles.</p><p>In terms of what could be improved, I would like to see the app released as open source code so that independent app developers could examine it and satisfy themselves with respect to how it works. If, in the process, they discover mistakes or bits of code that don’t function as advertised, they could let the Indian government know, so that the particular piece of code can be fixed, thus improving overall outcomes.</p><p>Like all apps, Aarogya Setu has detailed terms of service and an openly stated privacy policy. Those knowledgeable about such matters will notice that its privacy policy is explicit, exhaustively covering all information collected by the app and everything that will be done with it.</p><p>I encourage you to read it for yourself, and if you notice anything amiss, or missing, please point it out.</p></div><footer class=post__footer><div class="post__tags tags clearfix"><svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5.0 11V3C0 1.5.8.8.8.8S1.5.0 3 0h8c1.5.0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 100-6 3 3 0 000 6z"/></svg><ul class=tags__list><li class=tags__item><a class="tags__link btn" href=/tags/privacy/ rel=tag>Privacy</a></li></ul></div></footer></article></main><div class="authorbox clearfix"><figure class=authorbox__avatar><img alt="Rahul Matthan avatar" src=/images/avatar.png class=avatar height=90 width=90></figure><div class=authorbox__header><span class=authorbox__name>About Rahul Matthan</span></div><div class=authorbox__description>Rahul Matthan is a lawyer who works at the intersection of law, technology and society.</div></div><nav class="pager flex"><div class="pager__item pager__item--prev"><a class=pager__link href=/01/04/2020/the-corona-crisis-must-not-make-us-shut-the-world-out/ rel=prev><span class=pager__subtitle>«&#8201;Previous</span><p class=pager__title>The corona crisis must not make us shut the world out</p></a></div><div class="pager__item pager__item--next"><a class=pager__link href=/15/04/2020/the-need-to-strengthen-indias-internet-infrastructure/ rel=next><span class=pager__subtitle>Next&#8201;»</span><p class=pager__title>The need to strengthen India’s internet infrastructure</p></a></div></nav></div><aside class=sidebar></aside></div><footer class=footer><div class="container footer__container flex"><div class=footer__copyright>&copy; 2025 Ex Machina.
-<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> theme.</span></div></div></footer></div><script async defer src=/js/menu.js></script></body></html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>The privacy features that are built into Aarogya Setu - Ex Machina</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="https://exmachina.in/08/04/2020/the-privacy-features-that-are-built-into-aarogya-setu/">
+  <meta property="og:site_name" content="Ex Machina">
+  <meta property="og:title" content="The privacy features that are built into Aarogya Setu">
+  <meta property="og:description" content="The Indian government’s Aarogya Setu app aims to slow the spread of COVID-19 by tracking and testing those who have come into contact with infected individuals. Despite concerns over personal privacy, the app incorporates privacy protections such as dissociating personal data, retaining data on the device by default, and strict data retention policies.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2020-04-08T00:00:00+00:00">
+    <meta property="article:modified_time" content="2020-04-08T00:00:00+00:00">
+    <meta property="article:tag" content="Privacy">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Ex Machina" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/images/exmachina.jpg">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Ex Machina</div>
+					<div class="logo__tagline">Law. Technology. Society.</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/index/">
+				
+				<span class="menu__text">Index</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/topics/">
+				
+				<span class="menu__text">Topics</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/books/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Books</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/podcast/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Podcast</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">The privacy features that are built into Aarogya Setu</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-08T00:00:00Z">April 08, 2020</time></div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p><em>The Indian government&rsquo;s Aarogya Setu app aims to slow the spread of COVID-19 by tracking and testing those who have come into contact with infected individuals. Despite concerns over personal privacy, the app incorporates privacy protections such as dissociating personal data, retaining data on the device by default, and strict data retention policies.</em></p>
+<p><em>This article was first published in The Mint. You can read the original at <a href="https://www.livemint.com/opinion/columns/the-privacy-features-that-are-built-into-aarogya-setu-11586279239882.html">this link</a>.</em></p>
+<hr>
+<p>The biggest challenge in dealing with covid-19 is that infected people are contagious long before they are visibly symptomatic. This means that by the time you know for sure that you are ill, you would have already infected a number of people. These people, in turn, would have infected others, and so on in an outward ripple. If we can quickly track and test everyone who an infected patient came in contact with and isolate them before they transmit the disease, we have a chance to slow its spread.</p>
+<p>Last week, the Indian government launched an app called Aarogya Setu to try and use data science to solve this problem. The app is already wildly popular, having been downloaded over 10 million times at the time of writing this. But in the privacy circles I inhabit, it’s been met with cynical scepticism. This is hardly surprising, since its stated purpose—to identify everyone you might have contacted so that they can be tested if you contract covid-19—clearly has the potential to violate personal privacy.</p>
+<p>Over the past two weeks, I have been advising the government on how best to design Aarogya Setu so that it can achieve its stated objective while safeguarding user privacy. Given that much of what the app needs to do to achieve its purpose could also affect personal privacy, there were many unavoidable trade-offs that had to be made. But even so, the app has incorporated in its design a number of important privacy protections. Given the widespread concern, I thought I’d use this week’s column to highlight the features of the app that give me comfort.</p>
+<p>Aarogya Setu was designed on the assumption that if two mobile phones are within Bluetooth range of each other, their owners are probably close enough to transmit the virus. When two phones on which the app has been installed come close to each other, the app gets activated and both phones quietly exchange information about where the contact happened, with whom, and for what duration. If you subsequently test positive for the virus, details of all those you came in contact with over the past 30 days and who have a high likelihood of having been infected by you are sent to the Union health ministry so that they can be tested on priority.</p>
+<p>So what exactly was done to protect the personal privacy of Aarogya Setu users?</p>
+<p>To begin with, the app dissociates you from your data very early on during the on-boarding process. All personally identifiable information submitted at registration—your name, age, sex, telephone number—is securely uploaded to its server and hashed with a unique, randomly generated device ID number (DiD). This DiD is your identifier for all further app interactions. When you come in contact with someone, it is this DiD that is sent to his or her device, not your name and phone number. When the app needs to calculate your probability of being infected, it is this DiD that is uploaded to the server along with your contact history. It is only when your risk of infection is so high that the government needs to tell you to get tested that the DiD is reconnected to your personal information.</p>
+<p>Secondly, data collected by the app is designed to remain, by default, on your device. In order to work, the app needs to collect location information and contact histories. All this information is stored in the app and on your device. It is only if you are unwell with the virus and at risk of infecting others that your GPS location history as well as the details of everyone you came in contact with are sent to the cloud.</p>
+<p>Finally, the app has strict data retention policies that ensure all information collected is purged after a specified duration. Contact and location information on the app is deleted on a 30-day rolling cycle, with similar data retention rules applying to information on the cloud. What this means is that even though the app collects a lot of information, all that data is destroyed once it’s no longer required.</p>
+<p>At present, use of the app is entirely voluntary. Those who do not want Aarogya Setu to collect or share their information can simply choose not to download it. Even if you have already installed the app on your device, you can at any time turn off location services or simply uninstall it. Giving users such choice is critical to personal privacy.</p>
+<p>Aarogya Setu was designed to serve the legitimate state purpose of trying to stop the spread of a deadly pandemic. It incorporates the well-established privacy principles of use limitation, purpose limitation, data minimization, its retention and security. To the extent that it impinges on personal privacy, it does so reasonably and with due adherence to accepted privacy principles.</p>
+<p>In terms of what could be improved, I would like to see the app released as open source code so that independent app developers could examine it and satisfy themselves with respect to how it works. If, in the process, they discover mistakes or bits of code that don’t function as advertised, they could let the Indian government know, so that the particular piece of code can be fixed, thus improving overall outcomes.</p>
+<p>Like all apps, Aarogya Setu has detailed terms of service and an openly stated privacy policy. Those knowledgeable about such matters will notice that its privacy policy is explicit, exhaustively covering all information collected by the app and everything that will be done with it.</p>
+<p>I encourage you to read it for yourself, and if you notice anything amiss, or missing, please point it out.</p>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/privacy/" rel="tag">Privacy</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="Rahul Matthan avatar" src="/images/avatar.png" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Rahul Matthan</span>
+	</div>
+	<div class="authorbox__description">
+		Rahul Matthan is a lawyer who works at the intersection of law, technology and society.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/01/04/2020/the-corona-crisis-must-not-make-us-shut-the-world-out/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">The corona crisis must not make us shut the world out</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/15/04/2020/the-need-to-strengthen-indias-internet-infrastructure/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">The need to strengthen India’s internet infrastructure</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 Ex Machina.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

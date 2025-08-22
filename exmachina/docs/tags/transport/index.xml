@@ -1,7 +1,68 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Transport on Ex Machina</title><link>https://exmachina.in/tags/transport/</link><description>Recent content in Transport on Ex Machina</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://exmachina.in/tags/transport/index.xml" rel="self" type="application/rss+xml"/><item><title>A Driverless Future</title><link>https://exmachina.in/13/08/2025/a-driverless-future/</link><pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate><guid>https://exmachina.in/13/08/2025/a-driverless-future/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/a-driverless-future.jpg" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>For decades, we have been building our cars to save us from ourselves. As a result, we have made them heavier and less aerodynamic, driving up their cost. The smart (and more efficient) thing to do would be to take the driver out of the equation. Today, at long last, that might be feasible.&lt;/em>&lt;/p></description></item><item><title>Truckin</title><link>https://exmachina.in/07/06/2023/truckin/</link><pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate><guid>https://exmachina.in/07/06/2023/truckin/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/truckin.png" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>We’ve embraced technology when it comes to urban transport leveraging ride hailing applications for personal transport as well as the delivery of packages of all sorts right to our doorstep. And yet, our national road transport system is surprisingly analog.&lt;/em>&lt;/p></description></item><item><title>Setting the Standard</title><link>https://exmachina.in/26/04/2022/setting-the-standard/</link><pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><guid>https://exmachina.in/26/04/2022/setting-the-standard/</guid><description>&lt;p>&lt;em>I support India&amp;rsquo;s new draft battery-swapping policy for electric vehicles, particularly since it promotes battery-as-a-service and emphasizes openness without being overly prescriptive. However, we should aspire to lead in developing standards that align with its market, leveraging its position as the world&amp;rsquo;s largest two-wheeler market, and its expertise in the EV sector, to assume global leadership in battery swapping standards.&lt;/em>&lt;/p></description></item><item><title>Optimizing the flow of road traffic</title><link>https://exmachina.in/19/09/2018/optimizing-the-flow-of-road-traffic/</link><pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate><guid>https://exmachina.in/19/09/2018/optimizing-the-flow-of-road-traffic/</guid><description>&lt;p>&lt;em>Is there a solution to the frequent traffic jams in modern metropolitan cities in the emergent behaviour of fire ants. Ant colonies intuitively maintain optimal flow without clogging passageways. Applying this understanding, along with modern technology and autonomous vehicles, could potentially solve urban traffic problems.&lt;/em>&lt;/p></description></item><item><title>Battery harmonization will help electric vehicles</title><link>https://exmachina.in/28/02/2018/battery-harmonization-will-help-electric-vehicles/</link><pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate><guid>https://exmachina.in/28/02/2018/battery-harmonization-will-help-electric-vehicles/</guid><description>&lt;p>&lt;em>Tim Harford&amp;rsquo;s book highlights the shipping container&amp;rsquo;s pivotal role in globalizing the economy. Similarly, the electric vehicle (EV) industry could revolutionize transportation with standardized battery design and swapping technology, as demonstrated by Ashok Leyland&amp;rsquo;s rapid battery replacement system. India, aiming for an all-electric fleet by 2030, could lead this transformation.&lt;/em>&lt;/p></description></item><item><title>The Future of Ownership</title><link>https://exmachina.in/28/06/2017/the-future-of-ownership/</link><pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate><guid>https://exmachina.in/28/06/2017/the-future-of-ownership/</guid><description>&lt;p>&lt;em>The shift from private ownership to shared access, particularly in the automobile industry has been remarkable. With the rise of ride-hailing apps and potential for autonomous vehicles, the emphasis on owning a car is diminishing, especially in India, where the culture of vehicle ownership is less ingrained.&lt;/em>&lt;/p></description></item><item><title>Uberisation of National Transport</title><link>https://exmachina.in/22/02/2017/uberisation-of-national-transport/</link><pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate><guid>https://exmachina.in/22/02/2017/uberisation-of-national-transport/</guid><description>&lt;p>&lt;em>Early e-commerce companies in India had to create their own infrastructure, leading to the development of advanced logistics services within cities. However, inter-state transport has not seen the same technological transformation, largely due to regulatory constraints. Revisiting these regulations could lead to significant improvements in the national transportation infrastructure.&lt;/em>&lt;/p></description></item><item><title>The Ethics of Automation</title><link>https://exmachina.in/16/06/2016/the-ethics-of-automation/</link><pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate><guid>https://exmachina.in/16/06/2016/the-ethics-of-automation/</guid><description>&lt;p>&lt;em>We need to develop the ethical frameworks within which vehicle manufacturers should operate or else they will ensure that the parameters on which autonomous vehicles are regulated serve their own interests. Autonomous vehicles should not have to comply with laws designed for vehicles are driven by humans.&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transport on Ex Machina</title>
+    <link>https://exmachina.in/tags/transport/</link>
+    <description>Recent content in Transport on Ex Machina</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://exmachina.in/tags/transport/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Driverless Future</title>
+      <link>https://exmachina.in/13/08/2025/a-driverless-future/</link>
+      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/13/08/2025/a-driverless-future/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://exmachina.in/images/a-driverless-future.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;For decades, we have been building our cars to save us from ourselves. As a result, we have made them heavier and less aerodynamic, driving up their cost. The smart (and more efficient) thing to do would be to take the driver out of the equation. Today, at long last, that might be feasible.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Truckin</title>
+      <link>https://exmachina.in/07/06/2023/truckin/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/07/06/2023/truckin/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://exmachina.in/images/truckin.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;We’ve embraced technology when it comes to urban transport leveraging ride hailing applications for personal transport as well as the delivery of packages of all sorts right to our doorstep. And yet, our national road transport system is surprisingly analog.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Setting the Standard</title>
+      <link>https://exmachina.in/26/04/2022/setting-the-standard/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/26/04/2022/setting-the-standard/</guid>
+      <description>&lt;p&gt;&lt;em&gt;I support India&amp;rsquo;s new draft battery-swapping policy for electric vehicles, particularly since it promotes battery-as-a-service and emphasizes openness without being overly prescriptive. However, we should aspire to lead in developing standards that align with its market, leveraging its position as the world&amp;rsquo;s largest two-wheeler market, and its expertise in the EV sector, to assume global leadership in battery swapping standards.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Optimizing the flow of road traffic</title>
+      <link>https://exmachina.in/19/09/2018/optimizing-the-flow-of-road-traffic/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/19/09/2018/optimizing-the-flow-of-road-traffic/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Is there a solution to the frequent traffic jams in modern metropolitan cities in the emergent behaviour of fire ants. Ant colonies intuitively maintain optimal flow without clogging passageways. Applying this understanding, along with modern technology and autonomous vehicles, could potentially solve urban traffic problems.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Battery harmonization will help electric vehicles</title>
+      <link>https://exmachina.in/28/02/2018/battery-harmonization-will-help-electric-vehicles/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/28/02/2018/battery-harmonization-will-help-electric-vehicles/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Tim Harford&amp;rsquo;s book highlights the shipping container&amp;rsquo;s pivotal role in globalizing the economy. Similarly, the electric vehicle (EV) industry could revolutionize transportation with standardized battery design and swapping technology, as demonstrated by Ashok Leyland&amp;rsquo;s rapid battery replacement system. India, aiming for an all-electric fleet by 2030, could lead this transformation.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Future of Ownership</title>
+      <link>https://exmachina.in/28/06/2017/the-future-of-ownership/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/28/06/2017/the-future-of-ownership/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The shift from private ownership to shared access, particularly in the automobile industry has been remarkable. With the rise of ride-hailing apps and potential for autonomous vehicles, the emphasis on owning a car is diminishing, especially in India, where the culture of vehicle ownership is less ingrained.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uberisation of National Transport</title>
+      <link>https://exmachina.in/22/02/2017/uberisation-of-national-transport/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/22/02/2017/uberisation-of-national-transport/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Early e-commerce companies in India had to create their own infrastructure, leading to the development of advanced logistics services within cities. However, inter-state transport has not seen the same technological transformation, largely due to regulatory constraints. Revisiting these regulations could lead to significant improvements in the national transportation infrastructure.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Ethics of Automation</title>
+      <link>https://exmachina.in/16/06/2016/the-ethics-of-automation/</link>
+      <pubDate>Thu, 16 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://exmachina.in/16/06/2016/the-ethics-of-automation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;We need to develop the ethical frameworks within which vehicle manufacturers should operate or else they will ensure that the parameters on which autonomous vehicles are regulated serve their own interests. Autonomous vehicles should not have to comply with laws designed for vehicles are driven by humans.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
