@@ -4,9 +4,10 @@ date: "2025-08-20"
 tags: ["artificial intelligence"]
 widgets: 
 - "categories"
+draft: false
 ---
 
-{{< figure src="/images/free-ai.jpg" width="auto" >}}
+{{< figure src="free-ai.jpg" width="auto" >}}
 
 _The report of the RBI Committee on the Framework for the Responsible and Ethical Enablement of AI recommends a novel approach to AI regulation - one that encourages innovation and yet mitigates risk. It offers a blueprint for AI regulation in India._
 
@@ -41,4 +42,4 @@ Customer protection is paramount, and regardless of how AI is used by users, reg
 
 AI can prove transformational for India’s development, and we have to do whatever is necessary to allow this to happen. It calls for an entirely different approach to regulation than what we currently have—one that encourages responsible innovation and also mitigates risks.
 
-This, in sum, is the Free-AI approach. 
+This, in sum, is the Free-AI approach.

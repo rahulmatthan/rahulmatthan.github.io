@@ -1,16 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Identity on Ex Machina</title><link>https://exmachina.in/tags/identity/</link><description>Recent content in Identity on Ex Machina</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://exmachina.in/tags/identity/index.xml" rel="self" type="application/rss+xml"/><item><title>Full Circle</title><link>https://exmachina.in/06/08/2025/full-circle/</link><pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate><guid>https://exmachina.in/06/08/2025/full-circle/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/full-circle.jpg" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>When it was first launched, India&amp;rsquo;s identity project faced stiff opposition. Fifteen years later, it looks like the dystopia we were assured would befall us has not come to pass. To the contrary, there is widespread acknowledgement that in an increasingly online world, digital identity is a necessity.&lt;/em>&lt;/p></description></item><item><title>Is There Anybody Out There?</title><link>https://exmachina.in/12/02/2025/is-there-anybody-out-there/</link><pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><guid>https://exmachina.in/12/02/2025/is-there-anybody-out-there/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/is-there-anybody-out-there.jpg" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>Even though the number of users online has steadily increased over the years, conversations have grown increasingly stilted and subdued. This is the Fermi&amp;rsquo;s Paradox of the online world - even though there are so many of us are online we chose to keep our heads down, knowing that if we don&amp;rsquo;t, we run the risk of becoming a target for trolls.&lt;/em>&lt;/p></description></item><item><title>New Identity Solutions</title><link>https://exmachina.in/05/02/2025/new-identity-solutions/</link><pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate><guid>https://exmachina.in/05/02/2025/new-identity-solutions/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/new-identity-solutions.jpg" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>Last week the UIDAI initiated a process by which private-sector access to the authentication infrastructure would be restored. I have every hope that this will create a new ecosystem of identity service providers that will enable a range of different services - in particular in relation to obligations under the Digital Personal Data Protection Act.&lt;/em>&lt;/p></description></item><item><title>Proof of Humanness</title><link>https://exmachina.in/23/08/2023/proof-of-humanness/</link><pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate><guid>https://exmachina.in/23/08/2023/proof-of-humanness/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/proof-of-humanness.png" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>Worldcoin has been designed to address the concern that in a world saturated with artificial intelligence we are going to need a proof of humanness. As true as that might be, I believe we need to go much further. And also tackle truth in content.&lt;/em>&lt;/p></description></item><item><title>Aadhaar: The Fine Balance between Identity and Anonymity</title><link>https://exmachina.in/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</link><pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate><guid>https://exmachina.in/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</guid><description>&lt;p>&lt;em>In &amp;ldquo;Homo Deus&amp;rdquo;, Yuval Noah Harari suggests that Homo sapiens&amp;rsquo; success is due to our unique ability to believe in myths, like nation-states, which unite individuals under a common identity. This concept is crucial in modern society, where identity systems like India&amp;rsquo;s Aadhaar balance social responsibilities with personal privacy, highlighting the need for privacy laws to maintain this equilibrium.&lt;/em>&lt;/p></description></item><item><title>The Evolution of Identity</title><link>https://exmachina.in/24/08/2016/the-evolution-of-identity/</link><pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate><guid>https://exmachina.in/24/08/2016/the-evolution-of-identity/</guid><description>&lt;p>&lt;em>With the introduction of Aadhaar, the concept of anonymity on the Internet has been diminishing in India. While this shift has benefits, it contrasts with the continued presence of anonymous trolls online. Embracing verified accounts could restore normalcy and trust on the Internet.&lt;/em>&lt;/p></description></item><item><title>The Stiff Backbone of the Aadhaar Bill</title><link>https://exmachina.in/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</link><pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate><guid>https://exmachina.in/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/stiff-backbone-of-aadhaar.jpg" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>While it is not without its flaws, a closer examination of the provisions of the Aadhaar Act will make it clear that it imposes on the government, some of the strongest fetters on executive over-reach of any legislation in the country.&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Identity on Ex Machina</title>
+    <link>http://localhost:1313/tags/identity/</link>
+    <description>Recent content in Identity on Ex Machina</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/identity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full Circle</title>
+      <link>http://localhost:1313/06/08/2025/full-circle/</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/06/08/2025/full-circle/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/full-circle.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;When it was first launched, India&amp;rsquo;s identity project faced stiff opposition. Fifteen years later, it looks like the dystopia we were assured would befall us has not come to pass. To the contrary, there is widespread acknowledgement that in an increasingly online world, digital identity is a necessity.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is There Anybody Out There?</title>
+      <link>http://localhost:1313/12/02/2025/is-there-anybody-out-there/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/12/02/2025/is-there-anybody-out-there/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/is-there-anybody-out-there.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Even though the number of users online has steadily increased over the years, conversations have grown increasingly stilted and subdued. This is the Fermi&amp;rsquo;s Paradox of the online world - even though there are so many of us are online we chose to keep our heads down, knowing that if we don&amp;rsquo;t, we run the risk of becoming a target for trolls.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Identity Solutions</title>
+      <link>http://localhost:1313/05/02/2025/new-identity-solutions/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/05/02/2025/new-identity-solutions/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/new-identity-solutions.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Last week the UIDAI initiated a process by which private-sector access to the authentication infrastructure would be restored. I have every hope that this will create a new ecosystem of identity service providers that will enable a range of different services - in particular in relation to obligations under the Digital Personal Data Protection Act.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Proof of Humanness</title>
+      <link>http://localhost:1313/23/08/2023/proof-of-humanness/</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/23/08/2023/proof-of-humanness/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/proof-of-humanness.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Worldcoin has been designed to address the concern that in a world saturated with artificial intelligence we are going to need a proof of humanness. As true as that might be, I believe we need to go much further. And also tackle truth in content.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aadhaar: The Fine Balance between Identity and Anonymity</title>
+      <link>http://localhost:1313/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/17/05/2017/aadhaar-the-fine-balance-between-identity-and-anonymity/</guid>
+      <description>&lt;p&gt;&lt;em&gt;In &amp;ldquo;Homo Deus&amp;rdquo;, Yuval Noah Harari suggests that Homo sapiens&amp;rsquo; success is due to our unique ability to believe in myths, like nation-states, which unite individuals under a common identity. This concept is crucial in modern society, where identity systems like India&amp;rsquo;s Aadhaar balance social responsibilities with personal privacy, highlighting the need for privacy laws to maintain this equilibrium.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Evolution of Identity</title>
+      <link>http://localhost:1313/24/08/2016/the-evolution-of-identity/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/24/08/2016/the-evolution-of-identity/</guid>
+      <description>&lt;p&gt;&lt;em&gt;With the introduction of Aadhaar, the concept of anonymity on the Internet has been diminishing in India. While this shift has benefits, it contrasts with the continued presence of anonymous trolls online. Embracing verified accounts could restore normalcy and trust on the Internet.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Stiff Backbone of the Aadhaar Bill</title>
+      <link>http://localhost:1313/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</link>
+      <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/24/03/2016/the-stiff-backbone-of-the-aadhaar-bill/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/stiff-backbone-of-aadhaar.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;While it is not without its flaws, a closer examination of the provisions of the Aadhaar Act will make it clear that it imposes on the government, some of the strongest fetters on executive over-reach of any legislation in the country.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

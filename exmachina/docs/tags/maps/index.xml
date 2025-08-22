@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maps on Ex Machina</title><link>https://exmachina.in/tags/maps/</link><description>Recent content in Maps on Ex Machina</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://exmachina.in/tags/maps/index.xml" rel="self" type="application/rss+xml"/><item><title>Are We There Yet?</title><link>https://exmachina.in/11/06/2025/are-we-there-yet/</link><pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate><guid>https://exmachina.in/11/06/2025/are-we-there-yet/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/are-we-there-yet.jpg" width="auto">
-&lt;/figure>
-
-&lt;p>&lt;em>As anyone who lives in India knows, it is really hard to get aroundon your own. Our addressing system is broken and while GPS gets you to vicinity of where you need to be no trip is complete without making a phone call to navigate the last mile. We need a better system. And we might just have got one.&lt;/em>&lt;/p></description></item><item><title>Radical Map Reforms</title><link>https://exmachina.in/16/03/2021/radical-map-reforms/</link><pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate><guid>https://exmachina.in/16/03/2021/radical-map-reforms/</guid><description>&lt;p>&lt;em>The new map guidelines issued by the government has liberalised the map making in the country by doing away with the requirement for prior approvals and security clearances, relying instead on companies to self-certify their compliance. It has legalised the export of maps up to 1 meter resolution and have permitted Indian companies to use drones, street view and LiDAR technologies to create maps of higher resolution.&lt;/em>&lt;/p></description></item><item><title>Next Generation Map Technologies</title><link>https://exmachina.in/17/11/2020/next-generation-map-technologies/</link><pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate><guid>https://exmachina.in/17/11/2020/next-generation-map-technologies/</guid><description>&lt;p>&lt;em>Outdated regulations and a lack of accurate mapping technology has cost India up to $14 billion per year in inefficient last-mile delivery. We need to modernise map regulations and embrace next-gen technologies like LIDAR and drones to boost our mobility industries and pave the way for autonomous vehicles.&lt;/em>&lt;/p></description></item><item><title>The Everest Spheroid</title><link>https://exmachina.in/05/01/2017/the-everest-spheroid/</link><pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate><guid>https://exmachina.in/05/01/2017/the-everest-spheroid/</guid><description>&lt;p>&lt;em>The Indian government insists on using the Everest Spheroid as the reference datum for its maps, citing greater accuracy and military significance. However, with the development of the World Geodetic System, which uses the Earth&amp;rsquo;s center of mass, the government&amp;rsquo;s insistence on surface reference mapping and restrictions on map exportation appears outdated and unnecessary.&lt;/em>&lt;/p></description></item><item><title>Where Did Our Map Regulations Come From</title><link>https://exmachina.in/17/08/2016/where-did-our-map-regulations-come-from/</link><pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate><guid>https://exmachina.in/17/08/2016/where-did-our-map-regulations-come-from/</guid><description>&lt;p>&lt;em>India&amp;rsquo;s map regulations impose restrictions on the cross-border transfer of maps or map data - despite the global shift to cloud-based consumption. I investigate the origins of these arcane regulations to try and figure out how they came about and what can be done to set it right.&lt;/em>&lt;/p></description></item><item><title>What the New Geospatial Bill Means for You</title><link>https://exmachina.in/11/05/2016/what-the-new-geospatial-bill-means-for-you/</link><pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate><guid>https://exmachina.in/11/05/2016/what-the-new-geospatial-bill-means-for-you/</guid><description>&lt;p>&lt;em>The provisions of the proposed Geospatial Bill should be no surprise as these obligations have formed part of the map policy that has existed for a very long time. But thanks to the government&amp;rsquo;s approach of being outwardly strict in legislation but practically benevolent in enforcement our map ecosystem has flourished.&lt;/em>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on Ex Machina</title>
+    <link>http://localhost:1313/tags/maps/</link>
+    <description>Recent content in Maps on Ex Machina</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are We There Yet?</title>
+      <link>http://localhost:1313/11/06/2025/are-we-there-yet/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/11/06/2025/are-we-there-yet/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/are-we-there-yet.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;As anyone who lives in India knows, it is really hard to get aroundon your own. Our addressing system is broken and while GPS gets you to vicinity of where you need to be no trip is complete without making a phone call to navigate the last mile. We need a better system. And we might just have got one.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Radical Map Reforms</title>
+      <link>http://localhost:1313/16/03/2021/radical-map-reforms/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/16/03/2021/radical-map-reforms/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The new map guidelines issued by the government has liberalised the map making in the country by doing away with the requirement for prior approvals and security clearances, relying instead on companies to self-certify their compliance. It has legalised the export of maps up to 1 meter resolution and have permitted Indian companies to use drones, street view and LiDAR technologies to create maps of higher resolution.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Next Generation Map Technologies</title>
+      <link>http://localhost:1313/17/11/2020/next-generation-map-technologies/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/17/11/2020/next-generation-map-technologies/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Outdated regulations and a lack of accurate mapping technology has cost India up to $14 billion per year in inefficient last-mile delivery. We need to modernise map regulations and embrace next-gen technologies like LIDAR and drones to boost our mobility industries and pave the way for autonomous vehicles.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Everest Spheroid</title>
+      <link>http://localhost:1313/05/01/2017/the-everest-spheroid/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/05/01/2017/the-everest-spheroid/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The Indian government insists on using the Everest Spheroid as the reference datum for its maps, citing greater accuracy and military significance. However, with the development of the World Geodetic System, which uses the Earth&amp;rsquo;s center of mass, the government&amp;rsquo;s insistence on surface reference mapping and restrictions on map exportation appears outdated and unnecessary.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where Did Our Map Regulations Come From</title>
+      <link>http://localhost:1313/17/08/2016/where-did-our-map-regulations-come-from/</link>
+      <pubDate>Wed, 17 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/17/08/2016/where-did-our-map-regulations-come-from/</guid>
+      <description>&lt;p&gt;&lt;em&gt;India&amp;rsquo;s map regulations impose restrictions on the cross-border transfer of maps or map data - despite the global shift to cloud-based consumption. I investigate the origins of these arcane regulations to try and figure out how they came about and what can be done to set it right.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What the New Geospatial Bill Means for You</title>
+      <link>http://localhost:1313/11/05/2016/what-the-new-geospatial-bill-means-for-you/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/11/05/2016/what-the-new-geospatial-bill-means-for-you/</guid>
+      <description>&lt;p&gt;&lt;em&gt;The provisions of the proposed Geospatial Bill should be no surprise as these obligations have formed part of the map policy that has existed for a very long time. But thanks to the government&amp;rsquo;s approach of being outwardly strict in legislation but practically benevolent in enforcement our map ecosystem has flourished.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
