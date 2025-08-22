@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Payments on Ex Machina</title>
-    <link>http://rahulmatthan.github.io/tags/payments/</link>
+    <link>http://localhost:1313/tags/payments/</link>
     <description>Recent content in Payments on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rahulmatthan.github.io/tags/payments/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/payments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Unified Ledger</title>
-      <link>http://rahulmatthan.github.io/01/03/2023/the-unified-ledger/</link>
+      <link>http://localhost:1313/01/03/2023/the-unified-ledger/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/01/03/2023/the-unified-ledger/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/unified-ledger.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Central Bank Digital Currencies (CBDCs) and the tokenization of private money deposits could revolutionize the financial system. Agustin Carstens suggests a unified digital ledger for both public and private digital money, enabling efficiencies like smart contracts and instant settlements. This approach could extend to tokenizing various assets, transforming governance by embedding compliance within transactions.&lt;/em&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/01/03/2023/the-unified-ledger/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/unified-ledger.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Central Bank Digital Currencies (CBDCs) and the tokenization of private money deposits could revolutionize the financial system. Agustin Carstens suggests a unified digital ledger for both public and private digital money, enabling efficiencies like smart contracts and instant settlements. This approach could extend to tokenizing various assets, transforming governance by embedding compliance within transactions.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Micropayment Alternative</title>
-      <link>http://rahulmatthan.github.io/28/07/2021/the-micropayment-alternative/</link>
+      <link>http://localhost:1313/28/07/2021/the-micropayment-alternative/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/28/07/2021/the-micropayment-alternative/</guid>
+      <guid>http://localhost:1313/28/07/2021/the-micropayment-alternative/</guid>
       <description>&lt;p&gt;&lt;em&gt;Advertising became the business model of the internet because we did not implement micropayments. However advertising has created perverse incentives and it is time we returned to the original idea of the founders of the World Wide Web and build micropayments solutions for the internet.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The CBDC Alternative</title>
-      <link>http://rahulmatthan.github.io/16/03/2021/the-cbdc-alternative/</link>
+      <link>http://localhost:1313/16/03/2021/the-cbdc-alternative/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/16/03/2021/the-cbdc-alternative/</guid>
+      <guid>http://localhost:1313/16/03/2021/the-cbdc-alternative/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bitcoin should not be treated as a currency. But at the same time it should not be banned. Cryptocurrencies are permissionless systems that operate without intermediaries. As a result central banks cannot implement macro-economic measures in the event of a financial crisis. However, they are programable and can be incorporated into smart contracts offering a number of opportunities for digital financial inclusion. CBDCs are the best of both worlds combining the programability of bitcoin with the stability of fiat currency.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Underbelly of Digital Lending</title>
-      <link>http://rahulmatthan.github.io/05/01/2021/the-underbelly-of-digital-lending/</link>
+      <link>http://localhost:1313/05/01/2021/the-underbelly-of-digital-lending/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/05/01/2021/the-underbelly-of-digital-lending/</guid>
+      <guid>http://localhost:1313/05/01/2021/the-underbelly-of-digital-lending/</guid>
       <description>&lt;p&gt;&lt;em&gt;Just as data can be used to democratise credit, these technologies are easily misused. Today [[digital lending]] companies prey on the poor by offering high interest loans to advertising targetted to popup when they are vulnerable. Regulating this will call for coordination between the telecom department (for anti-spam regulations) and MeITy to regulate (in-app advertising).&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Derived KYC</title>
-      <link>http://rahulmatthan.github.io/23/12/2020/derived-kyc/</link>
+      <link>http://localhost:1313/23/12/2020/derived-kyc/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/23/12/2020/derived-kyc/</guid>
+      <guid>http://localhost:1313/23/12/2020/derived-kyc/</guid>
       <description>&lt;p&gt;&lt;em&gt;The cost of KYC is an impediment to lending below a certain ticket size. If we can permit lenders to use [[Derived KYC]] ensuring that it is only deployed in a digital context with all the required guardrails we will be able to radically reduce the cost of KYC opening up lending to the masses.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to make online payments bustle with competition</title>
-      <link>http://rahulmatthan.github.io/05/08/2020/how-to-make-online-payments-bustle-with-competition/</link>
+      <link>http://localhost:1313/05/08/2020/how-to-make-online-payments-bustle-with-competition/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/05/08/2020/how-to-make-online-payments-bustle-with-competition/</guid>
+      <guid>http://localhost:1313/05/08/2020/how-to-make-online-payments-bustle-with-competition/</guid>
       <description>&lt;p&gt;&lt;em&gt;The National Payments Corporation of India (NPCI) is considering reviving a proposal to limit transactions per entity in the Unified Payments Interface (UPI) ecosystem to prevent market dominance by a few players. Currently, three major players dominate the market, with two accounting for 77% of transactions. The NPCI aims to mitigate systemic risks and promote competition. There are alternative measures like leveling the playing field, regulating data control, and allowing more participants, rather than imposing transaction limits, to ensure a diverse and competitive UPI ecosystem.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Digital Inclusion for the 85%</title>
-      <link>http://rahulmatthan.github.io/28/12/2016/digital-inclusion-for-the-85/</link>
+      <link>http://localhost:1313/28/12/2016/digital-inclusion-for-the-85/</link>
       <pubDate>Wed, 28 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/28/12/2016/digital-inclusion-for-the-85/</guid>
+      <guid>http://localhost:1313/28/12/2016/digital-inclusion-for-the-85/</guid>
       <description>&lt;p&gt;&lt;em&gt;2016 was a transformative year, marked by the e-commerce sector&amp;rsquo;s challenges following the Indian government&amp;rsquo;s Press Note 3. This led to innovative business models and growth in related industries like logistics and warehousing. The year also saw Aadhaar enrolment surpass 1 billion, laying the foundation for India&amp;rsquo;s digital transformation. The introduction of India Stack, particularly the Unified Payment Interface (UPI), revolutionized digital payments. However, the focus shifted towards including the larger, underserved population in the digital economy, highlighting the need for a balanced policy framework that respects privacy while leveraging data-driven decision-making.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Can we do without Cash</title>
-      <link>http://rahulmatthan.github.io/01/09/2016/can-we-do-without-cash/</link>
+      <link>http://localhost:1313/01/09/2016/can-we-do-without-cash/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/01/09/2016/can-we-do-without-cash/</guid>
+      <guid>http://localhost:1313/01/09/2016/can-we-do-without-cash/</guid>
       <description>&lt;p&gt;&lt;em&gt;Despite the potential benefits of digital payments, its widespread adoption in India is faced with numerous challenges. The real bottleneck is merchant acceptance, hindered by transaction costs and lack of infrastructure. The Unified Payment Interface (UPI) offers hope, integrating with Aadhaar for secure transactions and potentially lower costs, but success hinges on merchant adoption and regulatory support, shifting focus from consumer to merchant-centric solutions.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

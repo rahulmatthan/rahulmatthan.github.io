@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Space on Ex Machina</title>
-    <link>http://rahulmatthan.github.io/tags/space/</link>
+    <link>http://localhost:1313/tags/space/</link>
     <description>Recent content in Space on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rahulmatthan.github.io/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/space/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Space for the Private Sector</title>
-      <link>http://rahulmatthan.github.io/19/07/2022/space-for-the-private-sector/</link>
+      <link>http://localhost:1313/19/07/2022/space-for-the-private-sector/</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/19/07/2022/space-for-the-private-sector/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://rahulmatthan.github.io/images/space-for-private.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;There are many benefits that can be derived from space investments - including communication satellites, GPS technology, weather prediction, and various innovations. We need broad-based participation in the space sector, including private investments and to this end the Indian National Space Promotion and Authorisation Centre (IN-SPACe) is a positive step.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This article was first published in The Mint. You can read the original at&lt;/em&gt; &lt;a href=&#34;https://www.livemint.com/opinion/columns/why-the-sceptics-are-wrong-and-we-must-invest-in-space-11658246460149.html&#34;&gt;&lt;em&gt;this link&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Last week, my timeline lit up with some of the most gorgeous photographs of space that I have ever seen. The first images from the &lt;a href=&#34;https://jwst.nasa.gov/index.html&#34;&gt;James Webb telescope&lt;/a&gt; included stunning visuals of what the &lt;a href=&#34;https://jwst.nasa.gov/content/webbLaunch/assets/images/firstImages//image1-DeepField/STSCI-J-p22035a-2000px.jpg&#34;&gt;universe looked like soon after its birth&lt;/a&gt; and clear evidence that there was &lt;a href=&#34;https://jwst.nasa.gov/content/webbLaunch/assets/images/firstImages/image2-Exoplanet/MainImageExoplanet-4000px.jpg&#34;&gt;water in the atmosphere&lt;/a&gt; of a planet orbiting a distant star.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/19/07/2022/space-for-the-private-sector/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/space-for-private.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;There are many benefits that can be derived from space investments - including communication satellites, GPS technology, weather prediction, and various innovations. We need broad-based participation in the space sector, including private investments and to this end the Indian National Space Promotion and Authorisation Centre (IN-SPACe) is a positive step.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;This article was first published in The Mint. You can read the original at&lt;/em&gt; &lt;a href=&#34;https://www.livemint.com/opinion/columns/why-the-sceptics-are-wrong-and-we-must-invest-in-space-11658246460149.html&#34;&gt;&lt;em&gt;this link&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Last week, my timeline lit up with some of the most gorgeous photographs of space that I have ever seen. The first images from the &lt;a href=&#34;https://jwst.nasa.gov/index.html&#34;&gt;James Webb telescope&lt;/a&gt; included stunning visuals of what the &lt;a href=&#34;https://jwst.nasa.gov/content/webbLaunch/assets/images/firstImages//image1-DeepField/STSCI-J-p22035a-2000px.jpg&#34;&gt;universe looked like soon after its birth&lt;/a&gt; and clear evidence that there was &lt;a href=&#34;https://jwst.nasa.gov/content/webbLaunch/assets/images/firstImages/image2-Exoplanet/MainImageExoplanet-4000px.jpg&#34;&gt;water in the atmosphere&lt;/a&gt; of a planet orbiting a distant star.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elon Musk wants to colonise Mars but Earth needs to write its constitution first</title>
-      <link>http://rahulmatthan.github.io/13/06/2018/elon-musk-wants-to-colonise-mars-but-earth-needs-to-write-its-constitution-first/</link>
+      <link>http://localhost:1313/13/06/2018/elon-musk-wants-to-colonise-mars-but-earth-needs-to-write-its-constitution-first/</link>
       <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/13/06/2018/elon-musk-wants-to-colonise-mars-but-earth-needs-to-write-its-constitution-first/</guid>
+      <guid>http://localhost:1313/13/06/2018/elon-musk-wants-to-colonise-mars-but-earth-needs-to-write-its-constitution-first/</guid>
       <description>&lt;p&gt;&lt;em&gt;SpaceX&amp;rsquo;s plans for Mars colonization, challenge traditional space exploration norms dominated by governments. This raises questions about the regulation of private space exploration and the governance of extraterrestrial colonies, highlighting the need for a new regulatory framework as private companies lead space exploration.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

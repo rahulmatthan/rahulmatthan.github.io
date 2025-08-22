@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drones on Ex Machina</title>
-    <link>http://rahulmatthan.github.io/tags/drones/</link>
+    <link>http://localhost:1313/tags/drones/</link>
     <description>Recent content in Drones on Ex Machina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://rahulmatthan.github.io/tags/drones/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/drones/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Skies are Free</title>
-      <link>http://rahulmatthan.github.io/21/07/2021/the-skies-are-free/</link>
+      <link>http://localhost:1313/21/07/2021/the-skies-are-free/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/21/07/2021/the-skies-are-free/</guid>
+      <guid>http://localhost:1313/21/07/2021/the-skies-are-free/</guid>
       <description>&lt;p&gt;&lt;em&gt;By repealing the drones regulations it passed just 4 months previously the government has demonstrated that it is willing to listen to public feedback and promote a more business friendly regulatory framework. What is critical is for the new regulations to carefully define the airspace map for drone operations and to remove the penal consequences that the new framework has imposed.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Free the Skies</title>
-      <link>http://rahulmatthan.github.io/16/06/2021/free-the-skies/</link>
+      <link>http://localhost:1313/16/06/2021/free-the-skies/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/16/06/2021/free-the-skies/</guid>
+      <guid>http://localhost:1313/16/06/2021/free-the-skies/</guid>
       <description>&lt;p&gt;&lt;em&gt;The March 2021 Unmanned Aircraft Rules have imposed such a heavy compliance burden on drones that any hope of a drone renaissance has become vanishingly slim. Unless the government liberalises these restrictions it will have a chilling effect on the drone industry at a time when it should be having its iPhone moment.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technological restrictions in the new drone policy</title>
-      <link>http://rahulmatthan.github.io/17/10/2018/technological-restrictions-in-the-new-drone-policy/</link>
+      <link>http://localhost:1313/17/10/2018/technological-restrictions-in-the-new-drone-policy/</link>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/17/10/2018/technological-restrictions-in-the-new-drone-policy/</guid>
+      <guid>http://localhost:1313/17/10/2018/technological-restrictions-in-the-new-drone-policy/</guid>
       <description>&lt;p&gt;&lt;em&gt;The 2018 drone policy imposes registration and tech requirements on all but the smallest drones and requires all drones to incorporate NPNT technology that will allow for automated flight approvals through the digital sky platform.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drones to the rescue</title>
-      <link>http://rahulmatthan.github.io/06/09/2017/drones-to-the-rescue/</link>
+      <link>http://localhost:1313/06/09/2017/drones-to-the-rescue/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/06/09/2017/drones-to-the-rescue/</guid>
+      <guid>http://localhost:1313/06/09/2017/drones-to-the-rescue/</guid>
       <description>&lt;p&gt;&lt;em&gt;Rwanda changed its laws to allow drone deliveries of blood from blood banks to remote areas. On the other hand, India that is known for its jugaad in innovation has introduced laws that have stifled innovation in drones.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Drones should be regulated by city traffic laws not aviation regulations</title>
-      <link>http://rahulmatthan.github.io/22/06/2016/drones-should-be-regulated-by-city-traffic-laws-not-aviation-regulations/</link>
+      <link>http://localhost:1313/22/06/2016/drones-should-be-regulated-by-city-traffic-laws-not-aviation-regulations/</link>
       <pubDate>Wed, 22 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>http://rahulmatthan.github.io/22/06/2016/drones-should-be-regulated-by-city-traffic-laws-not-aviation-regulations/</guid>
+      <guid>http://localhost:1313/22/06/2016/drones-should-be-regulated-by-city-traffic-laws-not-aviation-regulations/</guid>
       <description>&lt;p&gt;&lt;em&gt;Drones are likely to be flown in urban areas and so instead of being regulated by the DGCA they should be regulated by the police that can address the traffic management and privacy violation issues that are likely to be the consequence of their use.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
