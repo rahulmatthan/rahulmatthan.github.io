@@ -16,7 +16,7 @@ _This is a link-enhanced version of an article that first appeared in the Mint. 
 
 ---
 
-For the past six months, I served on the Reserve Bank of India’s (RBI) Committee on the Framework for the Responsible and Ethical Enablement of AI (Free-AI). It has been an enriching experience putting it together, and I am sure I speak for all members of the committee when I say that we are proud of what we produced. Now that we have submitted our report, I am glad to finally be able to write about it.
+For the past six months, I served on the Reserve Bank of India’s (RBI) Committee on the Framework for the Responsible and Ethical Enablement of AI (Free-AI). It has been an enriching experience putting it together, and I am sure I speak for all members of the committee when I say that we are proud of what we produced. Now that we have submitted our [report](https://rbidocs.rbi.org.in/rdocs/PublicationReport/Pdfs/FREEAIR130820250A24FF2D4578453F824C72ED9F5D5851.PDF), I am glad to finally be able to write about it.
 
 Unlike most artificial intelligence (AI) regulation frameworks, this is not one that is focused solely on risk. To the contrary, we have proposed a two-pronged approach—one that both enables innovation and mitigates risk. In my view, the weaving together of these two seemingly contradictory sets of objectives is what’s novel about this report.
 
