@@ -1,159 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Technology on Ex Machina</title>
-    <link>http://localhost:1313/tags/technology/</link>
-    <description>Recent content in Technology on Ex Machina</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/technology/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>De-Extinction</title>
-      <link>http://localhost:1313/07/05/2025/de-extinction/</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/07/05/2025/de-extinction/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/de-extinction.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;The recent advances in de-extinction technology offer hope for endangered species. But before we leap to deploy these technologies we should consider the legal and ethical consequences of what we are about to unleash.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Cost of Cold</title>
-      <link>http://localhost:1313/19/03/2025/the-cost-of-cold/</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/19/03/2025/the-cost-of-cold/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/the-cost-of-cold.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;All we need to do to address our food insecurity is learn to better preserve food after it has been harvested. However, the technology we rely on to do that comes at a great cost. We need to find an alternative approach - one that prevents spoilage without harming the environment.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>A Look Back at 2024</title>
-      <link>http://localhost:1313/25/12/2024/a-look-back-at-2024/</link>
-      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/25/12/2024/a-look-back-at-2024/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/a-look-back-at-2024.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;My last column of the year has traditionally been a review of technology policy developments of the year gone by. Even though I had hoped to see the data protection law come into force, at the time of writing it still has not. And so, instead of privacy, the year was dominated by developments in DPI and AI.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Ban Reflex</title>
-      <link>http://localhost:1313/23/10/2024/the-ban-reflex/</link>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/23/10/2024/the-ban-reflex/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/the-ban-reflex.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;The decision to ban the use of camera traps in private estates is typical of the kind of reflexive over-reach our government officials often resort to. In this instance, not only is there little legal substance behind the order, the long-term consequences are misaligned with the objective.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Synthetic Biology</title>
-      <link>http://localhost:1313/28/08/2024/synthetic-biology/</link>
-      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/28/08/2024/synthetic-biology/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/synthetic-biology.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;While synthetic biology offers us many significant benefits, there is a risk that these benefits will accrue to the wealthy nations and corporations that currently control almost all cutting edge research in the field. To secure our interests we need to participate in global discussions on the subject. And increase our investments in the sector.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Digitally Accessible</title>
-      <link>http://localhost:1313/10/07/2024/digitally-accessible/</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/10/07/2024/digitally-accessible/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/digitally-accessible.jpg&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;One would have thought that digital technologies might have made this world a more inclusive place. As a matter of fact it has not. But there is a need for us to do better. A moral - and even economic - necessity to make this a more disabled friendly world.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Neither Good Nor Bad</title>
-      <link>http://localhost:1313/05/07/2023/neither-good-nor-bad/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/05/07/2023/neither-good-nor-bad/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/neither-good-nor-bad.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;We tend to think of technology as either “good” nor “bad” based on the outcomes it has. This is futile as in most instances any harms that may be caused by technology is on account of how it is used and by whom.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Safety Innovations</title>
-      <link>http://localhost:1313/28/06/2023/safety-innovations/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/28/06/2023/safety-innovations/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/safety-innovations.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;New Technologies require regulators to think innovatively about safety. To find a way to encourage experimentation and yet not do so at the cost of human safety. This is a difficult line to draw but draw it we must.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Musical Intelligence</title>
-      <link>http://localhost:1313/21/06/2023/musical-intelligence/</link>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/21/06/2023/musical-intelligence/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/musical-intelligence.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;As artificial intelligence enters into the music industry, incumbents have already begun to resist the transformation it will inevitably bring. But change is inevitable and it is only those artists who are able to embrace it who will survive the transition.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Fear of the Unknown</title>
-      <link>http://localhost:1313/14/06/2023/fear-of-the-unknown/</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/14/06/2023/fear-of-the-unknown/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/fear-of-the-unknown.png&#34; width=&#34;auto&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Our instinctive reaction to new and revolutionary technology is often fear of consequences that we cannot predict. But if we can rein in our instincts and conquer our fears, maybe we can master of the technology.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Networked Thought</title>
-      <link>http://localhost:1313/09/06/2021/networked-thought/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/09/06/2021/networked-thought/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Most knowledge management systems are deliver on the expectations knowledge workers have of them. Tools for networked thought are ideal to develop the sorts of big picture thinking that needs to be part of a legal knowledge management system. The more you use these systems the more information they surface.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Retrospective</title>
-      <link>http://localhost:1313/30/12/2020/retrospective/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/30/12/2020/retrospective/</guid>
-      <description>&lt;p&gt;&lt;em&gt;My reflections on my 2020 predictions about technological advancements. The pandemic emphasized technology&amp;rsquo;s central role in society, from remote working to vaccine development. New regulatory measures give hope for increased internet access and technology legislation in India, recognizing the need to adapt and engage with technology in new ways.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tools For Thought</title>
-      <link>http://localhost:1313/09/12/2020/tools-for-thought/</link>
-      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/09/12/2020/tools-for-thought/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Earlier this year, as news of the incredibly realistic prose that GPT-3 was capable of generating reached me, my first &lt;a href=&#34;https://twitter.com/matthan/status/1285029141956288514?s=20&#34;&gt;thought&lt;/a&gt; was that I needed to figure out how to use this technology to churn out new Ex Machina articles. It wasn’t long before I realised that as a technology, it flattered to deceive. I would be far better served investing in consciously building a personal knowledge management system that help me synthesise all the various elements of knowledge I came across so that I was able to surface hidden connections.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The future is here. It is just not evenly distributed yet</title>
-      <link>http://localhost:1313/01/01/2020/the-future-is-here.-it-is-just-not-evenly-distributed-yet/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/01/01/2020/the-future-is-here.-it-is-just-not-evenly-distributed-yet/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Technological advancements can have a transformative impact. This includes deep neural networks, augmented reality, autonomous transportation, and personalized medicine. I predicts a future where technology will become more intuitive, education will be revolutionized, personal vehicle ownership may decline, and medicine will become highly individualized, though regulators may lag behind these changes.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The case for meat options that taste like the real thing</title>
-      <link>http://localhost:1313/23/10/2019/the-case-for-meat-options-that-taste-like-the-real-thing/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/23/10/2019/the-case-for-meat-options-that-taste-like-the-real-thing/</guid>
-      <description>&lt;p&gt;&lt;em&gt;There is a significant environmental impact to livestock production. It accounts for 40% of global agricultural output and has significant greenhouse gas emissions. To meet global warming targets, a drastic dietary shift is needed. We need to explore meat substitutes like Impossible Foods&amp;rsquo; products, that are a promising and nearly indistinguishable alternative to traditional meat.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Creative destruction and the global music industry</title>
-      <link>http://localhost:1313/10/07/2019/creative-destruction-and-the-global-music-industry/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/10/07/2019/creative-destruction-and-the-global-music-industry/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Every new technology has disrupted the one before it and there is always opposition to the creative destruction technology fosters. In the long run disruption is necessary and we need to favor innovation to constantly reinvigorate the economy.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Decentralised Urban Management</title>
-      <link>http://localhost:1313/14/02/2018/decentralised-urban-management/</link>
-      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/14/02/2018/decentralised-urban-management/</guid>
-      <description>&lt;p&gt;&lt;em&gt;The command and contro style of administration that we have been using to manage our electricity and urban water utilities so far are unable to cope with the demands of rapid urbanisation. We need to leverage technology to build decentralised urban management solutions that will enable distributed generation and supply of urban power and water.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Morality of Technology</title>
-      <link>http://localhost:1313/03/05/2017/the-morality-of-technology/</link>
-      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/03/05/2017/the-morality-of-technology/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Technology is inherently neutral but depending on how it is used it can be either good or bad. This applies to gene editing, drones and even to identity.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Ethics of Persuasion</title>
-      <link>http://localhost:1313/26/04/2017/the-ethics-of-persuasion/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/26/04/2017/the-ethics-of-persuasion/</guid>
-      <description>&lt;p&gt;&lt;em&gt;In the &amp;ldquo;attention economy,&amp;rdquo;  businesses compete for user attention through persuasive technologies, leading to a potential technological addiction. There is a need for ethical boundaries in app design that will call for major tech companies agreeing to rewrite rules to discourage addictive persuasion, and aim for a more sustainable approach.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>GPS is a Time Machine</title>
-      <link>http://localhost:1313/16/02/2017/gps-is-a-time-machine/</link>
-      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/16/02/2017/gps-is-a-time-machine/</guid>
-      <description>&lt;p&gt;&lt;em&gt;In a world rejecting globalization, the critical role of synchronized time, essential for modern civilization, is often overlooked. Medieval Europe&amp;rsquo;s independent timekeeping evolved with industrialization, requiring precise coordination. Today, technologies like mobile networks, electricity grids, and GPS rely on exact time synchronization. GPS, a US Department of Defense system, underpins these technologies, highlighting the interconnectedness of global systems amidst rising nationalism.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>From Ownership to Access</title>
-      <link>http://localhost:1313/03/08/2016/from-ownership-to-access/</link>
-      <pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/03/08/2016/from-ownership-to-access/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Consumption is one of the cornerstones of capitalism and modern society actively encourages it. Planned obsolescence feeds this philosophy by making a placing time limits on technology to make it stop functioning so that replacements can be purchased. If we prioritise access over ownership utilization will increase and products will no longer have to be made obsolete to encourage greater consumption.&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology on Ex Machina</title><link>https://exmachina.in/tags/technology/</link><description>Recent content in Technology on Ex Machina</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 07 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://exmachina.in/tags/technology/index.xml" rel="self" type="application/rss+xml"/><item><title>De-Extinction</title><link>https://exmachina.in/07/05/2025/de-extinction/</link><pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate><guid>https://exmachina.in/07/05/2025/de-extinction/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/de-extinction.jpg" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>The recent advances in de-extinction technology offer hope for endangered species. But before we leap to deploy these technologies we should consider the legal and ethical consequences of what we are about to unleash.&lt;/em>&lt;/p></description></item><item><title>The Cost of Cold</title><link>https://exmachina.in/19/03/2025/the-cost-of-cold/</link><pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate><guid>https://exmachina.in/19/03/2025/the-cost-of-cold/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/the-cost-of-cold.jpg" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>All we need to do to address our food insecurity is learn to better preserve food after it has been harvested. However, the technology we rely on to do that comes at a great cost. We need to find an alternative approach - one that prevents spoilage without harming the environment.&lt;/em>&lt;/p></description></item><item><title>A Look Back at 2024</title><link>https://exmachina.in/25/12/2024/a-look-back-at-2024/</link><pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate><guid>https://exmachina.in/25/12/2024/a-look-back-at-2024/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/a-look-back-at-2024.jpg" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>My last column of the year has traditionally been a review of technology policy developments of the year gone by. Even though I had hoped to see the data protection law come into force, at the time of writing it still has not. And so, instead of privacy, the year was dominated by developments in DPI and AI.&lt;/em>&lt;/p></description></item><item><title>The Ban Reflex</title><link>https://exmachina.in/23/10/2024/the-ban-reflex/</link><pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate><guid>https://exmachina.in/23/10/2024/the-ban-reflex/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/the-ban-reflex.jpg" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>The decision to ban the use of camera traps in private estates is typical of the kind of reflexive over-reach our government officials often resort to. In this instance, not only is there little legal substance behind the order, the long-term consequences are misaligned with the objective.&lt;/em>&lt;/p></description></item><item><title>Synthetic Biology</title><link>https://exmachina.in/28/08/2024/synthetic-biology/</link><pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate><guid>https://exmachina.in/28/08/2024/synthetic-biology/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/synthetic-biology.jpg" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>While synthetic biology offers us many significant benefits, there is a risk that these benefits will accrue to the wealthy nations and corporations that currently control almost all cutting edge research in the field. To secure our interests we need to participate in global discussions on the subject. And increase our investments in the sector.&lt;/em>&lt;/p></description></item><item><title>Digitally Accessible</title><link>https://exmachina.in/10/07/2024/digitally-accessible/</link><pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate><guid>https://exmachina.in/10/07/2024/digitally-accessible/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/digitally-accessible.jpg" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>One would have thought that digital technologies might have made this world a more inclusive place. As a matter of fact it has not. But there is a need for us to do better. A moral - and even economic - necessity to make this a more disabled friendly world.&lt;/em>&lt;/p></description></item><item><title>Neither Good Nor Bad</title><link>https://exmachina.in/05/07/2023/neither-good-nor-bad/</link><pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate><guid>https://exmachina.in/05/07/2023/neither-good-nor-bad/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/neither-good-nor-bad.png" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>We tend to think of technology as either “good” nor “bad” based on the outcomes it has. This is futile as in most instances any harms that may be caused by technology is on account of how it is used and by whom.&lt;/em>&lt;/p></description></item><item><title>Safety Innovations</title><link>https://exmachina.in/28/06/2023/safety-innovations/</link><pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate><guid>https://exmachina.in/28/06/2023/safety-innovations/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/safety-innovations.png" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>New Technologies require regulators to think innovatively about safety. To find a way to encourage experimentation and yet not do so at the cost of human safety. This is a difficult line to draw but draw it we must.&lt;/em>&lt;/p></description></item><item><title>Musical Intelligence</title><link>https://exmachina.in/21/06/2023/musical-intelligence/</link><pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate><guid>https://exmachina.in/21/06/2023/musical-intelligence/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/musical-intelligence.png" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>As artificial intelligence enters into the music industry, incumbents have already begun to resist the transformation it will inevitably bring. But change is inevitable and it is only those artists who are able to embrace it who will survive the transition.&lt;/em>&lt;/p></description></item><item><title>Fear of the Unknown</title><link>https://exmachina.in/14/06/2023/fear-of-the-unknown/</link><pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate><guid>https://exmachina.in/14/06/2023/fear-of-the-unknown/</guid><description>&lt;figure>&lt;img src="https://exmachina.in/images/fear-of-the-unknown.png" width="auto">
+&lt;/figure>
+
+&lt;p>&lt;em>Our instinctive reaction to new and revolutionary technology is often fear of consequences that we cannot predict. But if we can rein in our instincts and conquer our fears, maybe we can master of the technology.&lt;/em>&lt;/p></description></item><item><title>Networked Thought</title><link>https://exmachina.in/09/06/2021/networked-thought/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>https://exmachina.in/09/06/2021/networked-thought/</guid><description>&lt;p>&lt;em>Most knowledge management systems are deliver on the expectations knowledge workers have of them. Tools for networked thought are ideal to develop the sorts of big picture thinking that needs to be part of a legal knowledge management system. The more you use these systems the more information they surface.&lt;/em>&lt;/p></description></item><item><title>Retrospective</title><link>https://exmachina.in/30/12/2020/retrospective/</link><pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate><guid>https://exmachina.in/30/12/2020/retrospective/</guid><description>&lt;p>&lt;em>My reflections on my 2020 predictions about technological advancements. The pandemic emphasized technology&amp;rsquo;s central role in society, from remote working to vaccine development. New regulatory measures give hope for increased internet access and technology legislation in India, recognizing the need to adapt and engage with technology in new ways.&lt;/em>&lt;/p></description></item><item><title>Tools For Thought</title><link>https://exmachina.in/09/12/2020/tools-for-thought/</link><pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate><guid>https://exmachina.in/09/12/2020/tools-for-thought/</guid><description>&lt;p>&lt;em>Earlier this year, as news of the incredibly realistic prose that GPT-3 was capable of generating reached me, my first &lt;a href="https://twitter.com/matthan/status/1285029141956288514?s=20">thought&lt;/a> was that I needed to figure out how to use this technology to churn out new Ex Machina articles. It wasn’t long before I realised that as a technology, it flattered to deceive. I would be far better served investing in consciously building a personal knowledge management system that help me synthesise all the various elements of knowledge I came across so that I was able to surface hidden connections.&lt;/em>&lt;/p></description></item><item><title>The future is here. It is just not evenly distributed yet</title><link>https://exmachina.in/01/01/2020/the-future-is-here.-it-is-just-not-evenly-distributed-yet/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://exmachina.in/01/01/2020/the-future-is-here.-it-is-just-not-evenly-distributed-yet/</guid><description>&lt;p>&lt;em>Technological advancements can have a transformative impact. This includes deep neural networks, augmented reality, autonomous transportation, and personalized medicine. I predicts a future where technology will become more intuitive, education will be revolutionized, personal vehicle ownership may decline, and medicine will become highly individualized, though regulators may lag behind these changes.&lt;/em>&lt;/p></description></item><item><title>The case for meat options that taste like the real thing</title><link>https://exmachina.in/23/10/2019/the-case-for-meat-options-that-taste-like-the-real-thing/</link><pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate><guid>https://exmachina.in/23/10/2019/the-case-for-meat-options-that-taste-like-the-real-thing/</guid><description>&lt;p>&lt;em>There is a significant environmental impact to livestock production. It accounts for 40% of global agricultural output and has significant greenhouse gas emissions. To meet global warming targets, a drastic dietary shift is needed. We need to explore meat substitutes like Impossible Foods&amp;rsquo; products, that are a promising and nearly indistinguishable alternative to traditional meat.&lt;/em>&lt;/p></description></item><item><title>Creative destruction and the global music industry</title><link>https://exmachina.in/10/07/2019/creative-destruction-and-the-global-music-industry/</link><pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate><guid>https://exmachina.in/10/07/2019/creative-destruction-and-the-global-music-industry/</guid><description>&lt;p>&lt;em>Every new technology has disrupted the one before it and there is always opposition to the creative destruction technology fosters. In the long run disruption is necessary and we need to favor innovation to constantly reinvigorate the economy.&lt;/em>&lt;/p></description></item><item><title>Decentralised Urban Management</title><link>https://exmachina.in/14/02/2018/decentralised-urban-management/</link><pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate><guid>https://exmachina.in/14/02/2018/decentralised-urban-management/</guid><description>&lt;p>&lt;em>The command and contro style of administration that we have been using to manage our electricity and urban water utilities so far are unable to cope with the demands of rapid urbanisation. We need to leverage technology to build decentralised urban management solutions that will enable distributed generation and supply of urban power and water.&lt;/em>&lt;/p></description></item><item><title>The Morality of Technology</title><link>https://exmachina.in/03/05/2017/the-morality-of-technology/</link><pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate><guid>https://exmachina.in/03/05/2017/the-morality-of-technology/</guid><description>&lt;p>&lt;em>Technology is inherently neutral but depending on how it is used it can be either good or bad. This applies to gene editing, drones and even to identity.&lt;/em>&lt;/p></description></item><item><title>The Ethics of Persuasion</title><link>https://exmachina.in/26/04/2017/the-ethics-of-persuasion/</link><pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate><guid>https://exmachina.in/26/04/2017/the-ethics-of-persuasion/</guid><description>&lt;p>&lt;em>In the &amp;ldquo;attention economy,&amp;rdquo; businesses compete for user attention through persuasive technologies, leading to a potential technological addiction. There is a need for ethical boundaries in app design that will call for major tech companies agreeing to rewrite rules to discourage addictive persuasion, and aim for a more sustainable approach.&lt;/em>&lt;/p></description></item><item><title>GPS is a Time Machine</title><link>https://exmachina.in/16/02/2017/gps-is-a-time-machine/</link><pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate><guid>https://exmachina.in/16/02/2017/gps-is-a-time-machine/</guid><description>&lt;p>&lt;em>In a world rejecting globalization, the critical role of synchronized time, essential for modern civilization, is often overlooked. Medieval Europe&amp;rsquo;s independent timekeeping evolved with industrialization, requiring precise coordination. Today, technologies like mobile networks, electricity grids, and GPS rely on exact time synchronization. GPS, a US Department of Defense system, underpins these technologies, highlighting the interconnectedness of global systems amidst rising nationalism.&lt;/em>&lt;/p></description></item><item><title>From Ownership to Access</title><link>https://exmachina.in/03/08/2016/from-ownership-to-access/</link><pubDate>Wed, 03 Aug 2016 00:00:00 +0000</pubDate><guid>https://exmachina.in/03/08/2016/from-ownership-to-access/</guid><description>&lt;p>&lt;em>Consumption is one of the cornerstones of capitalism and modern society actively encourages it. Planned obsolescence feeds this philosophy by making a placing time limits on technology to make it stop functioning so that replacements can be purchased. If we prioritise access over ownership utilization will increase and products will no longer have to be made obsolete to encourage greater consumption.&lt;/em>&lt;/p></description></item></channel></rss>
