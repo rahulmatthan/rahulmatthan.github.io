@@ -41,4 +41,4 @@ Customer protection is paramount, and regardless of how AI is used by users, reg
 
 AI can prove transformational for India’s development, and we have to do whatever is necessary to allow this to happen. It calls for an entirely different approach to regulation than what we currently have—one that encourages responsible innovation and also mitigates risks.
 
-This, in sum, is the Free-AI approach.
+This, in sum, is the Free-AI approach. 
