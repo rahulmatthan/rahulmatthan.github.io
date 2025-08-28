@@ -1,6 +1,188 @@
-<!doctype html><html class=no-js lang=en><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Encoding Privacy Principles - Ex Machina</title><script>(function(e,t){e[t]=e[t].replace("no-js","js")})(document.documentElement,"className")</script><meta name=description content><meta property="og:url" content="https://exmachina.in/04/08/2021/encoding-privacy-principles/"><meta property="og:site_name" content="Ex Machina"><meta property="og:title" content="Encoding Privacy Principles"><meta property="og:description" content="The DEPA framework encodes most of the privacy principles that run through most privacy regulations into the framework of data transfers. However, while it solves the questions of notice, consent and purpose limitation, once the data is in the possession of the transferee, the traditional DEPA framework has no control over what is subsequently done with it. This means that it will no address issues of use restriction, data minimisation and retention limitation. If we can integrate into the traditional DEPA framework the concept of Confidential Clean Rooms we should be able to address these remaining privacy principles as well."><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2021-08-04T00:00:00+00:00"><meta property="article:modified_time" content="2021-08-04T00:00:00+00:00"><meta property="article:tag" content="Digital Public Infrastructure"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=/css/style.css><link rel="shortcut icon" href=/favicon.ico></head><body class=body><div class="container container--outer"><header class=header><div class="container header__container"><div class="logo logo--mixed"><a class=logo__link href=/ title="Ex Machina" rel=home><div class="logo__item logo__imagebox"><img class=logo__img src=/images/exmachina.jpg></div><div class="logo__item logo__text"><div class=logo__title>Ex Machina</div><div class=logo__tagline>Law. Technology. Society.</div></div></a></div><nav class=menu><button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
-<span class=menu__btn-title tabindex=-1>Menu</span></button><ul class=menu__list><li class=menu__item><a class=menu__link href=/index/><span class=menu__text>Index</span></a></li><li class=menu__item><a class=menu__link href=/topics/><span class=menu__text>Topics</span></a></li><li class=menu__item><a class=menu__link href=/books/><i class='fa fa-road'></i>
-<span class=menu__text>Books</span></a></li><li class=menu__item><a class=menu__link href=/podcast/><i class='fa fa-road'></i>
-<span class=menu__text>Podcast</span></a></li><li class=menu__item><a class=menu__link href=/about/><i class='fa fa-road'></i>
-<span class=menu__text>About</span></a></li></ul></nav></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><article class=post><header class=post__header><h1 class=post__title>Encoding Privacy Principles</h1><div class="post__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 110 28 1 1 0 010-28m0 3a3 3 0 100 22 3 3 0 000-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class=meta__text datetime=2021-08-04T00:00:00Z>August 04, 2021</time></div></div></header><div class="content post__content clearfix"><p><em>The DEPA framework encodes most of the privacy principles that run through most privacy regulations into the framework of data transfers. However, while it solves the questions of notice, consent and purpose limitation, once the data is in the possession of the transferee, the traditional DEPA framework has no control over what is subsequently done with it. This means that it will no address issues of use restriction, data minimisation and retention limitation. If we can integrate into the traditional DEPA framework the concept of Confidential Clean Rooms we should be able to address these remaining privacy principles as well.</em></p><p><em>This article was first published in The Mint. You can read the original at <a href=https://www.livemint.com/opinion/columns/privacy-checks-can-be-built-into-software-architecture-11628016765657.html>this link</a>.</em></p><hr><p>India’s Data Empowerment and Protection Architecture (<a href=http://niti.gov.in/sites/default/files/2020-09/DEPA-Book_0.pdf>DEPA</a>) has featured more <a href=/30/january/2019/account-aggregators-and-e-consent-for-credit-markets/>than</a> <a href=/07/august/2019/a-new-framework-for-consent-to-ensure-data-privacy/>once</a> in these pages. In a <a href=/08/september/2020/consent-to-port/>recent article</a>, I explained how this framework makes it possible for us to split consent into collection consent (that we provide when we sign up for a service for the first time) and consent to port (that we provide just before data is transferred to a third party).</p><blockquote><p><em>By uncoupling consent to port from sign-on consent we can significantly improve our effective control over our personal data. It makes the privacy compact that we enter into with those who collect our data more understandable and gives us greater, more effective agency in the decisions we make with regard to the transfer of our data.</em></p></blockquote><p>This sort of bifurcation gives us more proximate control over what is done with our data, while at the same time reducing the complexity of the terms of service that we sign up to.</p><p>But DEPA can do so much more than just give us better control over our data transfers. It can establish a technological framework within which most—if not all—of the principles that underpin modern privacy legislation can be implemented in code.</p><h3 id=the-privacy-principles>The Privacy Principles</h3><p>Central to privacy laws anywhere in the world is a set of principles that define how personal data can be collected and processed. These include:</p><ul><li><em>notice and consent</em> — the obligation to obtain the informed consent of the data principal before collecting or processing her data,</li><li><em>purpose limitation</em> — the obligation to ensure that the purpose for which data is being collected is described in clear and specific terms,</li><li><em>data minimisation</em> - the obligation to only collect as much data as is strictly necessary to achieve the stated purpose,</li><li><em>retention limitation</em> — the obligation to ensure that data is not retained for longer than required to achieve the stated purpose, and</li><li><em>use limitation</em> — the obligation to ensure that data is only used for the purpose for which it was collected.</li></ul><h3 id=privacy-in-code>Privacy in Code</h3><p>DEPA makes it possible for all these principles to be programatically achieved in relation to the transfer of data from one data fiduciary to another.</p><p>Let’s start with the principle of informed consent. DEPA uses the <a href=http://dla.gov.in/sites/default/files/pdf/MeitY-Consent-Tech-Framework%20v1.1.pdf%29>MeITy electronic consent artefact</a> to process data-transfer requests. What this means is that each time a data fiduciary makes a request for data, it has to provide information on what specific data it needs, the purpose to which that data will be put, and the duration for which it will be retained for the same. As a result, every data transfer request will provide users with due notice and can only be completed if consent is provided in relation to that specific request.</p><p>Now let’s turn to purpose limitation and data minimisation. Data transfer requests under DEPA are template based: data fiduciaries will have to choose from a set of templates and pick the data request format that meets their requirements. These templates will be designed to cover a broad range of uses for which data might be requested, while still ensuring that only that much data as is necessary to fulfil those uses is requested. By using consent templates, DEPA programatically ensures that both the purpose limitation and data minimisation principles are met.</p><p>As we can see, the basic DEPA construct addresses three out of the five privacy principles: Notice and consent, purpose limitation and data minimisation. What it doesn’t seem to be capable of protecting is what happens to the data after it has been collected. In other words, there is nothing to prevent a data fiduciary from using the data for purposes other than those for which consent was obtained or from retaining it for longer than agreed in the data transfer request.</p><p>If DEPA is to be an end-to-end solution for privacy, we have to incorporate technological safeguards that address the issues of use limitation and data retention as well.</p><h3 id=confidential-computing>Confidential Computing</h3><p>In the recent past, advances in confidential computing have made hardware-based, trusted execution environments commercially available at scale.</p><p>Companies like Microsoft have started offering confidential compute solutions as part of <a href=https://azure.microsoft.com/en-us/solutions/confidential-compute/#overview>their cloud service</a>. Within these trusted environments, data can be processed in much the same way as it can while under the direct control of the processor. However, because this data never leaves the execution environment, the use of this infrastructure provides <a href=https://confidentialcomputing.io/wp-content/uploads/sites/85/2021/03/confidentialcomputing_outreach_whitepaper-8-5x11-1.pdf>high levels of assurance</a> on the integrity of the data being processed.</p><p>If we can use this technology to build confidential clean rooms and make them part of the standard DEPA implementation, we can, instead of transferring data into the control of a data fiduciary, deposit the data into these secure environs. The data fiduciary will be able to process data within the confidential clean room in much the same way as it currently does, with the added advantage of being able to ensure that processing is only limited to the stated purpose.</p><p>In addition, this confidential clean room can be designed to extinguish data in accordance with the agreed data-retention policy. As is evident from this, the inclusion of confidential clean rooms in the DEPA construct would allow us to programatically implement the principles of use limitation and data minimisation in its architecture.</p><h3 id=a-regulatory-solution>A Regulatory Solution</h3><p>Data protection authorities the world over have been struggling to exercise effective control over the data businesses they are supposed to regulate. Currently, the only tools at their disposal are the laws and regulations they are empowered to enforce. Of late, it has been getting increasingly clear that regulation simply cannot match the rate of change in technology. India’s Data Empowerment and Protection Architecture offers a technological solution that embeds privacy principles directly into the technology architecture.</p><p>Done right, this might well be the solution that regulators have been looking for.</p></div><footer class=post__footer><div class="post__tags tags clearfix"><svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 000-6 3 3 0 000 6"/></svg><ul class=tags__list><li class=tags__item><a class="tags__link btn" href=/tags/digital-public-infrastructure/ rel=tag>Digital Public Infrastructure</a></li></ul></div></footer></article></main><div class="authorbox clearfix"><p class=authorbox__warning><strong>WARNING:</strong> Authorbox is activated, but [Author] parameters are not specified.</p></div><nav class="pager flex"><div class="pager__item pager__item--prev"><a class=pager__link href=/28/07/2021/the-micropayment-alternative/ rel=prev><span class=pager__subtitle>«&#8201;Previous</span><p class=pager__title>The Micropayment Alternative</p></a></div><div class="pager__item pager__item--next"><a class=pager__link href=/11/08/2021/to-forget-or-not-to-forget.../ rel=next><span class=pager__subtitle>Next&#8201;»</span><p class=pager__title>To Forget or Not to Forget...</p></a></div></nav></div><aside class=sidebar></aside></div><footer class=footer><div class="container footer__container flex"><div class=footer__copyright>&copy; 2025 Ex Machina.
-<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> theme.</span></div></div></footer></div><script async defer src=/js/menu.js></script></body></html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Encoding Privacy Principles - Ex Machina</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="http://localhost:1313/04/08/2021/encoding-privacy-principles/">
+  <meta property="og:site_name" content="Ex Machina">
+  <meta property="og:title" content="Encoding Privacy Principles">
+  <meta property="og:description" content="The DEPA framework encodes most of the privacy principles that run through most privacy regulations into the framework of data transfers. However, while it solves the questions of notice, consent and purpose limitation, once the data is in the possession of the transferee, the traditional DEPA framework has no control over what is subsequently done with it. This means that it will no address issues of use restriction, data minimisation and retention limitation. If we can integrate into the traditional DEPA framework the concept of Confidential Clean Rooms we should be able to address these remaining privacy principles as well.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2021-08-04T00:00:00+00:00">
+    <meta property="article:modified_time" content="2021-08-04T00:00:00+00:00">
+    <meta property="article:tag" content="Digital Public Infrastructure">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Ex Machina" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/images/exmachina.jpg">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Ex Machina</div>
+					<div class="logo__tagline">Law. Technology. Society.</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/index/">
+				
+				<span class="menu__text">Index</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/topics/">
+				
+				<span class="menu__text">Topics</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/books/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Books</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/podcast/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Podcast</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Encoding Privacy Principles</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2021-08-04T00:00:00Z">August 04, 2021</time></div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<p><em>The DEPA framework encodes most of the privacy principles that run through most privacy regulations into the framework of data transfers. However, while it solves the questions of notice, consent and purpose limitation, once the data is in the possession of the transferee, the traditional DEPA framework has no control over what is subsequently done with it. This means that it will no address issues of use restriction, data minimisation and retention limitation. If we can integrate into the traditional DEPA framework the concept of Confidential Clean Rooms we should be able to address these remaining privacy principles as well.</em></p>
+<p><em>This article was first published in The Mint. You can read the original at <a href="https://www.livemint.com/opinion/columns/privacy-checks-can-be-built-into-software-architecture-11628016765657.html">this link</a>.</em></p>
+<hr>
+<p>India’s Data Empowerment and Protection Architecture (<a href="http://niti.gov.in/sites/default/files/2020-09/DEPA-Book_0.pdf">DEPA</a>) has featured more <a href="/30/january/2019/account-aggregators-and-e-consent-for-credit-markets/">than</a> <a href="/07/august/2019/a-new-framework-for-consent-to-ensure-data-privacy/">once</a> in these pages. In a <a href="/08/september/2020/consent-to-port/">recent article</a>, I explained how this framework makes it possible for us to split consent into collection consent (that we provide when we sign up for a service for the first time) and consent to port (that we provide just before data is transferred to a third party).</p>
+<blockquote>
+<p><em>By uncoupling consent to port from sign-on consent we can significantly improve our effective control over our personal data. It makes the privacy compact that we enter into with those who collect our data more understandable and gives us greater, more effective agency in the decisions we make with regard to the transfer of our data.</em></p></blockquote>
+<p>This sort of bifurcation gives us more proximate control over what is done with our data, while at the same time reducing the complexity of the terms of service that we sign up to.</p>
+<p>But DEPA can do so much more than just give us better control over our data transfers. It can establish a technological framework within which most—if not all—of the principles that underpin modern privacy legislation can be implemented in code.</p>
+<h3 id="the-privacy-principles">The Privacy Principles</h3>
+<p>Central to privacy laws anywhere in the world is a set of principles that define how personal data can be collected and processed. These include:</p>
+<ul>
+<li><em>notice and consent</em> — the obligation to obtain the informed consent of the data principal before collecting or processing her data,</li>
+<li><em>purpose limitation</em> — the obligation to ensure that the purpose for which data is being collected is described in clear and specific terms,</li>
+<li><em>data minimisation</em> - the obligation to only collect as much data as is strictly necessary to achieve the stated purpose,</li>
+<li><em>retention limitation</em> — the obligation to ensure that data is not retained for longer than required to achieve the stated purpose, and</li>
+<li><em>use limitation</em> — the obligation to ensure that data is only used for the purpose for which it was collected.</li>
+</ul>
+<h3 id="privacy-in-code">Privacy in Code</h3>
+<p>DEPA makes it possible for all these principles to be programatically achieved in relation to the transfer of data from one data fiduciary to another.</p>
+<p>Let’s start with the principle of informed consent. DEPA uses the <a href="http://dla.gov.in/sites/default/files/pdf/MeitY-Consent-Tech-Framework%20v1.1.pdf%29">MeITy electronic consent artefact</a> to process data-transfer requests. What this means is that each time a data fiduciary makes a request for data, it has to provide information on what specific data it needs, the purpose to which that data will be put, and the duration for which it will be retained for the same. As a result, every data transfer request will provide users with due notice and can only be completed if consent is provided in relation to that specific request.</p>
+<p>Now let’s turn to purpose limitation and data minimisation. Data transfer requests under DEPA are template based: data fiduciaries will have to choose from a set of templates and pick the data request format that meets their requirements. These templates will be designed to cover a broad range of uses for which data might be requested, while still ensuring that only that much data as is necessary to fulfil those uses is requested. By using consent templates, DEPA programatically ensures that both the purpose limitation and data minimisation principles are met.</p>
+<p>As we can see, the basic DEPA construct addresses three out of the five privacy principles: Notice and consent, purpose limitation and data minimisation. What it doesn’t seem to be capable of protecting is what happens to the data after it has been collected. In other words, there is nothing to prevent a data fiduciary from using the data for purposes other than those for which consent was obtained or from retaining it for longer than agreed in the data transfer request.</p>
+<p>If DEPA is to be an end-to-end solution for privacy, we have to incorporate technological safeguards that address the issues of use limitation and data retention as well.</p>
+<h3 id="confidential-computing">Confidential Computing</h3>
+<p>In the recent past, advances in confidential computing have made hardware-based, trusted execution environments commercially available at scale.</p>
+<p>Companies like Microsoft have started offering confidential compute solutions as part of <a href="https://azure.microsoft.com/en-us/solutions/confidential-compute/#overview">their cloud service</a>. Within these trusted environments, data can be processed in much the same way as it can while under the direct control of the processor. However, because this data never leaves the execution environment, the use of this infrastructure provides <a href="https://confidentialcomputing.io/wp-content/uploads/sites/85/2021/03/confidentialcomputing_outreach_whitepaper-8-5x11-1.pdf">high levels of assurance</a> on the integrity of the data being processed.</p>
+<p>If we can use this technology to build confidential clean rooms and make them part of the standard DEPA implementation, we can, instead of transferring data into the control of a data fiduciary, deposit the data into these secure environs. The data fiduciary will be able to process data within the confidential clean room in much the same way as it currently does, with the added advantage of being able to ensure that processing is only limited to the stated purpose.</p>
+<p>In addition, this confidential clean room can be designed to extinguish data in accordance with the agreed data-retention policy. As is evident from this, the inclusion of confidential clean rooms in the DEPA construct would allow us to programatically implement the principles of use limitation and data minimisation in its architecture.</p>
+<h3 id="a-regulatory-solution">A Regulatory Solution</h3>
+<p>Data protection authorities the world over have been struggling to exercise effective control over the data businesses they are supposed to regulate. Currently, the only tools at their disposal are the laws and regulations they are empowered to enforce. Of late, it has been getting increasingly clear that regulation simply cannot match the rate of change in technology. India’s Data Empowerment and Protection Architecture offers a technological solution that embeds privacy principles directly into the technology architecture.</p>
+<p>Done right, this might well be the solution that regulators have been looking for.</p>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 0 0 0-6 3 3 0 0 0 0 6"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/digital-public-infrastructure/" rel="tag">Digital Public Infrastructure</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<p class="authorbox__warning">
+		<strong>WARNING:</strong> Authorbox is activated, but [Author] parameters are not specified.
+	</p>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/28/07/2021/the-micropayment-alternative/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">The Micropayment Alternative</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/11/08/2021/to-forget-or-not-to-forget.../" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">To Forget or Not to Forget...</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 Ex Machina.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

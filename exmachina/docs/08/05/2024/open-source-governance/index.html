@@ -1,6 +1,179 @@
-<!doctype html><html class=no-js lang=en><head><meta charset=UTF-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Open Source Governance - Ex Machina</title><script>(function(e,t){e[t]=e[t].replace("no-js","js")})(document.documentElement,"className")</script><meta name=description content><meta property="og:url" content="https://exmachina.in/08/05/2024/open-source-governance/"><meta property="og:site_name" content="Ex Machina"><meta property="og:title" content="Open Source Governance"><meta property="og:description" content="There is a strange aversion in government circles to the use of open source software. I am no entirely sure where it comes from but I can try and debunk some of the misgivings they have. In most instances, releasing code as open source is actually a good idea."><meta property="og:locale" content="en"><meta property="og:type" content="article"><meta property="article:section" content="posts"><meta property="article:published_time" content="2024-05-08T00:00:00+00:00"><meta property="article:modified_time" content="2024-05-08T00:00:00+00:00"><meta property="article:tag" content="Regulation"><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=/css/style.css><link rel="shortcut icon" href=/favicon.ico></head><body class=body><div class="container container--outer"><header class=header><div class="container header__container"><div class="logo logo--mixed"><a class=logo__link href=/ title="Ex Machina" rel=home><div class="logo__item logo__imagebox"><img class=logo__img src=/images/exmachina.jpg></div><div class="logo__item logo__text"><div class=logo__title>Ex Machina</div><div class=logo__tagline>Law. Technology. Society.</div></div></a></div><nav class=menu><button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
-<span class=menu__btn-title tabindex=-1>Menu</span></button><ul class=menu__list><li class=menu__item><a class=menu__link href=/index/><span class=menu__text>Index</span></a></li><li class=menu__item><a class=menu__link href=/topics/><span class=menu__text>Topics</span></a></li><li class=menu__item><a class=menu__link href=/books/><i class='fa fa-road'></i>
-<span class=menu__text>Books</span></a></li><li class=menu__item><a class=menu__link href=/podcast/><i class='fa fa-road'></i>
-<span class=menu__text>Podcast</span></a></li><li class=menu__item><a class=menu__link href=/about/><i class='fa fa-road'></i>
-<span class=menu__text>About</span></a></li></ul></nav></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><article class=post><header class=post__header><h1 class=post__title>Open Source Governance</h1><div class="post__meta meta"><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 110 28 1 1 0 010-28m0 3a3 3 0 100 22 3 3 0 000-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class=meta__text datetime=2024-05-08T00:00:00Z>May 08, 2024</time></div></div></header><div class="content post__content clearfix"><figure><img src=/images/open-source-governance.jpg width=auto></figure><p><em>There is a strange aversion in government circles to the use of open source software. I am no entirely sure where it comes from but I can try and debunk some of the misgivings they have. In most instances, releasing code as open source is actually a good idea.</em></p><p><em>This article was first published in The Mint. You can read the original at <a href=https://www.livemint.com/opinion/online-views/yes-releasing-the-evm-source-code-could-improve-our-polling-system-s-security-11715020084947.html><em>this link</em></a>.</em></p><hr><p>This year, as with nearly every recent election, questions were raised about the functioning of electronic voting machines (EVMs). While the Supreme Court upheld their use in elections, when asked if the source code of EVM machines could be released for open source use, it tersely <a href=https://indianexpress.com/article/india/supreme-court-vvpat-order-evm-9287698/>shut down that line of argument</a>, pointing out that if the source code is released, it would be misused.</p><p>While I have no desire to wade into the debate over whether and how electronic voting machines should be used, I do want to unpack the Supreme Court’s somewhat offhand rejection of open source. This is a line of thinking I’ve come up against time and again in my dealings with the government, and, for the life of me, I cannot understand where it comes from.</p><h3 id=secrecy-is-not-security>Secrecy is not Security</h3><p>As far as I can tell, there is a belief among the powers-that-be that source code is some sort of an access pass that gives anyone who gets hold of it the power to do whatever they want with the digital systems that have been built with it. All it will take to compromise a digital system, they seem to believe, is access to its source code—which is why there is such a concerted effort in government circles to keep it a secret.</p><p>As anyone who builds digital systems will tell you, this is simply not true. Source code merely explains how a system works. But just because you know how it works doesn’t mean you will be able to access it, much less get it to do what you want.</p><p>Take <a href=https://signal.org/download/>Signal</a>, for example, an open-source messaging app that ensures that messages sent to anyone using its protocol are encrypted end-to-end. Even though its source code is publicly accessible, without access to the private decryption keys specific to that messaging session, it is impossible to decrypt the messages. With perfect forward-secrecy implemented, each session uses temporary encryption keys that are continually updated, which means that even if a key is compromised, it cannot be used to decrypt previous or future messages.</p><h3 id=security-advantage>Security Advantage</h3><p>For a malicious actor to <a href=https://www.globalknowledge.com/us-en/resources/resource-library/articles/the-5-phases-of-hacking-maintaining-access/>wreak harm</a>, he would need administrative access to a system. He would have to get deep enough into its workings to be able to rewrite the ways in which it functions, before he can twist it to do his bidding. Mere knowledge of the source code will not allow him to do that. At best, it will allow him to exploit any overlooked vulnerabilities—and that too, only until they are discovered.</p><p>This, counter-intuitively, is another <a href=https://devops.com/is-open-source-more-secure-than-closed-source/>reason</a> why we should be releasing software as open source in the first place. The reason open-source software is believed to be more secure in the long-run than its proprietary counterparts is that a <a href=https://openssf.org/blog/2023/09/06/strengthening-open-source-software-best-practices-for-enhanced-security/>broader community of developers</a>, security experts and researchers is able to see the code. Once there is a critical mass of developers who are invested in trying to identify vulnerabilities in the code, they will be spotted quicker than would have been the case had it remained proprietary.</p><p>Given that this community is both diverse and agile, we can identify the problem and find solutions for it far sooner than would otherwise have been possible. It is precisely because the Signal protocol is open-source that it can be audited and improved upon by a global community of security experts  who take pains to ensure that the cryptographic methods employed are among the best in class for securing private communication.</p><h3 id=open-source-is-everywhere>Open Source is Everywhere</h3><p>Many of the systems that we depend on everyday use open-source software. Apache Web Servers power <a href=https://w3techs.com/technologies/details/ws-apache>a third of the internet</a>, while the Linux operating system (on which the Android operating system was built) powers the <a href=https://techjury.net/blog/android-market-share/>vast majority of smartphones</a> in the world. It is telling that even though both of them are open source software, the world is none the worse for the fact that everyone knows what their code contains. When the <a href=https://en.wikipedia.org/wiki/Heartbleed>Heartbleed bug</a> threatened to compromise the OpenSSL libraries that are central to the security of communications over the internet, it was the agility of the open-source community that patched the vulnerability before it could cause too much damage.</p><p>We need to learn from these examples and apply similar logic when it comes to the source code that powers our government systems. We need to understand that simply because the source code of a given technology solution has been released as open source, it does not mean that the system itself is any more likely to be compromised. To the contrary, having multiple eyes on the code will help shore up our defences against attacks and bring to bear the entire collaborative might of the open-source community. When the code of our digital systems are available for everyone to scrutinise, we will be able to see for ourselves how these systems function and what they do with the data they collect. And that will restore public faith in how these systems have been designed.</p><h3 id=open-standards>Open Standards</h3><p>In 2010, the Indian government released the <a href=https://www.egovstandards.gov.in/>National Open Standards Policy</a>, a commitment to use <a href=https://www.egovstandards.gov.in/sites/default/files/2021-07/Framework%20for%20Adoption%20of%20Open%20Source%20Software%20in%20e-Governance%20Systems.pdf>open source in governance</a>. This was the culmination of a three-year effort to get it to join the ranks of governments committed to using open source.</p><p>Despite the <a href=https://opensource.com/government/10/11/open-standards-policy-india-long-successful-journey>initial fanfare</a>, not much progress has been made. A few standards have been notified, but there has been negligible progress on the ground. Even so, considering the government’s express support for the concept, the last thing I thought I’d see was a dismissive disposition towards the very notion of open source from the highest court in the land.</p></div><footer class=post__footer><div class="post__tags tags clearfix"><svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 000-6 3 3 0 000 6"/></svg><ul class=tags__list><li class=tags__item><a class="tags__link btn" href=/tags/regulation/ rel=tag>regulation</a></li></ul></div></footer></article></main><div class="authorbox clearfix"><p class=authorbox__warning><strong>WARNING:</strong> Authorbox is activated, but [Author] parameters are not specified.</p></div><nav class="pager flex"><div class="pager__item pager__item--prev"><a class=pager__link href=/01/05/2024/ideas-for-acceleration/ rel=prev><span class=pager__subtitle>«&#8201;Previous</span><p class=pager__title>Ideas for Acceleration</p></a></div><div class="pager__item pager__item--next"><a class=pager__link href=/22/05/2024/controlling-ai-export/ rel=next><span class=pager__subtitle>Next&#8201;»</span><p class=pager__title>Controlling AI Export</p></a></div></nav></div><aside class=sidebar></aside></div><footer class=footer><div class="container footer__container flex"><div class=footer__copyright>&copy; 2025 Ex Machina.
-<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> theme.</span></div></div></footer></div><script async defer src=/js/menu.js></script></body></html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Open Source Governance - Ex Machina</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="http://localhost:1313/08/05/2024/open-source-governance/">
+  <meta property="og:site_name" content="Ex Machina">
+  <meta property="og:title" content="Open Source Governance">
+  <meta property="og:description" content="There is a strange aversion in government circles to the use of open source software. I am no entirely sure where it comes from but I can try and debunk some of the misgivings they have. In most instances, releasing code as open source is actually a good idea.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2024-05-08T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-05-08T00:00:00+00:00">
+    <meta property="article:tag" content="Regulation">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Ex Machina" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="/images/exmachina.jpg">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Ex Machina</div>
+					<div class="logo__tagline">Law. Technology. Society.</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/index/">
+				
+				<span class="menu__text">Index</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/topics/">
+				
+				<span class="menu__text">Topics</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/books/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Books</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/podcast/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">Podcast</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				<i class='fa fa-road'></i>
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Open Source Governance</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2024-05-08T00:00:00Z">May 08, 2024</time></div></div>
+		</header>
+		<div class="content post__content clearfix">
+			<figure><img src="/images/open-source-governance.jpg" width="auto">
+</figure>
+
+<p><em>There is a strange aversion in government circles to the use of open source software. I am no entirely sure where it comes from but I can try and debunk some of the misgivings they have. In most instances, releasing code as open source is actually a good idea.</em></p>
+<p><em>This article was first published in The Mint. You can read the original at <a href="https://www.livemint.com/opinion/online-views/yes-releasing-the-evm-source-code-could-improve-our-polling-system-s-security-11715020084947.html"><em>this link</em></a>.</em></p>
+<hr>
+<p>This year, as with nearly every recent election, questions were raised about the functioning of electronic voting machines (EVMs). While the Supreme Court upheld their use in elections, when asked if the source code of EVM machines could be released for open source use, it tersely <a href="https://indianexpress.com/article/india/supreme-court-vvpat-order-evm-9287698/">shut down that line of argument</a>, pointing out that if the source code is released, it would be misused.</p>
+<p>While I have no desire to wade into the debate over whether and how electronic voting machines should be used, I do want to unpack the Supreme Court’s somewhat offhand rejection of open source. This is a line of thinking I’ve come up against time and again in my dealings with the government, and, for the life of me, I cannot understand where it comes from.</p>
+<h3 id="secrecy-is-not-security">Secrecy is not Security</h3>
+<p>As far as I can tell, there is a belief among the powers-that-be that source code is some sort of an access pass that gives anyone who gets hold of it the power to do whatever they want with the digital systems that have been built with it. All it will take to compromise a digital system, they seem to believe, is access to its source code—which is why there is such a concerted effort in government circles to keep it a secret.</p>
+<p>As anyone who builds digital systems will tell you, this is simply not true. Source code merely explains how a system works. But just because you know how it works doesn’t mean you will be able to access it, much less get it to do what you want.</p>
+<p>Take <a href="https://signal.org/download/">Signal</a>, for example, an open-source messaging app that ensures that messages sent to anyone using its protocol are encrypted end-to-end. Even though its source code is publicly accessible, without access to the private decryption keys specific to that messaging session, it is impossible to decrypt the messages. With perfect forward-secrecy implemented, each session uses temporary encryption keys that are continually updated, which means that even if a key is compromised, it cannot be used to decrypt previous or future messages.</p>
+<h3 id="security-advantage">Security Advantage</h3>
+<p>For a malicious actor to <a href="https://www.globalknowledge.com/us-en/resources/resource-library/articles/the-5-phases-of-hacking-maintaining-access/">wreak harm</a>, he would need administrative access to a system. He would have to get deep enough into its workings to be able to rewrite the ways in which it functions, before he can twist it to do his bidding. Mere knowledge of the source code will not allow him to do that. At best, it will allow him to exploit any overlooked vulnerabilities—and that too, only until they are discovered.</p>
+<p>This, counter-intuitively, is another <a href="https://devops.com/is-open-source-more-secure-than-closed-source/">reason</a> why we should be releasing software as open source in the first place. The reason open-source software is believed to be more secure in the long-run than its proprietary counterparts is that a <a href="https://openssf.org/blog/2023/09/06/strengthening-open-source-software-best-practices-for-enhanced-security/">broader community of developers</a>, security experts and researchers is able to see the code. Once there is a critical mass of developers who are invested in trying to identify vulnerabilities in the code, they will be spotted quicker than would have been the case had it remained proprietary.</p>
+<p>Given that this community is both diverse and agile, we can identify the problem and find solutions for it far sooner than would otherwise have been possible. It is precisely because the Signal protocol is open-source that it can be audited and improved upon by a global community of security experts  who take pains to ensure that the cryptographic methods employed are among the best in class for securing private communication.</p>
+<h3 id="open-source-is-everywhere">Open Source is Everywhere</h3>
+<p>Many of the systems that we depend on everyday use open-source software. Apache Web Servers power <a href="https://w3techs.com/technologies/details/ws-apache">a third of the internet</a>, while the Linux operating system (on which the Android operating system was built) powers the <a href="https://techjury.net/blog/android-market-share/">vast majority of smartphones</a> in the world. It is telling that even though both of them are open source software, the world is none the worse for the fact that everyone knows what their code contains. When the <a href="https://en.wikipedia.org/wiki/Heartbleed">Heartbleed bug</a> threatened to compromise the OpenSSL libraries that are central to the security of communications over the internet, it was the agility of the open-source community that patched the vulnerability before it could cause too much damage.</p>
+<p>We need to learn from these examples and apply similar logic when it comes to the source code that powers our government systems. We need to understand that simply because the source code of a given technology solution has been released as open source, it does not mean that the system itself is any more likely to be compromised. To the contrary, having multiple eyes on the code will help shore up our defences against attacks and bring to bear the entire collaborative might of the open-source community. When the code of our digital systems are available for everyone to scrutinise, we will be able to see for ourselves how these systems function and what they do with the data they collect. And that will restore public faith in how these systems have been designed.</p>
+<h3 id="open-standards">Open Standards</h3>
+<p>In 2010, the Indian government released the <a href="https://www.egovstandards.gov.in/">National Open Standards Policy</a>, a commitment to use <a href="https://www.egovstandards.gov.in/sites/default/files/2021-07/Framework%20for%20Adoption%20of%20Open%20Source%20Software%20in%20e-Governance%20Systems.pdf">open source in governance</a>. This was the culmination of a three-year effort to get it to join the ranks of governments committed to using open source.</p>
+<p>Despite the <a href="https://opensource.com/government/10/11/open-standards-policy-india-long-successful-journey">initial fanfare</a>, not much progress has been made. A few standards have been notified, but there has been negligible progress on the ground. Even so, considering the government’s express support for the concept, the last thing I thought I’d see was a dismissive disposition towards the very notion of open source from the highest court in the land.</p>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 0 0 0-6 3 3 0 0 0 0 6"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/regulation/" rel="tag">regulation</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<p class="authorbox__warning">
+		<strong>WARNING:</strong> Authorbox is activated, but [Author] parameters are not specified.
+	</p>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/01/05/2024/ideas-for-acceleration/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">Ideas for Acceleration</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/22/05/2024/controlling-ai-export/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">Controlling AI Export</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar">
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 Ex Machina.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+</html>

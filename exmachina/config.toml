@@ -59,7 +59,7 @@ menu = "main"
   mainSections = ["posts", "about"]
 
 
-[Params.author]
+[Site.Params.Author]
   name = "Rahul Matthan"
   bio = "Rahul Matthan is a lawyer who works at the intersection of law, technology and society."
   avatar = "/images/avatar.png"
