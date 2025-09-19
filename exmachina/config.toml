@@ -1,5 +1,4 @@
 baseURL = 'https://exmachina.in/'
-publishDir = "docs"
 languageCode = 'en'
 title = 'Ex Machina'
 theme = "mainroad"
@@ -17,7 +16,7 @@ pagersize=10
   posts = '/:day/:month/:year/:title/'
 
 # Add page to a main, side, and footer menu
-menu = "main"
+# menu = "main"
 
 
 [menu]
@@ -47,49 +46,47 @@ menu = "main"
     url = "/topics/" # URL of the menu item
     weight = 2 # Weight of the menu item
 
-
-[Params]
+[params]
   description = "Rahul Matthan's Collected Writings" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
-  authorbox = true
+  authorbox = false
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["posts", "about"]
 
+[Author]          # fallback for themes reading .Site.Author
+  name   = "Rahul Matthan"
+  bio    = "Rahul Matthan is a lawyer who works at the intersection of law, technology and society."
+  avatar = "/images/avatar.png"
 
-[Site.Params.Author]
+[site.params.author]
   name = "Rahul Matthan"
   bio = "Rahul Matthan is a lawyer who works at the intersection of law, technology and society."
   avatar = "/images/avatar.png"
 
-[Author]          # fallback for themes reading .Site.Author
-  name   = "Rahul Matthan"
-  bio    = "Rahul Matthan is a lawyer who works at the intersection of law, technology and society."
-  avatar = "images/avatar.png"
-
-[Params.widgets]
+[params.widgets]
   recent_num = 5 # Set the number of articles in the "Recent articles" widget
   tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default) 
 
-[Params.logo]
+[params.logo]
   image = "/images/exmachina.jpg"
   title = "Ex Machina"
   subtitle = "Law. Technology. Society."
 
-[Params.thumbnail]
+[params.thumbnail]
   # Show thumbnail only for list items
   visibility = ["list"]
 
-[Params.sidebar]
+[params.sidebar]
   home = "right"
   list = "false"
   single = "false"
   # Enable widgets in given order
   widgets = ["recent", "categories", "taglist", "social"]
 
-[Params.widgets.social]
+[params.widgets.social]
   # Enable parts of social widget
   twitter = "matthan"
   instagram = "matthan"
