@@ -1,10 +1,157 @@
-<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><link rel="icon" type="image/svg+xml" href="/statutes/favicon.svg"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Astro v6.1.9"><title>Aadhaar Statutes</title><meta name="description" content="The Aadhaar Act, 2016 with verbatim amendment history and links to the rules and regulations made under each section."><link rel="stylesheet" href="/statutes/_astro/BaseLayout.Tk2LL36v.css"></head> <body class="min-h-screen"> <header class="site-header"> <div class="site-header-inner"> <a href="/statutes/" class="site-brand">Aadhaar Statutes</a> <nav class="site-nav"> <a href="/statutes/act">Act</a> <a href="/statutes/amendments">Amendments</a> <a href="/statutes/rules">Rules</a> <a href="/statutes/regulations">Regulations</a> <a href="/statutes/search">Search</a> </nav> </div> </header> <main class="site-main ">  <article class="statute-prose"> <p class="eyebrow">Aadhaar Act, 2016</p> <h1>The Aadhaar Act, its amendments, rules, and regulations — navigable.</h1> <p>
-A repository for the Aadhaar (Targeted Delivery of Financial and Other
-      Subsidies, Benefits and Services) Act, 2016. Each section shows its current
-      text, every amendment with the verbatim language before and after, and the
-      rules and regulations made under it.
-</p> <h2>Browse</h2> <ul> <li><a href="/statutes/act">Arrangement of Sections</a> — 69 sections</li> <li><a href="/statutes/amendments">Amending Acts and Ordinances</a> — 2</li> <li><a href="/statutes/rules">Rules</a> — 5 (Central Government, under s.55)</li> <li><a href="/statutes/regulations">Regulations</a> — 8 (UIDAI, under s.54)</li> <li><a href="/statutes/search">Search</a></li> </ul> <h2>What this is</h2> <p>
-UIDAI publishes the Act and its subordinate legislation as PDFs only. This
-      site is a structured, cross-referenced edition of those PDFs, modelled on
-<a href="https://www.legislation.gov.uk/">legislation.gov.uk</a>.
-</p> </article>  </main> <footer class="site-footer"> <div class="site-footer-inner"> <span>Source documents: <a href="https://uidai.gov.in/en/about-uidai/legal-framework.html">uidai.gov.in</a></span> <span>Source code: <a href="https://github.com/rahulmatthan/statutes">github.com/rahulmatthan/statutes</a></span> <span>Not legal advice. Verify against the gazette.</span> </div> </footer> </body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Indian Statutes — exmachina.in</title>
+    <meta name="description" content="Navigable, cross-referenced editions of Indian statutes — modelled on legislation.gov.uk." />
+    <style>
+      :root {
+        --ink: #1a1a1a;
+        --ink-soft: #555;
+        --ink-faint: #888;
+        --paper: #fdfcf8;
+        --rule: #e7e3d8;
+        --accent: #8b5a2b;
+        --serif: ui-serif, Georgia, "Iowan Old Style", "Apple Garamond", Baskerville, "Times New Roman", "Droid Serif", Times, serif;
+        --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      }
+      html, body {
+        margin: 0;
+        padding: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: var(--serif);
+        font-size: 17px;
+        line-height: 1.55;
+      }
+      .wrap {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 5rem 1.5rem 6rem;
+      }
+      .eyebrow {
+        font-family: var(--sans);
+        font-size: 0.78rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--ink-faint);
+        margin: 0 0 1.5rem;
+      }
+      h1 {
+        font-family: var(--serif);
+        font-size: 2.1rem;
+        font-weight: 600;
+        line-height: 1.15;
+        letter-spacing: -0.012em;
+        margin: 0 0 1.2rem;
+      }
+      .lede {
+        color: var(--ink-soft);
+        font-size: 1.05rem;
+        margin: 0 0 3rem;
+      }
+      .acts {
+        display: grid;
+        gap: 1rem;
+        margin: 0 0 3rem;
+        padding: 0;
+        list-style: none;
+      }
+      .acts li {
+        border: 1px solid var(--rule);
+        border-radius: 6px;
+        padding: 1.1rem 1.3rem;
+        background: #fff;
+        transition: border-color 0.15s;
+      }
+      .acts li:hover {
+        border-color: var(--accent);
+      }
+      .acts a {
+        color: var(--ink);
+        text-decoration: none;
+        display: block;
+      }
+      .acts h2 {
+        font-family: var(--serif);
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin: 0 0 0.35rem;
+        color: var(--accent);
+      }
+      .acts p {
+        margin: 0;
+        color: var(--ink-soft);
+        font-size: 0.95rem;
+      }
+      .meta {
+        font-family: var(--sans);
+        font-size: 0.78rem;
+        color: var(--ink-faint);
+        margin-top: 0.45rem;
+      }
+      h2.section {
+        font-family: var(--sans);
+        font-size: 0.78rem;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--ink-faint);
+        font-weight: 600;
+        margin: 0 0 1rem;
+      }
+      footer {
+        margin-top: 4rem;
+        padding-top: 1.2rem;
+        border-top: 1px solid var(--rule);
+        font-family: var(--sans);
+        font-size: 0.82rem;
+        color: var(--ink-faint);
+      }
+      footer a { color: var(--ink-soft); }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <p class="eyebrow">exmachina.in</p>
+      <h1>Indian statutes — navigable.</h1>
+      <p class="lede">
+        Navigable, cross-referenced editions of Indian statutes and the
+        rules and regulations made under them. Modelled on
+        <a href="https://www.legislation.gov.uk/">legislation.gov.uk</a>:
+        section-level pages, verbatim amendment history, and links from each
+        section to the subordinate legislation made under it.
+      </p>
+
+      <h2 class="section">Available</h2>
+      <ul class="acts">
+        <li>
+          <a href="/statutes/aadhaar/">
+            <h2>Aadhaar Act, 2016</h2>
+            <p>The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, with verbatim amendment history per section, eight rule sets and seven regulation sets, plus every amending instrument from 2019 to 2025.</p>
+            <p class="meta">59 sections · 5 rule sets · 8 regulation sets · 17 amending instruments</p>
+          </a>
+        </li>
+        <li>
+          <a href="/statutes/dpdp/">
+            <h2>Digital Personal Data Protection Act, 2023</h2>
+            <p>The DPDP Act, 2023 (Act No. 22 of 2023) and the DPDP Rules, 2025 (G.S.R. 846(E), 13 November 2025) made by the Central Government under section 40 of the Act.</p>
+            <p class="meta">44 sections · 23 rules</p>
+          </a>
+        </li>
+      </ul>
+
+      <footer>
+        <p>
+          Source documents:
+          <a href="https://www.indiacode.nic.in/">indiacode.nic.in</a>,
+          <a href="https://uidai.gov.in/en/about-uidai/legal-framework.html">uidai.gov.in</a>,
+          <a href="https://www.meity.gov.in/">meity.gov.in</a>.
+          Source code on
+          <a href="https://github.com/rahulmatthan/statutes">github.com/rahulmatthan</a>.
+          Not legal advice — verify against the gazette.
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>
