@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><link rel="icon" type="image/svg+xml" href="/statutes/aadhaar/favicon.svg"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Astro v6.1.9"><title>Search — Aadhaar Statutes</title><link rel="stylesheet" href="/statutes/aadhaar/_astro/BaseLayout.Tk2LL36v.css"></head> <body class="min-h-screen"> <header class="site-header"> <div class="site-header-inner"> <a href="/statutes/aadhaar/" class="site-brand">Aadhaar Statutes</a> <nav class="site-nav"> <a href="/statutes/aadhaar/act">Act</a> <a href="/statutes/aadhaar/amendments">Amendments</a> <a href="/statutes/aadhaar/rules">Rules</a> <a href="/statutes/aadhaar/regulations">Regulations</a> <a href="/statutes/aadhaar/search" aria-current="page">Search</a> </nav> </div> </header> <main class="site-main ">  <article class="statute-prose"> <h1>Search</h1> <p>Full-text search across the Act, amendments, rules, and regulations.</p> <div id="search"></div> </article> <link rel="stylesheet" href="/statutes/aadhaar/pagefind/pagefind-ui.css"> <script src="/statutes/aadhaar/pagefind/pagefind-ui.js">(function(){const pagefindBase = "/statutes/aadhaar/pagefind/";
+})();</script> <script>(function(){const pagefindBase = "/statutes/aadhaar/pagefind/";
+
+    window.addEventListener("DOMContentLoaded", () => {
+      // Pagefind UI is global once the script loads
+      // eslint-disable-next-line no-undef
+      new PagefindUI({
+        element: "#search",
+        showImages: false,
+        bundlePath: pagefindBase,
+      });
+    });
+  })();</script>  </main> <footer class="site-footer"> <div class="site-footer-inner"> <span>Source documents: <a href="https://uidai.gov.in/en/about-uidai/legal-framework.html">uidai.gov.in</a></span> <span>Source code: <a href="https://github.com/rahulmatthan/statutes">github.com/rahulmatthan/statutes</a></span> <span>Not legal advice. Verify against the gazette.</span> </div> </footer> </body></html>
