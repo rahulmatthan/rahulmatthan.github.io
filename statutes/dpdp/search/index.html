@@ -1,0 +1,13 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="utf-8"><link rel="icon" type="image/svg+xml" href="/statutes/dpdp/favicon.svg"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Astro v6.1.9"><title>Search — DPDP Act and Rules</title><link rel="stylesheet" href="/statutes/dpdp/_astro/BaseLayout.Cj9EE1I_.css"></head> <body class="min-h-screen"> <header class="site-header"> <div class="site-header-inner"> <a href="/statutes/dpdp/" class="site-brand">DPDP Act and Rules</a> <nav class="site-nav"> <a href="/statutes/dpdp/act">Act</a> <a href="/statutes/dpdp/rules">Rules</a> <a href="/statutes/dpdp/search" aria-current="page">Search</a> </nav> </div> </header> <main class="site-main ">  <article class="statute-prose"> <h1>Search</h1> <p>Full-text search across the Act, amendments, rules, and regulations.</p> <div id="search"></div> </article> <link rel="stylesheet" href="/statutes/dpdp/pagefind/pagefind-ui.css"> <script src="/statutes/dpdp/pagefind/pagefind-ui.js">(function(){const pagefindBase = "/statutes/dpdp/pagefind/";
+})();</script> <script>(function(){const pagefindBase = "/statutes/dpdp/pagefind/";
+
+    window.addEventListener("DOMContentLoaded", () => {
+      // Pagefind UI is global once the script loads
+      // eslint-disable-next-line no-undef
+      new PagefindUI({
+        element: "#search",
+        showImages: false,
+        bundlePath: pagefindBase,
+      });
+    });
+  })();</script>  </main> <footer class="site-footer"> <div class="site-footer-inner"> <span>Source documents: <a href="https://www.indiacode.nic.in/">indiacode.nic.in</a> · <a href="https://www.meity.gov.in/">meity.gov.in</a></span> <span>Source code: <a href="https://github.com/rahulmatthan/dpdp">github.com/rahulmatthan/dpdp</a></span> <span>Not legal advice. Verify against the gazette.</span> </div> </footer> </body></html>
