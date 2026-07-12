@@ -4,3 +4,13 @@ exmachina/resources/
 .DS_Store
 exmachina/public/
 exmachina/resources/
+
+# Hugo build artifacts
+public/
+resources/_gen/
+.hugo_build.lock
+node_modules/
+
+# Embedded git repos (see backup notes)
+exmachina/themes/mainroad/
+exmachina/Untitled/
