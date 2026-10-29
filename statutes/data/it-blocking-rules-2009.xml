@@ -131,7 +131,7 @@
           <subclause eId="rule_2__cl_g__subcl_i">
             <num>(i)</num>
             <content>
-              <p>Ministries or Departments of the Govemment of India;</p>
+              <p>Ministries or Departments of the Government of India;</p>
             </content>
           </subclause>
           <subclause eId="rule_2__cl_g__subcl_ii">
@@ -203,7 +203,7 @@
         <subrule eId="rule_6__subrule_2">
           <num>(2)</num>
           <content>
-            <p>The organisation shall examine the complaint received under <ref href="#rule_6__subrule_1">sub-rule (1)</ref> to satisty themselves about the need for taking of action in relation to the reasons enumerated in <ref href="/akn/in/act/2000/21/~sec_69A__subsec_1">sub-section (1) of section 69A of the Act</ref> and after being satisfied, it shall send the request through its Nodal Officer to the Designated Officer in the format specified in the Form appended to these rules.</p>
+            <p>The organisation shall examine the complaint received under <ref href="#rule_6__subrule_1">sub-rule (1)</ref> to satisfy themselves about the need for taking of action in relation to the reasons enumerated in <ref href="/akn/in/act/2000/21/~sec_69A__subsec_1">sub-section (1) of section 69A of the Act</ref> and after being satisfied, it shall send the request through its Nodal Officer to the Designated Officer in the format specified in the Form appended to these rules.</p>
           </content>
         </subrule>
         <subrule eId="rule_6__subrule_3">
@@ -215,7 +215,7 @@
         <subrule eId="rule_6__subrule_4">
           <num>(4)</num>
           <intro>
-            <p>The request shall be in writing on the letter head of the respective organisation, complete in all respects and may be sent either by mail or by fax or by e-mail signed with electronic signature of theNodal Officer:</p>
+            <p>The request shall be in writing on the letter head of the respective organisation, complete in all respects and may be sent either by mail or by fax or by e-mail signed with electronic signature of the Nodal Officer:</p>
           </intro>
           <proviso eId="rule_6__subrule_4__proviso_1">
             <content>
@@ -289,7 +289,7 @@
         <proviso eId="rule_8__proviso_1">
           <content>
             <p>Provided that in case the request of the Nodal Officer is not approved by the Secretary,</p>
-            <p>Department of Information Technology, the Designated Officer shall convey the same to such NodalOfficer.</p>
+            <p>Department of Information Technology, the Designated Officer shall convey the same to such Nodal Officer.</p>
           </content>
         </proviso>
       </rule>
@@ -303,7 +303,7 @@
             <p>7 and 8, the Designated Officer, in any case of emergency nature, for which no delay is acceptable, shall</p>
             <p>examine the request and printed sample information and consider whether the request is within the scope</p>
             <p>of sub-section(1) of <ref href="/akn/in/act/2000/21/~sec_69A">section 69A of the Act</ref> and it is necessary or expedient and justifiable to block such</p>
-            <p>information or part thereof and submit the request with specific recommendations in wnting to Secretary, Department of Information Technology.</p>
+            <p>information or part thereof and submit the request with specific recommendations in writing to Secretary, Department of Information Technology.</p>
           </content>
         </subrule>
         <subrule eId="rule_9__subrule_2">
@@ -552,7 +552,7 @@
             <paragraph eId="sched_1__para_16">
               <num>16.</num>
               <content>
-                <p>Have the complaint been examined in Ministry/State Govenment : Y/N</p>
+                <p>Have the complaint been examined in Ministry/State Government : Y/N</p>
               </content>
             </paragraph>
             <paragraph eId="sched_1__para_17">

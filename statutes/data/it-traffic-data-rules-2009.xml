@@ -314,7 +314,7 @@
         <subrule eId="rule_4__subrule_8">
           <num>(8)</num>
           <content>
-            <p>On receipt of requisition under <ref href="#rule_4__subrule_2">sub-rule (2)</ref> conveying the direction issued under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref>, the designated officer of the intermediary or person in-charge of computer resource designatod under <ref href="#rule_4__subrule_4">sub-rule (4)</ref> shall acknowledge the receipt of requisition by way of letter or fax or electronically signed e-mail to the nodal officer within a period of two hours from the time of receipt of such requisition.</p>
+            <p>On receipt of requisition under <ref href="#rule_4__subrule_2">sub-rule (2)</ref> conveying the direction issued under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref>, the designated officer of the intermediary or person in-charge of computer resource designated under <ref href="#rule_4__subrule_4">sub-rule (4)</ref> shall acknowledge the receipt of requisition by way of letter or fax or electronically signed e-mail to the nodal officer within a period of two hours from the time of receipt of such requisition.</p>
           </content>
         </subrule>
         <subrule eId="rule_4__subrule_9">
@@ -326,7 +326,7 @@
         <subrule eId="rule_4__subrule_10">
           <num>(10)</num>
           <content>
-            <p>The designated officer of the intermediary or person in-charge of computer resource shalli forward in every fifteen days a list of requisition conveying direction for monitoring or collection of traffic data or information to the nodal officer which shall include details such as the reference and date of requisition conveying direction of the concerned competent authority.</p>
+            <p>The designated officer of the intermediary or person in-charge of computer resource shall forward in every fifteen days a list of requisition conveying direction for monitoring or collection of traffic data or information to the nodal officer which shall include details such as the reference and date of requisition conveying direction of the concerned competent authority.</p>
           </content>
         </subrule>
       </rule>
@@ -373,7 +373,7 @@
         <subrule eId="rule_9__subrule_1">
           <num>(1)</num>
           <content>
-            <p>Any person who, intentionally or knowingly, without authorisation under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref> or <ref href="#rule_4__subrule_1">sub-rule (1) of rule 4</ref>, monitors or collects traffic data or informalion, or attempts to monitor or collect traffic data or information, or authorises or assists any person to monitor or collect traffic data or information in the course of its occurrence or transmission at any place within India, shall be proceeded against, punished accordingly under the relevant provisions of the law for the time being in force.</p>
+            <p>Any person who, intentionally or knowingly, without authorisation under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref> or <ref href="#rule_4__subrule_1">sub-rule (1) of rule 4</ref>, monitors or collects traffic data or information, or attempts to monitor or collect traffic data or information, or authorises or assists any person to monitor or collect traffic data or information in the course of its occurrence or transmission at any place within India, shall be proceeded against, punished accordingly under the relevant provisions of the law for the time being in force.</p>
           </content>
         </subrule>
         <subrule eId="rule_9__subrule_2">
@@ -432,7 +432,7 @@
           <subclause eId="rule_9__subrule_2__subcl_vi">
             <num>(vi)</num>
             <content>
-              <p>accessing or analysing information from a computer resource for the purpose of tracing a computer resource or any person who has contravened, or is suspected of having contravened or being likely to contravene, any provision of the Act that is likely to have an adverse impact on the services providcd by the intermediary.</p>
+              <p>accessing or analysing information from a computer resource for the purpose of tracing a computer resource or any person who has contravened, or is suspected of having contravened or being likely to contravene, any provision of the Act that is likely to have an adverse impact on the services provided by the intermediary.</p>
             </content>
           </subclause>
         </subrule>
@@ -467,7 +467,7 @@
     <conclusions>
       <p>[No. 9(16)/2004-EC]</p>
       <p>N. RAVI SHANKER, Jt. Secy.</p>
-      <p>Printed by the Manager, Govermment of India Press, Ring Road, Mayapuri, New Delhi-|10064</p>
+      <p>Printed by the Manager, Government of India Press, Ring Road, Mayapuri, New Delhi-|10064</p>
       <p>and Published by the Controller of Publications, Delhi-110054,</p>
     </conclusions>
   </act>

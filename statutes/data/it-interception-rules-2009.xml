@@ -327,7 +327,7 @@
         <num>4.</num>
         <heading>Authorisation of agency of Government</heading>
         <content>
-          <p>The competent authority may authorise an agency of the Govemment to intercept, monitor or decrypt information generaled, transmitted, received or stored in any computer resource for the purpose specified in <ref href="/akn/in/act/2000/21/~sec_69__subsec_1">sub-section (1) of section 69 of the Act</ref>.</p>
+          <p>The competent authority may authorise an agency of the Government to intercept, monitor or decrypt information generaled, transmitted, received or stored in any computer resource for the purpose specified in <ref href="/akn/in/act/2000/21/~sec_69__subsec_1">sub-section (1) of section 69 of the Act</ref>.</p>
         </content>
       </rule>
       <rule eId="rule_5" period="#tg_1">
@@ -341,7 +341,7 @@
         <num>6.</num>
         <heading>Interception or monitoring or decryption of information by a State beyond its jurisdiction</heading>
         <content>
-          <p>Notwithstanding anything contained in <ref href="#rule_3">rule 3</ref>, if a State Govemment or Union territory Administration requires any interception or monitoring or decryption of information beyond its territorial jurisdiction, the Secretary in-charge of the Home Department in that State or Union territory, as the case may be, shall make a request to the Secretary in the Ministry of Home Affairs, Government of India for issuing direction to the appropriate authority for such interception or monitoring or decryption of information.</p>
+          <p>Notwithstanding anything contained in <ref href="#rule_3">rule 3</ref>, if a State Government or Union territory Administration requires any interception or monitoring or decryption of information beyond its territorial jurisdiction, the Secretary in-charge of the Home Department in that State or Union territory, as the case may be, shall make a request to the Secretary in the Ministry of Home Affairs, Government of India for issuing direction to the appropriate authority for such interception or monitoring or decryption of information.</p>
         </content>
       </rule>
       <rule eId="rule_7" period="#tg_1">
@@ -415,7 +415,7 @@
       </rule>
       <rule eId="rule_14" period="#tg_1">
         <num>14.</num>
-        <heading>Intermediary to designate officers to recelve and handle requisition</heading>
+        <heading>Intermediary to designate officers to receive and handle requisition</heading>
         <content>
           <p>Every intermediary or person in-charge of computer resource shall designate an officer to receive requisition, and another officer to handle such requisition, from the nodal officer for interception or monitoring or decryption of information generated, transmitted, received or stored in any computer resource.</p>
         </content>
@@ -487,7 +487,7 @@
         <subclause eId="rule_19__subcl_ii">
           <num>(ii)</num>
           <content>
-            <p>the maintenance, testing or use of such equiprnent; or</p>
+            <p>the maintenance, testing or use of such equipment; or</p>
           </content>
         </subclause>
         <subclause eId="rule_19__subcl_iii">
@@ -507,14 +507,14 @@
         <num>20.</num>
         <heading>Intermediary to ensure effective check in handling matter of interception or monitoring or decryption of information</heading>
         <content>
-          <p>The intermediary or person in-charge of computer resources shall put in place adequate and effective internal checks to ensure the unauthorised interception of information does not take place and extreme secrecy is maintained and utmost care and precaution shall be taken in the matter of interception or monitoring or decryption of information as it affects privacy of citizens and also that it is handied only by the designated officers of the intermediary and no other person of the intermediary or person in-charge of computer resources shall have access to such intercepted or monitored or decrypted information.</p>
+          <p>The intermediary or person in-charge of computer resources shall put in place adequate and effective internal checks to ensure the unauthorised interception of information does not take place and extreme secrecy is maintained and utmost care and precaution shall be taken in the matter of interception or monitoring or decryption of information as it affects privacy of citizens and also that it is handled only by the designated officers of the intermediary and no other person of the intermediary or person in-charge of computer resources shall have access to such intercepted or monitored or decrypted information.</p>
         </content>
       </rule>
       <rule eId="rule_21" period="#tg_1">
         <num>21.</num>
         <heading>Responsibility of intermediary</heading>
         <content>
-          <p>The intermediary or person in-charge of computer resources shall be responsible for any action of their employees also and in case of violation pertaining to maintenance of secrecy and confidentiality of information or any unauthorised interception or monitoring or decryplion of information, the intermediary or person in-charge of computer resources shall be liable for any action under the relevant provisions of the laws for the time being in force.,</p>
+          <p>The intermediary or person in-charge of computer resources shall be responsible for any action of their employees also and in case of violation pertaining to maintenance of secrecy and confidentiality of information or any unauthorised interception or monitoring or decryption of information, the intermediary or person in-charge of computer resources shall be liable for any action under the relevant provisions of the laws for the time being in force.,</p>
         </content>
       </rule>
       <rule eId="rule_22" period="#tg_1">
@@ -546,13 +546,13 @@
         <subrule eId="rule_24__subrule_1">
           <num>(1)</num>
           <content>
-            <p>Any person who intentionally or knowingly, without authorisation under <ref href="#rule_3">rule 3</ref> or <ref href="#rule_4">rule 4</ref>, intercepts or attempts to intercept, or authorises or assists any other person to intercepl or attempts to intercept any information in the course of its occurrence or transmission at any place within India, shall be proceeded against and punished accordingly under the relevant provisions of the laws for the time being in force.</p>
+            <p>Any person who intentionally or knowingly, without authorisation under <ref href="#rule_3">rule 3</ref> or <ref href="#rule_4">rule 4</ref>, intercepts or attempts to intercept, or authorises or assists any other person to intercept or attempts to intercept any information in the course of its occurrence or transmission at any place within India, shall be proceeded against and punished accordingly under the relevant provisions of the laws for the time being in force.</p>
           </content>
         </subrule>
         <subrule eId="rule_24__subrule_2">
           <num>(2)</num>
           <intro>
-            <p>Any interception, monitoring or decryption of information in computer resource by the employee of an intermediary or person in-charge of computer resource or a person duly authoricnd by the intermediary, may be undertaken in course of his duty relating to the services provided by that intermediary, if such activities are reasonably necessary for the discharge his duties as per the prevaiing industry practices, in connection with the following matters, namely—</p>
+            <p>Any interception, monitoring or decryption of information in computer resource by the employee of an intermediary or person in-charge of computer resource or a person duly authorised by the intermediary, may be undertaken in course of his duty relating to the services provided by that intermediary, if such activities are reasonably necessary for the discharge his duties as per the prevailing industry practices, in connection with the following matters, namely—</p>
           </intro>
           <subclause eId="rule_24__subrule_2__subcl_i">
             <num>(i)</num>
@@ -646,7 +646,7 @@
         <subrule eId="rule_25__subrule_5">
           <num>(5)</num>
           <content>
-            <p>Whenever asked for by the concerned security agency at the Centre, the security agencies at the State and the Union territory level shall promptly share any information which they may have obtained following directions for interception or monitoring or decryption of any information generated, transmitted, received or stored in any computer resource under <ref href="#rule_3">rule 3</ref>, with the security agency at theCentre.</p>
+            <p>Whenever asked for by the concerned security agency at the Centre, the security agencies at the State and the Union territory level shall promptly share any information which they may have obtained following directions for interception or monitoring or decryption of any information generated, transmitted, received or stored in any computer resource under <ref href="#rule_3">rule 3</ref>, with the security agency at the Centre.</p>
           </content>
         </subrule>
       </rule>

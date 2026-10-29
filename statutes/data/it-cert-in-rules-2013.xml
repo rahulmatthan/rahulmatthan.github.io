@@ -317,9 +317,9 @@
       </rule>
       <rule eId="rule_8" period="#tg_1">
         <num>8.</num>
-        <heading>Funetions and responsibilities of CERT-In</heading>
+        <heading>Functions and responsibilities of CERT-In</heading>
         <content>
-          <p>CERT-In shali have functions as prescribed in <ref href="/akn/in/act/2000/21/~sec_70B">section 70B of the Act</ref> and those which may be assigned to it from time to time. It shall function as the trusted referral agency for cyber users in India for responding to cyber security incidents and will assist cyber users in the country in implementing measures to reduce the risk of cyber security incidents.</p>
+          <p>CERT-In shall have functions as prescribed in <ref href="/akn/in/act/2000/21/~sec_70B">section 70B of the Act</ref> and those which may be assigned to it from time to time. It shall function as the trusted referral agency for cyber users in India for responding to cyber security incidents and will assist cyber users in the country in implementing measures to reduce the risk of cyber security incidents.</p>
         </content>
       </rule>
       <rule eId="rule_9" period="#tg_1">
@@ -332,7 +332,7 @@
           <p>• analysis and forensics of cyber security incidents;</p>
           <p>• information security assurance and audits;</p>
           <p>• awareness and technology exposition in the area of cyber security;</p>
-          <p>• training or upgrade of technical know-how for the entities covered under Rule 10 and sub-rule(2) of Rulel1;</p>
+          <p>• training or upgrade of technical know-how for the entities covered under Rule 10 and sub-rule(2) of Rule11;</p>
           <p>• scanning of cyber space with respect to cyber security vulnerabilities, breaches and malicious activities.</p>
         </content>
       </rule>
@@ -340,7 +340,7 @@
         <num>10.</num>
         <heading>Stakeholders</heading>
         <intro>
-          <p>CERT-In shall interact with and seck assistance from the following stakeholders to collect, share and disseminate information and also to respond and prevent cyber security incidents, namely: :—</p>
+          <p>CERT-In shall interact with and seek assistance from the following stakeholders to collect, share and disseminate information and also to respond and prevent cyber security incidents, namely: :—</p>
         </intro>
         <clause eId="rule_10__cl_a">
           <num>(a)</num>
@@ -449,7 +449,7 @@
             <point eId="rule_11__subrule_1__cl_a__point_V">
               <num>(V)</num>
               <content>
-                <p>lypes of incidents other than those mentioned above will be prioritised according to their apparent severity and extent. 15</p>
+                <p>types of incidents other than those mentioned above will be prioritised according to their apparent severity and extent. 15</p>
               </content>
             </point>
           </clause>
@@ -532,7 +532,7 @@
         <subrule eId="rule_13__subrule_2">
           <num>(2)</num>
           <content>
-            <p>CERT-In shall not disclose any information which may lead to identification of individual, group of individuals or orgapizations affected by cyber security incidents without their explicit written consent or orders of Indian competent courts. CERT-In shall take appropriate measures to protect such information and shall also not disclose the identity of individuals, group of individuals and organisations sharing the information and reporting cyber security incidents to it, without their explicit written consent or orders of Indian competent courts.</p>
+            <p>CERT-In shall not disclose any information which may lead to identification of individual, group of individuals or organizations affected by cyber security incidents without their explicit written consent or orders of Indian competent courts. CERT-In shall take appropriate measures to protect such information and shall also not disclose the identity of individuals, group of individuals and organisations sharing the information and reporting cyber security incidents to it, without their explicit written consent or orders of Indian competent courts.</p>
           </content>
         </subrule>
         <subrule eId="rule_13__subrule_3">
