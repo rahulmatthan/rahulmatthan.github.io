@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0">
+  <act name="gsr" contains="singleVersion">
+    <meta>
+      <identification source="#lex-kernel">
+        <FRBRWork>
+          <FRBRthis value="/akn/in/act/gsr/2014/19E/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2014/19E" />
+          <FRBRalias value="The Information Technology (National Critical Information Infrastructure Protection Centre and Manner of Performing Functions and Duties) Rules, 2013" name="title" />
+          <FRBRdate date="2014-01-16" name="publication" />
+          <FRBRauthor href="#central-government" />
+          <FRBRcountry value="in" />
+          <FRBRsubtype value="gsr" />
+          <FRBRnumber value="19E" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/in/act/gsr/2014/19E/eng@2014-01-16/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2014/19E/eng@2014-01-16" />
+          <FRBRdate date="2014-01-16" name="version" />
+          <FRBRauthor href="#central-government" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/in/act/gsr/2014/19E/eng@2014-01-16/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2014/19E/eng@2014-01-16.akn" />
+          <FRBRdate date="2026-10-29" name="transform" />
+          <FRBRauthor href="#lex-kernel" />
+        </FRBRManifestation>
+      </identification>
+      <publication date="2014-01-16" name="Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i)" showAs="Gazette of India" />
+      <lifecycle source="#lex-kernel">
+        <eventRef eId="e_original" date="2014-01-16" source="#original" type="generation" />
+        <eventRef eId="e_commencement_20140116_1" date="2014-01-16" source="#original" type="generation" refersTo="#commencement" />
+      </lifecycle>
+      <analysis source="#lex-kernel">
+        <passiveModifications>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
+            <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_zc" />
+            <source href="/akn/in/act/2000/21/~sec_70A__subsec_3" />
+            <destination href="/akn/in/act/gsr/2014/19E" />
+          </legalSystemMod>
+        </passiveModifications>
+      </analysis>
+      <temporalData source="#lex-kernel">
+        <temporalGroup eId="tg_1">
+          <timeInterval start="#e_commencement_20140116_1" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#lex-kernel">
+        <original eId="original" href="/akn/in/act/gsr/2014/19E/eng@2014-01-16" showAs="The Information Technology (National Critical Information Infrastructure Protection Centre and Manner of Performing Functions and Duties) Rules, 2013" />
+        <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
+        <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
+        <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
+        <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
+      </references>
+    </meta>
+    <preface>
+      <p class="docType">NOTIFICATION</p>
+      <p>
+        <docDate date="2014-01-16">New Delhi, the 16th January, 2014</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>G.S.R. 19(E).- In exercise of the powers conferred by clause (zc) of sub-section (2) of Section 87, read with sub-section (3) of section 70A of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby makes the following rules, namely:-</p>
+    </preamble>
+    <body>
+      <rule eId="rule_1" period="#tg_1">
+        <num>1.</num>
+        <heading>Short title and Commencement</heading>
+        <subrule eId="rule_1__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>These rules may be called the Information Technology (National Critical Information Infrastructure Protection Centre and Manner of Performing Functions and Duties) Rules, 2013.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>They shall come into force on the date of their publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_2" period="#tg_1">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <subrule eId="rule_2__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>In these rules, unless the context otherwise requires, -</p>
+          </intro>
+          <clause eId="rule_2__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>“Act” means Information Technology Act, 2000 (21 of 2000);</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>“Appropriate Government” means appropriate Government as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_e">clause (e) of sub-section (1) of section 2 of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>“Body Corporate” means body corporate as defined in Explanation (1) to <ref href="/akn/in/act/2000/21/~sec_43A">section 43A of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_d">
+            <num>(d)</num>
+            <content>
+              <p>“Critical Information Infrastructure” means Critical Information Infrastructure as defined in Explanation to <ref href="/akn/in/act/2000/21/~sec_70__subsec_1">sub-section (1) of section 70 of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_e">
+            <num>(e)</num>
+            <content>
+              <p>“Critical Sector” means sectors, which are critical to the nation and whose incapacitation or destruction will have a debilitating impact on national security, economy, public health or safety;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_f">
+            <num>(f)</num>
+            <content>
+              <p>“Indian Computer Emergency response Team” means the Indian Computer Emergency Response Team notified under <ref href="/akn/in/act/2000/21/~sec_70B__subsec_1">sub-section (1) of section 70B of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_g">
+            <num>(g)</num>
+            <content>
+              <p>“Intermediary” means an intermediary as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_w">clause (w) of sub-section (1) of section 2 of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_h">
+            <num>(h)</num>
+            <content>
+              <p>“Nodal Officers” means officer(s) nominated by the appropriate Government(s) and its agencies, body corporates, and other entities in the designated critical sectors, who shall inform, cooperate with and support the designated Nodal Agency or its units as and when required for the protection of Critical Information Infrastructure and associated protected systems;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_i">
+            <num>(i)</num>
+            <content>
+              <p>“Technical Centre” means technical units of the National Critical Information Infrastructure Protection Centre or critical sector(s) or of the appropriate Governments and its agencies, which shall work cohesively in synergistic manner with the National Critical Information Infrastructure Protection Centre for the protection of Critical Information Infrastructure.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_2__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Words and expressions used in these rules but not defined and defined in the Act shall have the same meaning as is assigned to them in the Act.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_3" period="#tg_1">
+        <num>3.</num>
+        <subrule eId="rule_3__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>National Critical Information Infrastructure Protection Centre (hereinafter referred to as NCIIPC) shall be the national nodal agency designated under <ref href="/akn/in/act/2000/21/~sec_70A">section 70A of the Act</ref> in respect of Critical Information Infrastructure Protection and shall function at the address to be notified.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_3__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>National Critical Information Infrastructure Protection Centre shall be a part of and under the administrative control of the National Technical Research Organisation (NTRO),</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_3__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>National Critical Information Infrastructure Protection Centre shall function on a twenty-four-hour basis on all days of the year including Government holidays. The address and other contact details of NCIIPC shall be published on its website.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_3__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>National Critical Information Infrastructure Protection Centre constituency shall be the Indian critical information infrastructure as notified by the Government from time to time and excluding those notified under the Ministry of Defence.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_4" period="#tg_1">
+        <num>4.</num>
+        <heading>Functions and duties of the National Critical Information Infrastructure Protection Centre</heading>
+        <intro>
+          <p>The functions and duties of the National Critical Information Infrastructure Protection Centre shall be the following, namely:-</p>
+        </intro>
+        <subrule eId="rule_4__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>National Critical Information Infrastructure Protection Centre shall function as the national nodal agency for all measures to protect nation’s critical information infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The National Critical Information Infrastructure Protection Centre shall essentially protect and deliver advice that aims to reduce the vulnerabilities of critical information infrastructure, against cyber terrorism, cyber warfare and other threats.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Identification of all critical information infrastructure elements for approval by the appropriate Government for notifying the same.</p>
+          </content>
+        </subrule>
+        <hcontainer name="continuation" eId="rule_4__wrap_1">
+          <content>
+            <p>186 63/19-2 6 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]</p>
+          </content>
+        </hcontainer>
+        <subrule eId="rule_4__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>Provide strategic leadership and coherence across Government to respond to cyber security threats against the identified critical information infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>Coordinating, sharing, monitoring, collecting, analysing and forecasting, national-level threats to critical information infrastructure for policy guidance, expertise-sharing and situational awareness for early warning or alerts. The basic responsibility for protecting critical information infrastructure system shall lie with the agency running that critical information infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_6">
+          <num>(6)</num>
+          <content>
+            <p>Assisting in the development of appropriate plans, adoption of standards, sharing of best practices and refinement of procurement processes in respect of protection of Critical Information Infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_7">
+          <num>(7)</num>
+          <content>
+            <p>Evolving protection strategies, policies, vulnerability assessment and auditing methodologies and plans for their dissemination and implementation for protection of Critical Information Infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_8">
+          <num>(8)</num>
+          <content>
+            <p>Undertaking research and development and allied activities, providing funding (including grants-in-aid) for creating, collaborating and development of innovative future technology for developing and enabling the growth of skills, working closely with wider public sector industries, academia et al and with international partners for protection of Critical Information Infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_9">
+          <num>(9)</num>
+          <content>
+            <p>Developing or organising training and awareness programs as also nurturing and development of audit and certification agencies for protection of Critical Information Infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_10">
+          <num>(10)</num>
+          <content>
+            <p>Developing and executing national and international cooperation strategies for protection of Critical Information Infrastructure.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_11">
+          <num>(11)</num>
+          <content>
+            <p>Issuing guidelines, advisories and vulnerability or audit notes etc. relating to protection of critical information infrastructure and practices, procedures, prevention and response in consultation with the stake holders, in close coordination with Indian Computer Emergency Response Team and other organisations working in the field or related fields.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_12">
+          <num>(12)</num>
+          <content>
+            <p>Exchanging cyber incidents and other information relating to attacks and vulnerabilities with Indian Computer Emergency Response Team and other concerned organisations in the field.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_13">
+          <num>(13)</num>
+          <content>
+            <p>In the event of any threat to critical information infrastructure the National Critical Information Infrastructure Protection Centre may call for information and give directions to the critical sectors or persons serving or having a critical impact on Critical Information Infrastructure.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_5" period="#tg_1">
+        <num>5.</num>
+        <heading>Manner of performing functions and duties</heading>
+        <subrule eId="rule_5__subrule_1">
+          <num>(1)</num>
+          <clause eId="rule_5__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>The National Critical Information Infrastructure Protection Centre shall essentially undertake its task and discharge its responsibilities in close association or coordination with the respective nodal officers of the critical sectors, Indian Computer Emergency Response Team and other organisations working in the field or related fields.</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_1__cl_b">
+            <num>(b)</num>
+            <intro>
+              <p>Prioritisation of actions against threats or vulnerabilities shall generally be based on the type, severity. affected entity and availability of resources and the methodology for prioritization in descending order shall be as follows, namely:-</p>
+            </intro>
+            <subclause eId="rule_5__subrule_1__cl_b__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>the threat or vulnerability could result in significant physical or economic or other damage to the national critical information infrastructure;</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_5__subrule_1__cl_b__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>Government property covered under critical information infrastructure, is in danger;</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_5__subrule_1__cl_b__subcl_iii">
+              <num>(iii)</num>
+              <content>
+                <p>a significant number of sector(s) of the national critical information infrastructure are in danger;</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_5__subrule_1__cl_b__subcl_iv">
+              <num>(iv)</num>
+              <content>
+                <p>a particular sector of the national critical information infrastructure is endangered.</p>
+              </content>
+            </subclause>
+          </clause>
+        </subrule>
+        <subrule eId="rule_5__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>Communication with National Critical Information Infrastructure Protection Centre</p>
+          </intro>
+          <clause eId="rule_5__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>The respective nodal officers in the various critical sectors shall communicate with the National Critical Information Infrastructure Protection Centre using all appropriate or available means of communication.</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_2__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>The National Critical Information Infrastructure Protection Centre may also take suo moto cognizance of any vulnerability/threat that comes to its notice and that affects, or can affect, the nation’s Critical Information Infrastructure, and initiate suitable measures.</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_2__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>The National Critical Information Infrastructure Protection Centre shall maintain a 24X7 help desk to facilitate reporting of incidents.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_5__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>National Critical Information Infrastructure Protection Centre – Operations and Response (a) National Critical Information Infrastructure Protection Centre shall, in conjunction with the respective nodal officers and other agencies like Indian Computer Emergency Response Team working in the field, issue advisories or alerts and provide guidance and expertise-sharing in addressing the threats/vulnerabilities for protection of Critical Information Infrastructure. (b) It shall, in the event of a likely/actual national-level threat, play a pivotal role and coordinate the response of the various stake-holders in the area of critical information infrastructure in close cooperation with Indian Computer Emergency Response Team. (c) For protection of critical information infrastructure, the National Critical Information Infrastructure Protection Centre may take recourse for monitoring and collection of traffic data in accordance with the provisions of <ref href="/akn/in/act/2000/21/~sec_69B">section 69B of the Act</ref> and the rules notified thereunder specific to critical information infrastructure and relevant to their cyber protection needs only. (d) The powers to the National Critical Information Infrastructure Protection Centre for interception/monitoring/decryption and blocking of cyber information for the purpose of protection of critical information infrastructure shall be in accordance with the law and as per the Standard Operating Procedures/modalities to be jointly developed by Ministry of Home Affairs and NTRO.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_6" period="#tg_1">
+        <num>6.</num>
+        <heading>Advisory Committee</heading>
+        <clause eId="rule_6__cl_a">
+          <num>(a)</num>
+          <content>
+            <p>There shall be Advisory Committee to advise the National Critical Information Infrastructure Protection Centre on policy matters and measures relating to the protection of critical information infrastructure to enable it to fulfil its mandated role and functions.</p>
+          </content>
+        </clause>
+        <clause eId="rule_6__cl_b">
+          <num>(b)</num>
+          <intro>
+            <p>The Advisory Committee shall consist of the following:-</p>
+          </intro>
+          <subclause eId="rule_6__cl_b__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>Chairman/Scientific Advisor, NTRO - Chairman</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>Representative of Ministry of Home Affairs - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_iii">
+            <num>(iii)</num>
+            <content>
+              <p>Representative of Ministry of Law &amp; Justice - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_iv">
+            <num>(iv)</num>
+            <content>
+              <p>Representative of Department of Telecommunications - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_v">
+            <num>(v)</num>
+            <content>
+              <p>Representative of Department of Electronics &amp; IT - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_vi">
+            <num>(vi)</num>
+            <content>
+              <p>Representative of Department of Expenditure - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_vii">
+            <num>(vii)</num>
+            <content>
+              <p>Representative of Ministry of Defence - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_viii">
+            <num>(viii)</num>
+            <content>
+              <p>Director General, CERT-IN - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_ix">
+            <num>(ix)</num>
+            <content>
+              <p>Representative of National Security Council Secretariat - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_x">
+            <num>(x)</num>
+            <content>
+              <p>Representative of Cabinet Secretariat - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_xi">
+            <num>(xi)</num>
+            <content>
+              <p>Subject/Domain Experts (Nominated by the Chairman) - Member(s)</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_xii">
+            <num>(xii)</num>
+            <content>
+              <p>Two Representatives from NTRO - Member(s)</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_xiii">
+            <num>(xiii)</num>
+            <content>
+              <p>Representative of Intelligence Bureau - Member</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_xiv">
+            <num>(xiv)</num>
+            <content>
+              <p>Representative of any other Ministry as and when required - Special Invitee</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_xv">
+            <num>(xv)</num>
+            <content>
+              <p>Representatives from (a) Industry (b) body corporate - Special Invitee (c) Critical Sectors</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_xvi">
+            <num>(xvi)</num>
+            <content>
+              <p>Representative of State Governments (by rotation) - Special Invitee</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_6__cl_b__subcl_xvii">
+            <num>(xvii)</num>
+            <content>
+              <p>Director General, National Critical Information Infrastructure Protection Centre - Member Convener</p>
+            </content>
+          </subclause>
+        </clause>
+        <clause eId="rule_6__cl_c">
+          <num>(c)</num>
+          <content>
+            <p>The Advisory Committee shall meet as often as considered necessary.</p>
+          </content>
+        </clause>
+        <clause eId="rule_6__cl_d">
+          <num>(d)</num>
+          <content>
+            <p>The Advisory Committee may constitute Sub-committees to address any specific issue relating to functioning of NCIIPC.</p>
+          </content>
+        </clause>
+      </rule>
+      <rule eId="rule_7" period="#tg_1">
+        <num>7.</num>
+        <heading>Research and development</heading>
+        <intro>
+          <p>The National Critical Information Infrastructure Protection Centre may seek collaboration and support research and development (direct or indirect) in accorcance with rules and procedures of Government in this regard from-8 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]</p>
+        </intro>
+        <subclause eId="rule_7__subcl_i">
+          <num>(i)</num>
+          <content>
+            <p>Government organisations or bodies, institutes, Departments, agencies or societies etc.;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_7__subcl_ii">
+          <num>(ii)</num>
+          <content>
+            <p>institutes of eminence within and/or outside India;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_7__subcl_iii">
+          <num>(iii)</num>
+          <content>
+            <p>body corporates and industry associations; and</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_7__subcl_iv">
+          <num>(iv)</num>
+          <content>
+            <p>subject or domain experts.</p>
+          </content>
+        </subclause>
+      </rule>
+    </body>
+    <conclusions>
+      <p>[F. No. 9(16)/2004-EC]</p>
+      <p>R.K. GOYAL, Jt. Secy.</p>
+    </conclusions>
+  </act>
+</akomaNtoso>

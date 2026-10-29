@@ -316,9 +316,6 @@
             <destination href="#sec_35__subsec_4" />
             <destination href="#sec_35__subsec_4__proviso_1" />
             <force period="#tg_18" />
-            <new>
-              <h:p>electronic signature</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_35" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -349,9 +346,6 @@
             <destination href="#sec_73__subsec_1" />
             <destination href="#sec_73__subsec_1__wrap_1" />
             <force period="#tg_18" />
-            <new>
-              <h:p>electronic signature</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_39" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -390,9 +384,6 @@
             <destination href="#sec_1__subsec_4" />
             <destination href="#sec_1__subsec_5" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(4) Nothing in this Act shall apply to documents or transactions specified in the First Schedule: Provided that the Central Government may, by notification in the Official Gazette, amend the First Schedule by way of addition or deletion of entries thereto. (5) Every notification issued under sub-section (4) shall be laid before each House of Parliament.</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_44" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -420,18 +411,12 @@
             <destination href="#sec_2__subsec_1__cl_na" />
             <destination href="#sec_2__subsec_1__cl_nb" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(na) “cyber cafe” means any facility from where access to the internet is offered by any person in the ordinary course of business to the members of the public; (nb) “cyber security” means protecting information, equipment, devices, computer, computer resource, communication device and information stored therein from unauthorised access, use, disclosure, disruption, modification or destruction;</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_48" bnl:basis="stated">
             <source href="#act_2009_10" />
             <destination href="#sec_2__subsec_1__cl_ta" />
             <destination href="#sec_2__subsec_1__cl_tb" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(ta) “electronic signature” means authentication of any electronic record by a subscriber by means of the electronic technique specified in the Second Schedule and includes digital signature; (tb) “Electronic Signature Certificate” means an Electronic Signature Certificate issued under section 35 and includes Digital Signature Certificate;</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_49" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -470,7 +455,7 @@
             <destination href="#sec_3A" />
             <force period="#tg_18" />
             <new>
-              <h:p>3A. [Electronic signature] (1) Notwithstanding anything contained in section 3, but subject to the provisions of sub-section (2), a subscriber may authenticate any electronic record by such electronic signature or electronic authentication technique which-(a) is considered reliable; and (b) may be specified in the Second Schedule. (2) For the purposes of this section any electronic signature or el</h:p>
+              <h:p>3A. [Electronic signature] (1) Notwithstanding anything contained in section 3, but subject to the provisions of sub-section (2), a subscriber may authenticate any electronic record by such electronic signature or electronic authentication technique which- (a) is considered reliable; and (b) may be specified in the Second Schedule. (2) For the purposes of this section any electronic signature or e</h:p>
             </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_54" bnl:basis="stated">
@@ -510,9 +495,6 @@
             <destination href="#sec_15" />
             <destination href="#sec_16" />
             <force period="#tg_18" />
-            <new>
-              <h:p>15. [Secure electronic signature] An electronic signature shall be deemed to be a secure electronic signature if (f) the signature creation data, at the time of affixing signature, was under the exclusive control of signatory and no other person; and (ii) the signature creation data was stored and affixed in such exclusive manner as may be prescribed. Explanation.— In case of digital signature, th</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_59" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -553,9 +535,6 @@
             <destination href="#sec_30__cl_ca" />
             <destination href="#sec_30__cl_cb" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(ca) be the repository of all Electronic Signature Certificates issued under this Act; (cb) publish information regarding its practices, Electronic Signature Certificates and current status of such certificates; and</h:p>
-            </new>
           </textualMod>
           <textualMod type="repeal" eId="mod_65" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -580,9 +559,6 @@
             <destination href="#sec_36__cl_ca" />
             <destination href="#sec_36__cl_cb" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(ca) the subscriber holds a private key which is capable of creating a digital signature; (cb) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the subscriber;</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_69" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -621,9 +597,6 @@
             <destination href="#sec_43__cl_i" />
             <destination href="#sec_43__cl_j" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(i) destroys, deletes or alters any information residing in a computer resource or diminishes its value or utility or affects it injuriously by any means; (j) steal, conceals, destroys or alters or causes any person to steal, conceal, destroy or alter any computer source code used for a computer resource with an intention to cause damage;</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_74" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -689,9 +662,6 @@
             <destination href="#sec_52C" />
             <destination href="#sec_52D" />
             <force period="#tg_18" />
-            <new>
-              <h:p>49. [Composition of Cyber Appellate Tribunal] (1) The Cyber Appellate Tribunal shall consist of a Chairperson and such number of other Members, as the Central Government may, by notification in the Official Gazette, appoint: Provided that the person appointed as the Presiding Officer of the Cyber Appellate Tribunal under the provisions of this Act immediately before the commencement of the Informa</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_82" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -739,9 +709,6 @@
             <destination href="#sec_67B" />
             <destination href="#sec_67C" />
             <force period="#tg_18" />
-            <new>
-              <h:p>66. [Computer related offences] If any person, dishonestly or fraudulently, coes any act referred to in section 43, he shall be punishable with imprisonment for a term which may extend to three years or with fine which may extend to five lakh rupees or with both. Explanation.— For the purposes of this section, (a) the word “dishonestly” shall have the meaning assigned to it in section 24 45 of 186</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_87" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -757,18 +724,12 @@
             <destination href="#sec_69A" />
             <destination href="#sec_69B" />
             <force period="#tg_18" />
-            <new>
-              <h:p>69. [Power to issue directions for interception or monitoring or decryption of any information through any computer resource] (1) Where the Central Government or a State Government or any of its officers specially authorised by the Central Government or the State Government, as the case may be, in this behalf may, if satisfied that it is necessary or expedient so to do, in the interest of the sove</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_89" bnl:basis="stated">
             <source href="#act_2009_10" />
             <destination href="#sec_70__subsec_1" />
             <destination href="#sec_70__hcontainer_1" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(1) The appropriate Government may, by notification in the Official Gazette, declare any computer resource which directly or indirectly affects the facility of Critical Information Infrastructure, to be a protected system. Explanation.— For the purposes of this section, “Critical Information Infrastructure” means the computer resource, the incapacitation or destruction of which, shall have debilit</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_90" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -783,9 +744,6 @@
             <destination href="#sec_70A" />
             <destination href="#sec_70B" />
             <force period="#tg_18" />
-            <new>
-              <h:p>70A. [National nodal agency] (1) The Central Government may, by notification published in the Official Gazette, designate any organisation of the Government as the national nodal agency in respect of Critical Information Infrastructure Protection. (2) The national nodal agency designated under sub-section (1) shall be responsible for all measures including Research and Development relating to prot</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_92" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -801,9 +759,6 @@
             <destination href="#sec_77A" />
             <destination href="#sec_77B" />
             <force period="#tg_18" />
-            <new>
-              <h:p>77. [Compensation, penalties or confiscation not to interfere with other punishment] No compensation awarded, penalty imposed or confiscation made under this Act shall prevent the award of compensation or imposition of any other penalty or punishment under any other law for the time being in force. 77A. [Compounding of offences] A court of competent jurisdiction may compound offences, other than o</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_94" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -818,9 +773,6 @@
             <destination href="#chp_XII" />
             <destination href="#chp_XIIA" />
             <force period="#tg_18" />
-            <new>
-              <h:p>CHAPTER XII [İNTERMEDIARIES NOT TO BE LLABLE IN CERTAIN CASES] 79. [Exemption from liability of intermediary in certain cases] (1) Notwithstanding anything contained in any law for the time being in force but subject to the provisions of sub-sections (2) and (3), an intermediary shall not be liable for any third party information, data, or communication link made available or hosted by him. (2) Th</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_96" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -852,9 +804,6 @@
             <destination href="#sec_84B" />
             <destination href="#sec_84C" />
             <force period="#tg_18" />
-            <new>
-              <h:p>84A. [Modes of methods for encryption] The Central Government may, for secure use of the electronic medium and for promotion of e-governance and e-commerce, prescribe the modes or methods for encryption. 84B. [Punishment for abetment of offences] Whoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Act for the pun</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_100" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -862,9 +811,6 @@
             <destination href="#sec_87__subsec_2__cl_aa" />
             <destination href="#sec_87__subsec_2__cl_ab" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(a) the conditions for considering reliability of electronic signature or electronic authentication technique under sub-section (2) of section 3A; (aa) the procedure for ascertaining electronic signature or authentication under sub-section (3) of section 3A; (ab) the manner in which any information or matter may be authenticated by means of electronic signature under section 5;</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_101" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -879,9 +825,6 @@
             <destination href="#sec_87__subsec_2__cl_e" />
             <destination href="#sec_87__subsec_2__cl_ea" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(e) the manner of storing and affixing electronic signature creation data under section 15; (ea) the security procedures and practices under section 16;</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_103" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -909,18 +852,12 @@
             <destination href="#sec_87__subsec_2__cl_ma" />
             <destination href="#sec_87__subsec_2__wrap_1" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(ma) the form of application and fee for issue of Electronic Signature Certificate under section 35;</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_107" bnl:basis="stated">
             <source href="#act_2009_10" />
             <destination href="#sec_87__subsec_2__cl_oa" />
             <destination href="#sec_87__subsec_2__cl_ob" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(oa) the duties of subscribers under section 40A; (ob) the reasonable security practices and procedures and sensitive personal data or information under section 43A;</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_108" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -945,9 +882,6 @@
             <destination href="#sec_87__subsec_2__cl_zg" />
             <destination href="#sec_87__subsec_2__cl_zh" />
             <force period="#tg_18" />
-            <new>
-              <h:p>(w) the powers and functions of the Chairperson of the Cyber Appellate Tribunal under section 52A; (x) the information, duration, manner and form of such information to be retained and preserved under section 67C; (y) the procedures and safeguards for interception, monitoring, or decryption under sub-section (2) of section 69; (z) the procedure and safeguards for blocking for access by the public </h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_110" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -992,9 +926,6 @@
             <destination href="#sched_1" />
             <destination href="#sched_2" />
             <force period="#tg_18" />
-            <new>
-              <h:p>THE FIRST SCHEDULE [See sub-section (4) of section 1] 1. DOCUMENTS OR TRANSACTIONS TO WHICH THE ACT SHALL NOT APPLY No. Description of documents or transactions A negotiable instrument (other than a cheque) as defined in section 13 of the Negotiable Instruments Act, 1881. 2. A power-of-attorney as defined in section 1A of the Powers-of-Attorney Act, 1882. 3. A trust as defined in section 3 of the </h:p>
-            </new>
           </textualMod>
           <textualMod type="repeal" eId="mod_118" bnl:basis="stated">
             <source href="#act_2009_10" />
@@ -1041,9 +972,6 @@
             <destination href="#sec_84" />
             <destination href="#sec_87__subsec_2__cl_w" />
             <force period="#tg_20" />
-            <new>
-              <h:p>Appellate Tribunal</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_121" bnl:basis="stated">
             <source href="#act_2017_7" />
@@ -1898,10 +1826,21 @@
           <heading>Electronic signature</heading>
           <subsection eId="sec_3A__subsec_1">
             <num>(1)</num>
-            <content>
-              <p>Notwithstanding anything contained in <ref href="#sec_3">section 3</ref>, but subject to the provisions of <ref href="#sec_3A__subsec_2">sub-section (2)</ref>, a subscriber may authenticate any electronic record by such electronic signature or electronic authentication technique which-(a) is considered reliable; and</p>
-              <p>(b) may be specified in <ref href="#sched_2">the Second Schedule</ref>.</p>
-            </content>
+            <intro>
+              <p>Notwithstanding anything contained in <ref href="#sec_3">section 3</ref>, but subject to the provisions of <ref href="#sec_3A__subsec_2">sub-section (2)</ref>, a subscriber may authenticate any electronic record by such electronic signature or electronic authentication technique which-</p>
+            </intro>
+            <clause eId="sec_3A__subsec_1__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>is considered reliable; and</p>
+              </content>
+            </clause>
+            <clause eId="sec_3A__subsec_1__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>may be specified in <ref href="#sched_2">the Second Schedule</ref>.</p>
+              </content>
+            </clause>
           </subsection>
           <subsection eId="sec_3A__subsec_2">
             <num>(2)</num>

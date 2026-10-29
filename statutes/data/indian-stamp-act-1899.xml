@@ -2731,10 +2731,18 @@
           <heading>Cancellation of adhesive stamps</heading>
           <subsection eId="sec_12__subsec_1">
             <num>(1)</num>
-            <content>
-              <p>(a) Whoever affixes any adhesive stamp to any instrument chargeable with duty which has been executed by any person shall, when affixing such stamp, cancel the same so that it cannot be used again; and</p>
-              <p>(b) whoever executes any instrument on any paper bearing an adhesive stamp shall, at the time of execution, unless such stamp has been already cancelled in manner aforesaid, cancel the same so that it cannot be used again.</p>
-            </content>
+            <clause eId="sec_12__subsec_1__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>Whoever affixes any adhesive stamp to any instrument chargeable with duty which has been executed by any person shall, when affixing such stamp, cancel the same so that it cannot be used again; and</p>
+              </content>
+            </clause>
+            <clause eId="sec_12__subsec_1__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>whoever executes any instrument on any paper bearing an adhesive stamp shall, at the time of execution, unless such stamp has been already cancelled in manner aforesaid, cancel the same so that it cannot be used again.</p>
+              </content>
+            </clause>
           </subsection>
           <subsection eId="sec_12__subsec_2">
             <num>(2)</num>
@@ -4406,40 +4414,16 @@
             </intro>
             <clause eId="sec_73__subsec_2__cl_a">
               <num>(a)</num>
-              <content>
-                <p>the manner of collection of stamp-duty on behalf of the State Government by the stock exchange or the clearing corporation authorised by it, from its buyer under <ref href="#sec_9A_dup__subsec_1__cl_a">clause (a) of sub-section (1) of section 9A</ref>;</p>
-              </content>
-            </clause>
-            <clause eId="sec_73__subsec_2__cl_b">
-              <num>(b)</num>
-              <content>
-                <p>the manner of collection of stamp-duty on behalf of the State Government by the depository from the transferor under <ref href="#sec_9A_dup__subsec_1__cl_b">clause (b) of sub-section (1) of section 9A</ref>;</p>
-              </content>
-            </clause>
-            <clause eId="sec_73__subsec_2__cl_c">
-              <num>(c)</num>
-              <content>
-                <p>the manner of collection of stamp-duty on behalf of the State Government by the depository from the issuer under <ref href="#sec_9A_dup__subsec_1__cl_c">clause (c) of sub-section (1) of section 9A</ref>;</p>
-              </content>
-            </clause>
-            <clause eId="sec_73__subsec_2__cl_d">
-              <num>(d)</num>
-              <content>
-                <p>the manner of transfer of stamp-duty to the State Government under <ref href="#sec_9A_dup__subsec_4">sub-section (4) of section 9A</ref>;</p>
-              </content>
-            </clause>
-            <clause eId="sec_73__subsec_2__cl_e">
-              <num>(e)</num>
               <intro>
-                <p>any other matter which has to be, or may be, provided by rules.] <noteRef href="#note_68_2" marker="2" placement="bottom" />[73B. Power to issue directions and to authorise certain authorities to issue instructions, etc.––The Central Government may,––</p>
+                <p>the manner of collection of stamp-duty on behalf of the State Government by the stock exchange or the clearing corporation authorised by it, from its buyer under <ref href="#sec_9A_dup__subsec_1__cl_a">clause (a) of sub-section (1) of section 9A</ref>; (b) the manner of collection of stamp-duty on behalf of the State Government by the depository from the transferor under <ref href="#sec_9A_dup__subsec_1__cl_b">clause (b) of sub-section (1) of section 9A</ref>; (c) the manner of collection of stamp-duty on behalf of the State Government by the depository from the issuer under <ref href="#sec_9A_dup__subsec_1__cl_c">clause (c) of sub-section (1) of section 9A</ref>; (d) the manner of transfer of stamp-duty to the State Government under <ref href="#sec_9A_dup__subsec_4">sub-section (4) of section 9A</ref>; (e) any other matter which has to be, or may be, provided by rules.] <noteRef href="#note_68_2" marker="2" placement="bottom" />[73B. Power to issue directions and to authorise certain authorities to issue instructions, etc.––The Central Government may,––</p>
               </intro>
-              <clause eId="sec_73__subsec_2__cl_e__cl_a">
+              <clause eId="sec_73__subsec_2__cl_a__cl_a">
                 <num>(a)</num>
                 <content>
                   <p>issue directions relating to such matters and subject to such conditions, as it deems necessary;</p>
                 </content>
               </clause>
-              <clause eId="sec_73__subsec_2__cl_e__cl_b">
+              <clause eId="sec_73__subsec_2__cl_a__cl_b">
                 <num>(b)</num>
                 <content>
                   <p>in writing, authorise the Securities and Exchange Board of India established under section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992) or the Reserve Bank of India constituted under section 3 of the Reserve Bank of India Act, 1934 (2 of 1934) to issue instructions, circulars or guidelines,</p>

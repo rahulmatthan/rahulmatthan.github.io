@@ -55,9 +55,6 @@
             <destination href="#rule_3__subrule_1__cl_a" />
             <destination href="#rule_3__subrule_1__cl_b" />
             <force period="#tg_5" />
-            <new>
-              <h:p>(a) the intermediary shall prominently publish on its website, mobile based application or both, as the case may be, the rules and regulations, privacy policy and user agreement in English or any language specified in the Eighth Schedule to the Constitution for access or usage of its computer resource by any person in the language of his choice and ensure compliance of the same; (b) the intermedia</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_3" bnl:basis="stated">
             <source href="#gsr_2022_794E" />
@@ -72,9 +69,6 @@
             <destination href="#rule_3__subrule_1__cl_m" />
             <destination href="#rule_3__subrule_1__cl_n" />
             <force period="#tg_5" />
-            <new>
-              <h:p>(m) the intermediary shall take all reasonable measures to ensure accessibility of its services to users along with reasonable expectation of due diligence, privacy and transparency; (n) the intermediary shall respect all the rights accorded to the citizens under the Constitution, including in the articles 14, 19 and 21.</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_5" bnl:basis="stated">
             <source href="#gsr_2022_794E" />
@@ -109,9 +103,6 @@
             <destination href="#rule_2__subrule_1__cl_qe" />
             <destination href="#rule_2__subrule_1__cl_qf" />
             <force period="#tg_6" />
-            <new>
-              <h:p>(qa) ‘online game’ means a game that is offered on the Internet and is accessible by a user through a computer resource or an intermediary. Explanation.— In this clause, ‘Internet’ means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information ba</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_9" bnl:basis="stated">
             <source href="#gsr_2023_275E" />
@@ -152,9 +143,6 @@
             <destination href="#rule_3__subrule_1__cl_b__subcl_xi" />
             <destination href="#rule_3__subrule_1__cl_b__hcontainer_1" />
             <force period="#tg_6" />
-            <new>
-              <h:p>(ix) is in the nature of an online game that is not verified as a permissible online game; (x) is in the nature of advertisement or surrogate advertisement or promotion of an online game that is not a permissible online game, or of any online gaming intermediary offering such an online game; (xi) violates any law for the time being in force. Explanation.— In this clause, “user harm” and “harm” mea</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_14" bnl:basis="stated">
             <source href="#gsr_2023_275E" />
@@ -299,9 +287,6 @@
             <destination href="#rule_4__subrule_12" />
             <destination href="#rule_4__subrule_13" />
             <force period="#tg_6" />
-            <new>
-              <h:p>(10) An online gaming intermediary who enables access to its users to any permissible online real money game, shall display a demonstrable and visible mark of verification of such online game by an online gaming self-regulatory body on such permissible online real money game. (11) While informing the users of its rules and regulations, privacy policy, terms of service and user agreements under cla</h:p>
-            </new>
           </textualMod>
           <textualMod type="insertion" eId="mod_32" bnl:basis="stated">
             <source href="#gsr_2023_275E" />
@@ -309,9 +294,6 @@
             <destination href="#rule_4B" />
             <destination href="#rule_4C" />
             <force period="#tg_6" />
-            <new>
-              <h:p>4A. [Verification of online real money game] (1) The Ministry may, by a notification in the Official Gazette, designate as many online gaming self-regulatory bodies as it may consider necessary for the purposes of verifying an online real money game as a permissible online real money game under these rules. (2) An entity which fulfils the following criteria may apply to the Ministry for designatio</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_33" bnl:basis="stated">
             <source href="#gsr_2025_775E" />
@@ -342,9 +324,6 @@
             <destination href="#rule_2__subrule_1A" />
             <destination href="#rule_2__subrule_1B" />
             <force period="#tg_8" />
-            <new>
-              <h:p>(1A) For the purposes of these rules, any reference to ‘information’ in the context of information being used to commit an unlawful act, including under clauses (b) and (d) of sub-rule (1) of rule 3 and sub-rules (2) and (4) of rule 4, shall be construed to include synthetically generated information, unless the context otherwise requires. (1B) For the purposes of these rules and for the removal o</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_37" bnl:basis="stated">
             <source href="#gsr_2026_120E" />
@@ -352,9 +331,6 @@
             <destination href="#rule_3__subrule_1__cl_ca" />
             <destination href="#rule_3__subrule_1__cl_cb" />
             <force period="#tg_8" />
-            <new>
-              <h:p>(c) an intermediary shall periodically inform its users, at least once every three months, in a simple and effective manner through its rules and regulations, privacy policy, user agreement, or any other appropriate means, in English or any language specified in the Eighth Schedule to the Constitution, that— (i) in case of non-compliance with such rules and regulations, privacy policy or user agre</h:p>
-            </new>
           </textualMod>
           <textualMod type="substitution" eId="mod_38" bnl:basis="stated">
             <source href="#gsr_2026_120E" />
@@ -1215,15 +1191,9 @@
               <subclause eId="rule_3__subrule_3__cl_a__subcl_ii">
                 <num>(ii)</num>
                 <content>
-                  <p>every such information not covered under <ref href="#rule_3__subrule_3__cl_a__subcl_i">sub-clause (i) of clause (a)</ref> is prominently labelled in a manner that ensures prominent visibility in the visual display that is easily noticeable and adequately perceivable, or, in the case of audio content, through a prominently prefixed audio disclosure, that can be used to immediately identify that such information is synthetically generated information which has been created, generated, modified or altered using a computer resource and such information shall be embedded with a permanent metadata or other appropriate technical provenance mechanisms, to the extent technically feasible, including a unique identifier, to identify the computer resource of the intermediary used to create, generate, modify or alter such information;</p>
+                  <p>every such information not covered under <ref href="#rule_3__subrule_3__cl_a__subcl_i">sub-clause (i) of clause (a)</ref> is prominently labelled in a manner that ensures prominent visibility in the visual display that is easily noticeable and adequately perceivable, or, in the case of audio content, through a prominently prefixed audio disclosure, that can be used to immediately identify that such information is synthetically generated information which has been created, generated, modified or altered using a computer resource and such information shall be embedded with a permanent metadata or other appropriate technical provenance mechanisms, to the extent technically feasible, including a unique identifier, to identify the computer resource of the intermediary used to create, generate, modify or alter such information; (b) the intermediary shall not enable the modification, suppression or removal of the label, permanent metadata, including the unique identifier, displayed or embedded in accordance with <ref href="#rule_3__subrule_3__cl_a__subcl_ii">sub-clause (ii) of clause (a)</ref>.</p>
                 </content>
               </subclause>
-            </clause>
-            <clause eId="rule_3__subrule_3__cl_b">
-              <num>(b)</num>
-              <content>
-                <p>the intermediary shall not enable the modification, suppression or removal of the label, permanent metadata, including the unique identifier, displayed or embedded in accordance with <ref href="#rule_3__subrule_3__cl_a__subcl_ii">sub-clause (ii) of clause (a)</ref>.</p>
-              </content>
             </clause>
           </subrule>
         </rule>

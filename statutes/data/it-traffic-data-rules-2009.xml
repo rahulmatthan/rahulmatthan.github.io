@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0">
+  <act name="gsr" contains="singleVersion">
+    <meta>
+      <identification source="#lex-kernel">
+        <FRBRWork>
+          <FRBRthis value="/akn/in/act/gsr/2009/782E/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2009/782E" />
+          <FRBRalias value="The Information Technology (Procedure and Safeguards for Monitoring and Collecting Traffic Data or Information) Rules, 2009" name="title" />
+          <FRBRdate date="2009-10-27" name="publication" />
+          <FRBRauthor href="#central-government" />
+          <FRBRcountry value="in" />
+          <FRBRsubtype value="gsr" />
+          <FRBRnumber value="782E" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/in/act/gsr/2009/782E/eng@2009-10-27/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2009/782E/eng@2009-10-27" />
+          <FRBRdate date="2009-10-27" name="version" />
+          <FRBRauthor href="#central-government" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/in/act/gsr/2009/782E/eng@2009-10-27/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2009/782E/eng@2009-10-27.akn" />
+          <FRBRdate date="2026-10-29" name="transform" />
+          <FRBRauthor href="#lex-kernel" />
+        </FRBRManifestation>
+      </identification>
+      <publication date="2009-10-27" name="Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i)" showAs="Gazette of India" />
+      <lifecycle source="#lex-kernel">
+        <eventRef eId="e_original" date="2009-10-27" source="#original" type="generation" />
+        <eventRef eId="e_commencement_20091027_1" date="2009-10-27" source="#original" type="generation" refersTo="#commencement" />
+      </lifecycle>
+      <analysis source="#lex-kernel">
+        <passiveModifications>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
+            <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_za" />
+            <source href="/akn/in/act/2000/21/~sec_69B__subsec_3" />
+            <destination href="/akn/in/act/gsr/2009/782E" />
+          </legalSystemMod>
+        </passiveModifications>
+      </analysis>
+      <temporalData source="#lex-kernel">
+        <temporalGroup eId="tg_1">
+          <timeInterval start="#e_commencement_20091027_1" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#lex-kernel">
+        <original eId="original" href="/akn/in/act/gsr/2009/782E/eng@2009-10-27" showAs="The Information Technology (Procedure and Safeguards for Monitoring and Collecting Traffic Data or Information) Rules, 2009" />
+        <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
+        <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
+        <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
+        <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
+      </references>
+    </meta>
+    <preface>
+      <p class="docType">NOTIFICATION</p>
+      <p>
+        <docDate date="2009-10-27">New Delhi, the 27m October, 2009</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>G.S.R. 782 (E).— In exercise of the powers conferred by <ref href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_za">clause (za) of sub-section (2) of section 87</ref>, read with sub-section (3) of section 69B of the Information Technology Act 2000 (21 of 2000), the Central Government hereby makes the following rules, namely:—</p>
+    </preamble>
+    <body>
+      <rule eId="rule_1" period="#tg_1">
+        <num>1.</num>
+        <heading>Short title and commencement</heading>
+        <subrule eId="rule_1__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>These rules may be called the Information Technology (Procedure and safeguard for Monitoring and Collecting Traffic Data or Information) Rules, 2009.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>They shall come into force on the date of their publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_2" period="#tg_1">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <intro>
+          <p>In these rules, unless the context otherwise requires,—</p>
+        </intro>
+        <clause eId="rule_2__cl_a">
+          <num>(a)</num>
+          <content>
+            <p>"Act" means the Information Technology Act, 2000 (21 of 2000);</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_b">
+          <num>(b)</num>
+          <content>
+            <p>“communication" means dissemination, transmission, carriage of information or signal in some manner and include both a direct communication and an indirect communication;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_c">
+          <num>(c)</num>
+          <content>
+            <p>“communication link” means the use of satellite, microwave, radio, terrestrial line, wire, wireless or any other communication media to inter-connect computer resource;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_d">
+          <num>(d)</num>
+          <content>
+            <p>"competent authority" means the Secretary to the Government of India in the Department of Information Technology under the Ministry of Communications and Information Technology;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_e">
+          <num>(e)</num>
+          <content>
+            <p>“computer resource" means computer resource as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_k">clause (k) of sub-section (1) of section 2 of the Act</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_f">
+          <num>(f)</num>
+          <content>
+            <p>“cyber security incident" means any real or suspected adverse event in relation to cyber security that violates an explicitly or implicitly applicable security policy resulting in unauthorized access, denial of service/ disruption, unauthorised use of a computer resource for processing or storage of information or changes to data, information without authorisation;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_g">
+          <num>(g)</num>
+          <content>
+            <p>"cyber security breaches" means unauthorised acquisition or unauthorised use by a person of 4 data or information that compromises the confidentiality, integrity or availability of information maintained in a computer resource;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_h">
+          <num>(h)</num>
+          <content>
+            <p>"information" means information as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_v">clause (v) of sub-section (1) of section 2 of the Act</ref>:</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_i">
+          <num>(i)</num>
+          <content>
+            <p>“information security practices” means implementation of security policies and standards in order to minimize the cyber security incidents and breaches;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_j">
+          <num>(j)</num>
+          <content>
+            <p>“intermediary” means an intermediary as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_w">clause (w) of sub-section (1) of section 2 of the Act</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_k">
+          <num>(k)</num>
+          <content>
+            <p>"monitor” with its grammatical variations and cognate expressions, includes to view or inspect or record or collect traffic data or information generated, transmitted, received or stored in a computer resource by means of a monitoring device;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_l">
+          <num>(l)</num>
+          <content>
+            <p>"monitoring device" means any electronic, mechanical, electro-mechanical, electro-magnetic, optical or other instrument, device, equipment or apparatus which is used or can be used, whether by itself in combination with any other instrument, device, equipment or apparatus, to view or inspect or record or collect traffic data or information;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_m">
+          <num>(m)</num>
+          <content>
+            <p>"port" or "application port" means a set of software rules which identifies and permits communication between application to application, network to network, computer to computer, computer system to computer system;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_n">
+          <num>(n)</num>
+          <content>
+            <p>"Review Committee" means the Review Committee constituted under rule 419A of the Indian Telegraph Rules, 1951;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_o">
+          <num>(o)</num>
+          <content>
+            <p>"security policy" means documented business rules and processes for protecting information and the computer resource;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_p">
+          <num>(p)</num>
+          <content>
+            <p>"traffic data" means traffic data as defined in Explanation (i) to <ref href="/akn/in/act/2000/21/~sec_69B">section 69B of the Act</ref>.</p>
+          </content>
+        </clause>
+      </rule>
+      <rule eId="rule_3" period="#tg_1">
+        <num>3.</num>
+        <heading>Directions for monitoring</heading>
+        <subrule eId="rule_3__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>No directions for monitoring and collection of traffic data or information under <ref href="/akn/in/act/2000/21/~sec_69B__subsec_3">sub-section (3) of section 69B of the Act</ref> shall be issued, except by an order made by the competent authority.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_3__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>The competent authority may issue directions for monitoring for any or all of the following purposes related to cyber security, namely:-</p>
+          </intro>
+          <clause eId="rule_3__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>forecasting of imminent cyber incidents;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>monitoring network application with traffic data or information on computer resource;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>identification and determination of viruses or computer contaminant;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_d">
+            <num>(d)</num>
+            <content>
+              <p>tracking cyber security breaches or cyber security incidents;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_e">
+            <num>(e)</num>
+            <content>
+              <p>tracking computer resource breaching cyber security or spreading virus or computer contaminants;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_f">
+            <num>(f)</num>
+            <content>
+              <p>identifying or tracking of any person who has breached, or is suspected of having breached or being likely to breach cyber security;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_g">
+            <num>(g)</num>
+            <content>
+              <p>undertaking forensic of the concerned computer resource as a part of investigation or internal audit of information security practices in the computer resource;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_h">
+            <num>(h)</num>
+            <content>
+              <p>accessing a stored information for enforcement of any provisions of the laws relating to cyber security for the time being in force;</p>
+            </content>
+          </clause>
+          <clause eId="rule_3__subrule_2__cl_i">
+            <num>(i)</num>
+            <content>
+              <p>any other matter relating to cyber security.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_3__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Any direction issued by the competent authority under <ref href="#rule_3__subrule_2">sub-rule (2)</ref> shall contain reasons for such direction and a copy of such direction shall be forwarded to the Review Committee within a period of seven working days.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_3__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>The direction of the competent authority for monitoring and collection of traffic data or information may include the monitoring and collection of traffic data or information from any person or class of persons or relating to any particular subject whether such traffic data or information, or class of traffic data or information, are received with one or more computer resources, being a computer resource likely to be used for the generation, transmission, receiving, storing of traffic data or information from or to one particular person or one or many set of premises.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_4" period="#tg_1">
+        <num>4.</num>
+        <heading>Authorised agency of Government for monitoring and collection of traffic data or information</heading>
+        <subrule eId="rule_4__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The competent authority may authorise any agency of the government for monitoring and collection of traffic data or information generated, transmitted, received or stored in any computer resource.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The agency authorised by the competent authority under <ref href="#rule_4__subrule_1">sub-rule (1)</ref> shall designate one or more nodal officer, not below the rank of the Deputy Secretary to the Government of India, for the purpose to authenticate and send the requisition conveying direction issued under <ref href="#rule_3">rule 3</ref> to the designated officers of the concerned intermediary or person in-charge of computer resources.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The requisition under <ref href="#rule_4__subrule_2">sub-rule (2)</ref> shall specify the name and designation of the officer or the agency to whom the monitored or collected traffic data or information is to be disclosed.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>The intermediaries or person in-charge of computer resource shall designate one or more officers to receive requisition and to handle such requisition from the nodal officer for monitoring or collection of traffic data or information.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>The requisition conveying directions for monitoring shall be conveyed to the designated officers of the intermediary or person in-charge of computer resources, in writing through letter or fax by the nodal officer or delivered, (including delivery by email signed with electronic signature), by an officer not below the rank of Under Secretary or officer of the equivalent rank.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_6">
+          <num>(6)</num>
+          <content>
+            <p>The nodal officer issuing the requisition conveying directions for monitoring under <ref href="#rule_4__subrule_2">sub-rule (2)</ref> shall also make a request in writing to the designated officer of intermediary or person in-charge of computer resource for monitoring in accordance with the format indicated in such requisition and report the same to the officer designated under <ref href="#rule_4__subrule_3">sub-rule (3)</ref>.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_7">
+          <num>(7)</num>
+          <content>
+            <p>The nodal officer shall also make a request to the officer of intermediary or person in-charge of computer resource designated under <ref href="#rule_4__subrule_4">sub-rule (4)</ref> to extend all facilities, co-operation and assistance in installation, removal and testing of equipment and also enable online access or to secure and provide online access to the computer resource for monitoring and collecting traffic data or information,</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_8">
+          <num>(8)</num>
+          <content>
+            <p>On receipt of requisition under <ref href="#rule_4__subrule_2">sub-rule (2)</ref> conveying the direction issued under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref>, the designated officer of the intermediary or person in-charge of computer resource designatod under <ref href="#rule_4__subrule_4">sub-rule (4)</ref> shall acknowledge the receipt of requisition by way of letter or fax or electronically signed e-mail to the nodal officer within a period of two hours from the time of receipt of such requisition.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_9">
+          <num>(9)</num>
+          <content>
+            <p>The officer of the intermediary or person in-charge of computer resource designated under <ref href="#rule_4__subrule_4">sub-rule (4)</ref> shall maintain proper records of the requisitions received by him.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_10">
+          <num>(10)</num>
+          <content>
+            <p>The designated officer of the intermediary or person in-charge of computer resource shalli forward in every fifteen days a list of requisition conveying direction for monitoring or collection of traffic data or information to the nodal officer which shall include details such as the reference and date of requisition conveying direction of the concerned competent authority.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_5" period="#tg_1">
+        <num>5.</num>
+        <heading>Intermediary to ensure effective check in handling monitoring or collection of traffic data or information</heading>
+        <content>
+          <p>The intermediary or person in-charge of computer resources shall put in place adequate and effective internal checks to ensure that unauthorised monitoring or collection of traffic data or information does not take place and extreme secrecy is maintained and utmost care and precaution is taken in the matter of monitoring or collection of traffic data or information as it affects privacy of citizens and also that this matter is handled only by the designated officer of the intermediary or person in-charge of computer resource.</p>
+        </content>
+      </rule>
+      <rule eId="rule_6" period="#tg_1">
+        <num>6.</num>
+        <heading>Responsibility of intermediary</heading>
+        <content>
+          <p>The intermediary or person in-charge of computer resource shall be responsible for the actions of their employees also, and in case of violation of the provision of the Act and rules made thereunder pertaining to maintenance of secrecy and confidentiality of information or any unauthorised monitoring or collection of traffic data or information, the intermediary or person in-charge of computer resource shall be liable for any action under the relevant provision of the laws for the time being in force.</p>
+        </content>
+      </rule>
+      <rule eId="rule_7" period="#tg_1">
+        <num>7.</num>
+        <heading>Review of directions of competent authority</heading>
+        <content>
+          <p>The Review Committee shall meet at least once in two months and record its findings whether the directions issued under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref> are in accordance with the provisions of <ref href="/akn/in/act/2000/21/~sec_69B__subsec_3">sub-section (3) of section 69B of the Act</ref> and where the Review Committee is of the opinion that the directions are not in accordance with the provisions referred to above, it may set aside the directions and issue order for destruction of the copies, including corresponding electronic record of the monitored or collected traffic data or information.</p>
+        </content>
+      </rule>
+      <rule eId="rule_8" period="#tg_1">
+        <num>8.</num>
+        <heading>Destruction of records</heading>
+        <subrule eId="rule_8__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Every record, including electronic records pertaining to such directions for monitoring or collection of traffic data shall be destroyed by the designated officer after the expiry of a period of nine months from the receipt of direction or creation of record, whichever is later, except in a case where the traffic data or information is, or likely to be, required for functional requirements.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Save as otherwise required for the purpose of any ongoing investigation, criminal complaint or legal proceedings the intermediary or the person in-charge of computer resource shall destroy records pertaining to directions for monitoring or collection of information within a period of six months of discontinuance of the monitoring or collection of traffic data and in doing so they shall maintain extreme secrecy.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_9" period="#tg_1">
+        <num>9.</num>
+        <heading>Prohibition of monitoring or collection of traffic data or information without authorisation</heading>
+        <subrule eId="rule_9__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Any person who, intentionally or knowingly, without authorisation under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref> or <ref href="#rule_4__subrule_1">sub-rule (1) of rule 4</ref>, monitors or collects traffic data or informalion, or attempts to monitor or collect traffic data or information, or authorises or assists any person to monitor or collect traffic data or information in the course of its occurrence or transmission at any place within India, shall be proceeded against, punished accordingly under the relevant provisions of the law for the time being in force.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_9__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>The monitoring or collection of traffic data or information in computer resource by the employee of an intermediary or person in-charge of computer resource or a person duly authorised by the intermediary, may be undertaken in course of his duty relating to the services provided by that intermediary, if such activities are reasonably necessary for the discharge his duties as per the prevailing industry practices, in connection with the following matters, namely :—</p>
+          </intro>
+          <subclause eId="rule_9__subrule_2__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>installation of computer resource or any equipment to be used with computer resource; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_9__subrule_2__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>operation or maintenance of computer resource; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_9__subrule_2__subcl_iii">
+            <num>(iii)</num>
+            <content>
+              <p>installation of any communication link or software either at the end of the intermediary or subscriber, or installation of user account on the computer resource of intermediary and testing of the same for its functionality;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_9__subrule_2__subcl_iv">
+            <num>(iv)</num>
+            <content>
+              <p>accessing stored information from computer resource relating to the installation, connection or maintenance of equipment, computer resource or a communication link or code; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_9__subrule_2__subcl_v">
+            <num>(v)</num>
+            <intro>
+              <p>accessing stored information from computer resource for the purpose of —</p>
+            </intro>
+            <clause eId="rule_9__subrule_2__subcl_v__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>implementing information security practices in the computer resource;</p>
+              </content>
+            </clause>
+            <clause eId="rule_9__subrule_2__subcl_v__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>determining any security breaches, computer contaminant or computer virus;</p>
+              </content>
+            </clause>
+            <clause eId="rule_9__subrule_2__subcl_v__cl_c">
+              <num>(c)</num>
+              <content>
+                <p>undertaking forensic of the concerned computer resource as a part of investigation or internal audit; or</p>
+              </content>
+            </clause>
+          </subclause>
+          <subclause eId="rule_9__subrule_2__subcl_vi">
+            <num>(vi)</num>
+            <content>
+              <p>accessing or analysing information from a computer resource for the purpose of tracing a computer resource or any person who has contravened, or is suspected of having contravened or being likely to contravene, any provision of the Act that is likely to have an adverse impact on the services providcd by the intermediary.</p>
+            </content>
+          </subclause>
+        </subrule>
+        <subrule eId="rule_9__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The intermediary or the person in-charge of computer resource and its employees shall maintain strict secrecy and confidentiality of information while performing the actions as specified under <ref href="#rule_9__subrule_2">sub-rule (2)</ref>.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_9__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>The details of monitored or collected traffic data or information shall not be used or disclosed by intermediary or person in-charge of computer resource or any of its employees to any person other than the intended recipient of the said information under <ref href="#rule_4__subrule_2">sub-rule (2) of rule 4</ref>. Any intermediary or its employees or person in-charge of computer resource who contravenes the provisions of this rule shall be proceeded against and punished accordingly under the relevant provisions of the Act or any other law for the time being in force.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_10" period="#tg_1">
+        <num>10.</num>
+        <heading>Prohibition of disclosure of traffic data or information by authorised agency</heading>
+        <content>
+          <p>The details of monitored or collected traffic data or information shall not be used or disclosed by the agency authorised under <ref href="#rule_4__subrule_1">sub-rule (1) of rule 4</ref> for any other purpose, except for forecasting imminent cyber threats or general trend of port-wise traffic on Internet, or general analysis of cyber incidents, or for investigation or in judicial proceedings before the competent court in India.</p>
+        </content>
+      </rule>
+      <rule eId="rule_11" period="#tg_1">
+        <num>11.</num>
+        <heading>Maintenance of confidentiality</heading>
+        <content>
+          <p>Save as otherwise provided in <ref href="#rule_10">rule 10</ref>, strict confidentiality shall be maintained in respect of directions for monitoring or collection of traffic data or information issued by the competent authority under these rules.</p>
+        </content>
+      </rule>
+    </body>
+    <conclusions>
+      <p>[No. 9(16)/2004-EC]</p>
+      <p>N. RAVI SHANKER, Jt. Secy.</p>
+      <p>Printed by the Manager, Govermment of India Press, Ring Road, Mayapuri, New Delhi-|10064</p>
+      <p>and Published by the Controller of Publications, Delhi-110054,</p>
+    </conclusions>
+  </act>
+</akomaNtoso>

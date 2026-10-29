@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0" xmlns:h="http://www.w3.org/1999/xhtml">
+  <act name="gsr" contains="singleVersion">
+    <meta>
+      <identification source="#lex-kernel">
+        <FRBRWork>
+          <FRBRthis value="/akn/in/act/gsr/2009/780E/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2009/780E" />
+          <FRBRalias value="The Information Technology (Procedure and Safeguards for Interception, Monitoring and Decryption of Information) Rules, 2009" name="title" />
+          <FRBRdate date="2009-10-27" name="publication" />
+          <FRBRauthor href="#central-government" />
+          <FRBRcountry value="in" />
+          <FRBRsubtype value="gsr" />
+          <FRBRnumber value="780E" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/in/act/gsr/2009/780E/eng@2024-02-26/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2009/780E/eng@2024-02-26" />
+          <FRBRdate date="2024-02-26" name="version" />
+          <FRBRauthor href="#central-government" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/in/act/gsr/2009/780E/eng@2024-02-26/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2009/780E/eng@2024-02-26.akn" />
+          <FRBRdate date="2026-10-29" name="transform" />
+          <FRBRauthor href="#lex-kernel" />
+        </FRBRManifestation>
+      </identification>
+      <publication date="2009-10-27" name="Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i)" showAs="Gazette of India" />
+      <lifecycle source="#lex-kernel">
+        <eventRef eId="e_original" date="2009-10-27" source="#original" type="generation" />
+        <eventRef eId="e_commencement_20091027_1" date="2009-10-27" source="#original" type="generation" refersTo="#commencement" />
+        <eventRef eId="e_amendment_20240226_2" date="2024-02-26" source="#gsr_2024_133E" type="amendment" refersTo="#amendment" />
+      </lifecycle>
+      <analysis source="#lex-kernel">
+        <passiveModifications>
+          <textualMod type="substitution" eId="mod_1" bnl:basis="stated">
+            <source href="#gsr_2024_133E" />
+            <destination href="#rule_23__subrule_1" />
+            <force period="#tg_2" />
+            <new>
+              <h:p>competent authority and the security agency</h:p>
+            </new>
+          </textualMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
+            <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_y" />
+            <source href="/akn/in/act/2000/21/~sec_69__subsec_2" />
+            <destination href="/akn/in/act/gsr/2009/780E" />
+          </legalSystemMod>
+        </passiveModifications>
+      </analysis>
+      <temporalData source="#lex-kernel">
+        <temporalGroup eId="tg_1">
+          <timeInterval start="#e_commencement_20091027_1" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_2">
+          <timeInterval start="#e_amendment_20240226_2" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#lex-kernel">
+        <original eId="original" href="/akn/in/act/gsr/2009/780E/eng@2009-10-27" showAs="The Information Technology (Procedure and Safeguards for Interception, Monitoring and Decryption of Information) Rules, 2009" />
+        <passiveRef eId="gsr_2024_133E" href="/akn/in/act/gsr/2024/133E" showAs="G.S.R. 133(E), the IT (Procedure and Safeguards for Interception, Monitoring and Decryption of Information) Amendment Rules, 2024 (rule 1(2): on publication in the Official Gazette, 26 February 2024)" />
+        <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
+        <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
+        <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
+        <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="amendment" href="/ontology/event/in/amendment" showAs="amendment" />
+        <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
+      </references>
+    </meta>
+    <preface>
+      <p>
+        <docDate date="2009-10-27">[PART II - SEC. 3(i)]</docDate>
+      </p>
+      <p class="docType">NOTIFICATION</p>
+      <p>
+        <docDate date="2009-10-27">New Delhi, the 27® October, 2009</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>G.S.R. 780 (E).— In exercise of the powers conferred by clause (y) of sub-section (2) of section</p>
+      <p>87, read with sub-section (2) of section 69 of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby makes the following rules, namely:</p>
+    </preamble>
+    <body>
+      <rule eId="rule_1" period="#tg_1">
+        <num>1.</num>
+        <heading>Short title and commencement</heading>
+        <subrule eId="rule_1__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>These rules may be called the Information Technology</p>
+            <p>(Procedure and Safeguards for Interception, Monitoring and Decryption of Information) Rules, 2009.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>They shall come into force on the date of their publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_2" period="#tg_1">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <intro>
+          <p>In these rules, unless the context otherwise requires,-</p>
+        </intro>
+        <clause eId="rule_2__cl_a">
+          <num>(a)</num>
+          <content>
+            <p>"Act" means the Information Technology Act, 2000 (21 of 2000);</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_b">
+          <num>(b)</num>
+          <content>
+            <p>"communication" means dissemination, transmission, carriage of information or signal in some</p>
+            <p>manner and include both a direct communication and an indirect communication";</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_c">
+          <num>(c)</num>
+          <content>
+            <p>“communication link" means the use of satellite, microwave, radio, terrestrial line, wire, wireless</p>
+            <p>or any other communication media to inter-connect computer resource;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_d">
+          <num>(d)</num>
+          <intro>
+            <p>"competent authority” means –</p>
+          </intro>
+          <subclause eId="rule_2__cl_d__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>the Secretary in the Ministry of Home Affairs, in case of the Central Government; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_2__cl_d__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>the Secretary in charge of the Home Department, in case of a State Government or Union territory, as the case may be;</p>
+            </content>
+          </subclause>
+        </clause>
+        <clause eId="rule_2__cl_e">
+          <num>(e)</num>
+          <content>
+            <p>“computer resource" means computer resource as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_k">clause (k) of sub-section (1) of section 2 of the Act</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_f">
+          <num>(f)</num>
+          <content>
+            <p>"decryption" means the process of conversion of information in non-intelligible form to an</p>
+            <p>intelligible form via a mathematical formula, code, password or algorithm or a combination thereof;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_g">
+          <num>(g)</num>
+          <intro>
+            <p>"decryption assistance" means any assistance to –</p>
+          </intro>
+          <subclause eId="rule_2__cl_g__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>allow access, to the extent possible, to encrypted information; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_2__cl_g__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>facilitate conversion of encrypted information into an intelligible form;</p>
+            </content>
+          </subclause>
+        </clause>
+        <clause eId="rule_2__cl_h">
+          <num>(h)</num>
+          <intro>
+            <p>“decryption direction” means a direction issued under <ref href="#rule_3">rule 3</ref> in which a decryption key holder is directed to –</p>
+          </intro>
+          <subclause eId="rule_2__cl_h__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>disclose a decryption key, or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_2__cl_h__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>provide decryption assistance in respect of encrypted information</p>
+            </content>
+          </subclause>
+        </clause>
+        <clause eId="rule_2__cl_i">
+          <num>(i)</num>
+          <intro>
+            <p>“decryption key” means any key, mathematical formula, code, password, algorithm or any other data which is used to -</p>
+          </intro>
+          <subclause eId="rule_2__cl_i__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>allow access to encrypted information: or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_2__cl_i__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>facilitate the conversion of encrypted information into an intelligible form;</p>
+            </content>
+          </subclause>
+        </clause>
+        <clause eId="rule_2__cl_j">
+          <num>(j)</num>
+          <content>
+            <p>“decryption key holder" means any person who deploys the decryption mechanism and who is</p>
+            <p>in possession of a decryption key for purposes of subsequent decryption of encrypted information relating to direct or indirect communications;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_k">
+          <num>(k)</num>
+          <content>
+            <p>“information” means information as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_v">clause (v) of sub-section (1) of section 2 of the Act</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_l">
+          <num>(l)</num>
+          <intro>
+            <p>“intercept" with its grammatical variations and cognate expressions, means the aural or other</p>
+            <p>acquisition of the contents of any information through the use of any means, including an</p>
+            <p>interception device, so as to make some or all of the contents of a information available to a</p>
+            <p>person other than the sender or recipient or intended recipient of that communication, and includes—</p>
+          </intro>
+          <clause eId="rule_2__cl_l__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>monitoring of any such information by means of a monitoring device;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__cl_l__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>viewing, examination or inspection of the contents of any direct or indirect information; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__cl_l__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>diversion of any direct or indirect information from its intended destination to any other destination;</p>
+            </content>
+          </clause>
+        </clause>
+        <clause eId="rule_2__cl_m">
+          <num>(m)</num>
+          <content>
+            <p>“interception device" means any electronic, mechanical, electro-mechanical, electro-magnetic.</p>
+            <p>optical or other instrument, device, equipment or apparatus which is used or can be used,</p>
+            <p>whether by itself or in combination with any other instrument, device, equipment or apparatus,</p>
+            <p>to intercept any information; and any reference to an “interception device” includes, where applicable, a reference to a “monitoring device";</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_n">
+          <num>(n)</num>
+          <content>
+            <p>"intermediary" means an intermediary as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_w">clause (w) of sub-section (1) of section 2 of the Act</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_o">
+          <num>(o)</num>
+          <content>
+            <p>"monitor" with its grammatical variations and cognate expressions, includes to view or to</p>
+            <p>inspect or listen to or record information by means of a monitoring device;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_p">
+          <num>(p)</num>
+          <content>
+            <p>"monitoring device" means any electronic, mechanical, electro-mechanical, electro-magnetic, optical or other instrument, device, equipment or apparatus which is used or can be used, whether by itself in combination with any other instrument, device, equipment or apparatus, to view or to inspect or to listen to or record any information;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_q">
+          <num>(q)</num>
+          <content>
+            <p>"Review Committee" means the Review Committee constituted under rule 419A of Indian Telegraph Rules, 1951.</p>
+          </content>
+        </clause>
+      </rule>
+      <rule eId="rule_3" period="#tg_1">
+        <num>3.</num>
+        <heading>Directions for interception or monitoring or decryption of any information</heading>
+        <intro>
+          <p>No person shall carry out the interception or monitoring or decryption of any information generated, transmitted, received or stored in any computer resource under <ref href="/akn/in/act/2000/21/~sec_69__subsec_2">sub-section (2) of section 69 of the Act</ref>, except by an order issued by the competent authority:</p>
+        </intro>
+        <proviso eId="rule_3__proviso_1">
+          <content>
+            <p>Provided that in an unavoidable circumstances, such order may be issued by an officer, not below the rank of the Joint Secretary to the Government of india, who has been duly authorised by the competent authority:</p>
+          </content>
+        </proviso>
+        <proviso eId="rule_3__proviso_2">
+          <intro>
+            <p>Provided further that in a case of emergency-</p>
+          </intro>
+          <subclause eId="rule_3__proviso_2__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>) in remote areas, where obtaining of prior directions for interception or monitoring or decryption of information is not feasible, or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_3__proviso_2__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>for operational reasons, where obtaining of prior directions for interception or monitoring or decryption of any information generated, transmitted, received or stored in any computer resource is not feasible,</p>
+            </content>
+          </subclause>
+          <wrapUp>
+            <p>the interception or monitoring or decryption of any information generated, transmitted, received or stored in any computer resource may be carried out with the prior approval of the Head or the second senior most officer of the security and law enforcement agency (hereinafter referred to as the said security agency) at the Central level and the officer authorised in this behalf, not below the rank of the inspector General of Police or an officer of equivalent rank, at the State or Union territory level:</p>
+          </wrapUp>
+        </proviso>
+        <proviso eId="rule_3__proviso_3">
+          <content>
+            <p>Provided also that the officer, who approved such interception or monitoring or decryption of information in case of emergency, shall inform in writing to the competent authority about the emergency and of such interception or monitoring or decryption within three working days and obtain the approval of the competent authority thereon within a period of seven working days and if the approval of competent authority is not obtained within the said period of seven working days, such interception or monitoring or decryption shall cease and the information shall not be intercepted or monitored or decrypted thereafter without the prior approval of the competent authority.</p>
+          </content>
+        </proviso>
+      </rule>
+      <rule eId="rule_4" period="#tg_1">
+        <num>4.</num>
+        <heading>Authorisation of agency of Government</heading>
+        <content>
+          <p>The competent authority may authorise an agency of the Govemment to intercept, monitor or decrypt information generaled, transmitted, received or stored in any computer resource for the purpose specified in <ref href="/akn/in/act/2000/21/~sec_69__subsec_1">sub-section (1) of section 69 of the Act</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_5" period="#tg_1">
+        <num>5.</num>
+        <heading>Issue of decryption direction by competent authority</heading>
+        <content>
+          <p>The competent authority may, under <ref href="#rule_3">rule 3</ref> give any decryption direction to the decryption key holder for decryption of any information involving a computer resource or part thereof.</p>
+        </content>
+      </rule>
+      <rule eId="rule_6" period="#tg_1">
+        <num>6.</num>
+        <heading>Interception or monitoring or decryption of information by a State beyond its jurisdiction</heading>
+        <content>
+          <p>Notwithstanding anything contained in <ref href="#rule_3">rule 3</ref>, if a State Govemment or Union territory Administration requires any interception or monitoring or decryption of information beyond its territorial jurisdiction, the Secretary in-charge of the Home Department in that State or Union territory, as the case may be, shall make a request to the Secretary in the Ministry of Home Affairs, Government of India for issuing direction to the appropriate authority for such interception or monitoring or decryption of information.</p>
+        </content>
+      </rule>
+      <rule eId="rule_7" period="#tg_1">
+        <num>7.</num>
+        <heading>Contents of direction</heading>
+        <content>
+          <p>Any direction issued by the competent authority under <ref href="#rule_3">rule 3</ref> shall contain reasons for such direction and a copy of such direction shall be forwarded to the Review Committee within a period of seven working days.</p>
+        </content>
+      </rule>
+      <rule eId="rule_8" period="#tg_1">
+        <num>8.</num>
+        <heading>Competent authority to consider alternative means in acquiring information</heading>
+        <content>
+          <p>The competent authority shall, before issuing any direction under <ref href="#rule_3">rule 3</ref>, consider possibility of acquiring the necessary information by other means and the direction under <ref href="#rule_3">rule 3</ref> shall be issued only when it is not possible to acquire the information by any other reasonable means.</p>
+        </content>
+      </rule>
+      <rule eId="rule_9" period="#tg_1">
+        <num>9.</num>
+        <heading>Direction of interception or monitoring or decryption of any specific information</heading>
+        <content>
+          <p>The direction of interception or monitoring or decryption of any information generated, transmitted, received or stored in any computer resource shall be of any information as is sent to or from any person or class of persons or relating to any particular subject whether such information or class of information are received with one or more computer resources, or being a computer resource likely to be used for the generation, transmission, receiving, storing of information from or to one particular person or one or many set of premises, as may be specified or described in the direction.</p>
+        </content>
+      </rule>
+      <rule eId="rule_10" period="#tg_1">
+        <num>10.</num>
+        <heading>Direction to specify the name and designation of the officer to whom information to be disclosed</heading>
+        <content>
+          <p>Every directions under <ref href="#rule_3">rule 3</ref> shall specify the name and designation of the officer of the authorised agency to whom the intercepted or monitored or decrypted or stored information shall be disclosed and also specify that the use of intercepted or monitored or decrypted information shall be subject to the provisions of <ref href="/akn/in/act/2000/21/~sec_69__subsec_1">sub-section (1) of section 69 of the said Act</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_11" period="#tg_1">
+        <num>11.</num>
+        <heading>Period within which direction shall remain in force</heading>
+        <content>
+          <p>The direction for interception or monitoring or decryption shall remain in force, unless revoked earlier, for a period not exceeding sixty days from the date of its issue and may be renewed from time to time for such period not exceeding the total period of one hundred and eighty days.</p>
+        </content>
+      </rule>
+      <rule eId="rule_12" period="#tg_1">
+        <num>12.</num>
+        <heading>Authorised agency to designate nodal officer</heading>
+        <intro>
+          <p>The agency authorised by the competent authority under <ref href="#rule_4">rule 4</ref> shall designate one or more nodal officer, not below the rank of Superintendent of Police or Additional Superintendent of Police or the officer of the equivalent rank, to authenticate and send the requisition conveying direction issued under <ref href="#rule_3">rule 3</ref> for interception or monitoring or decryption to the designated officers of the concerned intermediaries or person in-charge of computer resource:</p>
+        </intro>
+        <proviso eId="rule_12__proviso_1">
+          <content>
+            <p>Provided that an officer, not below the rank of Inspector of Police or officer of equivalent rank, shall deliver the requisition to the designated officer of the intermediary.</p>
+          </content>
+        </proviso>
+      </rule>
+      <rule eId="rule_13" period="#tg_1">
+        <num>13.</num>
+        <heading>Intermediary to provide facilities, etc</heading>
+        <subrule eId="rule_13__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The officer issuing the requisition conveying direction issued under <ref href="#rule_3">rule 3</ref> for interception or monitoring or decryption of information shall also make a request in writing to the designated officers of intermediary or person in-charge of computer resources, to provide all facilities, co-operation and assistance for interception or monitoring or decryption mentioned in the directions.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>On the receipt of request under <ref href="#rule_13__subrule_1">sub-rule (1)</ref>, the designated officers of intermediary or person in-charge of computer resources, shall provide all facilities, co-operation and assistance for interception or monitoring or decryption of information mentioned in the direction.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Any direction of decryption of information issued under <ref href="#rule_3">rule 3</ref> to intermediary shall be limited to the extent the information is encrypted by the intermediary or the intermediary has control over the decryption key.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_14" period="#tg_1">
+        <num>14.</num>
+        <heading>Intermediary to designate officers to recelve and handle requisition</heading>
+        <content>
+          <p>Every intermediary or person in-charge of computer resource shall designate an officer to receive requisition, and another officer to handle such requisition, from the nodal officer for interception or monitoring or decryption of information generated, transmitted, received or stored in any computer resource.</p>
+        </content>
+      </rule>
+      <rule eId="rule_15" period="#tg_1">
+        <num>15.</num>
+        <heading>Acknowledgement of instruction</heading>
+        <content>
+          <p>The designated officer of the intermediary or person in-charge of computer resources shall acknowledge the instructions received by him through letters or fax or e-mail signed with electronic signature to the nodal officer of the concerned agency within two hours on receipt of such intimation or direction for interception or monitoring or decryption of information.</p>
+        </content>
+      </rule>
+      <rule eId="rule_16" period="#tg_1">
+        <num>16.</num>
+        <heading>Maintenance of records by designated officer</heading>
+        <content>
+          <p>The designated officer of intermediary or person in-charge of computer resource authorised to intercept or monitor or decrypt any information shall maintain proper records mentioning therein, the intercepted or monitored or decrypted information, the particulars of persons, computer resource, e-mail account, website address, etc. whose information has been intercepted or monitored or decrypted, the name and other particulars of the officer or the authority to whom the intercepted or monitored or decrypted information has been disclosed, the number of copies, including corresponding electronic records of the intercepted or monitored or decrypted information made and the mode or the method by which such copies, including corresponding electronic record are made, the date of destruction of the copies, including corresponding electronic record and the duration within which the directions remain in force.</p>
+        </content>
+      </rule>
+      <rule eId="rule_17" period="#tg_1">
+        <num>17.</num>
+        <heading>Decryption key holder to disclose decryption key or provide decryption assistance</heading>
+        <intro>
+          <p>If a decryption direction or a copy thereof is handed to the decryption key holder to whom the decryption direction is addressed by the nodal officer referred to in <ref href="#rule_12">rule 12</ref>, the decryption key holder shall within the period mentioned in the decryption direction -</p>
+        </intro>
+        <clause eId="rule_17__cl_a">
+          <num>(a)</num>
+          <content>
+            <p>disclose the decryption key, or</p>
+          </content>
+        </clause>
+        <clause eId="rule_17__cl_b">
+          <num>(b)</num>
+          <content>
+            <p>provide the decryption assistance,</p>
+          </content>
+        </clause>
+        <wrapUp>
+          <p>specified in the decryption direction to the concerned authorised person.</p>
+        </wrapUp>
+      </rule>
+      <rule eId="rule_18" period="#tg_1">
+        <num>18.</num>
+        <heading>Submission of list of interception or monitoring or decryption of information</heading>
+        <subrule eId="rule_18__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The designated officers of the intermediary or person in-charge of computer resources shall forward in every fifteen days a list of interception or monitoring or decryption authorisations received by them during the preceding fortnight to the nodal officers of the agencies authorised under <ref href="#rule_4">rule 4</ref> for confirmation of the authenticity of such authorisations.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_18__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The list referred to in <ref href="#rule_18__subrule_1">sub-rule (1)</ref> shall include details, such as the reference and date of orders of the concerned competent authority including any order issued under emergency cases, date and time of receipt of such order and the date and time of implementation of such order.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_19" period="#tg_1">
+        <num>19.</num>
+        <heading>Intermediary to ensure effective check in handling matter of interception or monitoring or decryption of information</heading>
+        <intro>
+          <p>The intermediary or the person in-charge of the computer resource so directed under <ref href="#rule_3">rule 3</ref>, shall provide technical assistance and the equipment including hardware, software, firmware, storage, interface and access to the equipment wherever requested by the agency authorised under <ref href="#rule_4">rule 4</ref> for performing interception or monitoring or decryption including for the purposes of-</p>
+        </intro>
+        <subclause eId="rule_19__subcl_i">
+          <num>(i)</num>
+          <content>
+            <p>the installation of equipment of the agency authorised under <ref href="#rule_4">rule 4</ref> for the purposes of interception or monitoring or decryption or accessing stored information in accordance with directions by the nodal officer, or</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_19__subcl_ii">
+          <num>(ii)</num>
+          <content>
+            <p>the maintenance, testing or use of such equiprnent; or</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_19__subcl_iii">
+          <num>(iii)</num>
+          <content>
+            <p>the removal of such equipment; or</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_19__subcl_iv">
+          <num>(iv)</num>
+          <content>
+            <p>the performance of any action required for accessing of stored information under the direction issued by the competent authority under <ref href="#rule_3">rule 3</ref>.</p>
+          </content>
+        </subclause>
+      </rule>
+      <rule eId="rule_20" period="#tg_1">
+        <num>20.</num>
+        <heading>Intermediary to ensure effective check in handling matter of interception or monitoring or decryption of information</heading>
+        <content>
+          <p>The intermediary or person in-charge of computer resources shall put in place adequate and effective internal checks to ensure the unauthorised interception of information does not take place and extreme secrecy is maintained and utmost care and precaution shall be taken in the matter of interception or monitoring or decryption of information as it affects privacy of citizens and also that it is handied only by the designated officers of the intermediary and no other person of the intermediary or person in-charge of computer resources shall have access to such intercepted or monitored or decrypted information.</p>
+        </content>
+      </rule>
+      <rule eId="rule_21" period="#tg_1">
+        <num>21.</num>
+        <heading>Responsibility of intermediary</heading>
+        <content>
+          <p>The intermediary or person in-charge of computer resources shall be responsible for any action of their employees also and in case of violation pertaining to maintenance of secrecy and confidentiality of information or any unauthorised interception or monitoring or decryplion of information, the intermediary or person in-charge of computer resources shall be liable for any action under the relevant provisions of the laws for the time being in force.,</p>
+        </content>
+      </rule>
+      <rule eId="rule_22" period="#tg_1">
+        <num>22.</num>
+        <heading>Review of directions of competent authority</heading>
+        <content>
+          <p>The Review Committee shall meet at least once in two months and record its findings whether the directions issued under <ref href="#rule_3">rule 3</ref> are in accordance with the provisions of <ref href="/akn/in/act/2000/21/~sec_69__subsec_2">sub-section (2) of section 69 of the Act</ref> and where the Review Committee is of the opinion that the directions are not in accordance with the provisions referred to above, it may set aside the directions and issue order for destruction of the copies, including corresponding electronic record of the intercepted or monitored or decrypted information.</p>
+        </content>
+      </rule>
+      <rule eId="rule_23" period="#tg_1">
+        <num>23.</num>
+        <heading>Destruction of records of interception or monitoring or decryption of information</heading>
+        <subrule eId="rule_23__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Every record, including electronic records pertaining to such directions for interception or monitoring or decryption of information and of intercepted or monitored or decrypted information shall be destroyed by the competent authority and the security agency in every six months except in a case where such information is required, or likely to be required for functional requirements.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_23__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Save as otherwise required for the purpose of any ongoing investigation, criminal complaint or legal proceedings, the intermediary or person in-charge of computer resources shall destroy records pertaining to directions for interception of information within a period of two months of discontinuance of the interception or monitoring or decryption of such information and in doing so they shall maintain extreme secrecy.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_24" period="#tg_1">
+        <num>24.</num>
+        <heading>Prohibition of interception or monitoring or decryption of information without authorisation</heading>
+        <subrule eId="rule_24__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Any person who intentionally or knowingly, without authorisation under <ref href="#rule_3">rule 3</ref> or <ref href="#rule_4">rule 4</ref>, intercepts or attempts to intercept, or authorises or assists any other person to intercepl or attempts to intercept any information in the course of its occurrence or transmission at any place within India, shall be proceeded against and punished accordingly under the relevant provisions of the laws for the time being in force.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_24__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>Any interception, monitoring or decryption of information in computer resource by the employee of an intermediary or person in-charge of computer resource or a person duly authoricnd by the intermediary, may be undertaken in course of his duty relating to the services provided by that intermediary, if such activities are reasonably necessary for the discharge his duties as per the prevaiing industry practices, in connection with the following matters, namely—</p>
+          </intro>
+          <subclause eId="rule_24__subrule_2__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>installation of computer resource or any equipment to be used with computer resource; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_24__subrule_2__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>operation or maintenance of computer resource; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_24__subrule_2__subcl_iii">
+            <num>(iii)</num>
+            <content>
+              <p>installation of any communication link or software either at the end of the intermediary or subscriber, or installation of user account on the computer resource of intermediary and testing of the same for its functionality;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_24__subrule_2__subcl_iv">
+            <num>(iv)</num>
+            <content>
+              <p>accessing stored information from computer resource relating to the installation, connection or maintenance of equipment, computer resource or a communication link or code; or</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_24__subrule_2__subcl_v">
+            <num>(v)</num>
+            <intro>
+              <p>accessing stored information from computer resource for the purpose of—</p>
+            </intro>
+            <clause eId="rule_24__subrule_2__subcl_v__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>implementing information security practices in the computer resource;</p>
+              </content>
+            </clause>
+            <clause eId="rule_24__subrule_2__subcl_v__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>determining any security breaches, computer contaminant or computer virus;</p>
+              </content>
+            </clause>
+            <clause eId="rule_24__subrule_2__subcl_v__cl_c">
+              <num>(c)</num>
+              <content>
+                <p>undertaking forensic of the concerned computer resource as a part of investigation or internal audit; or</p>
+              </content>
+            </clause>
+          </subclause>
+          <subclause eId="rule_24__subrule_2__subcl_vi">
+            <num>(vi)</num>
+            <content>
+              <p>accessing or analysing information from a computer resource for the purpose of tracing a computer resource or any person who has contravened, or is suspected of having contravened or being likely to contravene, any provision of the Act that is likely to have an adverse impact on the services provided by the intermediary.</p>
+            </content>
+          </subclause>
+        </subrule>
+        <subrule eId="rule_24__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The intermediary or the person in-charge of computer resource and its employees shall maintain strict secrecy and confidentiality of information while performing the actions specified under sub. <ref href="#rule_2">rule (2)</ref>.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_25" period="#tg_1">
+        <num>25.</num>
+        <heading>Prohibition of disclosure of intercepted or monitored or decrypted information</heading>
+        <subrule eId="rule_25__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The contents of intercepted or monitored or stored or decrypted information shall not be used or disclosed by intermediary or any of its employees or person in-charge of computer resource to any person other than the intended recipient of the said information under <ref href="#rule_10">rule 10</ref>.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_25__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The contents of intercepted or monitored or decrypted information shall not be used or disclosed by the agency authorised under <ref href="#rule_4">rule 4</ref> for any other purpose, except for investigation or sharing with other security agency for the purpose of investigation or in judicial proceedings before the competent court in India.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_25__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Save as otherwise provided in <ref href="#rule_25__subrule_2">sub-rule (2)</ref>, the contents of intercepted or monitored or decrypted information shall not be disclosed or reported in public by any means, without the prior order of the competent court in India.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_25__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>Save as otherwise provided in <ref href="#rule_25__subrule_2">sub-rule (2)</ref>, strict confidentiality shall be maintained in respect of direction for interception, monitoring or decryption issued by concerned competent authority or the nodal officers. contravenes provisions of these rules shall be proceeded against and punished accordingly under. the relevant provisions of the Act for the time being in force.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_25__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>Whenever asked for by the concerned security agency at the Centre, the security agencies at the State and the Union territory level shall promptly share any information which they may have obtained following directions for interception or monitoring or decryption of any information generated, transmitted, received or stored in any computer resource under <ref href="#rule_3">rule 3</ref>, with the security agency at theCentre.</p>
+          </content>
+        </subrule>
+      </rule>
+    </body>
+    <conclusions>
+      <p>[No. 9(16)/2004-EC]</p>
+      <p>N. RAVI SHANKER, Jt. Secy.</p>
+    </conclusions>
+  </act>
+</akomaNtoso>

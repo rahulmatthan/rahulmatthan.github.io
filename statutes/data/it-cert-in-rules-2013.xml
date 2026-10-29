@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0">
+  <act name="gsr" contains="singleVersion">
+    <meta>
+      <identification source="#lex-kernel">
+        <FRBRWork>
+          <FRBRthis value="/akn/in/act/gsr/2014/20E/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2014/20E" />
+          <FRBRalias value="The Information Technology (The Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013" name="title" />
+          <FRBRdate date="2014-01-16" name="publication" />
+          <FRBRauthor href="#central-government" />
+          <FRBRcountry value="in" />
+          <FRBRsubtype value="gsr" />
+          <FRBRnumber value="20E" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/in/act/gsr/2014/20E/eng@2014-01-16/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2014/20E/eng@2014-01-16" />
+          <FRBRdate date="2014-01-16" name="version" />
+          <FRBRauthor href="#central-government" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/in/act/gsr/2014/20E/eng@2014-01-16/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2014/20E/eng@2014-01-16.akn" />
+          <FRBRdate date="2026-10-29" name="transform" />
+          <FRBRauthor href="#lex-kernel" />
+        </FRBRManifestation>
+      </identification>
+      <publication date="2014-01-16" name="Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i)" showAs="Gazette of India" />
+      <lifecycle source="#lex-kernel">
+        <eventRef eId="e_original" date="2014-01-16" source="#original" type="generation" />
+        <eventRef eId="e_commencement_20140116_1" date="2014-01-16" source="#original" type="generation" refersTo="#commencement" />
+      </lifecycle>
+      <analysis source="#lex-kernel">
+        <passiveModifications>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
+            <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_zf" />
+            <source href="/akn/in/act/2000/21/~sec_70B__subsec_5" />
+            <destination href="/akn/in/act/gsr/2014/20E" />
+          </legalSystemMod>
+        </passiveModifications>
+      </analysis>
+      <temporalData source="#lex-kernel">
+        <temporalGroup eId="tg_1">
+          <timeInterval start="#e_commencement_20140116_1" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#lex-kernel">
+        <original eId="original" href="/akn/in/act/gsr/2014/20E/eng@2014-01-16" showAs="The Information Technology (The Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013" />
+        <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
+        <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
+        <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
+        <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
+      </references>
+    </meta>
+    <preface>
+      <p class="docType">NOTIFICATION</p>
+      <p>
+        <docDate date="2014-01-16">New Delhi, the 16h January, 2014</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>G.S.R 20(E).- In exercise of the powers conferred by <ref href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_zf">clause (zf) of sub-section (2) of section 87</ref>, read with sub-section (5) of section 70B of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby makes the following rules, namely :—</p>
+    </preamble>
+    <body>
+      <rule eId="rule_1" period="#tg_1">
+        <num>1.</num>
+        <heading>Short title and commencement</heading>
+        <subrule eId="rule_1__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>These Rules may be called the Information Technology (The Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>They shall come into force on the date of their publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_2" period="#tg_1">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <subrule eId="rule_2__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>In these rules, unless the context otherwise requires,-</p>
+          </intro>
+          <clause eId="rule_2__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>“Act” means the Information Technology Act, 2000 (21 of 2000);</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>“Computer contaminant” means computer contaminant as defined in <ref href="/akn/in/act/2000/21/~sec_43">section 43</ref> (i) of the Information Technology Act, 2000;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>“Computer emergency response” means to coordinate action during cyber security emergencies, provide incident response services to users, publish alerts concerning vulnerabilities and threats, and offer information to help improve cyber security</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_d">
+            <num>(d)</num>
+            <content>
+              <p>“Computer resource” means computer resource as defined in <ref href="/akn/in/act/2000/21/~sec_2">section 2</ref>(1)(k) of the Information Technology Act, 2000;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_e">
+            <num>(e)</num>
+            <content>
+              <p>“Computer security incident” means cyber security incident;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_f">
+            <num>(f)</num>
+            <content>
+              <p>“Cyber security” means cyber security as defined in <ref href="/akn/in/act/2000/21/~sec_2">section 2</ref>(1)(nb) of the Information Technology Act, 2000;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_g">
+            <num>(g)</num>
+            <content>
+              <p>"Cyber incident" means any real or suspected adverse event that is likely to cause or causes an offence or contravention, harm to critical functions and services across the public and private sectors by impairing 13</p>
+            </content>
+          </clause>
+          <hcontainer name="continuation" eId="rule_2__subrule_1__wrap_1">
+            <content>
+              <p>the confidentiality, integrity, or availability of electronic information, systems, services or networks resulting in unauthorised access, denial of service or disruption, unauthorised use of a computer resource, changes to data or information without authorisation; or threatens public safety, undermines public confidence, have a negative effect on the national economy, or diminishes the security posture of the nation;</p>
+            </content>
+          </hcontainer>
+          <clause eId="rule_2__subrule_1__cl_h">
+            <num>(h)</num>
+            <content>
+              <p>“Cyber security incident” means any real or suspected adverse event in relation to cyber security that violates an explicitly or implicitly applicable security policy resulting in unauthorized access, denial of service or disruption, unauthorised use of a computer resource for processing or storage of information or changes to data, information without authorisation;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_i">
+            <num>(i)</num>
+            <content>
+              <p>“Cyber security breaches” means unauthorised acquisition or unauthorised use by a person as well as an entity of data or information that compromises the confidentiality, integrity or availability of information maintained in a computer resource;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_j">
+            <num>(j)</num>
+            <content>
+              <p>“Director General” means the Director General of the Indian Computer Emergency Response Team;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_k">
+            <num>(k)</num>
+            <content>
+              <p>“Indian Computer Emergency Response Team” means the Indian Computer Emergency Response Team set up under <ref href="/akn/in/act/2000/21/~sec_70__subsec_1">sub-section (1) of section 70</ref>(B) of the Act;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_l">
+            <num>(l)</num>
+            <content>
+              <p>“Information” means information as defined in <ref href="/akn/in/act/2000/21/~sec_2">section 2</ref>(1)(v) of the Information Technology Act, 2000;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_m">
+            <num>(m)</num>
+            <content>
+              <p>“Information security practices” means implementation of security policies and standards in order to minimise the cyber security incidents and breaches;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_n">
+            <num>(n)</num>
+            <content>
+              <p>“National Critical Information Infrastructure Protection Centre” means the national nodal agency for protection of Critical Information Infrastructure set up under sub- <ref href="/akn/in/act/2000/21/~sec_1">section (1)</ref> of Section 70(B) of the Act;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_o">
+            <num>(o)</num>
+            <content>
+              <p>“Security policy” means documented business rules and processes for protecting information and the computer resource;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_p">
+            <num>(p)</num>
+            <content>
+              <p>“Vulnerability” means the existence of a flaw or weakness in hardware or software of a computer resource that can be exploited resulting in their adverse or different functioning other than the intended functions.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_2__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Words and expressions used in these rules but not defined and defined in the Act shall have the same meaning as is assigned to them in the Act.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_3" period="#tg_1">
+        <num>3.</num>
+        <heading>Location</heading>
+        <content>
+          <p>The Indian Computer Emergency Response Team (hereinafter referred in these Rules as CERT-In) shall function at Department of Electronics and Information Technology, Ministry of Communications and Information Technology and shall be located at “Electronics Niketan”, 6, CGO Complex, Lodhi Road, New Delhi –110003.</p>
+        </content>
+      </rule>
+      <rule eId="rule_4" period="#tg_1">
+        <num>4.</num>
+        <heading>Authority</heading>
+        <content>
+          <p>CERT-In shall be a part and under the administrative control of the Department of Electronics and Information Technology, Ministry of Communications and Information Technology»</p>
+        </content>
+      </rule>
+      <rule eId="rule_5" period="#tg_1">
+        <num>5.</num>
+        <heading>Functioning on 24-hour basis</heading>
+        <content>
+          <p>CERT-In shall function on 24-hours basis on all days of the year including Government and other holidays and the contact details of CERT-In shall be published on its website www.cert-in org.in and are updated from time to time.</p>
+        </content>
+      </rule>
+      <rule eId="rule_6" period="#tg_1">
+        <num>6.</num>
+        <heading>Advisory Committee</heading>
+        <intro>
+          <p>An Advisory Committee shall advise CERT-In on policy matters and services related to cyber security to enable it to fulfill its mandated roles and functions. The Advisory Committee shall have the following composition:</p>
+        </intro>
+        <subclause eId="rule_6__subcl_i">
+          <num>(i)</num>
+          <content>
+            <p>Secretary, Department of Electronics and Information Technology Chairman;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_ii">
+          <num>(ii)</num>
+          <content>
+            <p>Representative from the Ministry of Defence …Member;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_iii">
+          <num>(iii)</num>
+          <content>
+            <p>Representative of the Ministry of Home Affairs … Member;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_iv">
+          <num>(iv)</num>
+          <content>
+            <p>Representative of the Ministry of Law and justice Member;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_v">
+          <num>(v)</num>
+          <content>
+            <p>Representative of the Department of Telecommunications .Member;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_vi">
+          <num>(vi)</num>
+          <content>
+            <p>Representative of the National Security Council Secretariat …Member;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_vii">
+          <num>(vii)</num>
+          <content>
+            <p>Representative of National Critical Information Infrastructure Protection Centre .. Member;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_viii">
+          <num>(viii)</num>
+          <content>
+            <p>Representative of Indian Institute of Science (IISc), Bengaluru . Member;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_ix">
+          <num>(ix)</num>
+          <content>
+            <p>Representative of an Indian Industry Association, selected by yearly rotation amongst different Indian Industry Associations, without reappointment from</p>
+          </content>
+        </subclause>
+        <hcontainer name="continuation" eId="rule_6__wrap_1">
+          <content>
+            <p>18662/14-4 14 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]</p>
+          </content>
+        </hcontainer>
+        <hcontainer name="continuation" eId="rule_6__wrap_2">
+          <content>
+            <p>the same Industry Association having a representative on the Council in the immediately preceding year .Member;</p>
+          </content>
+        </hcontainer>
+        <subclause eId="rule_6__subcl_x">
+          <num>(x)</num>
+          <content>
+            <p>Representative of any other Ministry as and when required …Special Invitee;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_xi">
+          <num>(xi)</num>
+          <content>
+            <p>Representative of State Governments (by rotation) .. Special Invitee;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_6__subcl_xii">
+          <num>(xii)</num>
+          <content>
+            <p>Director General, CERT-In .Member Convener.</p>
+          </content>
+        </subclause>
+      </rule>
+      <rule eId="rule_7" period="#tg_1">
+        <num>7.</num>
+        <heading>Constituency</heading>
+        <content>
+          <p>CERT-In constituency shall be the Indian cyber community.</p>
+        </content>
+      </rule>
+      <rule eId="rule_8" period="#tg_1">
+        <num>8.</num>
+        <heading>Funetions and responsibilities of CERT-In</heading>
+        <content>
+          <p>CERT-In shali have functions as prescribed in <ref href="/akn/in/act/2000/21/~sec_70B">section 70B of the Act</ref> and those which may be assigned to it from time to time. It shall function as the trusted referral agency for cyber users in India for responding to cyber security incidents and will assist cyber users in the country in implementing measures to reduce the risk of cyber security incidents.</p>
+        </content>
+      </rule>
+      <rule eId="rule_9" period="#tg_1">
+        <num>9.</num>
+        <heading>Services</heading>
+        <content>
+          <p>CERT-In shall broadly provide following services:—</p>
+          <p>• response to cyber security incidents;</p>
+          <p>• prediction and prevention of cyber security incidents;</p>
+          <p>• analysis and forensics of cyber security incidents;</p>
+          <p>• information security assurance and audits;</p>
+          <p>• awareness and technology exposition in the area of cyber security;</p>
+          <p>• training or upgrade of technical know-how for the entities covered under Rule 10 and sub-rule(2) of Rulel1;</p>
+          <p>• scanning of cyber space with respect to cyber security vulnerabilities, breaches and malicious activities.</p>
+        </content>
+      </rule>
+      <rule eId="rule_10" period="#tg_1">
+        <num>10.</num>
+        <heading>Stakeholders</heading>
+        <intro>
+          <p>CERT-In shall interact with and seck assistance from the following stakeholders to collect, share and disseminate information and also to respond and prevent cyber security incidents, namely: :—</p>
+        </intro>
+        <clause eId="rule_10__cl_a">
+          <num>(a)</num>
+          <content>
+            <p>Sectoral Computer Emergency Response Teams;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_b">
+          <num>(b)</num>
+          <content>
+            <p>Intermediaries;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_c">
+          <num>(c)</num>
+          <content>
+            <p>Internet Registry and Domain Registrars;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_d">
+          <num>(d)</num>
+          <content>
+            <p>Industry;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_e">
+          <num>(e)</num>
+          <content>
+            <p>Vendors of Information Technology products including security products and services;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_f">
+          <num>(f)</num>
+          <content>
+            <p>Academia, Research and Development Organizations;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_g">
+          <num>(g)</num>
+          <content>
+            <p>Security and Law Enforcement Agencies;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_h">
+          <num>(h)</num>
+          <content>
+            <p>Individuals or group of individuals;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_i">
+          <num>(i)</num>
+          <content>
+            <p>International Computer Emergency Response Teams, Forums and expert groups;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_j">
+          <num>(j)</num>
+          <content>
+            <p>Agency engaged for the protection of Critical Information Infrastructure;</p>
+          </content>
+        </clause>
+        <clause eId="rule_10__cl_k">
+          <num>(k)</num>
+          <content>
+            <p>Department of Telecommunications.</p>
+          </content>
+        </clause>
+      </rule>
+      <rule eId="rule_11" period="#tg_1">
+        <num>11.</num>
+        <heading>Policies and procedures</heading>
+        <subrule eId="rule_11__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>Types of incidents and level of support.—</p>
+          </intro>
+          <clause eId="rule_11__subrule_1__cl_a">
+            <num>(a)</num>
+            <intro>
+              <p>CERT-In shall address all types of cyber security incidents cyber incidents which occur or are expected to occur in the country but the level of support given by CERT-In will vary depending on the type and severity of the incident, affected entity, be it individual or group of individuals, organisations in the Government, public and private domain, and the resources available with CERT-In at that time, though in all cases a quick response with an aim to minimize any further damage or loss of information to the affected entity will be made in a shortest possible time. Resources will be assigned according to the following priorities listed in decreasing order:-</p>
+            </intro>
+            <point eId="rule_11__subrule_1__cl_a__point_I">
+              <num>(I)</num>
+              <content>
+                <p>threats to the physical safety of human beings due to cyber security incidents;</p>
+              </content>
+            </point>
+            <point eId="rule_11__subrule_1__cl_a__point_II">
+              <num>(II)</num>
+              <content>
+                <p>cyber incidents and cyber security incidents of severe nature (such as denial of service, distributed denial of service, intrusion, spread of computer contaminant,) on any part of the public information infrastructure including backbone network infrastructure;</p>
+              </content>
+            </point>
+            <point eId="rule_11__subrule_1__cl_a__point_III">
+              <num>(III)</num>
+              <content>
+                <p>large-scale or most frequent incidents such as identity theft, intrusion into computer resource, defacement of websites etc.;</p>
+              </content>
+            </point>
+            <point eId="rule_11__subrule_1__cl_a__point_IV">
+              <num>(IV)</num>
+              <content>
+                <p>compromise of individual user accounts on multi-user systems;</p>
+              </content>
+            </point>
+            <point eId="rule_11__subrule_1__cl_a__point_V">
+              <num>(V)</num>
+              <content>
+                <p>lypes of incidents other than those mentioned above will be prioritised according to their apparent severity and extent. 15</p>
+              </content>
+            </point>
+          </clause>
+          <clause eId="rule_11__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>CERT-In shall endeavour to respond and present information and assistance to the affected entities to deal with cyber security incidents as appropriate and the ultimate responsibility of the security of the computer resource shall rest with owner of the computer resource.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_11__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>Cooperation and collaboration.— CERT-In shall collaborate with:</p>
+          </intro>
+          <point eId="rule_11__subrule_2__point_I">
+            <num>(I)</num>
+            <content>
+              <p>organisations within and outside the country engaged in the specialised areas in protecting and responding to cyber security incidents;</p>
+            </content>
+          </point>
+          <point eId="rule_11__subrule_2__point_II">
+            <num>(II)</num>
+            <content>
+              <p>organisations engaged in collection of intelligence in general, law enforcement, investigation and forensics;</p>
+            </content>
+          </point>
+          <point eId="rule_11__subrule_2__point_III">
+            <num>(III)</num>
+            <content>
+              <p>academia, industry, service providers and research and development institutions;</p>
+            </content>
+          </point>
+          <point eId="rule_11__subrule_2__point_IV">
+            <num>(IV)</num>
+            <content>
+              <p>individuals or group of individuals.</p>
+            </content>
+          </point>
+        </subrule>
+        <subrule eId="rule_11__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Communication and authentication with CERT-In.— The stakeholders and public at large can communicate with the CERT-In through communication systems ranging from telephone, fax, email and postal letters. The appropriate procedures will be disseminated through its website from time to time.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_12" period="#tg_1">
+        <num>12.</num>
+        <heading>CERT-In operations</heading>
+        <subrule eId="rule_12__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>Incident reporting, response and Information dissemination— CERT-In shall operate an Incident Response Help Desk on 24 hours basis on all days including Government and other public holidays to facilitate reporting of cyber security incidents.</p>
+          </intro>
+          <clause eId="rule_12__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>Reporting of incidents: Any individual, organisation or corporate entity affected by cyber security incidents may report the incident to CERT-In. The type of cyber security incidents as identified in Annexure shall. be mandatorily reported to CERT-In as early as possible to leave scope for action. Service providers, intermediaries, data centers and body corporate shall report the cyber security incidents to CERT-In within a reasonable time of occurrence or noticing the incident to have scope for timely action.</p>
+              <p>The details regarding methods and formats for reporting cyber security incidents, vulnerability reporting and remediation, incident response procedures and dissemination of information on cyber security shall be published on the website of CERT-In www.cert-in.org.in and will be updated from time to time.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_12__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>CERT-In shall exchange relevant information relating to attacks, vulnerabilities and solutions in respect of critical sector with National Critical Information Infrastructure Protection Centre.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_13" period="#tg_1">
+        <num>13.</num>
+        <heading>Disclosure of information</heading>
+        <subrule eId="rule_13__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>During the course of interaction with user community and discharging its functions CERT-In may collect and analyse information relating to cyber security incidents from individuals, organisations and computer resource. CERT-In shall follow applicable legal restrictions, orders of competent Indian courts and ethical practices with regard to disclosure of information and shall maintain reasonable controls and internal checks to maintain confidentiality of such information.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>CERT-In shall not disclose any information which may lead to identification of individual, group of individuals or orgapizations affected by cyber security incidents without their explicit written consent or orders of Indian competent courts. CERT-In shall take appropriate measures to protect such information and shall also not disclose the identity of individuals, group of individuals and organisations sharing the information and reporting cyber security incidents to it, without their explicit written consent or orders of Indian competent courts.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>CERT-In may share or disclose the general trends of cyber security incidents, cyber security breaches freely to assist general public for the purpose of resolving and preventing cyber security incidents and promoting awareness.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>Save as provided in sub-rules <ref href="#rule_13__subrule_1">(1)</ref>, <ref href="#rule_13__subrule_2">(2)</ref> and <ref href="#rule_13__subrule_3">(3)</ref> of Rule 13, it may be necessary or expedient so to do, for CERT-In to disclose all relevant information to the stakeholders, in the interest of sovereignty or integrity of India, defence of India, security of the State, friendly relations with foreign States or public order or for preventing incitement to the commission of an offence relating to cognizable offences or enhancing cyber security in the country.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_14" period="#tg_1">
+        <num>14.</num>
+        <heading>Seeking information, carrying out functions and for compliance in terms of sub-section (6) of section 70 (B) of the Act</heading>
+        <subrule eId="rule_14__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Authority.— Any officer of CERT-In, not below the rank of Deputy Secretary to the Government of India may seek information from service providers, intermediaries, data centres, body corporate and any other person for carrying out the functions provided in <ref href="/akn/in/act/2000/21/~sec_70__subsec_4">sub-section (4) of section 70</ref>(B) of the Act.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_14__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>For cyber security, CERT-In may take recourse for monitoring and collection of traffic data in accordance with the provisions of section 69B of the Information Technology Act, 2000 and Rules notified thereunder.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_14__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Format for submission of information.— The information sought by CERT-In shall be submitted within the duration and in the format provided alongwith the communication sent for seeking the information.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_14__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>Manner of seeking and submission of information.— CERT-In may seek the information through digitally signed email, fax or registered postal mail. The information shall be submitted to CERT-In through any suitable 16 THE GAZETTE OF INDIA : EXTRAORDINARY [PART II—SEC. 3(i)]</p>
+            <p>communication channel such as digitally signed email, fax, registered postal letters, Read only Compact Disc or Read only Digital Versatile Disc, depending upon the volume of information and as specified by CERT-In. CERT-In may also provide a secure upload facility on their server to the individual Point of Contact as defined in Rule 17.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_15" period="#tg_1">
+        <num>15.</num>
+        <heading>Directions for compliance</heading>
+        <content>
+          <p>In pursuance of its mandated roles and functions as provided in sub-section(4) of <ref href="/akn/in/act/2000/21/~sec_70">section 70</ref>(B) of the Act and with a view to enhancing cyber security of the information infrastructure in the country, Director General, CERT-In shall designate, an officer not below the rank of Director to the Government of India, to issue directions or advisory to service providers, intermediaries, data centres, body corporate and any other person. Such directions or advisory for compliance shall be issued by email signed with electronic signature, fax or registered postal mail. The service providers, intermediaries, data centres, body corporate and any other person shall comply with such directions or advisories and also report to CERT-In, within the time period and the manner as provided in the direction or advisory,</p>
+        </content>
+      </rule>
+      <rule eId="rule_16" period="#tg_1">
+        <num>16.</num>
+        <heading>Report of non-compliance</heading>
+        <content>
+          <p>In case of any non-compliance of directions within the time period by any such named service providers, intermediaries, data centres, body corporate and any other person, the concerned aforesaid officer shall submit a non-compliance report to the Director General providing details of such non-compliance within two days from the date of expiry of such directions.</p>
+        </content>
+      </rule>
+      <rule eId="rule_17" period="#tg_1">
+        <num>17.</num>
+        <heading>Point of Contact</heading>
+        <content>
+          <p>The service providers, intermediaries, data centres and body corporate shall designate a Point of Contact to interface with CERT-In. The information relating to a Point of Contact shall be sent to CERT-In in the format specified by it and shall be updated from time to time. All communications from CERT-In seeking information and providing directions for compliance shall be sent to the said Point of Contact.</p>
+        </content>
+      </rule>
+      <rule eId="rule_18" period="#tg_1">
+        <num>18.</num>
+        <heading>Dealing with non-compliance</heading>
+        <content>
+          <p>All cases of non-compliance with respect to the communications seeking information under Rule 14 and directions issued for compliance under Rule 15 shall be submitted to the Review Committee constituted under Rule 19.</p>
+        </content>
+      </rule>
+      <rule eId="rule_19" period="#tg_1">
+        <num>19.</num>
+        <heading>Review Committee</heading>
+        <subrule eId="rule_19__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>A Review Committee shall be constituted by the Central Government to review the --</p>
+          </intro>
+          <clause eId="rule_19__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>non-compliance of the communication, seeking information under Rule 14, issued to the service providers, intermediaries, data centres, body corporate and any other person;</p>
+            </content>
+          </clause>
+          <clause eId="rule_19__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>non-compliance of the directions issued to the service providers, intermediaries, data centres, body corporate and any other person under Rule 15;</p>
+            </content>
+          </clause>
+          <clause eId="rule_19__subrule_1__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>terming non-compliance of directions within the time period specified under Rule 15 by any such named service providers, intermediaries, data centres, body corporate and any other person as an offence under <ref href="/akn/in/act/2000/21/~sec_70B__subsec_7">sub-section (7) of section 70B of the Act</ref>.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_19__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>The Review Committee shall consist of the following:</p>
+          </intro>
+          <point eId="rule_19__subrule_2__point_I">
+            <num>(I)</num>
+            <content>
+              <p>Secretary, Department of Electronics and Information Technology $.$ Chairman;</p>
+            </content>
+          </point>
+          <point eId="rule_19__subrule_2__point_II">
+            <num>(II)</num>
+            <content>
+              <p>Joint Secretary, Ministry of Law and Justice Member;</p>
+            </content>
+          </point>
+          <point eId="rule_19__subrule_2__point_III">
+            <num>(III)</num>
+            <content>
+              <p>Joint Secretary Level Officer, Department of Telecommunications $v$ Member;</p>
+            </content>
+          </point>
+          <point eId="rule_19__subrule_2__point_IV">
+            <num>(IV)</num>
+            <content>
+              <p>Joint Secretary, Ministry of Home Affairs Member;</p>
+            </content>
+          </point>
+          <point eId="rule_19__subrule_2__point_V">
+            <num>(V)</num>
+            <content>
+              <p>Group Coordinator (Cyber Law and e-Security), Department . Member-Convenor</p>
+              <p>of Electronics &amp; Information Technology</p>
+              <p>The Review Committee shall meet as often as necessary.</p>
+            </content>
+          </point>
+        </subrule>
+      </rule>
+      <rule eId="rule_20" period="#tg_1">
+        <num>20.</num>
+        <heading>Action for non-compliance of direction</heading>
+        <content>
+          <p>Based on the non-compliance report as submitted by the concerned aforesaid officer under Rule 16 and such direction of the Review Committee under Rule 19, the Director General shall authorise an officer of CERT-In to file a complaint before the court as provided under sub-section (8) <ref href="/akn/in/act/2000/21/~sec_70B">section 70B of the Act</ref>
+          </p>
+        </content>
+      </rule>
+    </body>
+    <conclusions>
+      <p>[F. No. 9(16)/2004-EC]</p>
+      <p>R.K. GOYAL, Jt. Secy.</p>
+      <p>Printed by the Manager, Government of India Press, Ring Road, Mayapuri, New Delhi-110064</p>
+      <p>and Published by the Controller of Publications, Delhi-110054.</p>
+    </conclusions>
+  </act>
+</akomaNtoso>

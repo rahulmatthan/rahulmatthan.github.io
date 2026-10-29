@@ -1,0 +1,594 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0">
+  <act name="gsr" contains="singleVersion">
+    <meta>
+      <identification source="#lex-kernel">
+        <FRBRWork>
+          <FRBRthis value="/akn/in/act/gsr/2009/781E/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2009/781E" />
+          <FRBRalias value="The Information Technology (Procedure and Safeguards for Blocking for Access of Information by Public) Rules, 2009" name="title" />
+          <FRBRdate date="2009-10-27" name="publication" />
+          <FRBRauthor href="#central-government" />
+          <FRBRcountry value="in" />
+          <FRBRsubtype value="gsr" />
+          <FRBRnumber value="781E" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/in/act/gsr/2009/781E/eng@2009-10-27/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2009/781E/eng@2009-10-27" />
+          <FRBRdate date="2009-10-27" name="version" />
+          <FRBRauthor href="#central-government" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/in/act/gsr/2009/781E/eng@2009-10-27/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2009/781E/eng@2009-10-27.akn" />
+          <FRBRdate date="2026-10-29" name="transform" />
+          <FRBRauthor href="#lex-kernel" />
+        </FRBRManifestation>
+      </identification>
+      <publication date="2009-10-27" name="Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i)" showAs="Gazette of India" />
+      <lifecycle source="#lex-kernel">
+        <eventRef eId="e_original" date="2009-10-27" source="#original" type="generation" />
+        <eventRef eId="e_commencement_20091027_1" date="2009-10-27" source="#original" type="generation" refersTo="#commencement" />
+      </lifecycle>
+      <analysis source="#lex-kernel">
+        <passiveModifications>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
+            <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_z" />
+            <source href="/akn/in/act/2000/21/~sec_69A__subsec_2" />
+            <destination href="/akn/in/act/gsr/2009/781E" />
+          </legalSystemMod>
+        </passiveModifications>
+      </analysis>
+      <temporalData source="#lex-kernel">
+        <temporalGroup eId="tg_1">
+          <timeInterval start="#e_commencement_20091027_1" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#lex-kernel">
+        <original eId="original" href="/akn/in/act/gsr/2009/781E/eng@2009-10-27" showAs="The Information Technology (Procedure and Safeguards for Blocking for Access of Information by Public) Rules, 2009" />
+        <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
+        <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
+        <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
+        <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
+      </references>
+    </meta>
+    <preface>
+      <p class="docType">NOTIFICATION</p>
+      <p>
+        <docDate date="2009-10-27">New Delhi, the 270 October, 2009</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>G.S.R. 781 (E).— In exercise of the powers conferred by <ref href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_z">clause (z) of sub-section (2) of section 87</ref>, read with sub-section (2) of section 69A of the Information Technology Act 2000, (21 of 2000), the Central Government hereby makes the following rules, namely:</p>
+    </preamble>
+    <body>
+      <rule eId="rule_1" period="#tg_1">
+        <num>1.</num>
+        <heading>Short title and commencement</heading>
+        <subrule eId="rule_1__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>These rules may be called the Information Technology (Procedure and Safeguards for Blocking for Access of Information by Public) Rules, 2009.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>They shall come into force on the date of their publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_2" period="#tg_1">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <intro>
+          <p>In these rules, unless the context otherwise requires -</p>
+        </intro>
+        <clause eId="rule_2__cl_a">
+          <num>(a)</num>
+          <content>
+            <p>"Act" means the Information Technology Act, 2000 (21 of 2000);</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_b">
+          <num>(b)</num>
+          <content>
+            <p>"computer resource” means computer resource as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_k">clause (k) of sub-section (1) of section 2 of the Act</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_c">
+          <num>(c)</num>
+          <content>
+            <p>"Designated Officer” means an officer designated as Designated Officer under <ref href="#rule_3">rule 3</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_d">
+          <num>(d)</num>
+          <content>
+            <p>“Form” means a form appended to these rules;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_e">
+          <num>(e)</num>
+          <content>
+            <p>“intermediary” means an intermediary as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_w">clause (w) of sub-section (1) of section 2 of the Act</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_f">
+          <num>(f)</num>
+          <content>
+            <p>"nodal officer” means the nodal officer designated as such under <ref href="#rule_4">rule 4</ref>;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_g">
+          <num>(g)</num>
+          <intro>
+            <p>“organisation" means –</p>
+          </intro>
+          <subclause eId="rule_2__cl_g__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>Ministries or Departments of the Govemment of India;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_2__cl_g__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>state Governments and Union territories;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_2__cl_g__subcl_iii">
+            <num>(iii)</num>
+            <content>
+              <p>any agency of the Central Government, as may be notified in the Official Gazette, by the Central Government;</p>
+            </content>
+          </subclause>
+        </clause>
+        <clause eId="rule_2__cl_h">
+          <num>(h)</num>
+          <content>
+            <p>“request" means the request for blocking of access by the public any information generated, transmitted, received, stored or hosted in any computer resource;</p>
+          </content>
+        </clause>
+        <clause eId="rule_2__cl_i">
+          <num>(i)</num>
+          <content>
+            <p>"Review Committee" means the Review Committee constituted under rule 419A of Indian Telegraph Rules, 1951.</p>
+          </content>
+        </clause>
+      </rule>
+      <rule eId="rule_3" period="#tg_1">
+        <num>3.</num>
+        <heading>Designated Officer</heading>
+        <content>
+          <p>The Central Government shall designate by notification in Official Gazette, an officer of the Central Government not below the rank of a Joint Secretary, as the ‘Designated Officer", for the purpose of issuing direction for blocking for access by the public any information generated, transmitted, received, stored or hosted in any computer resource under <ref href="/akn/in/act/2000/21/~sec_69A__subsec_2">sub-section (2) of section 69A of the Act</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_4" period="#tg_1">
+        <num>4.</num>
+        <heading>Nodal officer of organisation</heading>
+        <content>
+          <p>Every organisation for the purpose of these rules, shall designate one of its officer as the Nodal Officer and shall intimate the same to the Central Government in the Department of Information Technology under the Ministry of Communications and Information Technology, Government of India and also publish the name of the said Nodal Officer on their website.</p>
+        </content>
+      </rule>
+      <rule eId="rule_5" period="#tg_1">
+        <num>5.</num>
+        <heading>Direction by Designated Officer</heading>
+        <content>
+          <p>The Designated Officer may, on receipt of any request from the Nodal Officer of an organisation or a competent court, by order direct any Agency of the Government or intermediary to block for access by the public any information or part thereof generated, transmitted, received, stored or hosted in any computer resource for any of the reasons specified in <ref href="/akn/in/act/2000/21/~sec_69A__subsec_1">sub-section (1) of section 69A of the Act</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_6" period="#tg_1">
+        <num>6.</num>
+        <heading>Forwarding of request by organisation</heading>
+        <subrule eId="rule_6__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>Any person may send their complaint to the Nodal Officer of the concerned organisation for blocking of access by the public any information generated, transmitted, received, stored or hosted in any computer resource:</p>
+          </intro>
+          <proviso eId="rule_6__subrule_1__proviso_1">
+            <content>
+              <p>Provided that any request, other than the one from the Nodal Officer of the organisation, shall be sent with the approval of the Chief Secretary of the concerned State or Union territory to the Designated Officer:</p>
+            </content>
+          </proviso>
+          <proviso eId="rule_6__subrule_1__proviso_2">
+            <content>
+              <p>Provided further that in case a Union territory has no Chief Secretary, then, such request may be approved by the Adviser to the Administrator of that Union territory.</p>
+            </content>
+          </proviso>
+        </subrule>
+        <subrule eId="rule_6__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The organisation shall examine the complaint received under <ref href="#rule_6__subrule_1">sub-rule (1)</ref> to satisty themselves about the need for taking of action in relation to the reasons enumerated in <ref href="/akn/in/act/2000/21/~sec_69A__subsec_1">sub-section (1) of section 69A of the Act</ref> and after being satisfied, it shall send the request through its Nodal Officer to the Designated Officer in the format specified in the Form appended to these rules.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_6__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The Designated Officer shall not entertain any complaint or request for blocking of information directly from any person.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_6__subrule_4">
+          <num>(4)</num>
+          <intro>
+            <p>The request shall be in writing on the letter head of the respective organisation, complete in all respects and may be sent either by mail or by fax or by e-mail signed with electronic signature of theNodal Officer:</p>
+          </intro>
+          <proviso eId="rule_6__subrule_4__proviso_1">
+            <content>
+              <p>Provided that in case the request is sent by fax or by e-mail which is not signed with electronic signature, the Nodal Officer shall provide a signed copy of the request so as to reach the Designated Officer within a period of three days of receipt of the request by such fax or e-mail.</p>
+            </content>
+          </proviso>
+        </subrule>
+        <subrule eId="rule_6__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>On receipt, each request shall be assigned a number alongwith the date and time of its receipt by the Designated Officer and he shall acknowledge the receipt thereof to the Nodal Officer within a period of twenty four hours of its receipt.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_7" period="#tg_1">
+        <num>7.</num>
+        <heading>Committee for examination of request</heading>
+        <content>
+          <p>The request alongwith the printed sample content of the alleged offending information or part thereof shall be examined by a committee consisting of the Designated Officer as its chairperson and representatives, not below the rank of Joint Secretary in Ministries of Law and Justice, Home Affairs, Information and Broadcasting and the Indian Computer Emergency Response Team appointed under <ref href="/akn/in/act/2000/21/~sec_70B__subsec_1">sub-section (1) of section 70B of the Act</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_8" period="#tg_1">
+        <num>8.</num>
+        <heading>Examination of request</heading>
+        <subrule eId="rule_8__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>On receipt of request under <ref href="#rule_6">rule 6</ref>, the Designated Officer shall make all reasonable efforts to identify the person or intermediary who has hosted the information or part thereof as well as the computer resource on which such information or part thereof is being hosted and where he is able to identify such person or intermediary and the computer resource hosting the information or part thereof which have been requested to be blocked for public access, he shall issue a notice by way of letters or fax or e-mail signed with electronic signatures to such person or intermediary in control of such computer resource to appear and submit their reply and clarifications, if any, before the committee referred to in <ref href="#rule_7">rule 7</ref>, at a specified date and time, which shall not be less than forty-eight hours from the time of receipt of such notice by such person or intermediary.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>In case of non-appearance of such person or intermediary, who has been served with the notice under <ref href="#rule_8__subrule_1">sub-rule (1)</ref>, before the committee on such specified date and time, the committee shall give specific recommendation in writing with respect to the request received from the Nodal Officer, based on the information available with the committee.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>In case, such a person or intermediary, who has been served with the notice under <ref href="#rule_8__subrule_1">sub-rule (1)</ref>, is a foreign entity or body corporate as identified by the Designated Officer, notice shall be sent by way of letters or fax or e-mail signed with electronic signatures to such foreign entity or body corporate and any such foreign entity or body corporate shall respond to such a notice within the time specified therein, failing which the committee shall give specific recommendation in writing with respect to the request received from the Nodal Officer, based on the information available with the committee.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>The committee referred to in <ref href="#rule_7">rule 7</ref> shall examine the request and printed sample information and consider whether the request is covered within the scope of <ref href="/akn/in/act/2000/21/~sec_69A__subsec_1">sub-section (1) of section 69A of the Act</ref> and that it is justifiable to block such information or part thereof and shall give specific recommendation in writing with respect to the request received from the Nodal Officer.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>The designated Officer shall submit the recommendation of the committee, in respect of the request for blocking of information alongwith the details sent by the Nodal Officer, to the Secretary in the Department of Information Technology under the Ministry of Communications and Information Technology, Government of India (hereinafter referred to as the "Secretary, Department of Information Technology”).</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_6">
+          <num>(6)</num>
+          <content>
+            <p>The Designated Officer, on approval of the request by the Secretary, Department of</p>
+          </content>
+        </subrule>
+        <hcontainer name="continuation" eId="rule_8__wrap_1">
+          <content>
+            <p>Information Technology, shall direct any agency of the Government or the intermediary to block the</p>
+          </content>
+        </hcontainer>
+        <hcontainer name="continuation" eId="rule_8__wrap_2">
+          <content>
+            <p>offending information generated, transmitted, received, stored or hosted in their computer resource for public access within the time limit specified in the direction:</p>
+          </content>
+        </hcontainer>
+        <proviso eId="rule_8__proviso_1">
+          <content>
+            <p>Provided that in case the request of the Nodal Officer is not approved by the Secretary,</p>
+            <p>Department of Information Technology, the Designated Officer shall convey the same to such NodalOfficer.</p>
+          </content>
+        </proviso>
+      </rule>
+      <rule eId="rule_9" period="#tg_1">
+        <num>9.</num>
+        <heading>Blocking of information in cases of emergency</heading>
+        <subrule eId="rule_9__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Notwithstanding anything contained in rules</p>
+            <p>7 and 8, the Designated Officer, in any case of emergency nature, for which no delay is acceptable, shall</p>
+            <p>examine the request and printed sample information and consider whether the request is within the scope</p>
+            <p>of sub-section(1) of <ref href="/akn/in/act/2000/21/~sec_69A">section 69A of the Act</ref> and it is necessary or expedient and justifiable to block such</p>
+            <p>information or part thereof and submit the request with specific recommendations in wnting to Secretary, Department of Information Technology.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_9__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>In a case of emergency nature, the Secretary, Department of information Technology may, if</p>
+          </content>
+        </subrule>
+        <hcontainer name="continuation" eId="rule_9__wrap_1">
+          <content>
+            <p>he is satisfied that it is necessary or expedient and justifiable for blocking for public access of any</p>
+          </content>
+        </hcontainer>
+        <hcontainer name="continuation" eId="rule_9__wrap_2">
+          <content>
+            <p>information or part thereof through any computer resource and after recording reasons in writing, as an</p>
+          </content>
+        </hcontainer>
+        <hcontainer name="continuation" eId="rule_9__wrap_3">
+          <content>
+            <p>interim measure issue such directions as he may consider necessary to such identified or identifiable</p>
+          </content>
+        </hcontainer>
+        <hcontainer name="continuation" eId="rule_9__wrap_4">
+          <content>
+            <p>persons or intermediary in control of such computer resource hosting such information or part thereof without giving him an opportunity of hearing.</p>
+          </content>
+        </hcontainer>
+        <subrule eId="rule_9__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The Designated Officer, at the earliest but not later than forty-eight hours of issue of direction</p>
+          </content>
+        </subrule>
+        <hcontainer name="continuation" eId="rule_9__wrap_5">
+          <content>
+            <p>under <ref href="#rule_9__subrule_2">sub-rule (2)</ref>, shall bring the request before the committee referred to in <ref href="#rule_7">rule 7</ref> for its consideration and recommendation.</p>
+          </content>
+        </hcontainer>
+        <subrule eId="rule_9__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>On receipt of recommendations of committee, Secretary, Department of Information</p>
+          </content>
+        </subrule>
+        <wrapUp>
+          <p>Technology, shall pass the final order as regard to approval of such request and in case the request for</p>
+          <p>blocking is not approved by the Secretary, Department of Information Technology in his final order, the</p>
+          <p>interim direction issued under <ref href="#rule_9__subrule_2">sub-rule (2)</ref> shall be revoked and the person or intermediary in control of such information shall be accordingly directed to unblock the information for public access.</p>
+        </wrapUp>
+      </rule>
+      <rule eId="rule_10" period="#tg_1">
+        <num>10.</num>
+        <heading>Process of order of court for blocking of information</heading>
+        <content>
+          <p>In case of an order from a competent</p>
+          <p>court in India for blocking of any information or part thereof generated, transmitted, received, stored or</p>
+          <p>hosted in a computer resource, the Designated Officer shall, immediately on receipt of certified copy of</p>
+          <p>the court order, submit it to the Secretary, Department of information Technology and initiate action as directed by the,court.</p>
+        </content>
+      </rule>
+      <rule eId="rule_11" period="#tg_1">
+        <num>11.</num>
+        <heading>Expeditious disposal of request</heading>
+        <content>
+          <p>The request received from the Nodal Officer shall be decided</p>
+          <p>expeditiously which in no case shall be more than seven working days from the date of receipt of the request.</p>
+        </content>
+      </rule>
+      <rule eId="rule_12" period="#tg_1">
+        <num>12.</num>
+        <heading>Action for non-compliance of direction by intermediary</heading>
+        <content>
+          <p>In case the intermediary fails to</p>
+          <p>comply with the direction issued to him under <ref href="#rule_9">rule 9</ref>, the Designated Officer shall, with the prior approval</p>
+          <p>of the Secretary, Department of Information Technology, initiate appropriate action as may be required to comply with the provisions of <ref href="/akn/in/act/2000/21/~sec_69A__subsec_3">sub-section (3) of section 69A of the Act</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_13" period="#tg_1">
+        <num>13.</num>
+        <heading>Intermediary to designate one person to receive and handle directions</heading>
+        <subrule eId="rule_13__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Every intermediary</p>
+            <p>shall designate at least one person to receive and handle the directions for blocking of access by the</p>
+            <p>public any information generated, transmitted, received, stored or hosted in any computer resource under these rules.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The designated person of the Intermediary shall acknowledge receipt of the directions to the Designated Officer within two hours on receipt of the direction through acknowledgement letter or fax or e-mail signed with electronic signature.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_14" period="#tg_1">
+        <num>14.</num>
+        <heading>Meeting of Review Committee</heading>
+        <content>
+          <p>The Review Committee shall meet at least once in two months and record its findings whether the directions issued under these rules are in accordance with the provisions of <ref href="/akn/in/act/2000/21/~sec_69A__subsec_1">sub-section (1) of section 69A of the Act</ref> and if is of the opinion that the directions are not in accordancs with the provisions referred to above, it may set aside the directions and issue order for unblocking of said information generated, transmitted, received, stored or hosted in a computer resource ‘for public access.</p>
+        </content>
+      </rule>
+      <rule eId="rule_15" period="#tg_1">
+        <num>15.</num>
+        <heading>Maintenance of records by Designated Officer</heading>
+        <content>
+          <p>The Designated Officer shall maintain complete record of the request received and action taken thereof, in electronic database and also in register of the cases of blocking for public access of the information generated, transmitted, received, stored or hosted in a computer resource.</p>
+        </content>
+      </rule>
+      <rule eId="rule_16" period="#tg_1">
+        <num>16.</num>
+        <heading>Requests and complaints to be confidential</heading>
+        <content>
+          <p>Strict confidentiality shall be maintained regarding all the requests and complaints received and actions taken thereof.</p>
+        </content>
+      </rule>
+    </body>
+    <conclusions>
+      <p>[No. 9(16)/2004-EC]</p>
+      <p>N. RAVI SHANKER, Jt. Secy.</p>
+      <p>385561/9-5</p>
+    </conclusions>
+    <attachments>
+      <attachment eId="sched_1">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2009/781E/!schedule_1" />
+                <FRBRuri value="/akn/in/act/gsr/2009/781E" />
+                <FRBRalias value="The Information Technology (Procedure and Safeguards for Blocking for Access of Information by Public) Rules, 2009: FORM" name="title" />
+                <FRBRdate date="2009-10-27" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="781E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2009/781E/eng@2009-10-27/!schedule_1" />
+                <FRBRuri value="/akn/in/act/gsr/2009/781E/eng@2009-10-27" />
+                <FRBRdate date="2009-10-27" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2009/781E/eng@2009-10-27/!schedule_1.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2009/781E/eng@2009-10-27.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">FORM</p>
+            <p class="reference">[See rule 6(2)]</p>
+          </preface>
+          <mainBody>
+            <hcontainer name="intro" eId="sched_1__intro">
+              <content>
+                <p>A. Complaint</p>
+              </content>
+            </hcontainer>
+            <paragraph eId="sched_1__para_1">
+              <num>1.</num>
+              <content>
+                <p>Name of the complainant : _ (Person who has sent the complaint to the Ministry/Department/State Govt. /Nodal Officer)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_2">
+              <num>2.</num>
+              <content>
+                <p>Address _</p>
+                <p>City : __ - Pin Code: ___</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_3">
+              <num>3.</num>
+              <content>
+                <p>Telephone: __ (prefix STD code)_4. Fax (if any) : _</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_5">
+              <num>5.</num>
+              <content>
+                <p>Mobile (if any): _</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_6">
+              <num>6.</num>
+              <content>
+                <p>Email (if any): _</p>
+                <p>B : Details of website/ computer resource/intermediary/ offending Information hosted on the website (Please give details wherever known)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_7">
+              <num>7.</num>
+              <content>
+                <p>URL / web address : _</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_8">
+              <num>8.</num>
+              <content>
+                <p>IP Address : _</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_9">
+              <num>9.</num>
+              <content>
+                <p>Hyperlink : ___</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_10">
+              <num>10.</num>
+              <content>
+                <p>Server/Proxy Server address : _</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_11">
+              <num>11.</num>
+              <content>
+                <p>Name of the Intermediary : _</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_12">
+              <num>12.</num>
+              <content>
+                <p>URL of the Intermediary : _</p>
+                <p>(Please attach screenshot/printout of the offending information)</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_13">
+              <num>13.</num>
+              <content>
+                <p>Address or location of intermediary in case the intermediary is telecom service provider, network service provider, internet service provider, web-hosting service provider and cyber café or other form of intermediary for which information under points (7), (8), (9), (10). (11) and (12) are not available. C. Details of Request for blocking</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_14">
+              <num>14.</num>
+              <content>
+                <p>Recommendation/Comments of the Ministry/State Govt :</p>
+                <p>15: The level at which the comments/ recommendation have been approved (Please specify designation) :_</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_16">
+              <num>16.</num>
+              <content>
+                <p>Have the complaint been examined in Ministry/State Govenment : Y/N</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_1__para_17">
+              <num>17.</num>
+              <intro>
+                <p>If yes, under which of the following reasons it falls (please tick):</p>
+              </intro>
+              <subclause eId="sched_1__para_17__subcl_i">
+                <num>(i)</num>
+                <content>
+                  <p>Interest of sovereignty or integrity of India (i) Defence of India</p>
+                  <p>(iii) Security of the State</p>
+                  <p>(iv) Friendly relations with foreign States (v) Public order</p>
+                  <p>(vi) For preventing incitement to the commission of any cognisable offence relating to above</p>
+                </content>
+              </subclause>
+              <wrapUp>
+                <p>D. Details of the Nodal Officer, forwarding the complaint alongwith recommendation of the Ministry/State Govt. and related enclosures</p>
+              </wrapUp>
+            </paragraph>
+            <paragraph eId="sched_1__para_18">
+              <num>18.</num>
+              <content>
+                <p>Name of the Nodal Officer: _ 19. Designation : ___ 20. organisation :_ 21. Address</p>
+                <p>City: _ Pin Code: _</p>
+                <p>22. Telephone: _ __(prefix STD code) 23. Fax (if any): _</p>
+                <p>24. Mobile (if any): _</p>
+                <p>25. Email (if any): _</p>
+                <p>E. Any other information :</p>
+                <p>F. Enclosures : 1. 2. 3.</p>
+                <p>Date : Place: Signature</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </act>
+</akomaNtoso>
