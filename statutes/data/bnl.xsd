@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Bharat Niti Lipi (BNL) 1.0: the two attributes BNL adds to Akoma Ntoso.
+  Akoma Ntoso accepts attributes from other namespaces on its elements
+  (anyAttribute ##other, processContents="lax"); this schema gives them types.
+-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="urn:bnl:1.0"
+           xmlns:bnl="urn:bnl:1.0"
+           attributeFormDefault="qualified">
+
+  <!-- Where an effect applies: the whole of India (IN) or one or more States
+       and Union territories by ISO 3166-2:IN code, e.g. "IN-UP IN-UK". -->
+  <xs:attribute name="extent">
+    <xs:simpleType>
+      <xs:list>
+        <xs:simpleType>
+          <xs:restriction base="xs:token">
+            <xs:pattern value="IN(-[A-Z]{2})?"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:list>
+    </xs:simpleType>
+  </xs:attribute>
+
+  <!-- How the link or effect is known. -->
+  <xs:attribute name="basis">
+    <xs:simpleType>
+      <xs:restriction base="xs:token">
+        <xs:enumeration value="stated"/>     <!-- the instrument itself says so -->
+        <xs:enumeration value="held"/>       <!-- a court has said so -->
+        <xs:enumeration value="inferred"/>   <!-- an analyst concluded it; open to review -->
+        <xs:enumeration value="contested"/>  <!-- courts or authorities disagree -->
+      </xs:restriction>
+    </xs:simpleType>
+  </xs:attribute>
+</xs:schema>

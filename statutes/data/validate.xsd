@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Validate a BNL file: Akoma Ntoso 3.0 plus the typed BNL attributes. -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" schemaLocation="../schema/akomantoso30.xsd"/>
+  <xs:import namespace="urn:bnl:1.0" schemaLocation="bnl.xsd"/>
+</xs:schema>

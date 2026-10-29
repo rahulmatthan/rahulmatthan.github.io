@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0">
+  <act name="gsr" contains="singleVersion">
+    <meta>
+      <identification source="#lex-kernel">
+        <FRBRWork>
+          <FRBRthis value="/akn/in/act/gsr/2011/313E/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2011/313E" />
+          <FRBRalias value="The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011" name="title" />
+          <FRBRdate date="2011-04-11" name="publication" />
+          <FRBRauthor href="#central-government" />
+          <FRBRcountry value="in" />
+          <FRBRsubtype value="gsr" />
+          <FRBRnumber value="313E" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/in/act/gsr/2011/313E/eng@2011-04-11/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2011/313E/eng@2011-04-11" />
+          <FRBRdate date="2011-04-11" name="version" />
+          <FRBRauthor href="#central-government" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/in/act/gsr/2011/313E/eng@2011-04-11/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2011/313E/eng@2011-04-11.akn" />
+          <FRBRdate date="2026-10-29" name="transform" />
+          <FRBRauthor href="#lex-kernel" />
+        </FRBRManifestation>
+      </identification>
+      <publication date="2011-04-11" name="Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i)" showAs="Gazette of India" />
+      <lifecycle source="#lex-kernel">
+        <eventRef eId="e_original" date="2011-04-11" source="#original" type="generation" />
+        <eventRef eId="e_commencement_20110411_1" date="2011-04-11" source="#original" type="generation" refersTo="#commencement" />
+      </lifecycle>
+      <analysis source="#lex-kernel">
+        <passiveModifications>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
+            <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_ob" />
+            <source href="/akn/in/act/2000/21/~sec_43A" />
+            <destination href="/akn/in/act/gsr/2011/313E" />
+          </legalSystemMod>
+        </passiveModifications>
+      </analysis>
+      <temporalData source="#lex-kernel">
+        <temporalGroup eId="tg_1">
+          <timeInterval start="#e_commencement_20110411_1" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#lex-kernel">
+        <original eId="original" href="/akn/in/act/gsr/2011/313E/eng@2011-04-11" showAs="The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011" />
+        <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
+        <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
+        <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
+        <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
+      </references>
+    </meta>
+    <preface>
+      <p class="authority">MINISTRY OF COMMUNICATIONS AND INFORMATION TECHNOLOGY</p>
+      <p class="authority">(Department of Information Technology)</p>
+      <p class="docType">NOTIFICATION</p>
+      <p>
+        <docDate date="2011-04-11">New Delhi, the 11th April, 2011</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>G.S.R. 313(E).—In exercise of the powers conferred by <ref href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_ob">clause (ob) of sub-section (2) of section 87</ref> read with section 43A of the Information Technology Act, 2000 (21 of 2000), the Central Government hereby makes the following rules, namely.--</p>
+    </preamble>
+    <body>
+      <rule eId="rule_1" period="#tg_1">
+        <num>1.</num>
+        <heading>Short title and commencement</heading>
+        <subrule eId="rule_1__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>These rules may be called the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>They shall come into force on the date of their publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_2" period="#tg_1">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <subrule eId="rule_2__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>In these rules, unless the context otherwise requires,--</p>
+          </intro>
+          <clause eId="rule_2__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>"Act" means the Information Technology Act, 2000 (21 of 2000);</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>"Biometrics" means the technologies that measure and analyse human body characteristics, such as 'fingerprints', 'eye retinas and irises', 'voice patterns', "facial patterns', 'hand measurements' and 'DNA' for authentication purposes;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>"Body corporate" means the body corporate as defined in <ref href="#rule_2__subrule_1__cl_i">clause (i)</ref> of explanation to <ref href="/akn/in/act/2000/21/~sec_43A">section 43A of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_d">
+            <num>(d)</num>
+            <content>
+              <p>"Cyber incidents" means any real or suspected adverse event in relation to cyber security that violates an explicitly or implicitly applicable security policy resulting in unauthorised access, denial of service or disruption, unauthorised use of a computer resource for processing or storage of information or changes to data, information without authorisation;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_e">
+            <num>(e)</num>
+            <content>
+              <p>"Data" means data as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_o">clause (o) of sub-section (1) of section 2 of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_f">
+            <num>(f)</num>
+            <content>
+              <p>"Information" means information as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_v">clause (v) of sub-section (1) of section 2 of the Act</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_g">
+            <num>(g)</num>
+            <content>
+              <p>"Intermediary" means an intermediary as defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_w">clause (w) of sub-section (1) of section 2 of the Act</ref>; THE GAZETTE OF INDIA : EXTRAORDINARY [ PART II-SEC. 3(i)]</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_h">
+            <num>(h)</num>
+            <content>
+              <p>"Password" means a secret word or phrase or code or passphrase or secret key, or encryption or decryption keys that one uses to gain admittance or access to information;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_i">
+            <num>(i)</num>
+            <content>
+              <p>"Personal information" means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_2__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>All other words and expressions used and not defined in these rules but defined in the Act shall have the meanings respectively assigned to them in the Act.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_3" period="#tg_1">
+        <num>3.</num>
+        <heading>Sensitive personal data or information</heading>
+        <intro>
+          <p>Sensitive personal data or information of a person means such personal information which consists of information relating to;—</p>
+        </intro>
+        <subclause eId="rule_3__subcl_i">
+          <num>(i)</num>
+          <content>
+            <p>password;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_3__subcl_ii">
+          <num>(ii)</num>
+          <content>
+            <p>financial information such as Bank account or credit card or debit card or other payment instrument details ;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_3__subcl_iii">
+          <num>(iii)</num>
+          <content>
+            <p>physical, physiological and mental health condition;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_3__subcl_iv">
+          <num>(iv)</num>
+          <content>
+            <p>sexual orientation;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_3__subcl_v">
+          <num>(v)</num>
+          <content>
+            <p>medical records and history;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_3__subcl_vi">
+          <num>(vi)</num>
+          <content>
+            <p>Biometric information;</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_3__subcl_vii">
+          <num>(vii)</num>
+          <content>
+            <p>any detail relating to the above clauses as provided to body corporate for providing service; and</p>
+          </content>
+        </subclause>
+        <subclause eId="rule_3__subcl_viii">
+          <num>(viii)</num>
+          <content>
+            <p>any of the information received under above clauses by body corporate for processing, stored or processed under lawful contract or otherwise:</p>
+            <p>provided that, any information that is freely available or accessible in public domain or furnished under the Right to Information Act, 2005 or any other law for the time being in force shall not be regarded as sensitive personal data or information for the purposes of these rules.</p>
+          </content>
+        </subclause>
+      </rule>
+      <rule eId="rule_4" period="#tg_1">
+        <num>4.</num>
+        <heading>Body corporate to provide policy for privacy and disclosure of information</heading>
+        <subrule eId="rule_4__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>The body corporate or any person who on behalf of body corporate collects, receives, possess, stores, deals or handle information of provider of information, shall provide a privacy policy for handling of or dealing in personal information including sensitive personal data or information and ensure that the same are available for view by such providers of information who has provided such information under lawful contract. Such policy shall be published on website of body corporate or any person on its behalf and shall provide for—</p>
+          </intro>
+          <subclause eId="rule_4__subrule_1__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>Clear and easily accessible statements of its practices and policies;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_4__subrule_1__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>type of personal or sensitive personal data or information collected under <ref href="#rule_3">rule 3</ref>; [ II- 3(i)] :</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_4__subrule_1__subcl_iii">
+            <num>(iii)</num>
+            <content>
+              <p>purpose of collection and usage of such information;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_4__subrule_1__subcl_iv">
+            <num>(iv)</num>
+            <content>
+              <p>disclosure of information including sensitive personal data or information as provided in <ref href="#rule_6">rule 6</ref>;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_4__subrule_1__subcl_v">
+            <num>(v)</num>
+            <content>
+              <p>reasonable security practices and procedures as provided under <ref href="#rule_8">rule 8</ref>.</p>
+            </content>
+          </subclause>
+        </subrule>
+      </rule>
+      <rule eId="rule_5" period="#tg_1">
+        <num>5.</num>
+        <heading>Collection of information</heading>
+        <subrule eId="rule_5__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Body corporate or any person on its behalf shall obtain consent in writing through letter or Fax or email from the provider of the sensitive personal data or information regarding purpose of usage before collection of such information.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_5__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>Body corporate or any person on its behalf shall not collect sensitive personal data or information unless —</p>
+          </intro>
+          <clause eId="rule_5__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>the information is collected for a lawful purpose connected with a function or activity of the body corporate or any person on its behalf; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_2__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>the collection of the sensitive personal data or information is considered necessary for that purpose.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_5__subrule_3">
+          <num>(3)</num>
+          <intro>
+            <p>While collecting information directly from the person concerned, the body corporate or any person on its behalf snail take such steps as are, in the circumstances, reasonable to ensure that the person concerned is having the knowledge of —</p>
+          </intro>
+          <clause eId="rule_5__subrule_3__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>the fact that the information is being collected;</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_3__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>the purpose for which the information is being collected;</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_3__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>the intended recipients of the information; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_3__cl_d">
+            <num>(d)</num>
+            <intro>
+              <p>the name and address of —</p>
+            </intro>
+            <subclause eId="rule_5__subrule_3__cl_d__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>the agency that is collecting the information; and</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_5__subrule_3__cl_d__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the agency that will retain the information.</p>
+              </content>
+            </subclause>
+          </clause>
+        </subrule>
+        <subrule eId="rule_5__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>Body corporate or any person on its behalf holding sensitive personal data or information shall not retain that information for longer than is required for the purposes for which the information may lawfully be used or is otherwise required under any other law for the time being in force..</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_5__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>The information collected shall be used for the purpose for which it has been collected.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_5__subrule_6">
+          <num>(6)</num>
+          <content>
+            <p>Body corporate or any person on its behalf permit the providers of information, as and when requested by them, to review the information they had provided and ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible:</p>
+          </content>
+        </subrule>
+        <proviso eId="rule_5__proviso_1">
+          <content>
+            <p>Provided that a body corporate shall not be responsible for the authenticity of the personal information or sensitive personal data or information supplied by THE GAZETTE OF INDIA : EXTRAORDINARY [ PART II-SEC. 3(i)]</p>
+            <p>the provider of information to such boy corporate or any other person acting on behalf of such body corporate.</p>
+          </content>
+        </proviso>
+        <subrule eId="rule_5__subrule_7">
+          <num>(7)</num>
+          <content>
+            <p>Body corporate or any person on its behalf shall, prior to the collection of information including sensitive personal data or information, provide an option to the provider of the information to not to provide the data or information sought to be collected. The provider of information shall, at any time while availing the services or otherwise, also have an option to withdraw its consent given earlier to the body corporate. Such withdrawal of the consent shall be sent in writing to the body corporate. In the case of provider of information not providing or later on withdrawing his consent, the body corporate shall have the option not to provide goods or services for which the said information was sought.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_5__subrule_8">
+          <num>(8)</num>
+          <content>
+            <p>Body corporate or any person on its behalf shall keep the information secure as provided in <ref href="#rule_8">rule 8</ref>.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_5__subrule_9">
+          <num>(9)</num>
+          <content>
+            <p>Body corporate shall address any discrepancies and grievances of their provider of the information with respect to processing of information in a time bound manner. For this purpose, the body corporate shall designate a Grievance Officer and publish his name and contact details on its website. The Grievance Officer shall redress the grievances or provider of information expeditiously but within one month ' from the date of receipt of grievance.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_6" period="#tg_1">
+        <num>6.</num>
+        <heading>Disclosure of information</heading>
+        <subrule eId="rule_6__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>Disclosure of sensitive personal data or information by body corporate to any third party shall require prior permission from the provider of such information, who has provided such information under lawful contract or otherwise, unless such disclosure has been agreed to in the contract between the body corporate and provider of information, or where the disclosure is necessary for compliance of a legal obligation:</p>
+          </intro>
+          <proviso eId="rule_6__subrule_1__proviso_1">
+            <content>
+              <p>Provided that the information shall be shared, without obtaining prior consent from provider of information, with Government agencies mandated under the law to obtain information including sensitive personal data or information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences. The Government agency shall send a request in writing to the body corporate possessing the sensitive personal data or information stating clearly the purpose of seeking such information. The Government agency shall also state that the information so obtained shall not be published or shared with any other person.</p>
+            </content>
+          </proviso>
+        </subrule>
+        <subrule eId="rule_6__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Notwithstanding anything contain in <ref href="#rule_6__subrule_1">sub-rule (1)</ref>, any sensitive personal data on Information shall be disclosed to any third party by an order under the law for the time being in force. [ II- 3(i)] :</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_6__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The body corporate or any person on its behalf shall not publish the sensitive personal data or information.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_6__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>The third party receiving the sensitive personal data or information from body corporate or any person on its behalf under <ref href="#rule_6__subrule_1">sub-rule (1)</ref> shall not disclose it further.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_7" period="#tg_1">
+        <num>7.</num>
+        <heading>Transfer of information</heading>
+        <content>
+          <p>A body corporate or any person on its behalf may transfer sensitive personal data or information including any information, to any other body corporate or a person in India, or located in any other country, that ensures the same level of data protection that is adhered to by the body corporate as provided for under these Rules. The transfer may be allowed only if it is necessary for the performance of the lawful contract between the body corporate or any person on its behalf and provider of information or where such person has consented to data transfer.</p>
+        </content>
+      </rule>
+      <rule eId="rule_8" period="#tg_1">
+        <num>8.</num>
+        <heading>Reasonable Security Practices and Procedures</heading>
+        <subrule eId="rule_8__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>A body corporate or a person on its behalf shall be considered to have complied with reasonable security practices and procedures, if they have implemented such security practices and standards and have a comprehensive documented information security programme and information security policies that contain managerial, technical, operational and physical security control measures that are commensurate with the information assets being protected with the nature of business. In the event of an information security breach, the body corporate or a person on its behalf shall be required to demonstrate, as and when called upon to do so by the agency mandated under the law, that they have implemented security control measures as per their documented information security programme and information security policies.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The international Standard IS/ISO/IEC 27001 on "Information Technology - Security Techniques - Information Security Management System - Requirements" is one such standard referred to in <ref href="#rule_8__subrule_1">sub-rule (1)</ref>.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Any industry association or an entity formed by such an association, whose members are self-regulating by following other than IS/ISO/IEC codes of best practices for data protection as per sub-rule(1), shall get its codes of best practices duly approved and notified by the Central Government for effective implementation.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>The body corporate or a person on its behalf who have implemented either IS/ISO/IEC 27001 standard or the codes of best practices for data protection as approved and notified under <ref href="#rule_8__subrule_3">sub-rule (3)</ref> shall be deemed to have complied with reasonable security practices and procedures provided that such standard or the codes of best practices have been certified or audited on a regular basis by entities through independent auditor, duly approved by the Central Government. The audit of reasonable security practices and procedures shall be carried cut by an auditor at least once a year or as and when the body corporate or a person on its behalf undertake significant upgradation of its process and computer resource.</p>
+          </content>
+        </subrule>
+      </rule>
+    </body>
+  </act>
+</akomaNtoso>

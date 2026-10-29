@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The format · BNL</title>
+<meta name="description" content="">
+<script>
+  // Theme and text size, set before the page paints. Dark unless the reader chose light.
+  (function () {
+    var t = "dark", z = "m";
+    try { t = localStorage.getItem("bnl-theme") || t; z = localStorage.getItem("bnl-size") || z; } catch (e) {}
+    document.documentElement.dataset.theme = t;
+    document.documentElement.dataset.size = z;
+  })();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=20261029183748">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="index.html">Bharat Niti <em>Lipi</em></a>
+  <nav><a href="index.html" class="">Why BNL</a><a href="dpdp-act-2023.html" class="">Data protection</a><a href="it-act-2000.html" class="">IT Act</a><a href="indian-stamp-act-1899.html" class="">Stamp Act</a><a href="consolidation.html" class="">Amending engine</a><a href="sources.html" class="">Sources</a><a href="checks.html" class="">Checks</a><a href="format.html" class="on">The format</a></nav>
+  <div class="prefs">
+    <button id="size">Text size: <span id="size-label">M</span></button>
+    <button id="theme">Light</button>
+  </div>
+</header>
+<main><div class="prose wide">
+<p class="kicker">The format</p>
+<h1>Bharat Niti Lipi, in one page</h1>
+<p class="lede">BNL is Akoma Ntoso 3.0 (OASIS LegalDocML) with two attributes added, a fixed way of using the
+standard for Indian legal events, and a rulebook. Every BNL file is a valid Akoma Ntoso file, so every tool built
+for the standard can read it.</p>
+
+<h2>Four principles</h2>
+<ol>
+<li><b>Valid Akoma Ntoso, always.</b> No fork of the standard.</li>
+<li><b>The standard's own words first.</b> BNL adds only what Indian law has and the standard does not.</li>
+<li><b>One fact, one place.</b> An amendment, a judgment or a delegation is recorded once, against the provision it
+affects, pointing at the instrument that caused it. A State's text, or the law on a date, is computed and never stored.</li>
+<li><b>Every effect cites its source:</b> a gazette notification, or a judgment down to the paragraph.</li>
+</ol>
+
+<h2>What BNL adds</h2>
+<table class="map">
+<tr><th>Attribute</th><th>Values</th><th>Says</th></tr>
+<tr><td><code>bnl:extent</code></td><td><code>IN</code>, or State codes such as <code>IN-UP IN-OR</code></td><td>Where a change applies: a State amendment, a High Court's order.</td></tr>
+<tr><td><code>bnl:basis</code></td><td><code>stated</code> · <code>held</code> · <code>inferred</code> · <code>contested</code></td><td>How a link or effect is known: the instrument says so, a court has held it, an analyst concluded it, or authorities disagree.</td></tr>
+</table>
+<p>Both are typed in <a href="data/bnl.xsd">bnl.xsd</a>. Akoma Ntoso accepts attributes from other namespaces on its
+elements, so <a href="data/validate.xsd">validate.xsd</a> checks a file against the official schema and BNL together.</p>
+
+<h2>Indian legal events, in the standard's terms</h2>
+<table class="map">
+<tr><th>In Indian law</th><th>Recorded as</th></tr>
+<tr><td>Phased commencement by notification</td><td><code>forceMod type="entryIntoForce"</code>, with a period on each provision</td></tr>
+<tr><td>Amendment, insertion, omission</td><td><code>textualMod</code> (substitution · insertion · repeal), dated</td></tr>
+<tr><td>A State amendment to a Central Act</td><td>The same <code>textualMod</code>, with <code>bnl:extent="IN-UP"</code></td></tr>
+<tr><td>Rules made under a power</td><td><code>legalSystemMod type="legislativeDelegation"</code> from the Act's provision to the rule, with <code>bnl:basis</code></td></tr>
+<tr><td>Struck down</td><td><code>forceMod type="unconstitutionality"</code>, citing the judgment; the text stays</td></tr>
+<tr><td>Read down, read in</td><td><code>meaningMod type="variation"</code>, with the court's reading as its domain</td></tr>
+<tr><td>Stayed</td><td><code>efficacyMod type="inapplication"</code>, with a period that closes when the stay is vacated</td></tr>
+<tr><td>Corrigendum</td><td><code>textualMod</code> with the event marked as a correction, effective from the original date</td></tr>
+<tr><td>Marginal note (heading or citation)</td><td><code>heading</code>, or <code>authorialNote placement="side"</code></td></tr>
+<tr><td>Illustration, Explanation, Note</td><td><code>hcontainer name="illustration"</code> and so on; provisos as <code>proviso</code></td></tr>
+<tr><td>India Code's own footnotes</td><td>Editorial notes in metadata, never as the legislature's text</td></tr>
+</table>
+
+<h2>The rulebook</h2>
+<p>The standard says what a legal document may contain; these rules say what an Indian one must
+(<a href="data/rules.sch">rules.sch</a>, run with any Schematron validator):</p>
+<ul class="rules"><li><b>BNL-1</b> Every section and rule has a commencement date (a period on it, above it, or on each of its parts).</li><li><b>BNL-2</b> Subordinate legislation states the power it is made under (a legislativeDelegation with basis &quot;stated&quot;).</li><li><b>BNL-3</b> Every delegation link says how it is known (bnl:basis).</li><li><b>BNL-5</b> A court&#x27;s effect on a provision cites the judgment or order.</li><li><b>BNL-6</b> A provision struck down, stayed or read down stays in the text; only its status changes.</li><li><b>BNL-7</b> A stay records when it began (and ends when vacated or decided).</li><li><b>BNL-8</b> Every reference inside a document lands on a provision that exists.</li><li><b>BNL-4</b> A change limited to part of India comes from a State instrument or a court.</li></ul>
+<p>Rules that need more than one document are run across the whole set: a rule whose head of power is omitted, a
+reference into another instrument that lands nowhere, a State amendment without its Article 254(2) assent.</p>
+
+<h2>Names</h2>
+<p>Central Acts <code>/akn/in/act/2000/21</code>; statutory rules by gazette number
+<code>/akn/in/act/gsr/2021/139E</code>; State Acts <code>/akn/in-up/act/2001/38</code>; judgments
+<code>/akn/in/judgment/sc/2015-03-24/wp-crl-167-2012</code>; a provision <code>…/~sec_79__subsec_3__cl_b</code>.</p>
+
+<h2>The files</h2>
+<ul class="downloads"><li><a href="data/dpdp-act-2023.xml">dpdp-act-2023.xml</a> · The Digital Personal Data Protection Act, 2023</li><li><a href="data/dpdp-rules-2025.xml">dpdp-rules-2025.xml</a> · The Digital Personal Data Protection Rules, 2025</li><li><a href="data/it-act-2000.xml">it-act-2000.xml</a> · The Information Technology Act, 2000</li><li><a href="data/it-rules-2021.xml">it-rules-2021.xml</a> · The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021</li><li><a href="data/it-intermediaries-rules-2011.xml">it-intermediaries-rules-2011.xml</a> · The Information Technology (Intermediaries Guidelines) Rules, 2011</li><li><a href="data/it-spdi-rules-2011.xml">it-spdi-rules-2011.xml</a> · The Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011</li><li><a href="data/indian-stamp-act-1899.xml">indian-stamp-act-1899.xml</a> · The Indian Stamp Act, 1899</li></ul>
+<p>Not yet modelled in this prototype: the Constitution and legislative competence, Ordinances and their lapse,
+retrospective amendments, the Stamp Act's schedules of rates, and the later amendments to the 2021 IT Rules.</p>
+</div>
+</main>
+<footer class="foot">A prototype of Bharat Niti Lipi, an India profile of Akoma Ntoso. Texts from the eGazette of
+India and India Code. Not legal advice; the gazette is the authoritative text.</footer>
+<script src="law.js?v=20261029183748"></script>
+<script src="app.js?v=20261029183748"></script>
+</body>
+</html>

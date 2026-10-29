@@ -1,0 +1,2427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0" xmlns:h="http://www.w3.org/1999/xhtml">
+  <act name="gsr" contains="singleVersion">
+    <meta>
+      <identification source="#lex-kernel">
+        <FRBRWork>
+          <FRBRthis value="/akn/in/act/gsr/2025/846E/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+          <FRBRalias value="The Digital Personal Data Protection Rules, 2025" name="title" />
+          <FRBRdate date="2025-11-13" name="publication" />
+          <FRBRauthor href="#central-government" />
+          <FRBRcountry value="in" />
+          <FRBRsubtype value="gsr" />
+          <FRBRnumber value="846E" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+          <FRBRdate date="2025-12-10" name="version" />
+          <FRBRauthor href="#central-government" />
+          <FRBRlanguage language="eng" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+          <FRBRdate date="2026-10-29" name="transform" />
+          <FRBRauthor href="#lex-kernel" />
+        </FRBRManifestation>
+      </identification>
+      <publication date="2025-11-13" name="Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i)" showAs="CG-DL-E-14112025-267650" number="760" refersTo="#CG-DL-E-14112025-267650" />
+      <lifecycle source="#lex-kernel">
+        <eventRef eId="e_original" date="2025-11-13" source="#original" type="generation" />
+        <eventRef eId="e_corrigendum" date="2025-12-10" source="#gsr_892E" type="amendment" refersTo="#corrigendum" />
+        <eventRef eId="e_commence_1" date="2025-11-13" source="#rule_1_commencement" type="generation" refersTo="#commencement" />
+        <eventRef eId="e_commence_2" date="2026-11-13" source="#rule_1_commencement" type="generation" refersTo="#commencement" />
+        <eventRef eId="e_commence_3" date="2027-05-13" source="#rule_1_commencement" type="generation" refersTo="#commencement" />
+      </lifecycle>
+      <analysis source="#lex-kernel">
+        <passiveModifications>
+          <textualMod type="substitution" eId="cmod_1">
+            <source href="#gsr_892E" />
+            <destination href="#rule_1__subrule_3" />
+            <old>
+              <h:p>of this Gazette</h:p>
+            </old>
+            <new>
+              <h:p>in the Official Gazette</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="cmod_2">
+            <source href="#gsr_892E" />
+            <destination href="#rule_1__subrule_4" />
+            <old>
+              <h:p>of this Gazette</h:p>
+            </old>
+            <new>
+              <h:p>in the Official Gazette</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="cmod_3">
+            <source href="#gsr_892E" />
+            <destination href="#rule_13__subrule_5" />
+            <old>
+              <h:p>or Department of</h:p>
+            </old>
+            <new>
+              <h:p>or Departments of</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="cmod_4">
+            <source href="#gsr_892E" />
+            <destination href="#rule_23__subrule_1" />
+            <old>
+              <h:p>given in such.</h:p>
+            </old>
+            <new>
+              <h:p>given in such order.</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="cmod_5">
+            <source href="#gsr_892E" />
+            <destination href="#sched_1__part_B__para_11__cl_c" />
+            <old>
+              <h:p>everybody</h:p>
+            </old>
+            <new>
+              <h:p>every body</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="cmod_6">
+            <source href="#gsr_892E" />
+            <destination href="#sched_1__part_B__hcontainer_1__cl_d" />
+            <old>
+              <h:p>(18 or 2013)</h:p>
+            </old>
+            <new>
+              <h:p>(18 of 2013)</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="cmod_7">
+            <source href="#gsr_892E" />
+            <destination href="#sched_4__part_B__hcontainer_1__cl_a" />
+            <old>
+              <h:p>Act, 2019 (35 of 2019).</h:p>
+            </old>
+            <new>
+              <h:p>Act, 2019 (35 of 2019);</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="renumbering" eId="cmod_8">
+            <source href="#gsr_892E" />
+            <destination href="#sched_4__part_B__hcontainer_1" />
+            <old>
+              <h:p>(a), (a), (b), (c), (d), (e), (f)</h:p>
+            </old>
+            <new>
+              <h:p>(a), (b), (c), (d), (e), (f), (g)</h:p>
+            </new>
+          </textualMod>
+          <forceMod type="entryIntoForce" eId="fmod_1">
+            <source href="#rule_1_commencement" />
+            <destination href="#rule_1" />
+            <destination href="#rule_2" />
+            <destination href="#rule_17" />
+            <destination href="#rule_18" />
+            <destination href="#rule_19" />
+            <destination href="#rule_20" />
+            <destination href="#rule_21" />
+            <force period="#tg_1" />
+          </forceMod>
+          <forceMod type="entryIntoForce" eId="fmod_2">
+            <source href="#rule_1_commencement" />
+            <destination href="#rule_4" />
+            <force period="#tg_2" />
+          </forceMod>
+          <forceMod type="entryIntoForce" eId="fmod_3">
+            <source href="#rule_1_commencement" />
+            <destination href="#rule_3" />
+            <destination href="#rule_5" />
+            <destination href="#rule_6" />
+            <destination href="#rule_7" />
+            <destination href="#rule_8" />
+            <destination href="#rule_9" />
+            <destination href="#rule_10" />
+            <destination href="#rule_11" />
+            <destination href="#rule_12" />
+            <destination href="#rule_13" />
+            <destination href="#rule_14" />
+            <destination href="#rule_15" />
+            <destination href="#rule_16" />
+            <destination href="#rule_22" />
+            <destination href="#rule_23" />
+            <force period="#tg_3" />
+          </forceMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_1" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2" />
+            <destination href="/akn/in/act/gsr/2025/846E" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_3" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_a" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_b" />
+            <destination href="#rule_3" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_4" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_c" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_d" />
+            <destination href="#rule_4" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_5" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_e" />
+            <destination href="#rule_5" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_6" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_1" />
+            <destination href="#rule_6" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_7" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_f" />
+            <destination href="#rule_7" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_8" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_g" />
+            <destination href="#rule_8" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_9" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_h" />
+            <destination href="#rule_9" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_10" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_i" />
+            <destination href="#rule_10" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_11" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_i" />
+            <destination href="#rule_11" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_12" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_j" />
+            <destination href="#rule_12" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_13" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_k" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_l" />
+            <destination href="#rule_13" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_14" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_m" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_n" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_o" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_p" />
+            <destination href="#rule_14" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_15" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_1" />
+            <destination href="#rule_15" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_16" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_q" />
+            <destination href="#rule_16" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_17" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_r" />
+            <destination href="#rule_17" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_18" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_s" />
+            <destination href="#rule_18" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_19" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_t" />
+            <destination href="#rule_19" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_20" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_v" />
+            <destination href="#rule_20" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_21" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_u" />
+            <destination href="#rule_21" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_22" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_x" />
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_2__cl_y" />
+            <destination href="#rule_22" />
+          </legalSystemMod>
+          <legalSystemMod type="legislativeDelegation" eId="dlg_rule_23" bnl:basis="inferred">
+            <source href="/akn/in/act/2023/22/~sec_40__subsec_1" />
+            <destination href="#rule_23" />
+          </legalSystemMod>
+        </passiveModifications>
+      </analysis>
+      <temporalData source="#lex-kernel">
+        <temporalGroup eId="tg_1">
+          <timeInterval start="#e_commence_1" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_2">
+          <timeInterval start="#e_commence_2" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_3">
+          <timeInterval start="#e_commence_3" refersTo="#inForce" />
+        </temporalGroup>
+      </temporalData>
+      <references source="#lex-kernel">
+        <original eId="original" href="/akn/in/act/gsr/2025/846E/eng@2025-11-13" showAs="The Digital Personal Data Protection Rules, 2025" />
+        <TLCObject eId="CG-DL-E-14112025-267650" href="https://egazette.gov.in/WriteReadData/2025/267650.pdf" showAs="CG-DL-E-14112025-267650 (eGazette, digitally signed)" />
+        <passiveRef eId="gsr_892E" href="/akn/in/act/gsr/2025/892E" showAs="G.S.R. 892(E), 10 December 2025 (corrigendum)" />
+        <TLCReference eId="rule_1_commencement" href="/ontology/reference/in/self" showAs="rule 1(2)-(4), DPDP Rules 2025" name="commencementClause" />
+        <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
+        <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
+        <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
+        <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
+        <TLCEvent eId="corrigendum" href="/ontology/event/in/corrigendum" showAs="correction of a printing error, effective from the original date" />
+      </references>
+    </meta>
+    <preface>
+      <p class="authority">MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY</p>
+      <p class="docType">NOTIFICATION</p>
+      <p>
+        <docDate date="2025-11-13">New Delhi, the 13th November, 2025</docDate>
+      </p>
+    </preface>
+    <preamble>
+      <p>G.S.R. 846(E).––– Whereas draft of the Digital Personal Data Protection Rules, 2025 were published, as required under <ref href="/akn/in/act/2023/22/~sec_40__subsec_1">sub-section (1) of section 40</ref> of the of the Digital Personal Data Protection Act, 2023 (22 of 2023), vide notification of the Government of India in the Ministry of Electronics and Information Technology vide number G.S.R. 02 (E), dated the 3rd January, 2025, in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), dated the 3rd January, 2025, inviting objections and suggestions from all persons likely to be affected thereby, before the expiry of the period of forty-five days from the date on which copies of the Official Gazette containing the said notification were made available to public;</p>
+      <p>And whereas copies of the said Official Gazette were made available to the public on the 3rd January, 2025;</p>
+      <p>And whereas objections and suggestions were received from the public in respect of the said draft rules have been considered by the Central Government;</p>
+      <p>Now, therefore in exercise of powers conferred by sub-sections (1) and (2) of section 40 of the Digital Personal Data Protection Act, 2023 (22 of 2023), the Central Government hereby makes the following rules, namely: —</p>
+    </preamble>
+    <body>
+      <rule eId="rule_1" period="#tg_1">
+        <num>1.</num>
+        <heading>Short title and commencement</heading>
+        <subrule eId="rule_1__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>These rules may be called the Digital Personal Data Protection Rules, 2025.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Rules 1, 2 and 17 to 21 shall come into force on the date of their publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Rule 4 shall come into force one year after the date of publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_1__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>Rules 3, 5 to 16, 22 and 23 shall come into force eighteen months after the date of publication in the Official Gazette.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_2" period="#tg_1">
+        <num>2.</num>
+        <heading>Definitions</heading>
+        <subrule eId="rule_2__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>In these rules, unless the context otherwise requires, –</p>
+          </intro>
+          <clause eId="rule_2__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>“Act” means the Digital Personal Data Protection Act, 2023 (22 of 2023);</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>“techno-legal measures” means as referred to under rules <ref href="#rule_20">20</ref> and <ref href="#rule_22">22</ref>;</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>“user account” means the online account registered by the Data Principal with the Data Fiduciary, and includes any profiles, pages, handles, email address, mobile number and other similar presences by means of which such Data Principal is able to access the services of such Data Fiduciary; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_2__subrule_1__cl_d">
+            <num>(d)</num>
+            <content>
+              <p>“verifiable consent” means a consent as specified in rule <ref href="#rule_10">10</ref> or <ref href="#rule_11">11</ref>.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_2__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The words and expressions used in these rules and not defined, but defined in the Act, shall have the same meanings respectively assigned to them in the Act.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_3" period="#tg_3">
+        <num>3.</num>
+        <heading>Notice given by Data Fiduciary to Data Principal</heading>
+        <intro>
+          <p>The notice given by the Data Fiduciary to the Data Principal shall—</p>
+        </intro>
+        <clause eId="rule_3__cl_a">
+          <num>(a)</num>
+          <content>
+            <p>be presented and be understandable independently of any other information that has been, is or may be made available by such Data Fiduciary;</p>
+          </content>
+        </clause>
+        <clause eId="rule_3__cl_b">
+          <num>(b)</num>
+          <intro>
+            <p>give, in clear and plain language, a fair account of the details necessary to enable the Data Principal to give specific and informed consent for the processing of her personal data, which shall include, at the minimum, —</p>
+          </intro>
+          <subclause eId="rule_3__cl_b__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>an itemised description of such personal data; and</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_3__cl_b__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>the specified purpose or purposes of, and specific description of the goods or services to be provided or uses to be enabled by, such processing; and</p>
+            </content>
+          </subclause>
+        </clause>
+        <clause eId="rule_3__cl_c">
+          <num>(c)</num>
+          <intro>
+            <p>give, the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may—</p>
+          </intro>
+          <subclause eId="rule_3__cl_c__subcl_i">
+            <num>(i)</num>
+            <content>
+              <p>withdraw her consent, with the ease of doing so being comparable to that with which such consent was given;</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_3__cl_c__subcl_ii">
+            <num>(ii)</num>
+            <content>
+              <p>exercise her rights under the Act; and</p>
+            </content>
+          </subclause>
+          <subclause eId="rule_3__cl_c__subcl_iii">
+            <num>(iii)</num>
+            <content>
+              <p>make a complaint to the Board.</p>
+            </content>
+          </subclause>
+        </clause>
+      </rule>
+      <rule eId="rule_4" period="#tg_2">
+        <num>4.</num>
+        <heading>Registration and obligations of Consent Manager</heading>
+        <subrule eId="rule_4__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>A person who fulfils the conditions for registration of Consent Managers set out in <ref href="#sched_1__part_A">Part A of First Schedule</ref> may apply to the Board for registration as a Consent Manager by furnishing such particulars and such other information and documents as the Board may publish in this behalf on its website.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>On receipt of such application, the Board may make such inquiry as it may deem fit to satisfy itself regarding fulfilment of the conditions set out in <ref href="#sched_1__part_A">Part A of First Schedule</ref>, and if it—</p>
+          </intro>
+          <clause eId="rule_4__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>is satisfied, register the applicant as a Consent Manager, under intimation to the applicant, and publish on its website the particulars of such Consent Manager; or</p>
+            </content>
+          </clause>
+          <clause eId="rule_4__subrule_2__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>is not satisfied, reject the application and communicate the reasons for the rejection to the applicant.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_4__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The Consent Manager shall have obligations as specified in <ref href="#sched_1__part_B">Part B of First Schedule</ref>.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>If the Board is of the opinion that a Consent Manager is not adhering to the conditions and obligations under this rule,it may, after giving an opportunity of being heard, inform the Consent Manager of such non-adherence and direct the Consent Manager to take measures to ensure adherence.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_4__subrule_5">
+          <num>(5)</num>
+          <intro>
+            <p>The Board may, if it is satisfied that it is necessary so to do in the interests of Data Principals, after giving the Consent Manager an opportunity of being heard, by order, for reasons to be recorded in writing, —</p>
+          </intro>
+          <clause eId="rule_4__subrule_5__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>suspend or cancel the registration of such Consent Manager; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_4__subrule_5__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>give such directions as it may deem fit to that Consent Manager, to protect the interests of the Data Principals.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_4__subrule_6">
+          <num>(6)</num>
+          <content>
+            <p>The Board may, for the purposes of this rule, require the Consent Manager to furnish such information as the Board may call for.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_5" period="#tg_3">
+        <num>5.</num>
+        <heading>Processing of personal data for provision or issue of subsidy, benefit, service, certificate, licence or permit by State and its instrumentalities</heading>
+        <subrule eId="rule_5__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Processing the personal data of a Data Principal under this rule shall be done following the standards specified in <ref href="#sched_2">Second Schedule</ref>.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_5__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>In this rule and <ref href="#sched_2">the Second Schedule</ref>, the reference to any subsidy, benefit, service, certificate, licence or permit that is provided or issued—</p>
+          </intro>
+          <clause eId="rule_5__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>under law shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit in exercise of any power of or the performance of any function by the State or any of its instrumentalities under any law for the time being in force;</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_2__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>under policy shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit under any policy or instruction issued by the Central Government or a State Government in exercise of its executive power; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_5__subrule_2__cl_c">
+            <num>(c)</num>
+            <intro>
+              <p>using public funds shall be construed as a reference to provision or issuance of such subsidy, benefit, service, certificate, licence or permit by incurring expenditure on the same from, or with accrual of receipts to, —</p>
+            </intro>
+            <subclause eId="rule_5__subrule_2__cl_c__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>in case of the Central Government or a State Government, the Consolidated Fund of India or the Consolidated Fund of the State or the public account of India or the public account of the State; or</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_5__subrule_2__cl_c__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>in case of any local or other authority within the territory of India or under the control of the Government of India or of any State, the fund or funds of such authority.</p>
+              </content>
+            </subclause>
+          </clause>
+        </subrule>
+      </rule>
+      <rule eId="rule_6" period="#tg_3">
+        <num>6.</num>
+        <heading>Reasonable security safeguards</heading>
+        <subrule eId="rule_6__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>A Data Fiduciary shall protect personal data in its possession or under its control, including in respect of any processing undertaken by it or on its behalf by a Data Processor, by taking reasonable security safeguards to prevent personal data breach, which shall include, at the minimum, —</p>
+          </intro>
+          <clause eId="rule_6__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>appropriate data security measures, such as securing of personal data through encryption, obfuscation, masking or the use of virtual tokens mapped to that personal data;</p>
+            </content>
+          </clause>
+          <clause eId="rule_6__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>appropriate measures to control access to the computer resources used by such Data Fiduciary or such a Data Processor, wherever applicable;</p>
+            </content>
+          </clause>
+          <clause eId="rule_6__subrule_1__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>visibility on the accessing of such personal data, through appropriate logs, monitoring and review, for enabling detection of unauthorised access, its investigation and remediation to prevent recurrence;</p>
+            </content>
+          </clause>
+          <clause eId="rule_6__subrule_1__cl_d">
+            <num>(d)</num>
+            <content>
+              <p>reasonable measures for continued processing in the event of confidentiality, integrity or availability of such personal data being compromised as a result of destruction or loss of access to personal data or otherwise, such as by way of data-backups;</p>
+            </content>
+          </clause>
+          <clause eId="rule_6__subrule_1__cl_e">
+            <num>(e)</num>
+            <content>
+              <p>for enabling the detection of unauthorised access, its investigation, remediation to prevent recurrence and continued processing in the event of such a compromise, retain such logs and personal data for a period of one year, unless compliance with any law for the time being in force requires otherwise;</p>
+            </content>
+          </clause>
+          <clause eId="rule_6__subrule_1__cl_f">
+            <num>(f)</num>
+            <content>
+              <p>appropriate provision in the contract entered into between such Data Fiduciary and such a Data Processor, wherever applicable, for taking reasonable security safeguards; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_6__subrule_1__cl_g">
+            <num>(g)</num>
+            <content>
+              <p>appropriate technical and organisational measures to ensure effective observance of security safeguards.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_6__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>In this rule, the expression “computer resource” shall have the same meaning as is assigned to it in Information Technology Act, 2000 (21 of 2000).</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_7" period="#tg_3">
+        <num>7.</num>
+        <heading>Intimation of personal data breach</heading>
+        <subrule eId="rule_7__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>On becoming aware of any personal data breach, the Data Fiduciary shall, to the best of its knowledge, intimate to each affected Data Principal, in a concise, clear and plain manner and without delay, through her user account or any mode of communication registered by her with the Data Fiduciary, —</p>
+          </intro>
+          <clause eId="rule_7__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>a description of the breach, including its nature, extent and the timing of its occurrence;</p>
+            </content>
+          </clause>
+          <clause eId="rule_7__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>the consequences relevant to her, that are likely to arise from the breach;</p>
+            </content>
+          </clause>
+          <clause eId="rule_7__subrule_1__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>the measures implemented and being implemented by the Data Fiduciary, if any, to mitigate risk;</p>
+            </content>
+          </clause>
+          <clause eId="rule_7__subrule_1__cl_d">
+            <num>(d)</num>
+            <content>
+              <p>the safety measures that she may take to protect her interests; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_7__subrule_1__cl_e">
+            <num>(e)</num>
+            <content>
+              <p>business contact information of a person who is able to respond on behalf of the Data Fiduciary, to queries, if any, of the Data Principal.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_7__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>On becoming aware of any personal data breach, the Data Fiduciary shall intimate to the Board, —</p>
+          </intro>
+          <clause eId="rule_7__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>without delay, a description of the breach, including its nature, extent, timing and location of occurrence and the likely impact;</p>
+            </content>
+          </clause>
+          <clause eId="rule_7__subrule_2__cl_b">
+            <num>(b)</num>
+            <intro>
+              <p>within seventy-two hours of becoming aware of the breach, or within such longer period as the Board may allow on a request made in writing in this behalf, —</p>
+            </intro>
+            <subclause eId="rule_7__subrule_2__cl_b__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>updated and detailed information in respect of such description;</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_7__subrule_2__cl_b__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>the broad facts related to the events, circumstances and reasons leading to the breach;</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_7__subrule_2__cl_b__subcl_iii">
+              <num>(iii)</num>
+              <content>
+                <p>measures implemented or proposed, if any, to mitigate risk;</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_7__subrule_2__cl_b__subcl_iv">
+              <num>(iv)</num>
+              <content>
+                <p>any findings regarding the person who caused the breach;</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_7__subrule_2__cl_b__subcl_v">
+              <num>(v)</num>
+              <content>
+                <p>remedial measures taken to prevent recurrence of such breach; and</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_7__subrule_2__cl_b__subcl_vi">
+              <num>(vi)</num>
+              <content>
+                <p>a report regarding the intimations given to affected Data Principals.</p>
+              </content>
+            </subclause>
+          </clause>
+        </subrule>
+      </rule>
+      <rule eId="rule_8" period="#tg_3">
+        <num>8.</num>
+        <heading>Time period for specified purpose to be deemed as no longer being served</heading>
+        <subrule eId="rule_8__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>A Data Fiduciary, who is of such class and is processing personal data for such corresponding purposes as are specified in <ref href="#sched_3">Third Schedule</ref>, shall erase such personal data, unless its retention is necessary for compliance with any law for the time being in force, or, for the corresponding time period specified in <ref href="#sched_3">the Third Schedule</ref>, if the Data Principal neither approaches such Data Fiduciary for the performance of the specified purpose nor exercises her rights in relation to such processing.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>At least forty-eight hours before completion of the time period for erasure of personal data under this rule, the Data Fiduciary shall inform the Data Principal that such personal data shall be erased upon completion of such period, unless she logs into her user account or otherwise initiates contact with the Data Fiduciary for the performance of the specified purpose or exercises her rights in relation to the processing of such personal data.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_8__subrule_3">
+          <num>(3)</num>
+          <intro>
+            <p>Without prejudice to sub-rules <ref href="#rule_8__subrule_1">(1)</ref> and <ref href="#rule_8__subrule_2">(2)</ref>, a Data Fiduciary shall retain, in respect of any processing of personal data undertaken by it or on its behalf by a Data Processor, such personal data, associated traffic data and other logs of the processing for a minimum period of one year from the date of such processing, for the purposes as specified in <ref href="#sched_7">the Seventh Schedule</ref>, after which the Data Fiduciary shall cause such personal data and logs to be erased, unless further retention is required for compliance with any other law for the time being in force or notified by the Government.</p>
+          </intro>
+          <hcontainer eId="rule_8__subrule_3__hcontainer_1" name="illustration">
+            <heading>Illustration</heading>
+            <content>
+              <p>Case 1: X, a Data Principal purchases an e-book on an e-book platform Y. Once delivery is completed, the specified purpose of processing is served. The platform Y must retain the order details, personal data, and logs of the processing (such as order confirmation, payment, and delivery events) for at least one year from the date of the transaction, even if X deletes her account.</p>
+              <p>Case 2: X, a company engages a cloud service provider C as its Data Processor to host customer records. X as the Data Fiduciary, is required to ensure that the C also retains the data and associated logs for at least one year before erasure, unless any other applicable law requires a longer period.</p>
+            </content>
+          </hcontainer>
+        </subrule>
+      </rule>
+      <rule eId="rule_9" period="#tg_3">
+        <num>9.</num>
+        <heading>Contact information of person to answer questions about processing</heading>
+        <content>
+          <p>Every Data Fiduciary shall prominently publish on its website or app, and mention in every response to a communication for the exercise of the rights of a Data Principal under the Act, the business contact information of the Data Protection Officer, if applicable, or a person who is able to answer on behalf of the Data Fiduciary the questions of the Data Principal about the processing of her personal data.</p>
+        </content>
+      </rule>
+      <rule eId="rule_10" period="#tg_3">
+        <num>10.</num>
+        <heading>Verifiable consent for processing of personal data of child</heading>
+        <subrule eId="rule_10__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>A Data Fiduciary shall adopt appropriate technical and organisational measures to ensure that verifiable consent of the parent is obtained before the processing of any personal data of a child and shall observe due diligence, for checking that the individual identifying herself as the parent is an adult who is identifiable if required in connection with compliance with any law for the time being in force in India, by reference to—</p>
+          </intro>
+          <clause eId="rule_10__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>reliable details of identity and age of the individual available with the Data Fiduciary; or</p>
+            </content>
+          </clause>
+          <clause eId="rule_10__subrule_1__cl_b">
+            <num>(b)</num>
+            <intro>
+              <p>details of identity and age, voluntarily provided —</p>
+            </intro>
+            <subclause eId="rule_10__subrule_1__cl_b__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>by the individual; or</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_10__subrule_1__cl_b__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>through a virtual token mapped to such details, which is issued by an authorised entity.</p>
+              </content>
+            </subclause>
+          </clause>
+        </subrule>
+        <subrule eId="rule_10__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>In this rule, the expression—</p>
+          </intro>
+          <clause eId="rule_10__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>“adult” shall mean an individual who has completed the age of eighteen years;</p>
+            </content>
+          </clause>
+          <clause eId="rule_10__subrule_2__cl_b">
+            <num>(b)</num>
+            <intro>
+              <p>“authorised entity" shall mean —</p>
+            </intro>
+            <subclause eId="rule_10__subrule_2__cl_b__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>an entity entrusted by law or by the Central Government or by the State Government with the issuance of details of the identity and age or a virtual token mapped to such details; or</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_10__subrule_2__cl_b__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>a person appointed or permitted by the entity specified under <ref href="#rule_10__subrule_2__cl_b__subcl_i">clause (i)</ref>, for such issuance, and also includes details of identity and age or token made available and verified by a Digital Locker Service Provider;</p>
+              </content>
+            </subclause>
+          </clause>
+          <clause eId="rule_10__subrule_2__cl_c">
+            <num>(c)</num>
+            <intro>
+              <p>“Digital Locker service provider” shall mean such intermediary, including a body corporate or an agency of the appropriate Government, as may be notified by the Central Government, in accordance with the rules made in this regard under the Information Technology Act, 2000 (21 of 2000);</p>
+            </intro>
+            <hcontainer eId="rule_10__subrule_2__cl_c__hcontainer_1" name="illustration">
+              <heading>Illustration</heading>
+              <content>
+                <p>C is a child, P is a parent, and DF is a Data Fiduciary. A user account of C is sought to be created on the online platform of DF, by processing the personal data of C.</p>
+                <p>Case 1: C informs DF that she is a child and declares P as her parent. DF shall enable P to identify herself through its website, app or other appropriate means. P identifies herself as the parent and informs DF that she is a registered user on DF’s platform and has previously made available her identity and age details to DF. Before processing C’s personal data for the creation of her user account, DF shall check to confirm that it holds reliable identity and age details of P and that P is an identifiable adult.</p>
+                <p>Case 2: C informs DF that she is a child and declares P as her parent. DF shall enable P to identify herself through its website, app or other appropriate means. P identifies herself as the parent and informs DF that she herself is not a registered user on DF’s platform. Before processing C’s personal data for the creation of her user account, DF shall, by reference to identity and age details issued by an entity entrusted by law or the Government with maintenance of the said details or to a virtual token mapped to the identity and age, check that P is an identifiable adult. P may voluntarily make such details available using the services of a Digital Locker service provider.</p>
+                <p>Case 3: P is opening an account for C and identifies herself as C’s parent and informs DF that she is a registered user on DF’s platform and has previously made available her identity and age details to DF. Before processing C’s personal data for the creation of her user account, DF shall check to confirm that it holds reliable identity and age details of P and that P is an identifiable adult.</p>
+                <p>Case 4: P is opening an account for C and identifies herself as C’s parent and informs DF that she herself is not a registered user on DF’s platform. Before processing C’s personal data for the creation of her user account, DF shall, by reference to identity and age details issued by an entity entrusted by law or the Government with maintenance of the said details or to a virtual token mapped to the identity and age, check that P is an identifiable adult. P may voluntarily make such details available using the services of a Digital Locker service provider.</p>
+              </content>
+            </hcontainer>
+          </clause>
+        </subrule>
+      </rule>
+      <rule eId="rule_11" period="#tg_3">
+        <num>11.</num>
+        <heading>Verifiable consent for processing of personal data of person with disability who has lawful guardian</heading>
+        <subrule eId="rule_11__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>A Data Fiduciary, while obtaining verifiable consent from an individual identifying herself as the lawful guardian of a person with disability, shall observe due diligence to verify that such guardian is appointed by a court of law, or by a designated authority or by a local level committee, under the law applicable to guardianship.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_11__subrule_2">
+          <num>(2)</num>
+          <intro>
+            <p>In this rule, the expression—</p>
+          </intro>
+          <clause eId="rule_11__subrule_2__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>“designated authority” shall mean an authority designated under section 15 of the Rights of Persons with Disabilities Act, 2016 (49 of 2016) to support persons with disabilities in exercise of their legal capacity;</p>
+            </content>
+          </clause>
+          <clause eId="rule_11__subrule_2__cl_b">
+            <num>(b)</num>
+            <intro>
+              <p>“law applicable to guardianship” shall mean, —</p>
+            </intro>
+            <subclause eId="rule_11__subrule_2__cl_b__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>in relation to an individual who has long term physical, mental, intellectual or sensory impairment which, in interaction with barriers, hinders her full and effective participation in society equally with others and who despite being provided adequate and appropriate support is unable to take legally binding decisions, the provisions of law contained in Rights of Persons with Disabilities Act, 2016 (49 of 2016) and the rules made thereunder; and</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_11__subrule_2__cl_b__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>in relation to a person who is suffering from any of the conditions relating to autism, cerebral palsy, mental retardation or a combination of such conditions and includes a person suffering from severe multiple disability, the provisions of law of the National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999) and the rules made thereunder;</p>
+              </content>
+            </subclause>
+          </clause>
+          <clause eId="rule_11__subrule_2__cl_c">
+            <num>(c)</num>
+            <content>
+              <p>“local level committee” shall mean a local level committee constituted under section 13 of the National Trust for the Welfare of Persons with Autism, Cerebral Palsy, Mental Retardation and Multiple Disabilities Act, 1999 (44 of 1999);</p>
+            </content>
+          </clause>
+          <clause eId="rule_11__subrule_2__cl_d">
+            <num>(d)</num>
+            <intro>
+              <p>“person with disability” shall mean and include—</p>
+            </intro>
+            <subclause eId="rule_11__subrule_2__cl_d__subcl_i">
+              <num>(i)</num>
+              <content>
+                <p>an individual who has long term physical, mental, intellectual or sensory impairment which, in interaction with barriers, hinders her full and effective participation in society equally with others and who, despite being provided adequate and appropriate support, is unable to take legally binding decisions; and</p>
+              </content>
+            </subclause>
+            <subclause eId="rule_11__subrule_2__cl_d__subcl_ii">
+              <num>(ii)</num>
+              <content>
+                <p>an individual who is suffering from any of the conditions relating to autism, cerebral palsy, mental retardation or a combination of any two or more of such conditions and includes an individual suffering from severe multiple disability and who, despite being provided adequate and appropriate support, is unable to take legally binding decisions.</p>
+              </content>
+            </subclause>
+          </clause>
+        </subrule>
+      </rule>
+      <rule eId="rule_12" period="#tg_3">
+        <num>12.</num>
+        <heading>Exemptions from certain obligations applicable to processing of personal data of child</heading>
+        <subrule eId="rule_12__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The provisions of sub-sections <ref href="/akn/in/act/2023/22/~sec_9__subsec_1">(1)</ref> and <ref href="/akn/in/act/2023/22/~sec_9__subsec_3">(3)</ref> of section 9 of the Act shall not be applicable to processing of personal data of a child by such class of Data Fiduciaries as are specified in <ref href="#sched_4__part_A">Part A of Fourth Schedule</ref>, subject to such conditions as are specified in the said Part.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_12__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The provisions of sub-sections <ref href="/akn/in/act/2023/22/~sec_9__subsec_1">(1)</ref> and <ref href="/akn/in/act/2023/22/~sec_9__subsec_3">(3)</ref> of section 9 of the Act shall not be applicable to processing of personal data of a child for such purposes as are specified in <ref href="#sched_4__part_B">Part B of Fourth Schedule</ref>, subject to such conditions as are specified in the said Part.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_13" period="#tg_3">
+        <num>13.</num>
+        <heading>Additional obligations of Significant Data Fiduciary</heading>
+        <subrule eId="rule_13__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>A Significant Data Fiduciary shall, once in every period of twelve months from the date on which it is notified as such or is included in the class of Data Fiduciaries notified as such, undertake a Data Protection Impact Assessment and an audit to ensure effective observance of the provisions of this Act and the rules made thereunder.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>A Significant Data Fiduciary shall cause the person carrying out the Data Protection Impact Assessment and audit to furnish to the Board a report containing significant observations in the Data Protection Impact Assessment and audit.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>A Significant Data Fiduciary shall observe due diligence to verify that technical measures including algorithmic software adopted by it for hosting, display, uploading, modification, publishing, transmission, storage, updating or sharing of personal data processed by it are not likely to pose a risk to the rights of Data Principals.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>A Significant Data Fiduciary shall undertake measures to ensure that personal data specified by the Central Government, on the basis of the recommendations of a committee constituted by it, is processed subject to the restriction that the personal data and the traffic data pertaining to its flow is not transferred outside the territory of India.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_13__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>In this rule, “committee” means a committee constituted by the Central Government for the purpose of this rule, which shall include officials from the Ministry of Electronics and Technology and may include officials from other Ministries or Departments of the Central Government.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_14" period="#tg_3">
+        <num>14.</num>
+        <heading>Rights of Data Principals</heading>
+        <subrule eId="rule_14__subrule_1">
+          <num>(1)</num>
+          <intro>
+            <p>For enabling Data Principals to exercise their rights under the Act, the Data Fiduciary and, where applicable, the Consent Manager, shall prominently publish on its website or app, or both, as the case may be, —</p>
+          </intro>
+          <clause eId="rule_14__subrule_1__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>the details of the means using which a Data Principal may make a request for the exercise of such rights; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_14__subrule_1__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>the particulars, if any, such as the username or other identifier of such a Data Principal, which may be required to identify her under its terms of service.</p>
+            </content>
+          </clause>
+        </subrule>
+        <subrule eId="rule_14__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>To exercise the rights of the Data Principal under the Act, she may make a request to the Data Fiduciary to whom she has previously given consent for processing of her personal data, using the means and furnishing the particulars required by such Data Fiduciary for the exercise of such rights.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_14__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>Every Data Fiduciary and Consent Manager shall prominently publish on its website or app, or both, as the case may be, within a reasonable period not exceeding ninety days under its grievance redressal system for responding to the grievances of Data Principals and shall, for ensuring the effectiveness of the system in responding within such period, implement appropriate technical and organisational measures.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_14__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>To exercise the rights of the Data Principal under the Act, she may, in accordance with the terms of service of the Data Fiduciary and such law as may be applicable, nominate one or more individuals, using the means and furnishing the particulars required by such Data Fiduciary for the exercise of such right.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_14__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>In this rule, the expression “identifier” shall mean any sequence of characters issued by the Data Fiduciary to identify the Data Principal and includes a customer identification file number, customer acquisition form number, application reference number, enrolment ID, email address, mobile number or licence number that enables such identification.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_15" period="#tg_3">
+        <num>15.</num>
+        <heading>Transfer of personal data outside the territory of India</heading>
+        <content>
+          <p>Any personal data processed by a Data Fiduciary under the Act may be transferred outside the territory of India subject to the restriction that the Data Fiduciary shall meet such requirements as the Central Government may, by general or special order, specify in respect of making such personal data available to any foreign State, or to any person or entity under the control of or any agency of such a State.</p>
+        </content>
+      </rule>
+      <rule eId="rule_16" period="#tg_3">
+        <num>16.</num>
+        <heading>Exemption from Act for research, archiving or statistical purposes</heading>
+        <content>
+          <p>The provisions of the Act shall not apply to the processing of personal data necessary for research, archiving or statistical purposes if it is carried on in accordance with the standards specified in <ref href="#sched_2">Second Schedule</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_17" period="#tg_1">
+        <num>17.</num>
+        <heading>Appointment of Chairperson and other Members</heading>
+        <subrule eId="rule_17__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government shall constitute a Search-cum-Selection Committee, with the Cabinet Secretary as the chairperson and the Secretaries to the Government of India in charge of the Department of Legal Affairs and the Ministry of Electronics and Information Technology and two experts of repute having special knowledge or practical experience in a field which in the opinion of the Central Government may be useful to the Board as members, to recommend individuals for appointment as Chairperson.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_17__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The Central Government shall constitute a Search-cum-Selection Committee, with the Secretary to the Government of India in the Ministry of Electronics and Information Technology as the chairperson and the Secretary to the Government of India in charge of the Department of Legal Affairs, and two experts of repute having special knowledge or practical experience in a field which in the opinion of the Central Government may be useful to the Board as members, to recommend individuals for appointment as a Member other than the Chairperson.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_17__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>The Central Government shall, after considering the suitability of individuals recommended by the Search-cum-Selection Committee, appoint the Chairperson or other Member, as the case may be.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_17__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>No act or proceeding of the Search-cum-Selection Committee specified in sub-rules <ref href="#rule_17__subrule_1">(1)</ref> and <ref href="#rule_17__subrule_2">(2)</ref> of this rule shall be called in question on the ground merely of the existence of any vacancy or absences in such committee or defect in its constitution.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_18" period="#tg_1">
+        <num>18.</num>
+        <heading>Salary, allowances and other terms and conditions of service of Chairperson and other Members</heading>
+        <content>
+          <p>The Chairperson and every other Member shall receive such salary and allowances and shall have such other terms and conditions of service as are specified in <ref href="#sched_5">Fifth Schedule</ref>.</p>
+        </content>
+      </rule>
+      <rule eId="rule_19" period="#tg_1">
+        <num>19.</num>
+        <heading>Procedure for meetings of Board and authentication of its orders, directions and instruments</heading>
+        <subrule eId="rule_19__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The Chairperson shall fix the date, time and place of meetings of the Board, approve the items of agenda therefor, and cause notice specifying the same to be issued under her signature or that of such other individual as the Chairperson may authorise by general or special order in writing.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Meetings of the Board shall be chaired by the Chairperson and, in her absence, by such other Member as the Members present at the meeting may choose from amongst themselves.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>One-third of the membership of the Board shall be the quorum for its meetings.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_4">
+          <num>(4)</num>
+          <content>
+            <p>All questions which come up before any meeting of the Board shall be decided by a majority of the votes of Members present and voting, and, in the event of an equality of votes, the Chairperson, or in her absence, the person chairing, shall have a second or casting vote.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_5">
+          <num>(5)</num>
+          <content>
+            <p>If a Member has an interest in any item of business to be transacted at a meeting of the Board, she shall not participate in or vote on the same and, in such a case, the decision on such item shall be taken by a majority of the votes of other Members present and voting.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_6">
+          <num>(6)</num>
+          <content>
+            <p>In case an emergent situation warrants immediate action by the Board and it is not feasible to call a meeting of the Board, the Chairperson may, while recording the reasons in writing, take such action as may be necessary, which shall be communicated within seven days to all Members and laid before the Board for ratification at its next meeting.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_7">
+          <num>(7)</num>
+          <content>
+            <p>If the Chairperson so directs, an item of business or issue which requires decision of the Board may be referred to Members by circulation and such item may be decided with the approval of majority of the Members.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_8">
+          <num>(8)</num>
+          <content>
+            <p>The Chairperson or any Member of the Board, or any individual authorised by it,by a general or special order in writing, may, under her signature, authenticate its order, direction or instrument.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_19__subrule_9">
+          <num>(9)</num>
+          <content>
+            <p>The inquiry by the Board shall be completed within a period of six months from the date of receipt of the intimation, complaint, reference or direction under <ref href="/akn/in/act/2023/22/~sec_27">section 27 of the Act</ref>, unless such period is extended by it, for reasons to be recorded in writing, for a further period not exceeding three months at a time.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_20" period="#tg_1">
+        <num>20.</num>
+        <heading>Functioning of Board as digital office</heading>
+        <content>
+          <p>The Board shall function as a digital office, without prejudice to its power to summon and enforce the attendance of any person and examine her on oath, may adopt techno-legal measures to conduct proceedings in a manner that does not require physical presence of any individual.</p>
+        </content>
+      </rule>
+      <rule eId="rule_21" period="#tg_1">
+        <num>21.</num>
+        <heading>Terms and conditions of appointment and service of officers and employees of Board</heading>
+        <subrule eId="rule_21__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The Board may, with previous approval of the Central Government, appoint such officers and employees as it may deem necessary for the efficient discharge of its functions under the provisions of the Act.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_21__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>The terms and conditions of service of officers and employees of the Board shall be such as are specified in <ref href="#sched_6">Sixth Schedule</ref>.</p>
+          </content>
+        </subrule>
+      </rule>
+      <rule eId="rule_22" period="#tg_3">
+        <num>22.</num>
+        <heading>Appeal to Appellate Tribunal</heading>
+        <subrule eId="rule_22__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>Any person aggrieved by an order or direction of the Board, may prefer an appeal before the Appellate Tribunal, it shall be filed in digital form as the Appellate Tribunal may decide.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_22__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>An appeal filed with the Appellate Tribunal shall be accompanied by fee of like amount as is applicable in respect of an appeal filed under the Telecom Regulatory Authority of India Act, 1997 (24 of 1997), unless reduced or waived by the Chairperson of the Appellate Tribunal at her discretion, and the same shall be payable digitally using the Unified Payments Interface or such other payment system authorised by the Reserve Bank of India.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_22__subrule_3">
+          <num>(3)</num>
+          <intro>
+            <p>The Appellate Tribunal—</p>
+          </intro>
+          <clause eId="rule_22__subrule_3__cl_a">
+            <num>(a)</num>
+            <content>
+              <p>shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the provisions of the Act, may regulate its own procedure; and</p>
+            </content>
+          </clause>
+          <clause eId="rule_22__subrule_3__cl_b">
+            <num>(b)</num>
+            <content>
+              <p>shall function as a digital office which, without prejudice to its power to summon and enforce the attendance of any person and examine her on oath, may adopt techno-legal measures to conduct proceedings in a manner that does not require physical presence of any individual.</p>
+            </content>
+          </clause>
+        </subrule>
+      </rule>
+      <rule eId="rule_23" period="#tg_3">
+        <num>23.</num>
+        <heading>Calling for information from Data Fiduciary or intermediary</heading>
+        <subrule eId="rule_23__subrule_1">
+          <num>(1)</num>
+          <content>
+            <p>The Central Government may, for such purposes of the Act as are specified in <ref href="#sched_7">Seventh Schedule</ref>, acting through the corresponding authorised person specified in the said Schedule, require any Data Fiduciary or intermediary to furnish such information as may be called for, within the specified period as may be given in such order.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_23__subrule_2">
+          <num>(2)</num>
+          <content>
+            <p>Where the disclosure of furnishing of information as referred to in <ref href="#rule_23__subrule_1">sub-rule (1)</ref> is likely to prejudicially affect the sovereignty and integrity of India or security of the State, the Central Government may require the Data Fiduciary or intermediary to not disclose such furnishing to affected Data Principal or any other person except with the previous permission, in writing, of the authorised person.</p>
+          </content>
+        </subrule>
+        <subrule eId="rule_23__subrule_3">
+          <num>(3)</num>
+          <content>
+            <p>For the purposes of this rule, the expression “intermediary” shall have the same meaning as assigned to it in the Information Technology Act, 2000 (21 of 2000).</p>
+          </content>
+        </subrule>
+      </rule>
+    </body>
+    <conclusions>
+      <p>[F. No. AA-11038/1/2025-CLandES]</p>
+      <p>AJIT KUMAR, Jt. Secy.</p>
+    </conclusions>
+    <attachments>
+      <attachment eId="sched_1">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/!schedule_1" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+                <FRBRalias value="The Digital Personal Data Protection Rules, 2025: FIRST SCHEDULE" name="title" />
+                <FRBRdate date="2025-11-13" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="846E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_1" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+                <FRBRdate date="2025-12-10" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_1.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">FIRST SCHEDULE</p>
+            <p class="reference">[See rule 4]</p>
+          </preface>
+          <mainBody>
+            <part eId="sched_1__part_A">
+              <num>PART A</num>
+              <heading>Conditions for registration of Consent Manager</heading>
+              <paragraph eId="sched_1__part_A__para_1">
+                <num>1.</num>
+                <content>
+                  <p>The applicant is a company incorporated in India.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_2">
+                <num>2.</num>
+                <content>
+                  <p>The applicant has sufficient capacity, including technical, operational and financial capacity, to fulfil its obligations as a Consent Manager.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_3">
+                <num>3.</num>
+                <content>
+                  <p>The financial condition and the general character of management of the applicant are sound.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_4">
+                <num>4.</num>
+                <content>
+                  <p>The net worth of the applicant is not less than two crore rupees.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_5">
+                <num>5.</num>
+                <content>
+                  <p>The volume of business likely to be available to and the capital structure and earning prospects of the applicant are adequate.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_6">
+                <num>6.</num>
+                <content>
+                  <p>The directors, key managerial personnel and senior management of the applicant company are individuals with a general reputation and record of fairness and integrity.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_7">
+                <num>7.</num>
+                <content>
+                  <p>The memorandum of association and articles of association of the applicant company contain provisions requiring that the obligations under items 9 and 10 of Part B are adhered to, that policies and procedures are in place to ensure such adherence, and that such provisions may be amended only with the previous approval of the Board.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_8">
+                <num>8.</num>
+                <content>
+                  <p>The operations proposed to be undertaken by the applicant are in the interests of Data Principals.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_A__para_9">
+                <num>9.</num>
+                <intro>
+                  <p>It is independently certified that—</p>
+                </intro>
+                <clause eId="sched_1__part_A__para_9__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>the interoperable platform of the applicant to enable the Data Principal to give, manage, review and withdraw her consent is consistent with such data protection standards and assurance framework as may be published by the Board on its website from time to time; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_A__para_9__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>appropriate technical and organisational measures are in place to ensure adherence to such standards and framework and effective observance of the obligations under item 11 of Part B.</p>
+                  </content>
+                </clause>
+              </paragraph>
+            </part>
+            <part eId="sched_1__part_B">
+              <num>PART B</num>
+              <heading>Obligations of Consent Manager</heading>
+              <paragraph eId="sched_1__part_B__para_1">
+                <num>1.</num>
+                <intro>
+                  <p>The Consent Manager shall enable a Data Principal using its platform to give consent to the processing of her personal data by a Data Fiduciary onboarded onto such platform either directly to such Data Fiduciary or through another Data Fiduciary onboarded onto such platform, who maintains such personal data with the consent of that Data Principal.</p>
+                </intro>
+                <hcontainer eId="sched_1__part_B__para_1__hcontainer_1" name="illustration">
+                  <heading>Illustration</heading>
+                  <content>
+                    <p>Individuals are enabled to give, manage, review and withdraw their consent to the processing of their personal data through P, a platform maintained by a Consent Manager. X, an individual, is a registered user on P. B1 and B2 are banks onboarded onto P.</p>
+                    <p>Case 1:B1 sends a request on P to X for consent to process personal data contained in her bank account statement. X maintains the bank account statement as a digital record in her digital locker. X uses P to directly give her consent to B1, and proceeds to give B1 access to her bank account statement.</p>
+                    <p>Case 2:B1 sends a request on P to X for consent to process personal data contained in her bank account statement. X maintains her bank account with B2. X uses P to route her consent through B2 to B1, while also digitally instructing B2 to send her bank account statement to B1. B2 proceeds to send the bank account statement to B1.</p>
+                  </content>
+                </hcontainer>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_2">
+                <num>2.</num>
+                <content>
+                  <p>The Consent Manager shall ensure that the manner of making available the personal data or its sharing is such that the contents thereof are not readable by it.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_3">
+                <num>3.</num>
+                <intro>
+                  <p>The Consent Manager shall maintain on its platform a record of the following, namely:—</p>
+                </intro>
+                <clause eId="sched_1__part_B__para_3__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>Consents given, denied or withdrawn by her;</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_3__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>Notices preceding or accompanying requests for consent; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_3__cl_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>Sharing of her personal data with a transferee Data Fiduciary.</p>
+                  </content>
+                </clause>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_4">
+                <num>4.</num>
+                <intro>
+                  <p>The Consent Manager: —</p>
+                </intro>
+                <clause eId="sched_1__part_B__para_4__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>shall give the Data Principal using such platform access to such record;</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_4__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>shall, on the request of the Data Principal and in accordance with its terms of service, make available to her the information contained in such record, in machine-readable form; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_4__cl_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>shall maintain such record for at least seven years, or for such longer period as the Data Principal and Consent Manager may agree upon or as may be required by law.</p>
+                  </content>
+                </clause>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_5">
+                <num>5.</num>
+                <content>
+                  <p>The Consent Manager shall develop and maintain a website or app, or both, as the primary means through which a Data Principal may access the services provided by the Consent Manager.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_6">
+                <num>6.</num>
+                <content>
+                  <p>The Consent Manager shall not sub-contract or assign the performance of any of its obligations under the Act and these rules.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_7">
+                <num>7.</num>
+                <content>
+                  <p>The Consent Manager shall take reasonable security safeguards to prevent personal data breach.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_8">
+                <num>8.</num>
+                <content>
+                  <p>The Consent Manager shall act in a fiduciary capacity in relation to the Data Principal.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_9">
+                <num>9.</num>
+                <content>
+                  <p>The Consent Manager shall avoid conflict of interest with Data Fiduciaries, including in respect of their promoters and key managerial personnel.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_10">
+                <num>10.</num>
+                <content>
+                  <p>The Consent Manager shall have in place measures to ensure that no conflict of interest arises on account of its directors, key managerial personnel and senior management holding a directorship, financial interest, employment or beneficial ownership in Data Fiduciaries, or having a material pecuniary relationship with them.</p>
+                </content>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_11">
+                <num>11.</num>
+                <intro>
+                  <p>The Consent Manager shall publish in an easily accessible manner, on its website or app, or both, as the case may be, information regarding: —</p>
+                </intro>
+                <clause eId="sched_1__part_B__para_11__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>the promoters, directors, key managerial personnel and senior management of the company registered as Consent Manager;</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_11__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>every person who holds shares in excess of two per cent. of the shareholding of the company registered as Consent Manager;</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_11__cl_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>every body corporate in whose shareholding any promoter, director, key managerial personnel or senior management of the Consent Manager holds shares in excess of two per cent. as on the first day of the preceding calendar month; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_11__cl_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>such other information as the Board may direct the Consent Manager to disclose in the interests of transparency.</p>
+                  </content>
+                </clause>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_12">
+                <num>12.</num>
+                <intro>
+                  <p>The Consent Manager shall have in place effective audit mechanisms to review, monitor, evaluate and report the outcome of such audit to the Board, periodically and on such other occasions as the Board may direct, in respect of—</p>
+                </intro>
+                <clause eId="sched_1__part_B__para_12__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>technical and organisational controls, systems, procedures and safeguards;</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_12__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>continued fulfilment of the conditions of registration; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__para_12__cl_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>adherence to its obligations under the Act and these rules.</p>
+                  </content>
+                </clause>
+              </paragraph>
+              <paragraph eId="sched_1__part_B__para_13">
+                <num>13.</num>
+                <content>
+                  <p>The control of the company registered as the Consent Manager shall not be transferred by way of sale, merger or otherwise, except with the previous approval of the Board and subject to fulfilment of such conditions as the Board may specify in this behalf.</p>
+                </content>
+              </paragraph>
+              <hcontainer eId="sched_1__part_B__hcontainer_1" name="note">
+                <num>Note:</num>
+                <intro>
+                  <p>In this Schedule, —</p>
+                </intro>
+                <clause eId="sched_1__part_B__hcontainer_1__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>the expression “body corporate” shall include a company, a body corporate as defined under clause (11) of section 2 of the Companies Act, 2013 (18 of 2013), a firm, a financial institution, a scheduled bank or a public sector enterprise established or constituted by or under any Central Act, Provincial Act or State Act, and any other incorporated association of persons or body of individuals;</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__hcontainer_1__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>the expressions “company”, “control”, “director” and “key managerial personnel” shall have the same meanings as are respectively assigned to them in the Companies Act, 2013 (18 of 2013);</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__hcontainer_1__cl_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>the expression “net worth” shall mean the aggregate value of total assets as reduced by the value of liabilities of the Consent Manager as appearing in its books of accounts; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_1__part_B__hcontainer_1__cl_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>the expressions “promoter” and “senior management” shall have the same meanings as are respectively assigned to them in the Companies Act, 2013 (18 of 2013).</p>
+                  </content>
+                </clause>
+              </hcontainer>
+            </part>
+          </mainBody>
+        </doc>
+      </attachment>
+      <attachment eId="sched_2">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/!schedule_2" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+                <FRBRalias value="The Digital Personal Data Protection Rules, 2025: SECOND SCHEDULE" name="title" />
+                <FRBRdate date="2025-11-13" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="846E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_2" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+                <FRBRdate date="2025-12-10" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_2.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">SECOND SCHEDULE</p>
+            <p class="reference">[See rules 5(1) and 16]</p>
+            <p class="heading">Standards for processing of personal data by State and its instrumentalities under clause (b) of section 7 and for processing of personal data necessary for the purposes specified in clause (b) of sub- section (2) of section 17</p>
+          </preface>
+          <mainBody>
+            <hcontainer name="intro" eId="sched_2__intro">
+              <content>
+                <p>Implementation of appropriate technical and organisational measures to ensure effective observance of the following, in accordance with applicable law, for the processing of personal data, namely: —</p>
+              </content>
+            </hcontainer>
+            <clause eId="sched_2__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>Processing is carried out in a lawful manner;</p>
+              </content>
+            </clause>
+            <clause eId="sched_2__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>Processing is done for the uses specified in <ref href="/akn/in/act/2023/22/~sec_7__cl_b">clause (b) of section 7 of the Act</ref> or for the purposes specified in <ref href="/akn/in/act/2023/22/~sec_17__subsec_2__cl_b">clause (b) of sub-section (2) of section 17 of the Act</ref>, as the case may be;</p>
+              </content>
+            </clause>
+            <clause eId="sched_2__cl_c">
+              <num>(c)</num>
+              <content>
+                <p>Processing is limited to such personal data as is necessary for such uses or achieving such purposes, as the case may be;</p>
+              </content>
+            </clause>
+            <clause eId="sched_2__cl_d">
+              <num>(d)</num>
+              <content>
+                <p>Processing is done while making reasonable efforts to ensure the completeness, accuracy and consistency of personal data;</p>
+              </content>
+            </clause>
+            <clause eId="sched_2__cl_e">
+              <num>(e)</num>
+              <content>
+                <p>Personal data is retained till required for such uses or achieving such purposes, as the case may be, or for compliance with any law for the time being in force;</p>
+              </content>
+            </clause>
+            <clause eId="sched_2__cl_f">
+              <num>(f)</num>
+              <content>
+                <p>Reasonable security safeguards to prevent personal data breach to protect personal data in the possession or under control of the Data Fiduciary, including in respect of any processing undertaken by it or on its behalf by a Data Processor;</p>
+              </content>
+            </clause>
+            <clause eId="sched_2__cl_g">
+              <num>(g)</num>
+              <intro>
+                <p>Where processing is to be done under <ref href="/akn/in/act/2023/22/~sec_7__cl_b">clause (b) of section 7 of the Act</ref>, the same is undertaken while giving the Data Principal an intimation in respect of the same and—</p>
+              </intro>
+              <subclause eId="sched_2__cl_g__subcl_i">
+                <num>(i)</num>
+                <content>
+                  <p>giving the business contact information of a person who is able to answer on behalf of the Data Fiduciary the questions of the Data Principal about the processing of her personal data;</p>
+                </content>
+              </subclause>
+              <subclause eId="sched_2__cl_g__subcl_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>specifying the particular communication link for accessing the website or app, or both, of such Data Fiduciary, and a description of other means, if any, using which such Data Principal may exercise her rights under the Act; and</p>
+                </content>
+              </subclause>
+              <subclause eId="sched_2__cl_g__subcl_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>is carried on in a manner consistent with such other standards as may be applicable to the processing of such personal data under policy issued by the Central Government or any law for the time being in force; and</p>
+                </content>
+              </subclause>
+            </clause>
+            <clause eId="sched_2__cl_h">
+              <num>(h)</num>
+              <content>
+                <p>Accountability of the person who alone or in conjunction with other persons determines the purpose and means of processing of personal data, for effective observance of these standards.</p>
+              </content>
+            </clause>
+          </mainBody>
+        </doc>
+      </attachment>
+      <attachment eId="sched_3">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/!schedule_3" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+                <FRBRalias value="The Digital Personal Data Protection Rules, 2025: THIRD SCHEDULE" name="title" />
+                <FRBRdate date="2025-11-13" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="846E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_3" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+                <FRBRdate date="2025-12-10" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_3.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">THIRD SCHEDULE</p>
+            <p class="reference">[See rule 8(1)]</p>
+          </preface>
+          <mainBody>
+            <hcontainer name="table" eId="sched_3__table_1">
+              <content>
+                <table eId="sched_3__table_1__table_1">
+                  <tr>
+                    <th>
+                      <p>S. no.</p>
+                    </th>
+                    <th>
+                      <p>Class of Data Fiduciaries</p>
+                    </th>
+                    <th>
+                      <p>Purposes</p>
+                    </th>
+                    <th>
+                      <p>Time period</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th>
+                      <p>(1)</p>
+                    </th>
+                    <th>
+                      <p>(2)</p>
+                    </th>
+                    <th>
+                      <p>(3)</p>
+                    </th>
+                    <th>
+                      <p>(4)</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>1.</p>
+                    </td>
+                    <td>
+                      <p>Data Fiduciary who is an e-commerce entity having not less than two crore registered users in India.</p>
+                    </td>
+                    <td>
+                      <p>For all purposes, except for the following:</p>
+                      <p>(a) Enabling the Data Principal to access her user account; and</p>
+                      <p>(b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services.</p>
+                    </td>
+                    <td>
+                      <p>Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>2.</p>
+                    </td>
+                    <td>
+                      <p>Data Fiduciary who is an online gaming intermediary having not less than fifty lakh registered users in India.</p>
+                    </td>
+                    <td>
+                      <p>For all purposes, except for the following:</p>
+                      <p>(a) Enabling the Data Principal to access her user account; and</p>
+                      <p>(b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services.</p>
+                    </td>
+                    <td>
+                      <p>Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>3.</p>
+                    </td>
+                    <td>
+                      <p>Data Fiduciary who is a social media intermediary having not less than two crore registered users in India.</p>
+                    </td>
+                    <td>
+                      <p>For all purposes, except for the following:</p>
+                      <p>(a) Enabling the Data Principal to access her user account; and</p>
+                      <p>(b) Enabling the Data Principal to access any virtual token that is issued by or on behalf of the Data Fiduciary, is stored on the digital facility or platform of such Data Fiduciary, and may be used to get money, goods or services.</p>
+                    </td>
+                    <td>
+                      <p>Three years from the date on which the Data Principal last approached the Data Fiduciary for the performance of the specified purpose or exercise of her rights, or the commencement of the Digital Personal Data Protection Rules, 2025, whichever is latest.</p>
+                    </td>
+                  </tr>
+                </table>
+              </content>
+            </hcontainer>
+            <hcontainer eId="sched_3__hcontainer_1" name="note">
+              <num>Note:</num>
+              <intro>
+                <p>In this Schedule, —</p>
+              </intro>
+              <clause eId="sched_3__hcontainer_1__cl_a">
+                <num>(a)</num>
+                <content>
+                  <p>“e-commerce entity” means any person who owns, operates or manages a digital facility or platform for e-commerce as defined in the Consumer Protection Act, 2019 (35 of 2019), but does not include a seller offering her goods or services for sale on a marketplace e-commerce entity as defined in the said Act;</p>
+                </content>
+              </clause>
+              <clause eId="sched_3__hcontainer_1__cl_b">
+                <num>(b)</num>
+                <content>
+                  <p>“online gaming intermediary” means any intermediary who enables the users of its computer resource to access one or more online games;</p>
+                </content>
+              </clause>
+              <clause eId="sched_3__hcontainer_1__cl_c">
+                <num>(c)</num>
+                <content>
+                  <p>“social media intermediary” means an intermediary as defined in clause (w) of sub-rule (1) of rule 2 of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021; and</p>
+                </content>
+              </clause>
+              <clause eId="sched_3__hcontainer_1__cl_d">
+                <num>(d)</num>
+                <intro>
+                  <p>“user”, in relation to—</p>
+                </intro>
+                <subclause eId="sched_3__hcontainer_1__cl_d__subcl_i">
+                  <num>(i)</num>
+                  <content>
+                    <p>an e-commerce entity, means any person who accesses or avails any computer resource of an e-commerce entity; and</p>
+                  </content>
+                </subclause>
+                <subclause eId="sched_3__hcontainer_1__cl_d__subcl_ii">
+                  <num>(ii)</num>
+                  <content>
+                    <p>an online gaming intermediary or a social media intermediary, means any person who accesses or avails of any computer resource of an intermediary for the purpose of hosting, publishing, sharing, transacting, viewing, displaying, downloading or uploading information.</p>
+                  </content>
+                </subclause>
+              </clause>
+            </hcontainer>
+          </mainBody>
+        </doc>
+      </attachment>
+      <attachment eId="sched_4">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/!schedule_4" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+                <FRBRalias value="The Digital Personal Data Protection Rules, 2025: FOURTH SCHEDULE" name="title" />
+                <FRBRdate date="2025-11-13" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="846E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_4" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+                <FRBRdate date="2025-12-10" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_4.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">FOURTH SCHEDULE</p>
+            <p class="reference">[See rule 12]</p>
+          </preface>
+          <mainBody>
+            <part eId="sched_4__part_A">
+              <num>PART A</num>
+              <heading>Classes of Data Fiduciaries in respect of whom provisions of sub-sections <ref href="/akn/in/act/2023/22/~sec_9__subsec_1">(1)</ref> and <ref href="/akn/in/act/2023/22/~sec_9__subsec_3">(3)</ref> of section 9 shall not apply</heading>
+              <hcontainer name="table" eId="sched_4__part_A__table_1">
+                <content>
+                  <table eId="sched_4__part_A__table_1__table_1">
+                    <tr>
+                      <th>
+                        <p>S. No.</p>
+                      </th>
+                      <th>
+                        <p>Class of Data Fiduciaries</p>
+                      </th>
+                      <th>
+                        <p>Conditions</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th>
+                        <p>(1)</p>
+                      </th>
+                      <th>
+                        <p>(2)</p>
+                      </th>
+                      <th>
+                        <p>(3)</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>1.</p>
+                      </td>
+                      <td>
+                        <p>A Data Fiduciary who is a clinical establishment, mental health establishment or healthcare professional.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to provision of health services to the child by such establishment or professional, to the extent necessary for the protection of her health.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>2.</p>
+                      </td>
+                      <td>
+                        <p>A Data Fiduciary who is an allied healthcare professional.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to supporting implementation of any healthcare treatment and referral plan recommended by such professional for the child, to the extent necessary for the protection of her health.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>3.</p>
+                      </td>
+                      <td>
+                        <p>A Data Fiduciary who is an educational institution.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to tracking and behavioural monitoring—</p>
+                        <p>(a) for the educational activities of such institution; or</p>
+                        <p>(b) in the interests of safety of children enrolled with such institution.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>4.</p>
+                      </td>
+                      <td>
+                        <p>A Data Fiduciary who is an individual in whose care infants and children in a crèche or child day care centre are entrusted.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to tracking and behavioural monitoring in the interests of safety of children entrusted in the care of such institution, crèche or centre.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>5.</p>
+                      </td>
+                      <td>
+                        <p>A Data Fiduciary who is engaged by an educational institution, crèche or child care centre for transport of children enrolled with such institution, crèche or centre.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to tracking the location of such children, in the interests of their safety, during the course of their travel to and from such institution, crèche or centre.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </content>
+              </hcontainer>
+            </part>
+            <part eId="sched_4__part_B">
+              <num>PART B</num>
+              <heading>Purposes for which provisions of sub-sections <ref href="/akn/in/act/2023/22/~sec_9__subsec_1">(1)</ref> and <ref href="/akn/in/act/2023/22/~sec_9__subsec_3">(3)</ref> of section 9 shall not apply</heading>
+              <hcontainer name="table" eId="sched_4__part_B__table_1">
+                <content>
+                  <table eId="sched_4__part_B__table_1__table_1">
+                    <tr>
+                      <th>
+                        <p>S. No.</p>
+                      </th>
+                      <th>
+                        <p>Purposes</p>
+                      </th>
+                      <th>
+                        <p>Conditions</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <th>
+                        <p>(1)</p>
+                      </th>
+                      <th>
+                        <p>(2)</p>
+                      </th>
+                      <th>
+                        <p>(3)</p>
+                      </th>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>1.</p>
+                      </td>
+                      <td>
+                        <p>For the exercise of any power, performance of any function or discharge of any duties in the interests of a child, under any law for the time being in force in India.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to the extent necessary for such exercise, performance or discharge.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>2.</p>
+                      </td>
+                      <td>
+                        <p>For providing or issuing of any subsidy, benefit, service, certificate, licence or permit, by whatever name called, under law or policy or using public funds, in the interests of a child, under <ref href="/akn/in/act/2023/22/~sec_7__cl_b">clause (b) of section 7 of the Act</ref>.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to the extent necessary for such provision or issuance.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>3.</p>
+                      </td>
+                      <td>
+                        <p>For the creation of a user account for communicating by email.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to the extent necessary for creating such user account, the use of which is limited to communication by email.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>4.</p>
+                      </td>
+                      <td>
+                        <p>For the determination of real-time location of a child.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to the tracking of real-time location of such child, in the interest of her safety and protection or security.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>5.</p>
+                      </td>
+                      <td>
+                        <p>For ensuring that any information, service or advertisement likely to cause any detrimental effect on the well-being of a child is not accessible to her.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to the extent necessary to ensure that such information, service or advertisement is not accessible to the child.</p>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <p>6.</p>
+                      </td>
+                      <td>
+                        <p>For confirmation by the Data Fiduciary that the Data Principal is not a child and observance of due diligence under <ref href="#rule_10">rule 10</ref>.</p>
+                      </td>
+                      <td>
+                        <p>Processing is restricted to the extent necessary for such confirmation or observance.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </content>
+              </hcontainer>
+              <hcontainer eId="sched_4__part_B__hcontainer_1" name="note">
+                <num>Note:</num>
+                <intro>
+                  <p>In this Schedule, —</p>
+                </intro>
+                <clause eId="sched_4__part_B__hcontainer_1__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>“advertisement” shall have the same meaning as is assigned to it in the Consumer Protection Act, 2019 (35 of 2019);</p>
+                  </content>
+                </clause>
+                <clause eId="sched_4__part_B__hcontainer_1__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>“allied healthcare professional” shall have the same meaning as is assigned to it in the clause (d) of section 2 of the National Commission for Allied and Healthcare Professions Act, 2021 (14 of 2021);</p>
+                  </content>
+                </clause>
+                <clause eId="sched_4__part_B__hcontainer_1__cl_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>“clinical establishment” shall have the same meaning as assigned to it in the clause (c) of section 2 of the Clinical Establishments (Registration and Regulation) Act, 2010 (23 of 2010);</p>
+                  </content>
+                </clause>
+                <clause eId="sched_4__part_B__hcontainer_1__cl_d">
+                  <num>(d)</num>
+                  <content>
+                    <p>“educational institution” shall mean and include an institution of learning that imparts education, including vocational education;</p>
+                  </content>
+                </clause>
+                <clause eId="sched_4__part_B__hcontainer_1__cl_e">
+                  <num>(e)</num>
+                  <content>
+                    <p>“healthcare professional” shall have the same meaning as is assigned to it in clause (j) of section 2 of the National Commission for Allied and Healthcare Professions Act, 2021 (14 of 2021);</p>
+                  </content>
+                </clause>
+                <clause eId="sched_4__part_B__hcontainer_1__cl_f">
+                  <num>(f)</num>
+                  <content>
+                    <p>“health services” shall mean the services required to be provided by a healthcare professional as referred to in clause (j) of section 2 of the National Commission for Allied and Healthcare Professions Act, 2021 (14 of 2021); and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_4__part_B__hcontainer_1__cl_g">
+                  <num>(g)</num>
+                  <content>
+                    <p>“mental health establishment” shall have the same meaning as is assigned to it in clause (p) of sub-section (1) of section 2 of the Mental Healthcare Act, 2017 (10 of 2017).</p>
+                  </content>
+                </clause>
+              </hcontainer>
+            </part>
+          </mainBody>
+        </doc>
+      </attachment>
+      <attachment eId="sched_5">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/!schedule_5" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+                <FRBRalias value="The Digital Personal Data Protection Rules, 2025: FIFTH SCHEDULE" name="title" />
+                <FRBRdate date="2025-11-13" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="846E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_5" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+                <FRBRdate date="2025-12-10" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_5.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">FIFTH SCHEDULE</p>
+            <p class="reference">[See rule 18]</p>
+            <p class="heading">Terms and conditions of service of Chairperson and other Members</p>
+          </preface>
+          <mainBody>
+            <paragraph eId="sched_5__para_1">
+              <num>1.</num>
+              <heading>Salary</heading>
+              <subparagraph eId="sched_5__para_1__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Chairperson shall be entitled to receive a consolidated salary of rupees four lakh fifty thousand per month, without the facility of house and car.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_1__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>Every Member other than the Chairperson shall be entitled to receive a consolidated salary of rupees four lakh per month, without the facility of house and car.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_5__para_2">
+              <num>2.</num>
+              <heading>Provident Fund</heading>
+              <content>
+                <p>The Chairperson and every other Member shall be eligible to contribute to the Provident Fund of the Board, and the manner and terms and conditions applicable in this regard shall, mutatis mutandis, be the same as those applicable to other officers and employees of the Board for their Provident Fund.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_5__para_3">
+              <num>3.</num>
+              <heading>Pension and gratuity</heading>
+              <content>
+                <p>The Chairperson and every other Member shall not be entitled to payment of pension or gratuity for service rendered in the Board.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_5__para_4">
+              <num>4.</num>
+              <heading>Travelling allowance</heading>
+              <subparagraph eId="sched_5__para_4__subpara_1">
+                <num>(1)</num>
+                <intro>
+                  <p>The Chairperson and every other Member, while on transfer to join the Board, or on the expiry of her term with the Board for proceeding to her home town with family (including in respect of journey undertaken by her and her family), or on tour within India, shall be entitled to journey allowance, daily allowance and reimbursement of expense on transportation of personal effects at such scales and rates as are applicable to an officer of the Central Government in the following level of the pay matrix, namely:—</p>
+                </intro>
+                <clause eId="sched_5__para_4__subpara_1__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>level 17, in the case of the Chairperson; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_5__para_4__subpara_1__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>level 15, in the case of every other Member.</p>
+                  </content>
+                </clause>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_4__subpara_2">
+                <num>(2)</num>
+                <intro>
+                  <p>The Chairperson and every other Member may undertake tour outside India only in accordance with guidelines or instructions issued by the Central Government, and in respect of such tour, she shall be entitled to draw the same allowances as an officer of the Central Government, in the following level of the pay matrix, is entitled to draw, namely: —</p>
+                </intro>
+                <clause eId="sched_5__para_4__subpara_2__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>level 17, in the case of the Chairperson; and</p>
+                  </content>
+                </clause>
+                <clause eId="sched_5__para_4__subpara_2__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>level 15, in the case of every other Member.</p>
+                  </content>
+                </clause>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_5__para_5">
+              <num>5.</num>
+              <heading>Medical assistance</heading>
+              <subparagraph eId="sched_5__para_5__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Chairperson and every other Member shall be entitled to such medical assistance as may be admissible to them under any group health insurance scheme of the Board for officers and employees of the Board and their eligible dependants.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_5__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>If the Chairperson or other Member has retired from Government service, or from the service of a public sector entity or a body corporate established by a Central Act, Provincial Act or State Act, and there are a separate set of rules for the grant of medical assistance for such service, she may, in lieu of medical assistance under sub-paragraph (1), opt to be governed by such rules.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_5__para_6">
+              <num>6.</num>
+              <heading>Leave</heading>
+              <subparagraph eId="sched_5__para_6__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>The authority competent to sanction leave shall be the Central Government in respect of the Chairperson, and the Chairperson in respect of any other Member.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_6__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Chairperson and every other Member may avail of such kinds of leave as are admissible to a Government servant under sub-clause (i) of clause (a) and clause (b) of sub-rule (1) of rule 26, rules 27, 29, 30 and 40 to 43-C of the Central Civil Services (Leave) Rules, 1972 (hereinafter referred to as “Leave Rules”).</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_6__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>Leave shall be subject to the conditions applicable to a Government servant under rules 7 to 11 and 22 to 25 of the Leave Rules, and the Central Government may, if satisfied that the operation of any of the said rules causes undue hardship in a particular case, by order relax the requirements of that rule to such extent and subject to such exceptions and conditions as it may consider necessary for dealing with the case in a just and equitable manner.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_6__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>The Chairperson and every other Member shall be entitled to casual leave to such extent as is admissible to a Government servant under instructions issued by the Central Government.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_6__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>The Chairperson and every other Member shall be entitled to encashment of earned leave standing to her credit, subject to such conditions and in like manner as are applicable to a Government servant under rule 38-A, sub-rules (1) and (2) and sub-clauses (i) and (ii) of clause (a) of sub-rule (6) of rule 39, rule 39-A and rule 39-C of the Leave Rules, subject to the maximum extent of encashment under any of the said rules, other than rule 38-A, being fifty per cent. of the earned leave standing to her credit.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_5__para_7">
+              <num>7.</num>
+              <heading>Leave travel concession</heading>
+              <subparagraph eId="sched_5__para_7__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>Leave travel concession shall be admissible to the Chairperson and every other Member in accordance with the provisions applicable to persons appointed to civil services and posts in connection with the affairs of the Union of India under rule 3, clauses (a) and (d) of rule 4, rules 5 to 15 and rule 17 of the Central Civil Services (Leave Travel Concession) Rules, 1988, and the entitlement for such concession shall be the same as is applicable to officers of the Central Government in level 17 of the pay matrix in the case of the Chairperson, and to officers of the Central Government in level 15 of the pay matrix in the case of a Member.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_7__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Chairperson and every other Member shall be eligible to avail of either leave travel concession to home town or leave travel concession to any place in India in any period of two years from the date of assumption of their office as a Member.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_5__para_8">
+              <num>8.</num>
+              <heading>Other terms and conditions of service</heading>
+              <subparagraph eId="sched_5__para_8__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Chairperson and every other Member shall ensure absence of conflict of interest in the performance of the functions of her office and shall not have any such financial or other interests as are likely to prejudicially affect the performance of the functions of such office.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_8__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>The provisions contained in Part IV to Part IX of the Central Civil Services (Classification, Control and Appeal) Rules, 1965, as applicable to an officer of the Central Government who is a member of a Central Civil Services, Group ‘A’, shall apply, mutatis mutandis, to the Chairperson and every other Member.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_8__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>The Chairperson and every other Member shall not be entitled to any sitting fee for attending meetings of the Board.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_8__subpara_4">
+                <num>(4)</num>
+                <content>
+                  <p>The Chairperson and every other Member shall not be entitled to any sumptuary allowance.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_5__para_8__subpara_5">
+                <num>(5)</num>
+                <content>
+                  <p>Any matter relating to the conditions of service of the Chairperson or any other Member, in respect of which no express provision has been made in these rules, shall be referred to the Central Government for its decision, and the decision of the Central Government on the same shall be final.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_5__para_9">
+              <num>9.</num>
+              <content>
+                <p>In this Schedule, “pay matrix” shall mean the pay matrix specified in Annexure I to the Central Government’s Resolution published in the Official Gazette vide Notification no. 1-2/2016-IC, dated the 25th July, 2016.</p>
+              </content>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+      <attachment eId="sched_6">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/!schedule_6" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+                <FRBRalias value="The Digital Personal Data Protection Rules, 2025: SIXTH SCHEDULE" name="title" />
+                <FRBRdate date="2025-11-13" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="846E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_6" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+                <FRBRdate date="2025-12-10" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_6.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">SIXTH SCHEDULE</p>
+            <p class="reference">[See rule 21(2)]</p>
+            <p class="heading">Terms and conditions of appointment and service of officers and employees of Board</p>
+          </preface>
+          <mainBody>
+            <paragraph eId="sched_6__para_1">
+              <num>1.</num>
+              <heading>Classes of officials</heading>
+              <subparagraph eId="sched_6__para_1__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>The Board may, in accordance with the Fundamental Rules and applicable guidelines issued by the Ministry of Personnel, Public Grievances and Pensions, Department of Personnel and Training, appoint officers and employees on deputation from the Central Government, a State Government, an autonomous body under the overall control of the Central Government or a State Government, a statutory body, or a public sector enterprise, for a period not exceeding five years.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_6__para_1__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>The Board may also receive or take on deputation any officer or other employee from the National Institute for Smart Government, for a period not exceeding five years, with salary and allowances guided by market standards and on such other terms and conditions as the Board may decide.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_6__para_2">
+              <num>2.</num>
+              <heading>Gratuity</heading>
+              <content>
+                <p>The officers and employees shall be entitled to payment of such gratuity as may be admissible under the Payment of Gratuity Act, 1972 (39 of 1972).</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_6__para_3">
+              <num>3.</num>
+              <heading>Travelling allowance</heading>
+              <content>
+                <p>The travelling allowance payable to the officers and employees shall, mutatis mutandis, be the same as those applicable to the officers and employees of the Central Government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_6__para_4">
+              <num>4.</num>
+              <heading>Medical assistance</heading>
+              <content>
+                <p>The officers and employees shall be entitled to such medical assistance as may be admissible to them and their eligible dependants under any group health insurance scheme of the Board, made with the previous approval of the Central Government.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_6__para_5">
+              <num>5.</num>
+              <heading>Leave</heading>
+              <subparagraph eId="sched_6__para_5__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>The officers and employees may avail of such kinds of leaves as are admissible to a Government servant under the Central Civil Services (Leave) Rules, 1972, subject to the conditions applicable under the said rules, and shall be eligible for encashment of earned leave as provided therein.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_6__para_5__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>The officers and employees shall be entitled to casual leave to such extent as is admissible to a Government servant under instructions issued by the Central Government.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+            <paragraph eId="sched_6__para_6">
+              <num>6.</num>
+              <heading>Leave travel concession</heading>
+              <content>
+                <p>Leave travel concession shall be admissible to the officers and employees appointed under <ref href="#sched_6__para_1__subpara_1">clause (1) of paragraph 1</ref>, in accordance with the provisions applicable to persons appointed to civil services and posts in connection with the affairs of the Union of India under the Central Civil Services (Leave Travel Concession) Rules, 1988.</p>
+              </content>
+            </paragraph>
+            <paragraph eId="sched_6__para_7">
+              <num>7.</num>
+              <heading>Other terms and conditions of service</heading>
+              <subparagraph eId="sched_6__para_7__subpara_1">
+                <num>(1)</num>
+                <content>
+                  <p>The provisions of the Civil Service (Conduct) Rules, 1964 shall apply to the officers and employees in like manner as applicable to a person appointed to a civil service or post in connection with the affairs of the Union of India under the said rules.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_6__para_7__subpara_2">
+                <num>(2)</num>
+                <content>
+                  <p>The provisions contained in Part IV to Part IX of the Central Civil Services (Classification, Control and Appeal) Rules, 1965 shall apply, mutatis mutandis, to the officers and employees appointed under <ref href="#sched_6__para_1__subpara_1">clause (1) of paragraph 1</ref>, in like manner as applicable to a Government servant under the said rules.</p>
+                </content>
+              </subparagraph>
+              <subparagraph eId="sched_6__para_7__subpara_3">
+                <num>(3)</num>
+                <content>
+                  <p>Any matter relating to the terms and conditions of service of the officers and employees appointed under <ref href="#sched_6__para_1__subpara_1">clause (1) of paragraph 1</ref>, in respect of which no express provision has been made in these rules, shall be referred to the Central Government for its decision, and the decision of the Central Government on the same shall be final.</p>
+                </content>
+              </subparagraph>
+            </paragraph>
+          </mainBody>
+        </doc>
+      </attachment>
+      <attachment eId="sched_7">
+        <doc name="schedule">
+          <meta>
+            <identification source="#lex-kernel">
+              <FRBRWork>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/!schedule_7" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E" />
+                <FRBRalias value="The Digital Personal Data Protection Rules, 2025: SEVENTH SCHEDULE" name="title" />
+                <FRBRdate date="2025-11-13" name="publication" />
+                <FRBRauthor href="#central-government" />
+                <FRBRcountry value="in" />
+                <FRBRsubtype value="gsr" />
+                <FRBRnumber value="846E" />
+              </FRBRWork>
+              <FRBRExpression>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_7" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10" />
+                <FRBRdate date="2025-12-10" name="version" />
+                <FRBRauthor href="#central-government" />
+                <FRBRlanguage language="eng" />
+              </FRBRExpression>
+              <FRBRManifestation>
+                <FRBRthis value="/akn/in/act/gsr/2025/846E/eng@2025-12-10/!schedule_7.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2025/846E/eng@2025-12-10.akn" />
+                <FRBRdate date="2026-10-29" name="transform" />
+                <FRBRauthor href="#lex-kernel" />
+              </FRBRManifestation>
+            </identification>
+          </meta>
+          <preface>
+            <p class="title">SEVENTH SCHEDULE</p>
+            <p class="reference">[See rule 23(1) and 8(3)]</p>
+          </preface>
+          <mainBody>
+            <hcontainer name="table" eId="sched_7__table_1">
+              <content>
+                <table eId="sched_7__table_1__table_1">
+                  <tr>
+                    <th>
+                      <p>S. no.</p>
+                    </th>
+                    <th>
+                      <p>Purpose</p>
+                    </th>
+                    <th>
+                      <p>Authorised person</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <th>
+                      <p>(1)</p>
+                    </th>
+                    <th>
+                      <p>(2)</p>
+                    </th>
+                    <th>
+                      <p>(3)</p>
+                    </th>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>1.</p>
+                    </td>
+                    <td>
+                      <p>Use, by the State or any of its instrumentalities, of personal data of a Data Principal in the interest of sovereignty and integrity of India or security of the State.</p>
+                    </td>
+                    <td>
+                      <p>Such officer of the State or of any of its instrumentalities notified under <ref href="/akn/in/act/2023/22/~sec_17__subsec_2__cl_a">clause (a) of sub-section (2) of section 17 of the Act</ref>, as the Central Government or the head of such instrumentality, as the case may be, may designate in this behalf.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>2.</p>
+                    </td>
+                    <td>
+                      <p>Use, by the State or any of its instrumentalities, of personal data of a Data Principal for the following purposes, namely: —</p>
+                      <p>(i) performance of any function under any law for the time being in force in India; or</p>
+                      <p>(ii) disclosure of any information for fulfilling any obligation under any law for the time being in force in India.</p>
+                    </td>
+                    <td>
+                      <p>Person authorised under applicable law.</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <p>3.</p>
+                    </td>
+                    <td>
+                      <p>Carrying out assessment for notifying any Data Fiduciary or class of Data Fiduciaries as Significant Data Fiduciary.</p>
+                    </td>
+                    <td>
+                      <p>Such officer of the Central Government, in the Ministry of Electronics and Information Technology, as the Secretary in charge of the said Ministry may designate in this behalf.</p>
+                    </td>
+                  </tr>
+                </table>
+              </content>
+            </hcontainer>
+          </mainBody>
+        </doc>
+      </attachment>
+    </attachments>
+  </act>
+</akomaNtoso>

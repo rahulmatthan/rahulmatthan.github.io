@@ -1,157 +1,129 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Indian Statutes — exmachina.in</title>
-    <meta name="description" content="Navigable, cross-referenced editions of Indian statutes — modelled on legislation.gov.uk." />
-    <style>
-      :root {
-        --ink: #1a1a1a;
-        --ink-soft: #555;
-        --ink-faint: #888;
-        --paper: #fdfcf8;
-        --rule: #e7e3d8;
-        --accent: #8b5a2b;
-        --serif: ui-serif, Georgia, "Iowan Old Style", "Apple Garamond", Baskerville, "Times New Roman", "Droid Serif", Times, serif;
-        --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      }
-      html, body {
-        margin: 0;
-        padding: 0;
-        background: var(--paper);
-        color: var(--ink);
-        font-family: var(--serif);
-        font-size: 17px;
-        line-height: 1.55;
-      }
-      .wrap {
-        max-width: 720px;
-        margin: 0 auto;
-        padding: 5rem 1.5rem 6rem;
-      }
-      .eyebrow {
-        font-family: var(--sans);
-        font-size: 0.78rem;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        color: var(--ink-faint);
-        margin: 0 0 1.5rem;
-      }
-      h1 {
-        font-family: var(--serif);
-        font-size: 2.1rem;
-        font-weight: 600;
-        line-height: 1.15;
-        letter-spacing: -0.012em;
-        margin: 0 0 1.2rem;
-      }
-      .lede {
-        color: var(--ink-soft);
-        font-size: 1.05rem;
-        margin: 0 0 3rem;
-      }
-      .acts {
-        display: grid;
-        gap: 1rem;
-        margin: 0 0 3rem;
-        padding: 0;
-        list-style: none;
-      }
-      .acts li {
-        border: 1px solid var(--rule);
-        border-radius: 6px;
-        padding: 1.1rem 1.3rem;
-        background: #fff;
-        transition: border-color 0.15s;
-      }
-      .acts li:hover {
-        border-color: var(--accent);
-      }
-      .acts a {
-        color: var(--ink);
-        text-decoration: none;
-        display: block;
-      }
-      .acts h2 {
-        font-family: var(--serif);
-        font-size: 1.25rem;
-        font-weight: 600;
-        margin: 0 0 0.35rem;
-        color: var(--accent);
-      }
-      .acts p {
-        margin: 0;
-        color: var(--ink-soft);
-        font-size: 0.95rem;
-      }
-      .meta {
-        font-family: var(--sans);
-        font-size: 0.78rem;
-        color: var(--ink-faint);
-        margin-top: 0.45rem;
-      }
-      h2.section {
-        font-family: var(--sans);
-        font-size: 0.78rem;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-        color: var(--ink-faint);
-        font-weight: 600;
-        margin: 0 0 1rem;
-      }
-      footer {
-        margin-top: 4rem;
-        padding-top: 1.2rem;
-        border-top: 1px solid var(--rule);
-        font-family: var(--sans);
-        font-size: 0.82rem;
-        color: var(--ink-faint);
-      }
-      footer a { color: var(--ink-soft); }
-    </style>
-  </head>
-  <body>
-    <div class="wrap">
-      <p class="eyebrow">exmachina.in</p>
-      <h1>Indian statutes — navigable.</h1>
-      <p class="lede">
-        Navigable, cross-referenced editions of Indian statutes and the
-        rules and regulations made under them. Modelled on
-        <a href="https://www.legislation.gov.uk/">legislation.gov.uk</a>:
-        section-level pages, verbatim amendment history, and links from each
-        section to the subordinate legislation made under it.
-      </p>
+<head>
+<meta charset="utf-8">
 
-      <h2 class="section">Available</h2>
-      <ul class="acts">
-        <li>
-          <a href="/statutes/aadhaar/">
-            <h2>Aadhaar Act, 2016</h2>
-            <p>The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016, with verbatim amendment history per section, eight rule sets and seven regulation sets, plus every amending instrument from 2019 to 2025.</p>
-            <p class="meta">59 sections · 5 rule sets · 8 regulation sets · 17 amending instruments</p>
-          </a>
-        </li>
-        <li>
-          <a href="/statutes/dpdp/">
-            <h2>Digital Personal Data Protection Act, 2023</h2>
-            <p>The DPDP Act, 2023 (Act No. 22 of 2023) and the DPDP Rules, 2025 (G.S.R. 846(E), 13 November 2025) made by the Central Government under section 40 of the Act.</p>
-            <p class="meta">44 sections · 23 rules</p>
-          </a>
-        </li>
-      </ul>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bharat Niti Lipi · BNL</title>
+<meta name="description" content="Indian law as data: a prototype of an India profile of Akoma Ntoso">
+<script>
+  // Theme and text size, set before the page paints. Dark unless the reader chose light.
+  (function () {
+    var t = "dark", z = "m";
+    try { t = localStorage.getItem("bnl-theme") || t; z = localStorage.getItem("bnl-size") || z; } catch (e) {}
+    document.documentElement.dataset.theme = t;
+    document.documentElement.dataset.size = z;
+  })();
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=20261029183748">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="index.html">Bharat Niti <em>Lipi</em></a>
+  <nav><a href="index.html" class="on">Why BNL</a><a href="dpdp-act-2023.html" class="">Data protection</a><a href="it-act-2000.html" class="">IT Act</a><a href="indian-stamp-act-1899.html" class="">Stamp Act</a><a href="consolidation.html" class="">Amending engine</a><a href="sources.html" class="">Sources</a><a href="checks.html" class="">Checks</a><a href="format.html" class="">The format</a></nav>
+  <div class="prefs">
+    <button id="size">Text size: <span id="size-label">M</span></button>
+    <button id="theme">Light</button>
+  </div>
+</header>
+<main><div class="prose why">
+<p class="kicker">Bharat Niti Lipi · a prototype</p>
+<h1>India publishes its laws as documents.<br>It should publish them as data.</h1>
+<p class="lede">India Code is a real achievement: every central Act in one place, free to read. But it stores each
+law as a PDF and a page of formatted text. A reader can read it; a computer sees only paragraphs. Bharat Niti
+Lipi (BNL) is a way to store Indian law as data. It is the international standard for legislation, Akoma Ntoso,
+with the few additions Indian law needs. This site holds seven instruments in it, and every page is generated
+from those files.</p>
 
-      <footer>
-        <p>
-          Source documents:
-          <a href="https://www.indiacode.nic.in/">indiacode.nic.in</a>,
-          <a href="https://uidai.gov.in/en/about-uidai/legal-framework.html">uidai.gov.in</a>,
-          <a href="https://www.meity.gov.in/">meity.gov.in</a>.
-          Source code on
-          <a href="https://github.com/rahulmatthan/statutes">github.com/rahulmatthan</a>.
-          Not legal advice — verify against the gazette.
-        </p>
-      </footer>
-    </div>
-  </body>
+<section class="claim">
+<h2><span class="n">1</span>One text, and every State's version of it</h2>
+<p>Under the Concurrent List, a State can amend a Central Act as it applies in that State. India Code handles
+this in two ways, and both leave the reader to do the work. It prints each State's amendments as prose after the
+section ("in section 27, for the words … the words … shall be substituted"). It also keeps separate copies of the
+whole Act for some States, and those copies drift apart. In BNL a State amendment is an ordinary amendment that
+says where it applies: Uttar Pradesh, or Odisha. The central text stays as Parliament left it, and each State's
+version is worked out from it, never copied.</p>
+<p class="try"><a href="indian-stamp-act-1899.html?state=IN-AS#sec_27">Section 27 of the Stamp Act as it applies in Assam →</a>
+<span>Then switch to Odisha, which amended the same words differently, or choose "every State, marked" to see where
+the Act differs across India. 106 State amendments from 12 States are recorded here. India Code files some of
+Odisha's under "Orissa" and some of Uttarakhand's under "Uttaranchal"; BNL records each State once, by its
+code.</span></p>
+</section>
+
+<section class="claim">
+<h2><span class="n">2</span>Rules tied to the power they rest on</h2>
+<p>Every rule is made under a power in its parent Act. BNL records that link, says whether the rule states it or an
+analyst inferred it, and checks it whenever either instrument changes. The result is something nobody has to
+remember. The DPDP Act omits section 43A of the IT Act and its rule-making head, section 87(2)(ob), from 13 May
+2027. The rules on sensitive personal data, made in 2011 under exactly those provisions, lose their footing on
+that day. Nothing in the gazettes or on India Code says so. The links do.</p>
+<p class="try"><a href="it-spdi-rules-2011.html">The SPDI Rules, 2011, with the warning →</a>
+<span>Also: the IT Rules 2021 mark Part III (the digital media code) as resting on a <em>contested</em> power,
+because the Bombay High Court found rule 9 prima facie beyond the Act. And in the
+<a href="dpdp-rules-2025.html">DPDP Rules</a>, three rules act on provisions that no clause of the rule-making
+section names.</span></p>
+</section>
+
+<section class="claim">
+<h2><span class="n">3</span>What the courts did, on the provision itself</h2>
+<p>A provision struck down stays on the statute book until Parliament removes it. Section 66A of the IT Act was
+struck down by the Supreme Court in <i>Shreya Singhal</i> in March 2015 and omitted by Parliament in November 2023.
+For eight years the Act said one thing and the law was another. People were still being prosecuted under it, and
+the Supreme Court had to order that published copies of the Act carry a note of the ruling. In BNL a court's
+effect is part of the record: struck down, read down, or stayed, with the date, the judgment, and where in India it
+applies.</p>
+<p class="try"><a href="it-act-2000.html?on=2016-01-01#sec_66A">Section 66A, as the law stood in 2016 →</a>
+<span>Then <a href="it-act-2000.html#sec_79__subsec_3__cl_b">section 79(3)(b)</a>, read down to mean a court order or a
+government notification, and <a href="it-rules-2021.html#rule_9">rule 9 of the 2021 Rules</a>, stayed since August
+2021, a stay the Madras High Court said runs across India.</span></p>
+</section>
+
+<section class="claim">
+<h2><span class="n">4</span>Every provision has an address and a date</h2>
+<p>Each element of the law carries a permanent identifier (<code>sec_7__cl_b__subcl_ii</code>) and its own
+dates. Pick any date and the text shows what was law that day. The DPDP Act came into force in three stages;
+India Code shows it all as if in force, with a footnote that misstates which sections began when.</p>
+<p class="try"><a href="dpdp-act-2023.html#sec_5">The DPDP Act, section 5, today →</a></p>
+</section>
+
+<section class="claim">
+<h2><span class="n">5</span>Checks a machine can run</h2>
+<p>Structure lets a computer check the law's own consistency every time it changes. The checks here found, among
+other things:</p>
+<ul>
+<li>two sections numbered 9A in the Indian Stamp Act, which leaves eight cross-references in the Act able to mean only the later one;</li>
+<li>section 77A of the IT Act, enacted in 2008 with a sub-section (2) but no sub-section (1);</li>
+<li>references that name the wrong unit, such as "clause (i)" for a sub-clause in the DPDP Rules;</li>
+<li>State amendments that India Code prints without saying which State Act made them, and one that quotes a Bill instead of an Act.</li>
+</ul>
+<p class="try"><a href="checks.html">Every check and what it found →</a></p>
+</section>
+
+<section class="claim">
+<h2><span class="n">6</span>Small, open, and built on a standard</h2>
+<p>BNL is Akoma Ntoso, the OASIS standard used by the European Union, the United Nations, legislation.gov.uk and
+Laws.Africa, plus two attributes: <code>bnl:extent</code> (where a change applies) and <code>bnl:basis</code> (how
+we know it: stated, held by a court, inferred, or contested). Everything else is the standard used in a fixed way,
+and a short rulebook says what an Indian legal document must contain. Every file here validates against the
+official schema.</p>
+<p class="try"><a href="format.html">The format, in one page →</a></p>
+</section>
+
+<section class="claim last">
+<h2>What this makes possible</h2>
+<p>Once the Constitution, statutes, rules and judgments are all data, the questions that matter can be asked of the
+whole body of law at once. Is every rule within the power that delegates it? Which State laws depart from a
+Central Act, and did each receive the President's assent it needed? What else depended on a provision a court has
+just struck down? Nobody can hold the whole of Indian law in their head; with data, nobody has to.</p>
+</section>
+</div>
+</main>
+<footer class="foot">A prototype of Bharat Niti Lipi, an India profile of Akoma Ntoso. Texts from the eGazette of
+India and India Code. Not legal advice; the gazette is the authoritative text.</footer>
+<script src="law.js?v=20261029183748"></script>
+<script src="app.js?v=20261029183748"></script>
+</body>
 </html>
