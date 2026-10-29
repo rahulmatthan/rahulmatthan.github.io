@@ -47,8 +47,13 @@
         <eventRef eId="e_amendment_20170526_16" date="2017-05-26" source="#act_2017_7" type="amendment" refersTo="#amendment" />
         <eventRef eId="e_amendment_20220926_17" date="2022-09-26" source="#so_2022_4720E" type="amendment" refersTo="#amendment" />
         <eventRef eId="e_amendment_20231130_18" date="2023-11-30" source="#act_2023_18" type="amendment" refersTo="#amendment" />
-        <eventRef eId="e_judgment_20150324_19" date="2015-03-24" source="#jdg_shreya" type="amendment" refersTo="#judgment" />
-        <eventRef eId="e_amendment_20270513_20" date="2027-05-13" source="#dpdp_s44_2" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_amendment_20150128_19" date="2015-01-28" source="#gsr_2015_61E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_omission_20150706_20" date="2015-07-06" source="#gsr_2015_539E" type="repeal" refersTo="#omission" />
+        <eventRef eId="e_amendment_20160427_21" date="2016-04-27" source="#gsr_2016_446E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_amendment_20190305_22" date="2019-03-05" source="#so_2019_1119E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_amendment_20201006_23" date="2020-10-06" source="#so_2020_3472E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_judgment_20150324_24" date="2015-03-24" source="#jdg_shreya" type="amendment" refersTo="#judgment" />
+        <eventRef eId="e_amendment_20270513_25" date="2027-05-13" source="#dpdp_s44_2" type="amendment" refersTo="#amendment" />
       </lifecycle>
       <analysis source="#lex-kernel">
         <passiveModifications>
@@ -1235,33 +1240,69 @@
               <h:p>liable to penalty which may extend to twenty-five lakh rupees</h:p>
             </new>
           </textualMod>
-          <forceMod type="unconstitutionality" eId="mod_160" bnl:extent="IN" bnl:basis="held">
+          <textualMod type="insertion" eId="mod_160" bnl:basis="stated">
+            <source href="#gsr_2015_61E" />
+            <destination href="#sched_2__para_1" />
+            <force period="#tg_26" />
+            <new>
+              <h:p>e-authentication technique using Aadhaar e-KYC services</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="repeal" eId="mod_161" bnl:basis="stated">
+            <source href="#gsr_2015_539E" />
+            <destination href="#sched_2__para_1__cl_b" />
+            <force period="#tg_27" />
+          </textualMod>
+          <textualMod type="substitution" eId="mod_162" bnl:basis="stated">
+            <source href="#gsr_2016_446E" />
+            <destination href="#sched_2__para_1__cl_g" />
+            <force period="#tg_28" />
+            <new>
+              <h:p>The manner in which the information is authenticated by means of digital signature shall comply with the manner and standards specified in rules 3 to 12 of the Digital Signature (End entity) Rules, 2015 in so far as they relate to the creation, storage, and verification of Digital Signature</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_163" bnl:basis="stated">
+            <source href="#so_2019_1119E" />
+            <destination href="#sched_2__para_1" />
+            <destination href="#sched_2__para_1__cl_c" />
+            <destination href="#sched_2__para_1__cl_e" />
+            <force period="#tg_29" />
+          </textualMod>
+          <textualMod type="insertion" eId="mod_164" bnl:basis="stated">
+            <source href="#so_2020_3472E" />
+            <destination href="#sched_2__para_2" />
+            <force period="#tg_30" />
+            <new>
+              <h:p>e-authentication technique and procedure for creating and accessing subscriber's signature key facilitated by trusted third party</h:p>
+            </new>
+          </textualMod>
+          <forceMod type="unconstitutionality" eId="mod_165" bnl:extent="IN" bnl:basis="held">
             <source href="#jdg_shreya" />
             <destination href="#sec_66A" />
-            <force period="#tg_26" />
+            <force period="#tg_31" />
           </forceMod>
-          <meaningMod type="variation" eId="mod_161" bnl:extent="IN" bnl:basis="held">
+          <meaningMod type="variation" eId="mod_166" bnl:extent="IN" bnl:basis="held">
             <source href="#jdg_shreya" />
             <destination href="#sec_79__subsec_3__cl_b" />
-            <efficacy period="#tg_27" />
+            <efficacy period="#tg_32" />
             <domain>
               <h:p>read down to mean that the intermediary upon receiving actual knowledge that a court order has been passed asking it to expeditiously remove or disable access to certain material must then fail to expeditiously remove or disable access to that material</h:p>
             </domain>
           </meaningMod>
-          <textualMod type="repeal" eId="mod_162">
+          <textualMod type="repeal" eId="mod_167">
             <source href="#dpdp_s44_2" />
             <destination href="#sec_43A" />
-            <force period="#tg_28" />
+            <force period="#tg_33" />
           </textualMod>
-          <textualMod type="repeal" eId="mod_163">
+          <textualMod type="repeal" eId="mod_168">
             <source href="#dpdp_s44_2" />
             <destination href="#sec_87__subsec_2__cl_ob" />
-            <force period="#tg_28" />
+            <force period="#tg_33" />
           </textualMod>
-          <textualMod type="insertion" eId="mod_164">
+          <textualMod type="insertion" eId="mod_169">
             <source href="#dpdp_s44_2" />
             <destination href="#sec_81" />
-            <force period="#tg_29" />
+            <force period="#tg_34" />
             <new>
               <h:p>or the Digital Personal Data Protection Act, 2023</h:p>
             </new>
@@ -1345,16 +1386,31 @@
           <timeInterval start="#e_omission_20231130_9" refersTo="#inForce" />
         </temporalGroup>
         <temporalGroup eId="tg_26">
-          <timeInterval start="#e_judgment_20150324_19" refersTo="#inForce" />
+          <timeInterval start="#e_amendment_20150128_19" refersTo="#inForce" />
         </temporalGroup>
         <temporalGroup eId="tg_27">
-          <timeInterval start="#e_judgment_20150324_19" refersTo="#inEffect" />
+          <timeInterval start="#e_omission_20150706_20" refersTo="#inForce" />
         </temporalGroup>
         <temporalGroup eId="tg_28">
-          <timeInterval start="#e_omission_20270513_5" refersTo="#inForce" />
+          <timeInterval start="#e_amendment_20160427_21" refersTo="#inForce" />
         </temporalGroup>
         <temporalGroup eId="tg_29">
-          <timeInterval start="#e_amendment_20270513_20" refersTo="#inForce" />
+          <timeInterval start="#e_amendment_20190305_22" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_30">
+          <timeInterval start="#e_amendment_20201006_23" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_31">
+          <timeInterval start="#e_judgment_20150324_24" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_32">
+          <timeInterval start="#e_judgment_20150324_24" refersTo="#inEffect" />
+        </temporalGroup>
+        <temporalGroup eId="tg_33">
+          <timeInterval start="#e_omission_20270513_5" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_34">
+          <timeInterval start="#e_amendment_20270513_25" refersTo="#inForce" />
         </temporalGroup>
       </temporalData>
       <references source="#lex-kernel">
@@ -1365,9 +1421,14 @@
         <passiveRef eId="act_2017_7" href="/akn/in/act/2017/7" showAs="The Finance Act, 2017 (Part XIV of Chapter VI commenced 26 May 2017; notification not yet held)" />
         <passiveRef eId="act_2023_18" href="/akn/in/act/2023/18" showAs="The Jan Vishwas (Amendment of Provisions) Act, 2023 (India Code's footnote to s.66A (w.e.f. 30-11-2023); the commencement notification is not yet held)" />
         <passiveRef eId="dpdp_s44_2" href="/akn/in/act/2023/22/~sec_44__subsec_2" showAs="Digital Personal Data Protection Act, 2023, s.44(2)" />
+        <passiveRef eId="gsr_2015_539E" href="/akn/in/act/gsr/2015/539E" showAs="G.S.R. 539(E), the Electronic Signature or Electronic Authentication Technique and Procedure (Amendment) Rules, 2015 (rule 1(2): on publication in the Official Gazette, 6 July 2015)" />
+        <passiveRef eId="gsr_2015_61E" href="/akn/in/act/gsr/2015/61E" showAs="G.S.R. 61(E), the Electronic Signature or Electronic Authentication Technique and Procedure Rules, 2015 (rule 1(2): on publication in the Official Gazette, 28 January 2015)" />
+        <passiveRef eId="gsr_2016_446E" href="/akn/in/act/gsr/2016/446E" showAs="G.S.R. 446(E), the Electronic Signature or Electronic Authentication Technique and Procedure Rules, 2016 (rule 1(2): on publication in the Official Gazette, 27 April 2016)" />
         <passiveRef eId="gsr_788E" href="/akn/in/act/gsr/2000/788E" showAs="G.S.R. 788(E), 17 October 2000 (commencement of the Act)" />
         <jurisprudence eId="jdg_shreya" href="/akn/in/judgment/sc/2015-03-24/wp-crl-167-2012" showAs="Shreya Singhal v. Union of India, W.P.(Crl.) No. 167 of 2012, Supreme Court, 24 March 2015, paras 117 and 119" />
         <passiveRef eId="so_2002_1015E" href="/akn/in/act/so/2002/1015E" showAs="The Information Technology (Removal of Difficulties) Order, 2002 (the Order: “It shall come into force at once.”)" />
+        <passiveRef eId="so_2019_1119E" href="/akn/in/act/so/2019/1119E" showAs="S.O. 1119(E), amendment to the Second Schedule (published 5 March 2019; no commencement stated)" />
+        <passiveRef eId="so_2020_3472E" href="/akn/in/act/so/2020/3472E" showAs="S.O. 3472(E), amendment to the Second Schedule (published 6 October 2020; no commencement stated)" />
         <passiveRef eId="so_2022_4720E" href="/akn/in/act/so/2022/4720E" showAs="S.O. 4720(E), amendments to the First Schedule (date of the notification)" />
         <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
         <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
@@ -5218,11 +5279,146 @@
             <p class="heading">ELECTRONIC SIGNATURE OR ELECTRONIC AUTHENTICATION TECHNIQUE AND PROCEDURE</p>
           </preface>
           <mainBody>
-            <hcontainer eId="sched_2__hcontainer_1" name="note">
-              <content>
-                <p>[No entries yet: the table's entries are added by notification.]</p>
-              </content>
-            </hcontainer>
+            <paragraph eId="sched_2__para_1">
+              <num>1.</num>
+              <heading>e-authentication technique using Aadhaar or other e-KYC services</heading>
+              <intro>
+                <p>Authentication of an electronic record by e-authentication Technique which shall be done by-</p>
+              </intro>
+              <clause eId="sched_2__para_1__cl_a">
+                <num>(a)</num>
+                <content>
+                  <p>the applicable use of e-authentication, hash, and asymmetric crypto system techniques, leading to issuance of Digital Signature Certificate by Certifying Authority</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_1__cl_b">
+                <num>(b)</num>
+                <content>
+                  <p>a trusted third party service by subscriber's key pair-generation, storing of key pairs and creation of digital signature provided that the trusted third party shall be offered by the certifying authority. The trusted third party shall send application form and certificate signing request to the Certifying Authority for issuing a Digital Signature Certificate to the subscriber.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_1__cl_c">
+                <num>(c)</num>
+                <content>
+                  <p>Issuance of Digital Signature Certificate by Certifying Authority shall be based on e-authentication, particulars specified in Form C of Schedule IV of the Information Technology (Certifying Authorities) Rules, 2000, digitally signed verified information from Aadhaar or other e-KYC services and electronic consent of Digital Signature Certificate applicant.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_1__cl_d">
+                <num>(d)</num>
+                <content>
+                  <p>The manner and requirements for e-authentication shall be as issued by the Controller from time to time.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_1__cl_e">
+                <num>(e)</num>
+                <content>
+                  <p>The security procedure for creating the subscriber’s key pair and other e-KYC services shall be in accordance with the e-authentication guidelines issued by the Controller.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_1__cl_f">
+                <num>(f)</num>
+                <content>
+                  <p>The standards referred to in rule 6 of the Information Technology (Certifying Authorities) Rules, 2000 shall be complied with, in so far as they relate to the certification function of public key of Digital Signature Certificate applicant.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_1__cl_g">
+                <num>(g)</num>
+                <content>
+                  <p>The manner in which the information is authenticated by means of digital signature shall comply with the manner and standards specified in rules 3 to 12 of the Digital Signature (End entity) Rules, 2015 in so far as they relate to the creation, storage, and verification of Digital Signature</p>
+                </content>
+              </clause>
+            </paragraph>
+            <paragraph eId="sched_2__para_2">
+              <num>2.</num>
+              <heading>e-authentication technique and procedure for creating and accessing subscriber's signature key facilitated by trusted third party</heading>
+              <intro>
+                <p>Authentication of an electronic record by e-authentication technique which shall be done by-</p>
+              </intro>
+              <clause eId="sched_2__para_2__cl_a">
+                <num>(a)</num>
+                <content>
+                  <p>the applicable use of e-authentication, hash and asymmetric crypto system techniques leading to issuance of Digital Signature Certificate by Certifying Authority, provided that Certifying Authority shall ensure the subscriber identity verification, secure storage of the keys by trusted third party and subscriber’s sole authentication control to the signature key.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_2__cl_b">
+                <num>(b)</num>
+                <content>
+                  <p>Identity verification of Digital Signature Certificate applicant shall be in accordance with the Identity Verification Guidelines issued by Controller from time-to-time.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_2__cl_c">
+                <num>(c)</num>
+                <content>
+                  <p>The requirement to operate as trusted third party shall be specified under e-authentication guidelines issued by the Controller.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_2__cl_d">
+                <num>(d)</num>
+                <intro>
+                  <p>a trusted third party shall</p>
+                </intro>
+                <subclause eId="sched_2__para_2__cl_d__subcl_i">
+                  <num>(i)</num>
+                  <content>
+                    <p>facilitate Identity verification of Digital Signature Certificate applicant;</p>
+                  </content>
+                </subclause>
+                <subclause eId="sched_2__para_2__cl_d__subcl_ii">
+                  <num>(ii)</num>
+                  <content>
+                    <p>establish secure storage for subscriber to have sole control for creation and subsequent usage of subscriber's signature key by sole authentication of subscriber;</p>
+                  </content>
+                </subclause>
+                <subclause eId="sched_2__para_2__cl_d__subcl_iii">
+                  <num>(iii)</num>
+                  <content>
+                    <p>facilitate key pair-generation, secure storage of subscriber's signature key and facilitate signature creation functions;</p>
+                  </content>
+                </subclause>
+                <subclause eId="sched_2__para_2__cl_d__subcl_iv">
+                  <num>(iv)</num>
+                  <content>
+                    <p>facilitate the submission of DSC application form and certificate signing request to the Certifying Authority for issuing a Digital Signature Certificate to the DSC applicant, and</p>
+                  </content>
+                </subclause>
+                <subclause eId="sched_2__para_2__cl_d__subcl_v">
+                  <num>(v)</num>
+                  <content>
+                    <p>facilitate revocation of Digital Signature Certificate and destruction of subscriber's signature key.</p>
+                  </content>
+                </subclause>
+              </clause>
+              <clause eId="sched_2__para_2__cl_e">
+                <num>(e)</num>
+                <content>
+                  <p>Issuance of Digital Signature Certificate shall be based on verification of credentials of Digital Signature Certificate applicant by Certifying Authority as per the provisions of the Information Technology Act and Rules made thereunder.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_2__cl_f">
+                <num>(f)</num>
+                <content>
+                  <p>The manner and requirements for authentication and storage of keys shall be as issued by the Controller from time to time under e-authentication guidelines</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_2__cl_g">
+                <num>(g)</num>
+                <content>
+                  <p>The security procedure for creating the subscriber’s key pair shall be in accordance with the e-authentication guidelines issued by the Controller.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_2__cl_h">
+                <num>(h)</num>
+                <content>
+                  <p>The standards referred to in rule 6 of the Information Technology (Certifying Authorities) Rules, 2000 shall be complied with, in so far as they relate to the certification function of public key of Digital Signature Certificate applicant.</p>
+                </content>
+              </clause>
+              <clause eId="sched_2__para_2__cl_i">
+                <num>(i)</num>
+                <content>
+                  <p>The manner in which information is authenticated by means of digital signature shall comply with the manner and standards specified in rule 3 to 12 of Digital Signature (End entity) Rules, 2015 in so far as they relate to the creation, storage and verification of Digital Signature.</p>
+                </content>
+              </clause>
+            </paragraph>
           </mainBody>
         </doc>
       </attachment>

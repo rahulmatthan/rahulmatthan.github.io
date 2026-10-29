@@ -399,3 +399,8 @@ p.pages a { margin-right: .35rem; }
   padding-left: 10px; border-left: 2px solid var(--l-rules); }
 .show-rules .rulelinks { display: block; }
 .rulelinks a { color: var(--l-rules); font-weight: 500; }
+
+/* forms in a Schedule, and divisions of guidelines */
+.formhead { font-size: 0.92em; line-height: 1.4; margin: 1.6em 0 0.4em; font-weight: 600; }
+.formhead .pnum { color: var(--accent); margin-right: 6px; }
+.el.form { border-left: 2px solid var(--rule); padding-left: 14px; }
