@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0">
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:bnl="urn:bnl:1.0" xmlns:h="http://www.w3.org/1999/xhtml">
   <act name="gsr" contains="singleVersion">
     <meta>
       <identification source="#lex-kernel">
@@ -14,15 +14,15 @@
           <FRBRnumber value="139E" />
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2021-08-14/!main" />
-          <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2021-08-14" />
-          <FRBRdate date="2021-08-14" name="version" />
+          <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2026-02-20/!main" />
+          <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2026-02-20" />
+          <FRBRdate date="2026-02-20" name="version" />
           <FRBRauthor href="#central-government" />
           <FRBRlanguage language="eng" />
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2021-08-14/!main.xml" />
-          <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2021-08-14.akn" />
+          <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2026-02-20/!main.xml" />
+          <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2026-02-20.akn" />
           <FRBRdate date="2026-10-29" name="transform" />
           <FRBRauthor href="#lex-kernel" />
         </FRBRManifestation>
@@ -31,16 +31,417 @@
       <lifecycle source="#lex-kernel">
         <eventRef eId="e_original" date="2021-02-25" source="#original" type="generation" />
         <eventRef eId="e_commencement_20210225_1" date="2021-02-25" source="#original" type="generation" refersTo="#commencement" />
-        <eventRef eId="e_stay_20210814_2" date="2021-08-14" source="#jdg_bom_agij" type="amendment" refersTo="#stay" />
+        <eventRef eId="e_commencement_20221028_2" date="2022-10-28" source="#gsr_2022_794E" type="generation" refersTo="#commencement" />
+        <eventRef eId="e_commencement_20230406_3" date="2023-04-06" source="#gsr_2023_275E" type="generation" refersTo="#commencement" />
+        <eventRef eId="e_commencement_20260220_4" date="2026-02-20" source="#gsr_2026_120E" type="generation" refersTo="#commencement" />
+        <eventRef eId="e_amendment_20221028_5" date="2022-10-28" source="#gsr_2022_794E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_amendment_20230406_6" date="2023-04-06" source="#gsr_2023_275E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_amendment_20251115_7" date="2025-11-15" source="#gsr_2025_775E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_amendment_20260220_8" date="2026-02-20" source="#gsr_2026_120E" type="amendment" refersTo="#amendment" />
+        <eventRef eId="e_stay_20210814_9" date="2021-08-14" source="#jdg_bom_agij" type="amendment" refersTo="#stay" />
       </lifecycle>
       <analysis source="#lex-kernel">
         <passiveModifications>
-          <efficacyMod type="inapplication" eId="mod_1" bnl:extent="IN" bnl:basis="held">
+          <textualMod type="insertion" eId="mod_1" bnl:basis="stated">
+            <source href="#gsr_2022_794E" />
+            <destination href="#rule_2__subrule_1__cl_ka" />
+            <force period="#tg_5" />
+            <new>
+              <h:p>(ka) ‘Grievance Appellate Committee’ means a grievance appellate committee constituted under rule 3A;</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_2" bnl:basis="stated">
+            <source href="#gsr_2022_794E" />
+            <destination href="#rule_3__subrule_1__cl_a" />
+            <destination href="#rule_3__subrule_1__cl_b" />
+            <force period="#tg_5" />
+            <new>
+              <h:p>(a) the intermediary shall prominently publish on its website, mobile based application or both, as the case may be, the rules and regulations, privacy policy and user agreement in English or any language specified in the Eighth Schedule to the Constitution for access or usage of its computer resource by any person in the language of his choice and ensure compliance of the same; (b) the intermedia</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_3" bnl:basis="stated">
+            <source href="#gsr_2022_794E" />
+            <destination href="#rule_3__subrule_1__cl_f" />
+            <force period="#tg_5" />
+            <new>
+              <h:p>(f) the intermediary shall periodically, and at least once in a year, inform its users in English or any language specified in the Eighth Schedule to the Constitution in the language of his choice of its rules and regulations, privacy policy or user agreement or any change in the rules and regulations, privacy policy or user agreement, as the case may be;</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_4" bnl:basis="stated">
+            <source href="#gsr_2022_794E" />
+            <destination href="#rule_3__subrule_1__cl_m" />
+            <destination href="#rule_3__subrule_1__cl_n" />
+            <force period="#tg_5" />
+            <new>
+              <h:p>(m) the intermediary shall take all reasonable measures to ensure accessibility of its services to users along with reasonable expectation of due diligence, privacy and transparency; (n) the intermediary shall respect all the rights accorded to the citizens under the Constitution, including in the articles 14, 19 and 21.</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_5" bnl:basis="stated">
+            <source href="#gsr_2022_794E" />
+            <destination href="#rule_3__subrule_2__cl_a__subcl_i" />
+            <force period="#tg_5" />
+            <new>
+              <h:p>(i) acknowledge the complaint within twenty-four hours and resolve such complaint within a period of fifteen days from the date of its receipt: Provided that the complaint in the nature of request for removal of information or communication link relating to clause (b) of sub-rule (1) of rule 3, except sub-clauses (i), (iv) and (ix), shall be acted upon as expeditiously as possible and shall be res</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_6" bnl:basis="stated">
+            <source href="#gsr_2022_794E" />
+            <destination href="#rule_3A" />
+            <force period="#tg_5" />
+            <new>
+              <h:p>3A. [Appeal to Grievance Appellate Committee(s)] (1) The Central Government shall, by notification, establish one or more Grievance Appellate Committees within three months from the date of commencement of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2022. (2) Each Grievance Appellate Committee shall consist of a chairperson and two whole time</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_7" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_2__subrule_1__cl_k" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>intermediary or the online gaming self-regulatory body or the</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_8" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_2__subrule_1__cl_qa" />
+            <destination href="#rule_2__subrule_1__cl_qb" />
+            <destination href="#rule_2__subrule_1__cl_qc" />
+            <destination href="#rule_2__subrule_1__cl_qd" />
+            <destination href="#rule_2__subrule_1__cl_qe" />
+            <destination href="#rule_2__subrule_1__cl_qf" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>(qa) ‘online game’ means a game that is offered on the Internet and is accessible by a user through a computer resource or an intermediary. Explanation.— In this clause, ‘Internet’ means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information ba</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_9" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>a social media intermediary, a significant social media intermediary and an online gaming intermediary</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_10" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_1__cl_b" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>by itself, and to cause the users of its computer resource to not host</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_11" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_1__cl_b__subcl_ii" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>or gambling, or an online game that causes user harm,</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_12" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_1__cl_b__subcl_v" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>nature or, in respect of any business of the Central Government, is identified as fake or false or misleading by such fact check unit of the Central Government as the Ministry may, by notification published in the Official Gazette, specify</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_13" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_1__cl_b__subcl_ix" />
+            <destination href="#rule_3__subrule_1__cl_b__subcl_x" />
+            <destination href="#rule_3__subrule_1__cl_b__subcl_xi" />
+            <destination href="#rule_3__subrule_1__cl_b__hcontainer_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>(ix) is in the nature of an online game that is not verified as a permissible online game; (x) is in the nature of advertisement or surrogate advertisement or promotion of an online game that is not a permissible online game, or of any online gaming intermediary offering such an online game; (xi) violates any law for the time being in force. Explanation.— In this clause, “user harm” and “harm” mea</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_14" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_1__cl_f__proviso_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>Provided that an online gaming intermediary who enables the users to access any permissible online real money game shall inform its users of such change as soon as possible, but not later than twenty-four hours after the change is effected;</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_15" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_1__cl_j" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>but not later than seventy two hours and in case of an online gaming intermediary who enables the users to access any permissible online real money game not later than twenty-four hours</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_16" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_2__cl_a" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>provisions of this rule or sub-rules (11) to (13) of rule 4, or in respect of</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_17" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_2__cl_a__subcl_i__proviso_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>(xi)</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_18" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3__subrule_2__cl_a__hcontainer_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>Explanation.— In this rule, “prominently publish” shall mean publishing in a clearly visible manner on the home page of the website or the home screen of the mobile based application, or both, as the case may be, or on a web page or an app screen directly accessible from the home page or home screen.</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_19" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3A__subrule_3" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>Any person who is aggrieved by a decision of the Grievance Officer or whose grievance is not resolved within the period specified for resolution in sub-clause (i) of clause (a) of sub-rule (2) of rule 3 or clause (b) of sub-rule (2) of rule 3 or sub-rule (11) of rule 4A, as the case may be,</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_20" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_3A__subrule_7" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>intermediary concerned or the online gaming self-regulatory body concerned, as the case may be,</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_21" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>intermediary and online gaming intermediary</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_22" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>intermediary, within three months from the date of notification of the threshold under clause (v) of sub-rule (1) of rule 2, and an online gaming intermediary that enables the users to access any permissible online real money game, shall</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_23" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_1__cl_a__proviso_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>intermediary or such online gaming intermediary</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_24" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_1__cl_a__hcontainer_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>intermediary or an online gaming intermediary, as the case may be,</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_25" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_1__cl_b__hcontainer_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>Explanation.— In this clause, “nodal contact person” means the employee of— (i) a significant social media intermediary, other than its Chief Compliance Officer; or (ii) an online gaming intermediary, who is resident in India;</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_26" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_1__cl_c__hcontainer_1" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>intermediary or an online gaming intermediary, as the case may be,</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_27" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_1__cl_d" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>thereon, and, in respect of a significant social media intermediary,</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_28" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_5" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>A significant social media intermediary and an online gaming intermediary who enables the users to access any permissible online real money game</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_29" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_6" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>A significant social media intermediary and an online gaming intermediary who enables the users to access any permissible online real money game</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_30" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_7" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>A significant social media intermediary and an online gaming intermediary who enables the users to access any permissible online real money game</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_31" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4__subrule_10" />
+            <destination href="#rule_4__subrule_11" />
+            <destination href="#rule_4__subrule_12" />
+            <destination href="#rule_4__subrule_13" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>(10) An online gaming intermediary who enables access to its users to any permissible online real money game, shall display a demonstrable and visible mark of verification of such online game by an online gaming self-regulatory body on such permissible online real money game. (11) While informing the users of its rules and regulations, privacy policy, terms of service and user agreements under cla</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_32" bnl:basis="stated">
+            <source href="#gsr_2023_275E" />
+            <destination href="#rule_4A" />
+            <destination href="#rule_4B" />
+            <destination href="#rule_4C" />
+            <force period="#tg_6" />
+            <new>
+              <h:p>4A. [Verification of online real money game] (1) The Ministry may, by a notification in the Official Gazette, designate as many online gaming self-regulatory bodies as it may consider necessary for the purposes of verifying an online real money game as a permissible online real money game under these rules. (2) An entity which fulfils the following criteria may apply to the Ministry for designatio</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_33" bnl:basis="stated">
+            <source href="#gsr_2025_775E" />
+            <destination href="#rule_3__subrule_1__cl_d" />
+            <force period="#tg_7" />
+            <new>
+              <h:p>(d) an intermediary, on whose computer resource the information which is used to commit an unlawful act which is prohibited under any law for the time being in force in relation to the interest of the sovereignty and integrity of India; security of the State; friendly relations with foreign States; public order; decency or morality; in relation to contempt of court; defamation; incitement to an of</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_34" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_2__subrule_1__cl_ca" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>(ca) ‘audio, visual or audio-visual information’ means any audio, image, photograph, graphic, video, moving visual recording, sound recording or any other audio, visual or audio-visual content, with or without accompanying audio, whether created, generated, modified or altered through any computer resource;</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_35" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_2__subrule_1__cl_wa" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>(wa) ‘synthetically generated information’ means audio, visual or audio-visual information which is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information appears to be real, authentic or true and depicts or portrays any individual or event in a manner that is, or is likely to be perceived as indistinguishable from a nat</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_36" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_2__subrule_1A" />
+            <destination href="#rule_2__subrule_1B" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>(1A) For the purposes of these rules, any reference to ‘information’ in the context of information being used to commit an unlawful act, including under clauses (b) and (d) of sub-rule (1) of rule 3 and sub-rules (2) and (4) of rule 4, shall be construed to include synthetically generated information, unless the context otherwise requires. (1B) For the purposes of these rules and for the removal o</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_37" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_1__cl_c" />
+            <destination href="#rule_3__subrule_1__cl_ca" />
+            <destination href="#rule_3__subrule_1__cl_cb" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>(c) an intermediary shall periodically inform its users, at least once every three months, in a simple and effective manner through its rules and regulations, privacy policy, user agreement, or any other appropriate means, in English or any language specified in the Eighth Schedule to the Constitution, that— (i) in case of non-compliance with such rules and regulations, privacy policy or user agre</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_38" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_1__cl_d" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>within three hours</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_39" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_1__cl_d__subcl_ii__point_I" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>issued by an officer authorised, by order in writing, for the purpose of issuing such intimation</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_40" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_1__cl_d__subcl_ii__point_I__proviso_1" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>Provided that where such intimation is to be issued by the police administration, there may be one or more authorised officers, each not below the rank of Deputy Inspector General of Police, especially authorised by the Appropriate Government in this behalf:</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_41" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_2__cl_a__subcl_i" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>seven days</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_42" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_2__cl_a__subcl_i__proviso_1" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>thirty-six hours</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_43" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_2__cl_b" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>two hours</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_44" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_3__subrule_3" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>(3) Due diligence in relation to synthetically generated information: (a) Where an intermediary offers a computer resource which may enable, permit, or facilitate the creation, generation, modification, alteration, publication, transmission, sharing, or dissemination of information as synthetically generated information, it shall ensure that,— (i) it deploys reasonable and appropriate technical me</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="insertion" eId="mod_45" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_4__subrule_1A" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>(1A) A significant social media intermediary which enables displaying, uploading, or publishing any information on its computer resource shall, prior to such display, uploading, or publication,— (a) require users to declare whether such information is synthetically generated information; (b) deploy appropriate technical measures, including automated tools or other suitable mechanisms, to verify th</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_46" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_4__subrule_4" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>deploy appropriate technical measures, including automated tools or other suitable mechanisms</h:p>
+            </new>
+          </textualMod>
+          <textualMod type="substitution" eId="mod_47" bnl:basis="stated">
+            <source href="#gsr_2026_120E" />
+            <destination href="#rule_7" />
+            <force period="#tg_8" />
+            <new>
+              <h:p>the Bharatiya Nyaya Sanhita, 2023 (45 of 2023)</h:p>
+            </new>
+          </textualMod>
+          <efficacyMod type="inapplication" eId="mod_48" bnl:extent="IN" bnl:basis="held">
             <source href="#jdg_bom_agij" />
             <source href="#jdg_mad_tmk" />
             <destination href="#rule_9__subrule_1" />
             <destination href="#rule_9__subrule_3" />
-            <efficacy period="#tg_2" />
+            <efficacy period="#tg_9" />
           </efficacyMod>
           <legalSystemMod type="legislativeDelegation" eId="dlg_instrument" bnl:basis="stated">
             <source href="/akn/in/act/2000/21/~sec_87__subsec_1" />
@@ -52,7 +453,11 @@
             <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_zg" />
             <source href="/akn/in/act/2000/21/~sec_79__subsec_2" />
             <destination href="#rule_3" />
+            <destination href="#rule_3A" />
             <destination href="#rule_4" />
+            <destination href="#rule_4A" />
+            <destination href="#rule_4B" />
+            <destination href="#rule_4C" />
             <destination href="#rule_5" />
             <destination href="#rule_6" />
             <destination href="#rule_7" />
@@ -62,6 +467,16 @@
             <source href="/akn/in/act/2000/21/~sec_87__subsec_2__cl_z" />
             <destination href="#rule_8" />
             <destination href="#rule_9" />
+            <destination href="#rule_10" />
+            <destination href="#rule_11" />
+            <destination href="#rule_12" />
+            <destination href="#rule_13" />
+            <destination href="#rule_14" />
+            <destination href="#rule_15" />
+            <destination href="#rule_16" />
+            <destination href="#rule_17" />
+            <destination href="#rule_18" />
+            <destination href="#rule_19" />
           </legalSystemMod>
         </passiveModifications>
       </analysis>
@@ -70,18 +485,44 @@
           <timeInterval start="#e_commencement_20210225_1" refersTo="#inForce" />
         </temporalGroup>
         <temporalGroup eId="tg_2">
-          <timeInterval start="#e_stay_20210814_2" refersTo="#inEffect" />
+          <timeInterval start="#e_commencement_20221028_2" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_3">
+          <timeInterval start="#e_commencement_20230406_3" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_4">
+          <timeInterval start="#e_commencement_20260220_4" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_5">
+          <timeInterval start="#e_amendment_20221028_5" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_6">
+          <timeInterval start="#e_amendment_20230406_6" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_7">
+          <timeInterval start="#e_amendment_20251115_7" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_8">
+          <timeInterval start="#e_amendment_20260220_8" refersTo="#inForce" />
+        </temporalGroup>
+        <temporalGroup eId="tg_9">
+          <timeInterval start="#e_stay_20210814_9" refersTo="#inEffect" />
         </temporalGroup>
       </temporalData>
       <references source="#lex-kernel">
         <original eId="original" href="/akn/in/act/gsr/2021/139E/eng@2021-02-25" showAs="The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021" />
         <TLCObject eId="CG-DL-E-25022021-225464" href="https://egazette.gov.in/WriteReadData/2021/225464.pdf" showAs="CG-DL-E-25022021-225464 (eGazette, digitally signed)" />
+        <passiveRef eId="gsr_2022_794E" href="/akn/in/act/gsr/2022/794E" showAs="G.S.R. 794(E), the IT (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2022 (rule 1(2): on publication in the Official Gazette, 28 October 2022)" />
+        <passiveRef eId="gsr_2023_275E" href="/akn/in/act/gsr/2023/275E" showAs="G.S.R. 275(E), the IT (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2023 (rule 1(2): on publication in the Official Gazette, 6 April 2023)" />
+        <passiveRef eId="gsr_2025_775E" href="/akn/in/act/gsr/2025/775E" showAs="G.S.R. 775(E), the IT (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2025 (rule 1(2): 15 November 2025)" />
+        <passiveRef eId="gsr_2026_120E" href="/akn/in/act/gsr/2026/120E" showAs="G.S.R. 120(E), the IT (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2026 (rule 1(2): 20 February 2026; corrected by G.S.R. 148(E), 26 February 2026)" />
         <jurisprudence eId="jdg_bom_agij" href="/akn/in/judgment/hc-bom/2021-08-14/agij-v-uoi" showAs="AGIJ Promotion of Nineteenonea Media Pvt. Ltd. v. Union of India, Bombay High Court, interim order, 14 August 2021" />
         <jurisprudence eId="jdg_mad_tmk" href="/akn/in/judgment/hc-mad/2021-09-16/tm-krishna-v-uoi" showAs="T.M. Krishna v. Union of India, Madras High Court, order of 16 September 2021 (the Bombay High Court's stay has effect across India)" />
         <TLCOrganization eId="parliament" href="/ontology/organization/in/parliament" showAs="Parliament of India" />
         <TLCOrganization eId="central-government" href="/ontology/organization/in/central-government" showAs="Central Government" />
         <TLCOrganization eId="lex-kernel" href="/ontology/organization/in/lex-kernel" showAs="lex-kernel" />
         <TLCConcept eId="inForce" href="/ontology/concept/in/inForce" showAs="in force" />
+        <TLCEvent eId="amendment" href="/ontology/event/in/amendment" showAs="amendment" />
         <TLCEvent eId="commencement" href="/ontology/event/in/commencement" showAs="commencement" />
         <TLCEvent eId="stay" href="/ontology/event/in/stay" showAs="stay ordered by a court" />
         <TLCConcept eId="inEffect" href="/ontology/concept/in/inEffect" showAs="in effect" />
@@ -95,7 +536,7 @@
       </p>
     </preface>
     <preamble>
-      <p>G.S.R. 139(E).—In exercise of the powers conferred by sub-section (1),clauses (z) and (zg) of sub-section (2) of section 87 of the Information Technology Act, 2000 (21 of 2000), and in supersession of the Information Technology (Intermediaries Guidelines) Rules, 2011, except as respect things done or omitted to be done before such supersession, the Central Government hereby makes the following rules, namely:—</p>
+      <p>G.S.R. 139(E).—In exercise of the powers conferred by sub-section (1), clauses (z) and (zg) of sub-section (2) of section 87 of the Information Technology Act, 2000 (21 of 2000), and in supersession of the Information Technology (Intermediaries Guidelines) Rules, 2011, except as respect things done or omitted to be done before such supersession, the Central Government hereby makes the following rules, namely:—</p>
     </preamble>
     <body>
       <part eId="part_I">
@@ -128,55 +569,61 @@
             <clause eId="rule_2__subrule_1__cl_a">
               <num>(a)</num>
               <content>
-                <p>‗access control mechanism‘ means any measure, including a technical measure, through which access to online curated content may be restricted based on verification of the identity or age of a user;</p>
+                <p>‘access control mechanism‘ means any measure, including a technical measure, through which access to online curated content may be restricted based on verification of the identity or age of a user;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_b">
               <num>(b)</num>
               <content>
-                <p>‗access services‘ means any measure, including technical measure such as closed captioning, subtitles and audio descriptions, through which the accessibility of online curated content may be improved for persons with disabilities;</p>
+                <p>‘access services‘ means any measure, including technical measure such as closed captioning, subtitles and audio descriptions, through which the accessibility of online curated content may be improved for persons with disabilities;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_c">
               <num>(c)</num>
               <content>
-                <p>‗Act‘ means the Information Technology Act, 2000 (21 of 2000);</p>
+                <p>‘Act‘ means the Information Technology Act, 2000 (21 of 2000);</p>
+              </content>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_ca">
+              <num>(ca)</num>
+              <content>
+                <p>‘audio, visual or audio-visual information’ means any audio, image, photograph, graphic, video, moving visual recording, sound recording or any other audio, visual or audio-visual content, with or without accompanying audio, whether created, generated, modified or altered through any computer resource;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_d">
               <num>(d)</num>
               <content>
-                <p>‗child‘ means any person below the age of eighteen years;</p>
+                <p>‘child‘ means any person below the age of eighteen years;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_e">
               <num>(e)</num>
               <content>
-                <p>‗committee‘ means the Inter-Departmental Committee constituted under <ref href="#rule_14">rule 14</ref>;</p>
+                <p>‘committee‘ means the Inter-Departmental Committee constituted under <ref href="#rule_14">rule 14</ref>;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_f">
               <num>(f)</num>
               <content>
-                <p>‗communication link‘ means a connection between a hypertext or graphical element, and one or more items in the same or different electronic document wherein upon clicking on a hyperlinked item, the user is automatically transferred to the other end of the hyperlink which can be another electronic record or another website or application or graphical element;</p>
+                <p>‘communication link‘ means a connection between a hypertext or graphical element, and one or more items in the same or different electronic document wherein upon clicking on a hyperlinked item, the user is automatically transferred to the other end of the hyperlink which can be another electronic record or another website or application or graphical element;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_g">
               <num>(g)</num>
               <content>
-                <p>‗content‘ means the electronic record defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_t">clause (t) of section 2 of the Act</ref>;</p>
+                <p>‘content‘ means the electronic record defined in <ref href="/akn/in/act/2000/21/~sec_2__subsec_1__cl_t">clause (t) of section 2 of the Act</ref>;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_h">
               <num>(h)</num>
               <content>
-                <p>‗content descriptor‘ means the issues and concerns which are relevant to the classification of any online curated content, including discrimination, depiction of illegal or harmful substances, imitable behaviour, nudity, language, sex, violence, fear, threat, horror and other such concerns as specified in <ref href="#sched_1">the Schedule</ref> annexed to the rules;</p>
+                <p>‘content descriptor‘ means the issues and concerns which are relevant to the classification of any online curated content, including discrimination, depiction of illegal or harmful substances, imitable behaviour, nudity, language, sex, violence, fear, threat, horror and other such concerns as specified in <ref href="#sched_1">the Schedule</ref> annexed to the rules;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_i">
               <num>(i)</num>
               <intro>
-                <p>‗digital media‘ means digitized content that can be transmitted over the internet or computer networks and includes content received, stored, transmitted, edited or processed by-</p>
+                <p>‘digital media‘ means digitized content that can be transmitted over the internet or computer networks and includes content received, stored, transmitted, edited or processed by-</p>
               </intro>
               <subclause eId="rule_2__subrule_1__cl_i__subcl_i">
                 <num>(i)</num>
@@ -194,99 +641,194 @@
             <clause eId="rule_2__subrule_1__cl_j">
               <num>(j)</num>
               <content>
-                <p>‗grievance‘ includes any complaint, whether regarding any content, any duties of an intermediary or publisher under the Act, or other matters pertaining to the computer resource of an intermediary or publisher, as the case may be;</p>
+                <p>‘grievance‘ includes any complaint, whether regarding any content, any duties of an intermediary or publisher under the Act, or other matters pertaining to the computer resource of an intermediary or publisher, as the case may be;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_k">
               <num>(k)</num>
               <content>
-                <p>‗Grievance Officer‘ means an officer appointed by the intermediary or the publisher, as the case may be, for the purposes of these rules;</p>
+                <p>‘Grievance Officer‘ means an officer appointed by the intermediary or the online gaming self-regulatory body or the publisher, as the case may be, for the purposes of these rules;</p>
+              </content>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_ka">
+              <num>(ka)</num>
+              <content>
+                <p>‘Grievance Appellate Committee’ means a grievance appellate committee constituted under <ref href="#rule_3A">rule 3A</ref>;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_l">
               <num>(l)</num>
               <content>
-                <p>‗Ministry‘ means, for the purpose of Part II of these rules unless specified otherwise, the Ministry of Electronics and Information Technology, Government of India, and for the purpose of Part III of these rules, the Ministry of Information and Broadcasting, Government of India;</p>
+                <p>‘Ministry‘ means, for the purpose of Part II of these rules unless specified otherwise, the Ministry of Electronics and Information Technology, Government of India, and for the purpose of Part III of these rules, the Ministry of Information and Broadcasting, Government of India;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_m">
               <num>(m)</num>
               <content>
-                <p>‗news and current affairs content‘ includes newly received or noteworthy content, including analysis, especially about recent events primarily of socio-political, economic or cultural nature, made available over the internet or computer networks, and any digital media shall be news and current affairs content where the context, substance, purpose, import and meaning of such information is in the nature of news and current affairs content.</p>
+                <p>‘news and current affairs content‘ includes newly received or noteworthy content, including analysis, especially about recent events primarily of socio-political, economic or cultural nature, made available over the internet or computer networks, and any digital media shall be news and current affairs content where the context, substance, purpose, import and meaning of such information is in the nature of news and current affairs content.</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_n">
               <num>(n)</num>
               <content>
-                <p>‗newspaper‘ means a periodical of loosely folded sheets usually printed on newsprint and brought out daily or at least once in a week, containing information on current events, public news or comments on public news;</p>
+                <p>‘newspaper‘ means a periodical of loosely folded sheets usually printed on newsprint and brought out daily or at least once in a week, containing information on current events, public news or comments on public news;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_o">
               <num>(o)</num>
               <content>
-                <p>‗news aggregator‘ means an entity who, performing a significant role in determining the news and current affairs content being made available, makes available to users a computer resource that enable such users to access the news and current affairs content which is aggregated, curated and presented by such entity.</p>
+                <p>‘news aggregator‘ means an entity who, performing a significant role in determining the news and current affairs content being made available, makes available to users a computer resource that enable such users to access the news and current affairs content which is aggregated, curated and presented by such entity.</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_p">
               <num>(p)</num>
               <content>
-                <p>‗on demand‘ means a system where a user, subscriber or viewer is enabled to access, at a time chosen by such user, any content in electronic form, which is transmitted over a computer resource and is selected by the user;</p>
+                <p>‘on demand‘ means a system where a user, subscriber or viewer is enabled to access, at a time chosen by such user, any content in electronic form, which is transmitted over a computer resource and is selected by the user;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_q">
               <num>(q)</num>
               <content>
-                <p>‗online curated content‘ means any curated catalogue of audio-visual content, other than news and current affairs content, which is owned by, licensed to or contracted to be transmitted by a publisher of online curated content, and made available on demand, including but not limited through subscription, over the internet or computer networks, and includes films, audio visual programmes, documentaries, television programmes, serials, podcasts and other such content;</p>
+                <p>‘online curated content‘ means any curated catalogue of audio-visual content, other than news and current affairs content, which is owned by, licensed to or contracted to be transmitted by a publisher of online curated content, and made available on demand, including but not limited through subscription, over the internet or computer networks, and includes films, audio visual programmes, documentaries, television programmes, serials, podcasts and other such content;</p>
+              </content>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_qa">
+              <num>(qa)</num>
+              <intro>
+                <p>‘online game’ means a game that is offered on the Internet and is accessible by a user through a computer resource or an intermediary.</p>
+              </intro>
+              <hcontainer eId="rule_2__subrule_1__cl_qa__hcontainer_1" name="explanation">
+                <num>Explanation.—</num>
+                <content>
+                  <p>In this clause, ‘Internet’ means the combination of computer facilities and electromagnetic transmission media, and related equipment and software, comprising the interconnected worldwide network of computer networks that transmits information based on a protocol for controlling such transmission;</p>
+                </content>
+              </hcontainer>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_qb">
+              <num>(qb)</num>
+              <content>
+                <p>‘online gaming intermediary’ means any intermediary that enables the users of its computer resource to access one or more online games;</p>
+              </content>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_qc">
+              <num>(qc)</num>
+              <content>
+                <p>‘online gaming self-regulatory body’ means an entity designated as such under <ref href="#rule_4A">rule 4A</ref>;</p>
+              </content>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_qd">
+              <num>(qd)</num>
+              <intro>
+                <p>‘online real money game’ means an online game where a user makes a deposit in cash or kind with the expectation of earning winnings on that deposit.</p>
+              </intro>
+              <hcontainer eId="rule_2__subrule_1__cl_qd__hcontainer_1" name="explanation">
+                <num>Explanation.—</num>
+                <content>
+                  <p>In this clause, ‘winnings’ means any prize, in cash or kind, which is distributed or intended to be distributed to a user of an online game based on the performance of the user and in accordance with the rules of such online game;</p>
+                </content>
+              </hcontainer>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_qe">
+              <num>(qe)</num>
+              <content>
+                <p>‘permissible online game’ means a permissible online real money game or any other online game that is not an online real money game;</p>
+              </content>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_qf">
+              <num>(qf)</num>
+              <content>
+                <p>‘permissible online real money game’ means an online real money game verified by an online gaming self-regulatory body under <ref href="#rule_4A">rule 4A</ref>;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_r">
               <num>(r)</num>
               <content>
-                <p>‗person‘ means a person as defined in sub-section (31) of section 2 of the Income tax Act, 1961 (43 of 1961);</p>
+                <p>‘person‘ means a person as defined in sub-section (31) of section 2 of the Income tax Act, 1961 (43 of 1961);</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_s">
               <num>(s)</num>
               <content>
-                <p>‗publisher‘ means a publisher of news and current affairs content or a publisher of online curated content;</p>
+                <p>‘publisher‘ means a publisher of news and current affairs content or a publisher of online curated content;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_t">
               <num>(t)</num>
               <content>
-                <p>‗publisher of news and current affairs content‘ means an online paper, news portal, news aggregator, news agency and such other entity called by whatever name, which is functionally similar to publishers of news and current affairs content but shall not include newspapers, replica e-papers of the newspaper and any individual or user who is not transmitting content in the course of systematic business, professional or commercial activity;</p>
+                <p>‘publisher of news and current affairs content‘ means an online paper, news portal, news aggregator, news agency and such other entity called by whatever name, which is functionally similar to publishers of news and current affairs content but shall not include newspapers, replica e-papers of the newspaper and any individual or user who is not transmitting content in the course of systematic business, professional or commercial activity;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_u">
               <num>(u)</num>
               <content>
-                <p>‗publisher of online curated content‘ means a publisher who, performing a significant role in determining the online curated content being made available, makes available to users a computer resource that enables such users to access online curated content over the internet or computer networks, and such other entity called by whatever name, which is functionally similar to publishers of online curated content but does not include any individual or user who is not transmitting online curated content in the course of systematic business, professional or commercial activity;</p>
+                <p>‘publisher of online curated content‘ means a publisher who, performing a significant role in determining the online curated content being made available, makes available to users a computer resource that enables such users to access online curated content over the internet or computer networks, and such other entity called by whatever name, which is functionally similar to publishers of online curated content but does not include any individual or user who is not transmitting online curated content in the course of systematic business, professional or commercial activity;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_v">
               <num>(v)</num>
               <content>
-                <p>‗significant social media intermediary‘ means a social media intermediary having number of registered users in India above such threshold as notified by the Central Government;</p>
+                <p>‘significant social media intermediary‘ means a social media intermediary having number of registered users in India above such threshold as notified by the Central Government;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_w">
               <num>(w)</num>
               <content>
-                <p>‗social media intermediary‘ means an intermediary which primarily or solely enables online interaction between two or more users and allows them to create, upload, share, disseminate, modify or access information using its services;</p>
+                <p>‘social media intermediary‘ means an intermediary which primarily or solely enables online interaction between two or more users and allows them to create, upload, share, disseminate, modify or access information using its services;</p>
               </content>
+            </clause>
+            <clause eId="rule_2__subrule_1__cl_wa">
+              <num>(wa)</num>
+              <intro>
+                <p>‘synthetically generated information’ means audio, visual or audio-visual information which is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that such information appears to be real, authentic or true and depicts or portrays any individual or event in a manner that is, or is likely to be perceived as indistinguishable from a natural person or real-world event;</p>
+              </intro>
+              <proviso eId="rule_2__subrule_1__cl_wa__proviso_1">
+                <intro>
+                  <p>Provided that the purposes of this clause, an audio, visual or audio-visual information shall not be deemed to be ‘synthetically generated information’, where such audio, visual or audio-visual information arises from—</p>
+                </intro>
+                <clause eId="rule_2__subrule_1__cl_wa__proviso_1__cl_a">
+                  <num>(a)</num>
+                  <content>
+                    <p>routine or good-faith editing, formatting, enhancement, technical correction, colour adjustment, noise reduction, transcription, or compression that does not materially alter, distort, or misrepresent the substance, context, or meaning of the underlying audio, visual or audio-visual information; or</p>
+                  </content>
+                </clause>
+                <clause eId="rule_2__subrule_1__cl_wa__proviso_1__cl_b">
+                  <num>(b)</num>
+                  <content>
+                    <p>the routine or good-faith creation, preparation, formatting, presentation or design of documents, presentations, portable document format (PDF) files, educational or training materials, research outputs, including the use of illustrative, hypothetical, draft, template-based or conceptual content, where such creation or presentation does not result in the creation or generation of any false document or false electronic record; or</p>
+                  </content>
+                </clause>
+                <clause eId="rule_2__subrule_1__cl_wa__proviso_1__cl_c">
+                  <num>(c)</num>
+                  <content>
+                    <p>the use of computer resources solely for improving accessibility, clarity, quality, translation, description, searchability, or discoverability, without generating, altering, or manipulating any material part of the underlying audio, visual or audio-visual information;</p>
+                  </content>
+                </clause>
+              </proviso>
             </clause>
             <clause eId="rule_2__subrule_1__cl_x">
               <num>(x)</num>
               <content>
-                <p>‗user‘ means any person who accesses or avails any computer resource of an intermediary or a publisher for the purpose of hosting, publishing, sharing, transacting, viewing, displaying, downloading or uploading information and includes other persons jointly participating in using such computer resource and addressee and originator;</p>
+                <p>‘user‘ means any person who accesses or avails any computer resource of an intermediary or a publisher for the purpose of hosting, publishing, sharing, transacting, viewing, displaying, downloading or uploading information and includes other persons jointly participating in using such computer resource and addressee and originator;</p>
               </content>
             </clause>
             <clause eId="rule_2__subrule_1__cl_y">
               <num>(y)</num>
               <content>
-                <p>‗user account‘ means the account registration of a user with an intermediary or publisher and includes profiles, accounts, pages, handles and other similar presences by means of which a user is able to access the services offered by the intermediary or publisher.</p>
+                <p>‘user account‘ means the account registration of a user with an intermediary or publisher and includes profiles, accounts, pages, handles and other similar presences by means of which a user is able to access the services offered by the intermediary or publisher.</p>
               </content>
             </clause>
+          </subrule>
+          <subrule eId="rule_2__subrule_1A">
+            <num>(1A)</num>
+            <content>
+              <p>For the purposes of these rules, any reference to ‘information’ in the context of information being used to commit an unlawful act, including under clauses <ref href="#rule_3__subrule_1__cl_b">(b)</ref> and <ref href="#rule_3__subrule_1__cl_d">(d)</ref> of sub-rule (1) of rule 3 and sub-rules <ref href="#rule_4__subrule_2">(2)</ref> and <ref href="#rule_4__subrule_4">(4)</ref> of rule 4, shall be construed to include synthetically generated information, unless the context otherwise requires.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_2__subrule_1B">
+            <num>(1B)</num>
+            <content>
+              <p>For the purposes of these rules and for the removal of doubts, it is hereby clarified that the removal of, or disabling of access to, any information, including synthetically generated information, data or communication link, by an intermediary in compliance with these rules, including in accordance with <ref href="#rule_3__subrule_1">sub-rule (1)</ref>, <ref href="#rule_3__subrule_2">sub-rule (2)</ref> or <ref href="#rule_3__subrule_3">sub-rule (3) of rule 3</ref>, or upon becoming aware of any violation thereunder by deploying reasonable and appropriate technical measures, including automated tools or other suitable mechanisms, shall not amount to a violation of the conditions specified under clauses <ref href="/akn/in/act/2000/21/~sec_79__subsec_2__cl_a">(a)</ref> or <ref href="/akn/in/act/2000/21/~sec_79__subsec_2__cl_b">(b)</ref> of sub-section (2) of section 79 of the Act.</p>
+            </content>
           </subrule>
           <subrule eId="rule_2__subrule_2">
             <num>(2)</num>
@@ -304,18 +846,18 @@
           <subrule eId="rule_3__subrule_1">
             <num>(1)</num>
             <intro>
-              <p>Due diligence by an intermediary: An intermediary, including social media intermediary and significant social media intermediary, shall observe the following due diligence while discharging its duties, namely:—</p>
+              <p>Due diligence by an intermediary: An intermediary, including a social media intermediary, a significant social media intermediary and an online gaming intermediary, shall observe the following due diligence while discharging its duties, namely:—</p>
             </intro>
             <clause eId="rule_3__subrule_1__cl_a">
               <num>(a)</num>
               <content>
-                <p>the intermediary shall prominently publish on its website,mobile based application or both, as the case may be, the rules and regulations, privacy policy and user agreement for access or usage of its computer resource by any person;</p>
+                <p>the intermediary shall prominently publish on its website, mobile based application or both, as the case may be, the rules and regulations, privacy policy and user agreement in English or any language specified in the Eighth Schedule to the Constitution for access or usage of its computer resource by any person in the language of his choice and ensure compliance of the same;</p>
               </content>
             </clause>
             <clause eId="rule_3__subrule_1__cl_b">
               <num>(b)</num>
               <intro>
-                <p>the rules and regulations, privacy policy or user agreement of the intermediary shall inform the user of its computer resource not to host, display, upload, modify, publish, transmit, store, update or share any information that,—</p>
+                <p>the intermediary shall inform its rules and regulations, privacy policy and user agreement to the user in English or any language specified in the Eighth Schedule to the Constitution in the language of his choice and shall make reasonable efforts by itself, and to cause the users of its computer resource to not host display, upload, modify, publish, transmit, store, update or share any information that,</p>
               </intro>
               <subclause eId="rule_3__subrule_1__cl_b__subcl_i">
                 <num>(i)</num>
@@ -326,7 +868,7 @@
               <subclause eId="rule_3__subrule_1__cl_b__subcl_ii">
                 <num>(ii)</num>
                 <content>
-                  <p>is defamatory, obscene, pornographic, paedophilic, invasive of another‘s privacy, including bodily privacy, insulting or harassing on the basis of gender, libellous, racially or ethnically objectionable, relating or encouraging money laundering or gambling, or otherwise inconsistent with or contrary to the laws in force;</p>
+                  <p>is obscene, pornographic, paedophilic, invasive of another’s privacy including bodily privacy, insulting or harassing on the basis of gender, racially or ethnically objectionable, relating or encouraging money laundering or gambling, or an online game that causes user harm, or promoting enmity between different groups on the grounds of religion or caste with the intent to incite violence;</p>
                 </content>
               </subclause>
               <subclause eId="rule_3__subrule_1__cl_b__subcl_iii">
@@ -344,66 +886,163 @@
               <subclause eId="rule_3__subrule_1__cl_b__subcl_v">
                 <num>(v)</num>
                 <content>
-                  <p>violates any law for the time being in force;</p>
+                  <p>deceives or misleads the addressee about the origin of the message or knowingly and intentionally communicates any misinformation or information which is patently false and untrue or misleading in nature or, in respect of any business of the Central Government, is identified as fake or false or misleading by such fact check unit of the Central Government as the Ministry may, by notification published in the Official Gazette, specify;</p>
                 </content>
               </subclause>
               <subclause eId="rule_3__subrule_1__cl_b__subcl_vi">
                 <num>(vi)</num>
                 <content>
-                  <p>deceives or misleads the addressee about the origin of the message or knowingly and intentionally communicates any information which is patently false or misleading in nature but may reasonably be perceived as a fact;</p>
+                  <p>impersonates another person;</p>
                 </content>
               </subclause>
               <subclause eId="rule_3__subrule_1__cl_b__subcl_vii">
                 <num>(vii)</num>
                 <content>
-                  <p>impersonates another person;</p>
+                  <p>threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order, or causes incitement to the commission of any cognisable offence, or prevents investigation of any offence, or is insulting other nation;</p>
                 </content>
               </subclause>
               <subclause eId="rule_3__subrule_1__cl_b__subcl_viii">
                 <num>(viii)</num>
                 <content>
-                  <p>threatens the unity, integrity, defence, security or sovereignty of India, friendly relations with foreign States, or public order, or causes incitement to the commission of any cognisable offence or prevents investigation of any offence or is insulting other nation;</p>
+                  <p>contains software virus or any other computer code, file or program designed to interrupt, destroy or limit the functionality of any computer resource;</p>
                 </content>
               </subclause>
               <subclause eId="rule_3__subrule_1__cl_b__subcl_ix">
                 <num>(ix)</num>
                 <content>
-                  <p>contains software virus or any other computer code, file or program designed to interrupt, destroy or limit the functionality of any computer resource;</p>
+                  <p>is in the nature of an online game that is not verified as a permissible online game;</p>
                 </content>
               </subclause>
               <subclause eId="rule_3__subrule_1__cl_b__subcl_x">
                 <num>(x)</num>
                 <content>
-                  <p>is patently false and untrue, and is written or published in any form, with the intent to mislead or harass a person, entity or agency for financial gain or to cause any injury to any person;</p>
+                  <p>is in the nature of advertisement or surrogate advertisement or promotion of an online game that is not a permissible online game, or of any online gaming intermediary offering such an online game;</p>
                 </content>
               </subclause>
+              <subclause eId="rule_3__subrule_1__cl_b__subcl_xi">
+                <num>(xi)</num>
+                <content>
+                  <p>violates any law for the time being in force.</p>
+                </content>
+              </subclause>
+              <hcontainer eId="rule_3__subrule_1__cl_b__hcontainer_1" name="explanation">
+                <num>Explanation.—</num>
+                <content>
+                  <p>In this clause, “user harm” and “harm” mean any effect which is detrimental to a user or child, as the case may be;</p>
+                </content>
+              </hcontainer>
             </clause>
             <clause eId="rule_3__subrule_1__cl_c">
               <num>(c)</num>
+              <intro>
+                <p>an intermediary shall periodically inform its users, at least once every three months, in a simple and effective manner through its rules and regulations, privacy policy, user agreement, or any other appropriate means, in English or any language specified in the Eighth Schedule to the Constitution, that—</p>
+              </intro>
+              <subclause eId="rule_3__subrule_1__cl_c__subcl_i">
+                <num>(i)</num>
+                <content>
+                  <p>in case of non-compliance with such rules and regulations, privacy policy or user agreement, by whatever name called, it has the right to terminate or suspend the access or usage rights of the users to the computer resource immediately, or to remove or disable access to non-compliant information, or both, as the case may be;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_3__subrule_1__cl_c__subcl_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>where such non-compliance relates to the creation, generation, modification, alteration, hosting, displaying, uploading, publishing, transmitting, storing, updating, sharing or otherwise disseminating of information in contravention of any law for the time being in force, the user who is responsible for such non-compliance may be liable to penalty or punishment under the provisions of the Act or any other applicable law; and</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_3__subrule_1__cl_c__subcl_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>where such violation relates to the commission of an offence under any law for the time being in force, such as the Bharatiya Nyaya Sanhita, 2023 (45 of 2023) read with the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) or the Protection of Children from Sexual Offences Act, 2012 (32 of 2012) which requires such offence to be mandatorily reported, reporting of such offence to the appropriate authority in accordance with the provisions of the applicable law;</p>
+                </content>
+              </subclause>
+            </clause>
+            <clause eId="rule_3__subrule_1__cl_ca">
+              <num>(ca)</num>
+              <intro>
+                <p>without prejudice to sub-clauses <ref href="#rule_3__subrule_1__cl_c__subcl_i">(i)</ref> and <ref href="#rule_3__subrule_1__cl_c__subcl_ii">(ii)</ref> of clause (c), where an intermediary referred to under <ref href="#rule_3__subrule_3">sub-rule (3)</ref> offers a computer resource which enables, permits or facilitates the creation, generation, modification, alteration, publication, transmission, sharing, or dissemination of information as synthetically generated information, such intermediary shall additionally inform its users that—</p>
+              </intro>
+              <subclause eId="rule_3__subrule_1__cl_ca__subcl_i">
+                <num>(i)</num>
+                <content>
+                  <p>directing, instructing or otherwise causing the computer resource of the intermediary for creation, generation, modification, alteration publication, transmission, sharing, or dissemination of information as synthetically generated information in contravention of <ref href="#rule_3__subrule_3__cl_a__subcl_i">sub-clause (i) of clause (a) of sub-rule (3)</ref> may attract penalty or punishment as may be applicable under any law for the time being in force, including the provisions of the Act, the Bharatiya Nyaya Sanhita, 2023 (45 of 2023), the Protection of Children from Sexual Offences Act, 2012 (32 of 2012), the Representation of the People Act, 1951 (43 of 1951), the Indecent Representation of Women (Prohibition) Act, 1986 (60 of 1986), the Sexual Harassment of Women at Workplace (Prevention, Prohibition And Redressal) Act, 2013 (14 of 2013), and the Immoral Traffic (Prevention) Act, 1956 (104 of 1956); and</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_3__subrule_1__cl_ca__subcl_ii">
+                <num>(ii)</num>
+                <intro>
+                  <p>any such contravention of <ref href="#rule_3__subrule_3__cl_a__subcl_i">sub-clause (i) of clause (a) of sub-rule (3)</ref> may lead to—</p>
+                </intro>
+                <point eId="rule_3__subrule_1__cl_ca__subcl_ii__point_I">
+                  <num>(I)</num>
+                  <content>
+                    <p>the immediate disabling of access to or removal of such information;</p>
+                  </content>
+                </point>
+                <point eId="rule_3__subrule_1__cl_ca__subcl_ii__point_II">
+                  <num>(II)</num>
+                  <content>
+                    <p>suspension or termination of the user account of the user who violates this sub-rule without vitiating the evidence;</p>
+                  </content>
+                </point>
+                <point eId="rule_3__subrule_1__cl_ca__subcl_ii__point_III">
+                  <num>(III)</num>
+                  <content>
+                    <p>in accordance with applicable law, identification of such user and disclosure of the identity of the violating user to the complainant, where such complainant is a victim of, or an individual acting on behalf of a victim of, such contravention; and</p>
+                  </content>
+                </point>
+                <point eId="rule_3__subrule_1__cl_ca__subcl_ii__point_IV">
+                  <num>(IV)</num>
+                  <content>
+                    <p>where such violation relates to the commission of an offence under any law for the time being in force, including the Bharatiya Nyaya Sanhita, 2023 (45 of 2023) read with the Bharatiya Nagarik Suraksha Sanhita, 2023 (46 of 2023) or the Protection of Children from Sexual Offences Act, 2012 (32 of 2012) which requires such offence to be mandatorily reported, reporting of such offence to the appropriate authority in accordance with the provisions of the applicable law;</p>
+                  </content>
+                </point>
+              </subclause>
+            </clause>
+            <clause eId="rule_3__subrule_1__cl_cb">
+              <num>(cb)</num>
               <content>
-                <p>an intermediary shall periodically inform its users, at least once every year, that in case of non-compliance with rules and regulations, privacy policy or user agreement for access or usage of the computer resource of such intermediary, it has the right to terminate the access or usage rights of the users to the computer resource immediately or remove non-compliant information or both, as the case may be;</p>
+                <p>where an intermediary becomes aware, either on its own accord or upon receipt of actual knowledge or on the basis of any grievance, complaint or information received under these rules, of any violation of <ref href="#rule_3__subrule_3">sub-rule (3)</ref>, in relation to the creation, generation, modification, alteration, hosting, displaying, uploading, publishing, transmitting, storing, updating, sharing or otherwise dissemination of information as synthetically generated information covered under sub-clause (ii) of clause (a), it shall take expeditious and appropriate action, including those specified in <ref href="#rule_3__subrule_1__cl_ca__subcl_ii">sub-clause (ii) of clause (ca)</ref>;</p>
               </content>
             </clause>
             <clause eId="rule_3__subrule_1__cl_d">
               <num>(d)</num>
               <intro>
-                <p>an intermediary, on whose computer resource the information is stored, hosted or published, upon receiving actual knowledge in the form of an order by a court of competent jurisdiction or on being notified by the Appropriate Government or its agency under <ref href="/akn/in/act/2000/21/~sec_79__subsec_3__cl_b">clause (b) of sub-section (3) of section 79 of the Act</ref>, shall not host, store or publish any unlawful information, which is prohibited under any law for the time being in force in relation to the interest of the sovereignty and integrity of India; security of the State; friendly relations with foreign States; public order; decency or morality; in relation to contempt of court; defamation; incitement to an offence relating to the above, or any information which is prohibited under any law for the time being in force:</p>
+                <p>an intermediary, on whose computer resource the information which is used to commit an unlawful act which is prohibited under any law for the time being in force in relation to the interest of the sovereignty and integrity of India; security of the State; friendly relations with foreign States; public order; decency or morality; in relation to contempt of court; defamation; incitement to an offence relating to the above, or any information which is prohibited under any law for the time being in force is hosted, displayed, published, transmitted or stored shall, upon receiving the actual knowledge under <ref href="/akn/in/act/2000/21/~sec_79__subsec_3__cl_b">clause (b) of sub-section (3) of section 79 of the Act</ref> on such information, remove or disable access to such information within within three hours of the receipt of such actual knowledge, and such actual knowledge shall arise only in the following manner, namely:—</p>
               </intro>
-              <proviso eId="rule_3__subrule_1__cl_d__proviso_1">
+              <subclause eId="rule_3__subrule_1__cl_d__subcl_i">
+                <num>(i)</num>
                 <content>
-                  <p>Provided that any notification made by the Appropriate Government or its agency in relation to any information which is prohibited under any law for the time being in force shall be issued by an authorised agency, as may be notified by the Appropriate Government:</p>
+                  <p>by an order of a court of competent jurisdiction; or</p>
                 </content>
-              </proviso>
-              <proviso eId="rule_3__subrule_1__cl_d__proviso_2">
-                <content>
-                  <p>Provided further that if any such information is hosted, stored or published, the intermediary shall remove or disable access to that information, as early as possible, but in no case later than thirty-six hours from the receipt of the court order or on being notified by the Appropriate Government or its agency, as the case may be:</p>
-                </content>
-              </proviso>
-              <proviso eId="rule_3__subrule_1__cl_d__proviso_3">
-                <content>
-                  <p>Provided also that the removal or disabling of access to any information, data or communication link within the categories of information specified under this clause, under <ref href="#rule_3__subrule_1__cl_b">clause (b)</ref> on a voluntary basis, or on the basis of grievances received under <ref href="#rule_3__subrule_2">sub-rule (2)</ref> by such intermediary, shall not amount to a violation of the conditions of clauses <ref href="/akn/in/act/2000/21/~sec_79__subsec_2__cl_a">(a)</ref> or <ref href="/akn/in/act/2000/21/~sec_79__subsec_2__cl_b">(b)</ref> of sub-section (2) of section 79 of the Act;</p>
-                </content>
-              </proviso>
+              </subclause>
+              <subclause eId="rule_3__subrule_1__cl_d__subcl_ii">
+                <num>(ii)</num>
+                <intro>
+                  <p>a reasoned intimation, in writing,—</p>
+                </intro>
+                <point eId="rule_3__subrule_1__cl_d__subcl_ii__point_I">
+                  <num>(I)</num>
+                  <intro>
+                    <p>issued by an officer authorised, by order in writing, for the purpose of issuing such intimation by the Appropriate Government or its agency, being not below the rank of Joint Secretary or an officer equivalent in rank or where an officer at such rank is not appointed, a Director or an officer equivalent in rank, to the Government of India or to the State Government, as the case may be, and, where so authorised, acting through a single corresponding officer in its authorised agency, where such agency is so appointed:</p>
+                  </intro>
+                  <proviso eId="rule_3__subrule_1__cl_d__subcl_ii__point_I__proviso_1">
+                    <content>
+                      <p>Provided that where such intimation is to be issued by the police administration, there may be one or more authorised officers, each not below the rank of Deputy Inspector General of Police, especially authorised by the Appropriate Government in this behalf:</p>
+                    </content>
+                  </proviso>
+                  <proviso eId="rule_3__subrule_1__cl_d__subcl_ii__point_I__proviso_2">
+                    <content>
+                      <p>Provided further that all such intimations shall be subject to periodic review by an officer not below the rank of the Secretary of the concerned Appropriate Government once in every month to ensure that such intimations are necessary, proportionate, and consistent with <ref href="/akn/in/act/2000/21/~sec_79__subsec_3__cl_b">clause (b) of sub-section (3) of section 79 of the Act</ref> and this clause;</p>
+                    </content>
+                  </proviso>
+                </point>
+                <point eId="rule_3__subrule_1__cl_d__subcl_ii__point_II">
+                  <num>(II)</num>
+                  <content>
+                    <p>clearly specifying the legal basis and statutory provision invoked, the nature of the unlawful act, and the specific uniform resource locator, identifier or other electronic location of the information, data or communication link required to be removed or disabled;</p>
+                  </content>
+                </point>
+              </subclause>
             </clause>
             <clause eId="rule_3__subrule_1__cl_e">
               <num>(e)</num>
@@ -413,9 +1052,14 @@
             </clause>
             <clause eId="rule_3__subrule_1__cl_f">
               <num>(f)</num>
-              <content>
-                <p>the intermediary shall periodically, and at least once in a year, inform its users of its rules and regulations, privacy policy or user agreement or any change in the rules and regulations, privacy policy or user agreement, as the case may be;</p>
-              </content>
+              <intro>
+                <p>the intermediary shall periodically, and at least once in a year, inform its users in English or any language specified in the Eighth Schedule to the Constitution in the language of his choice of its rules and regulations, privacy policy or user agreement or any change in the rules and regulations, privacy policy or user agreement, as the case may be;</p>
+              </intro>
+              <proviso eId="rule_3__subrule_1__cl_f__proviso_1">
+                <content>
+                  <p>Provided that an online gaming intermediary who enables the users to access any permissible online real money game shall inform its users of such change as soon as possible, but not later than twenty-four hours after the change is effected;</p>
+                </content>
+              </proviso>
             </clause>
             <clause eId="rule_3__subrule_1__cl_g">
               <num>(g)</num>
@@ -438,7 +1082,7 @@
             <clause eId="rule_3__subrule_1__cl_j">
               <num>(j)</num>
               <intro>
-                <p>the intermediary shall, as soon as possible, but not later than seventy two hours of the receipt of an order, provide information under its control or possession, or assistance to the Government agency which is lawfully authorised for investigative or protective or cyber security activities, for the purposes of verification of identity, or for the prevention, detection, investigation, or prosecution, of offences under any law for the time being in force, or for cyber security incidents:</p>
+                <p>the intermediary shall, as soon as possible, but not later than seventy two hours and in case of an online gaming intermediary who enables the users to access any permissible online real money game not later than twenty-four hours of the receipt of an order, provide information under its control or possession, or assistance to the Government agency which is lawfully authorised for investigative or protective or cyber security activities, for the purposes of verification of identity, or for the prevention, detection, investigation, or prosecution, of offences under any law for the time being in force, or for cyber security incidents:</p>
               </intro>
               <proviso eId="rule_3__subrule_1__cl_j__proviso_1">
                 <content>
@@ -463,22 +1107,44 @@
                 <p>the intermediary shall report cyber security incidents and share related information with the Indian Computer Emergency Response Team in accordance with the policies and procedures as mentioned in the Information Technology (The Indian Computer Emergency Response Team and Manner of Performing Functions and Duties) Rules, 2013.</p>
               </content>
             </clause>
+            <clause eId="rule_3__subrule_1__cl_m">
+              <num>(m)</num>
+              <content>
+                <p>the intermediary shall take all reasonable measures to ensure accessibility of its services to users along with reasonable expectation of due diligence, privacy and transparency;</p>
+              </content>
+            </clause>
+            <clause eId="rule_3__subrule_1__cl_n">
+              <num>(n)</num>
+              <content>
+                <p>the intermediary shall respect all the rights accorded to the citizens under the Constitution, including in the articles 14, 19 and 21.</p>
+              </content>
+            </clause>
           </subrule>
           <subrule eId="rule_3__subrule_2">
             <num>(2)</num>
             <intro>
-              <p>Grievance redressalmechanismof intermediary:</p>
+              <p>Grievance redressal mechanism of intermediary:</p>
             </intro>
             <clause eId="rule_3__subrule_2__cl_a">
               <num>(a)</num>
               <intro>
-                <p>The intermediary shall prominently publish on its website,mobile based application or both,as the case may be, the name of the Grievance Officer and his contact details as well as mechanism by which a user or a victim may make complaint against violation of the provisions of this rule or any other matters pertaining to the computer resources made available by it, and the Grievance Officer shall -</p>
+                <p>The intermediary shall prominently publish on its website, mobile based application or both, as the case may be, the name of the Grievance Officer and his contact details as well as mechanism by which a user or a victim may make complaint against violation of the provisions of this rule or <ref href="#rule_4__subrule_11">sub-rules (11) to (13) of rule 4</ref>, or in respect of any other matters pertaining to the computer resources made available by it, and the Grievance Officer shall -</p>
               </intro>
               <subclause eId="rule_3__subrule_2__cl_a__subcl_i">
                 <num>(i)</num>
-                <content>
-                  <p>acknowledge the complaint within twenty four hours anddispose offsuch complaint within a period of fifteen days from the date of its receipt;</p>
-                </content>
+                <intro>
+                  <p>acknowledge the complaint within twenty-four hours and resolve such complaint within a period of seven days from the date of its receipt:</p>
+                </intro>
+                <proviso eId="rule_3__subrule_2__cl_a__subcl_i__proviso_1">
+                  <content>
+                    <p>Provided that the complaint in the nature of request for removal of information or communication link relating to <ref href="#rule_3__subrule_1__cl_b">clause (b) of sub-rule (1) of rule 3</ref>, except sub-clauses (i), (iv) and (xi), shall be acted upon as expeditiously as possible and shall be resolved within thirty-six hours of such reporting;</p>
+                  </content>
+                </proviso>
+                <proviso eId="rule_3__subrule_2__cl_a__subcl_i__proviso_2">
+                  <content>
+                    <p>Provided further that appropriate safeguards may be developed by the intermediary to avoid any misuse by users;</p>
+                  </content>
+                </proviso>
               </subclause>
               <subclause eId="rule_3__subrule_2__cl_a__subcl_ii">
                 <num>(ii)</num>
@@ -486,28 +1152,134 @@
                   <p>receive and acknowledge any order, notice or direction issued by the Appropriate Government, any competent authority or a court of competent jurisdiction.</p>
                 </content>
               </subclause>
+              <hcontainer eId="rule_3__subrule_2__cl_a__hcontainer_1" name="explanation">
+                <num>Explanation.—</num>
+                <content>
+                  <p>In this rule, “prominently publish” shall mean publishing in a clearly visible manner on the home page of the website or the home screen of the mobile based application, or both, as the case may be, or on a web page or an app screen directly accessible from the home page or home screen.</p>
+                </content>
+              </hcontainer>
             </clause>
             <clause eId="rule_3__subrule_2__cl_b">
               <num>(b)</num>
               <content>
-                <p>The intermediary shall, within twenty-four hours from the receipt of a complaint made by an individual or any person on his behalf under this sub-rule, in relation to any content which is prima facie in the nature of any material which exposes the private area of such individual, shows such individual in full or partial nudity or shows or depicts such individual in any sexual act or conduct, or is in the nature of impersonation in an electronic form, including artificially morphed images of such individual, take all reasonable and practicable measures to remove or disable access to such content which is hosted, stored, published or transmitted by it:</p>
+                <p>The intermediary shall, within two hours from the receipt of a complaint made by an individual or any person on his behalf under this sub-rule, in relation to any content which is prima facie in the nature of any material which exposes the private area of such individual, shows such individual in full or partial nudity or shows or depicts such individual in any sexual act or conduct, or is in the nature of impersonation in an electronic form, including artificially morphed images of such individual, take all reasonable and practicable measures to remove or disable access to such content which is hosted, stored, published or transmitted by it:</p>
               </content>
             </clause>
             <clause eId="rule_3__subrule_2__cl_c">
               <num>(c)</num>
               <content>
-                <p>The intermediary shall implement a mechanism for the receipt of complaints underclause (b) of this sub-rule which may enable the individual or person to provide details, as may be necessary, in relation to such content or communication link.</p>
+                <p>The intermediary shall implement a mechanism for the receipt of complaints under <ref href="#rule_3__subrule_2__cl_b">clause (b)</ref> of this sub-rule which may enable the individual or person to provide details, as may be necessary, in relation to such content or communication link.</p>
+              </content>
+            </clause>
+          </subrule>
+          <subrule eId="rule_3__subrule_3">
+            <num>(3)</num>
+            <intro>
+              <p>Due diligence in relation to synthetically generated information:</p>
+            </intro>
+            <clause eId="rule_3__subrule_3__cl_a">
+              <num>(a)</num>
+              <intro>
+                <p>Where an intermediary offers a computer resource which may enable, permit, or facilitate the creation, generation, modification, alteration, publication, transmission, sharing, or dissemination of information as synthetically generated information, it shall ensure that,—</p>
+              </intro>
+              <subclause eId="rule_3__subrule_3__cl_a__subcl_i">
+                <num>(i)</num>
+                <intro>
+                  <p>it deploys reasonable and appropriate technical measures, including automated tools or other suitable mechanisms, to not allow any user to create, generate, modify, alter, publish, transmit, share, or disseminate, as the case may be, any such synthetically generated information that violates any law for the time being in force, including the Act, Bharatiya Nyaya Sanhita, 2023 (45 of 2023), Protection of Children from Sexual Offences Act, 2012 (32 of 2012), Explosive Substances Act, 1908 (6 of 1908), and includes any such synthetically generated information that,—</p>
+                </intro>
+                <point eId="rule_3__subrule_3__cl_a__subcl_i__point_I">
+                  <num>(I)</num>
+                  <content>
+                    <p>contains child sexual exploitative and abuse material, non-consensual intimate imagery content, or is obscene, pornographic, paedophilic, invasive of another person’s privacy, including bodily privacy, vulgar, indecent or sexually explicit; or</p>
+                  </content>
+                </point>
+                <point eId="rule_3__subrule_3__cl_a__subcl_i__point_II">
+                  <num>(II)</num>
+                  <content>
+                    <p>results in the creation, generation, modification or alteration of any false document or false electronic record; or</p>
+                  </content>
+                </point>
+                <point eId="rule_3__subrule_3__cl_a__subcl_i__point_III">
+                  <num>(III)</num>
+                  <content>
+                    <p>relates to the preparation, development or procurement of explosive material, arms or ammunition; or</p>
+                  </content>
+                </point>
+                <point eId="rule_3__subrule_3__cl_a__subcl_i__point_IV">
+                  <num>(IV)</num>
+                  <content>
+                    <p>falsely depicts or portrays a natural person or real-world event by misrepresenting, in a manner that is likely to deceive, such person’s identity, voice, conduct, action, statement, or such event as having occurred, with or without the involvement of natural person; and</p>
+                  </content>
+                </point>
+              </subclause>
+              <subclause eId="rule_3__subrule_3__cl_a__subcl_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>every such information not covered under <ref href="#rule_3__subrule_3__cl_a__subcl_i">sub-clause (i) of clause (a)</ref> is prominently labelled in a manner that ensures prominent visibility in the visual display that is easily noticeable and adequately perceivable, or, in the case of audio content, through a prominently prefixed audio disclosure, that can be used to immediately identify that such information is synthetically generated information which has been created, generated, modified or altered using a computer resource and such information shall be embedded with a permanent metadata or other appropriate technical provenance mechanisms, to the extent technically feasible, including a unique identifier, to identify the computer resource of the intermediary used to create, generate, modify or alter such information;</p>
+                </content>
+              </subclause>
+            </clause>
+            <clause eId="rule_3__subrule_3__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>the intermediary shall not enable the modification, suppression or removal of the label, permanent metadata, including the unique identifier, displayed or embedded in accordance with <ref href="#rule_3__subrule_3__cl_a__subcl_ii">sub-clause (ii) of clause (a)</ref>.</p>
               </content>
             </clause>
           </subrule>
         </rule>
-        <rule eId="rule_4" period="#tg_1">
+        <rule eId="rule_3A" period="#tg_2">
+          <num>3A.</num>
+          <heading>Appeal to Grievance Appellate Committee(s)</heading>
+          <subrule eId="rule_3A__subrule_1">
+            <num>(1)</num>
+            <content>
+              <p>The Central Government shall, by notification, establish one or more Grievance Appellate Committees within three months from the date of commencement of the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Amendment Rules, 2022.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_3A__subrule_2">
+            <num>(2)</num>
+            <content>
+              <p>Each Grievance Appellate Committee shall consist of a chairperson and two whole time members appointed by the Central Government, of which one shall be a member ex-officio and two shall be independent members.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_3A__subrule_3">
+            <num>(3)</num>
+            <content>
+              <p>Any person who is aggrieved by a decision of the Grievance Officer or whose grievance is not resolved within the period specified for resolution in <ref href="#rule_3__subrule_2__cl_a__subcl_i">sub-clause (i) of clause (a) of sub-rule (2) of rule 3</ref> or <ref href="#rule_3__subrule_2__cl_b">clause (b) of sub-rule (2) of rule 3</ref> or <ref href="#rule_4A__subrule_11">sub-rule (11) of rule 4A</ref>, as the case may be, may prefer an appeal to the Grievance Appellate Committee within a period of thirty days from the date of receipt of communication from the Grievance Officer.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_3A__subrule_4">
+            <num>(4)</num>
+            <content>
+              <p>The Grievance Appellate Committee shall deal with such appeal expeditiously and shall make an endeavour to resolve the appeal finally within thirty calendar days from the date of receipt of the appeal.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_3A__subrule_5">
+            <num>(5)</num>
+            <content>
+              <p>While dealing with the appeal if the Grievance Appellate Committee feels necessary, it may seek assistance from any person having requisite qualification, experience and expertise in the subject matter.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_3A__subrule_6">
+            <num>(6)</num>
+            <content>
+              <p>The Grievance Appellate Committee shall adopt an online dispute resolution mechanism wherein the entire appeal process, from filing of appeal to the decision thereof, shall be conducted through digital mode.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_3A__subrule_7">
+            <num>(7)</num>
+            <content>
+              <p>Every order passed by the Grievance Appellate Committee shall be complied with by the intermediary concerned or the online gaming self-regulatory body concerned, as the case may be, and a report to that effect shall be uploaded on its website.</p>
+            </content>
+          </subrule>
+        </rule>
+        <rule eId="rule_4" period="#tg_3">
           <num>4.</num>
-          <heading>Additional due diligence to be observed by significant social media intermediary</heading>
+          <heading>Additional due diligence to be observed by significant social media intermediary and online gaming intermediary</heading>
           <subrule eId="rule_4__subrule_1">
             <num>(1)</num>
             <intro>
-              <p>In addition to the due diligence observed under <ref href="#rule_3">rule 3</ref>, a significant social media intermediary shall, within three months from the date of notification of the threshold under <ref href="#rule_2__subrule_1__cl_v">clause (v) of sub-rule (1) of rule 2</ref>, observe the following additional due diligence while discharging its duties, namely:—</p>
+              <p>In addition to the due diligence observed under <ref href="#rule_3">rule 3</ref>, a significant social media intermediary, within three months from the date of notification of the threshold under <ref href="#rule_2__subrule_1__cl_v">clause (v) of sub-rule (1) of rule 2</ref>, and an online gaming intermediary that enables the users to access any permissible online real money game, shall observe the following additional due diligence while discharging its duties, namely:—</p>
             </intro>
             <clause eId="rule_4__subrule_1__cl_a">
               <num>(a)</num>
@@ -516,13 +1288,13 @@
               </intro>
               <proviso eId="rule_4__subrule_1__cl_a__proviso_1">
                 <content>
-                  <p>Provided that no liability under the Act or rules made thereunder may be imposed on such significant social media intermediary without being given an opportunity of being heard.</p>
+                  <p>Provided that no liability under the Act or rules made thereunder may be imposed on such significant social media intermediary or such online gaming intermediary without being given an opportunity of being heard.</p>
                 </content>
               </proviso>
               <hcontainer eId="rule_4__subrule_1__cl_a__hcontainer_1" name="explanation">
                 <num>Explanation.—</num>
                 <content>
-                  <p>For the purposes of this clause ―Chief Compliance Officer‖ means a key managerial personnel or such other senior employee of a significant socialmedia intermediary who isresidentin India;</p>
+                  <p>For the purposes of this clause “Chief Compliance Officer” means a key managerial personnel or such other senior employee of a significant social media intermediary or an online gaming intermediary, as the case may be, who is resident in India;</p>
                 </content>
               </hcontainer>
             </clause>
@@ -533,9 +1305,21 @@
               </intro>
               <hcontainer eId="rule_4__subrule_1__cl_b__hcontainer_1" name="explanation">
                 <num>Explanation.—</num>
-                <content>
-                  <p>For the purposes of this clause ―nodal contact person‖ means the employee of a significant social media intermediary, other than the Chief Compliance Officer, who isresidentin India;</p>
-                </content>
+                <intro>
+                  <p>In this clause, “nodal contact person” means the employee of—</p>
+                </intro>
+                <subclause eId="rule_4__subrule_1__cl_b__hcontainer_1__subcl_i">
+                  <num>(i)</num>
+                  <content>
+                    <p>a significant social media intermediary, other than its Chief Compliance Officer; or</p>
+                  </content>
+                </subclause>
+                <subclause eId="rule_4__subrule_1__cl_b__hcontainer_1__subcl_ii">
+                  <num>(ii)</num>
+                  <content>
+                    <p>an online gaming intermediary, who is resident in India;</p>
+                  </content>
+                </subclause>
               </hcontainer>
             </clause>
             <clause eId="rule_4__subrule_1__cl_c">
@@ -546,15 +1330,50 @@
               <hcontainer eId="rule_4__subrule_1__cl_c__hcontainer_1" name="explanation">
                 <num>Explanation.—</num>
                 <content>
-                  <p>For the purposes of this clause, ―Resident Grievance Officer‖ means the employee of a significant social media intermediary, who is residentin India;</p>
+                  <p>For the purposes of this clause, “Resident Grievance Officer” means the employee of a significant social media intermediary or an online gaming intermediary, as the case may be, who is resident in India;</p>
                 </content>
               </hcontainer>
             </clause>
             <clause eId="rule_4__subrule_1__cl_d">
               <num>(d)</num>
               <content>
-                <p>publish periodic compliance report every month mentioning the details of complaints received and action taken thereon, and the number of specific communication links or parts of information that the intermediary has removed or disabled access to in pursuance of any proactive monitoring conducted by using automated tools or any other relevant information as may be specified;</p>
+                <p>publish periodic compliance report every month mentioning the details of complaints received and action taken thereon, and, in respect of a significant social media intermediary, the number of specific communication links or parts of information that the intermediary has removed or disabled access to in pursuance of any proactive monitoring conducted by using automated tools or any other relevant information as may be specified;</p>
               </content>
+            </clause>
+          </subrule>
+          <subrule eId="rule_4__subrule_1A">
+            <num>(1A)</num>
+            <intro>
+              <p>A significant social media intermediary which enables displaying, uploading, or publishing any information on its computer resource shall, prior to such display, uploading, or publication,—</p>
+            </intro>
+            <clause eId="rule_4__subrule_1A__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>require users to declare whether such information is synthetically generated information;</p>
+              </content>
+            </clause>
+            <clause eId="rule_4__subrule_1A__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>deploy appropriate technical measures, including automated tools or other suitable mechanisms, to verify the accuracy of such declaration, having regard to the nature, format, and source of such information; and</p>
+              </content>
+            </clause>
+            <clause eId="rule_4__subrule_1A__cl_c">
+              <num>(c)</num>
+              <intro>
+                <p>where such declaration or technical verification confirms that the information is synthetically generated, ensure that the same is clearly and prominently displayed with an appropriate label or notice, indicating that the content is synthetically generated:</p>
+              </intro>
+              <proviso eId="rule_4__subrule_1A__cl_c__proviso_1">
+                <content>
+                  <p>Provided that where such intermediary becomes aware, or it is otherwise established, that the intermediary knowingly permitted, promoted, or failed to act upon such synthetically generated information in contravention of these rules, such intermediary shall be deemed to have failed to exercise due diligence under this sub-rule.</p>
+                </content>
+              </proviso>
+              <hcontainer eId="rule_4__subrule_1A__cl_c__hcontainer_1" name="explanation">
+                <num>Explanation.—</num>
+                <content>
+                  <p>For the removal of doubts, it is hereby clarified that the responsibility of the significant social media intermediary shall extend to taking reasonable and proportionate technical measures to verify the correctness of user declarations and to ensure that no synthetically generated information is published without such declaration or label.</p>
+                </content>
+              </hcontainer>
             </clause>
           </subrule>
           <subrule eId="rule_4__subrule_2">
@@ -607,7 +1426,7 @@
           <subrule eId="rule_4__subrule_4">
             <num>(4)</num>
             <intro>
-              <p>A significant social media intermediary shall endeavour to deploy technology-based measures, including automated tools or other mechanisms to proactively identify information that depicts any act or simulation in any form depicting rape, child sexual abuse or conduct, whether explicit or implicit, or any information which is exactly identical in content to information that has previously been removed or access to which has been disabled on the computer resource of such intermediary under <ref href="#rule_3__subrule_1__cl_d">clause (d) of sub-rule (1) of rule 3</ref>, and shall display a notice to any user attempting to access such information stating that such information has been identified by the intermediary under the categories referred to in this sub-rule:</p>
+              <p>A significant social media intermediary shall deploy appropriate technical measures, including automated tools or other suitable mechanisms to proactively identify information that depicts any act or simulation in any form depicting rape, child sexual abuse or conduct, whether explicit or implicit, or any information which is exactly identical in content to information that has previously been removed or access to which has been disabled on the computer resource of such intermediary under <ref href="#rule_3__subrule_1__cl_d">clause (d) of sub-rule (1) of rule 3</ref>, and shall display a notice to any user attempting to access such information stating that such information has been identified by the intermediary under the categories referred to in this sub-rule:</p>
             </intro>
             <proviso eId="rule_4__subrule_4__proviso_1">
               <content>
@@ -628,13 +1447,13 @@
           <subrule eId="rule_4__subrule_5">
             <num>(5)</num>
             <content>
-              <p>The significant social media intermediary shall have a physical contact address in India published on its website, mobile based application or both, as the case may be, for the purposes of receiving the communication addressed to it.</p>
+              <p>A significant social media intermediary and an online gaming intermediary who enables the users to access any permissible online real money game shall have a physical contact address in India published on its website, mobile based application or both, as the case may be, for the purposes of receiving the communication addressed to it.</p>
             </content>
           </subrule>
           <subrule eId="rule_4__subrule_6">
             <num>(6)</num>
             <intro>
-              <p>The significant social media intermediary shall implement an appropriate mechanism for the receipt of complaints under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref> and grievances in relation to the violation of provisions under this rule, which shall enable the complainant to track the status of such complaint or grievance by providing a unique ticket number for every complaint or grievance received by such intermediary:</p>
+              <p>A significant social media intermediary and an online gaming intermediary who enables the users to access any permissible online real money game shall implement an appropriate mechanism for the receipt of complaints under <ref href="#rule_3__subrule_2">sub-rule (2) of rule 3</ref> and grievances in relation to the violation of provisions under this rule, which shall enable the complainant to track the status of such complaint or grievance by providing a unique ticket number for every complaint or grievance received by such intermediary:</p>
             </intro>
             <proviso eId="rule_4__subrule_6__proviso_1">
               <content>
@@ -645,7 +1464,7 @@
           <subrule eId="rule_4__subrule_7">
             <num>(7)</num>
             <intro>
-              <p>The significant social media intermediary shall enable users who register for their services from India, or use their services in India, to voluntarily verify their accounts by using any appropriate mechanism, including the active Indian mobile number of such users, and where any user voluntarily verifies their account, such user shall be provided with a demonstrable and visible mark of verification, which shall be visible to all users of the service:</p>
+              <p>A significant social media intermediary and an online gaming intermediary who enables the users to access any permissible online real money game shall enable users who register for their services from India, or use their services in India, to voluntarily verify their accounts by using any appropriate mechanism, including the active Indian mobile number of such users, and where any user voluntarily verifies their account, such user shall be provided with a demonstrable and visible mark of verification, which shall be visible to all users of the service:</p>
             </intro>
             <proviso eId="rule_4__subrule_7__proviso_1">
               <content>
@@ -682,6 +1501,352 @@
             <content>
               <p>The Ministry may call for such additional information from any significant social media intermediary as it may consider necessary for the purposes of this part.</p>
             </content>
+          </subrule>
+          <subrule eId="rule_4__subrule_10">
+            <num>(10)</num>
+            <content>
+              <p>An online gaming intermediary who enables access to its users to any permissible online real money game, shall display a demonstrable and visible mark of verification of such online game by an online gaming self-regulatory body on such permissible online real money game.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4__subrule_11">
+            <num>(11)</num>
+            <intro>
+              <p>While informing the users of its rules and regulations, privacy policy, terms of service and user agreements under <ref href="#rule_3__subrule_1__cl_b">clause (b) of sub-rule (1) of rule 3</ref>, an online gaming intermediary who enables the users to access any permissible online real money game, shall include the following information in respect of every such online games, namely:—</p>
+            </intro>
+            <clause eId="rule_4__subrule_11__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>the policy related to withdrawal or refund of the deposit made with the expectation of earning winnings, the manner of determination and distribution of such winnings, and the fees and other charges payable by the user;</p>
+              </content>
+            </clause>
+            <clause eId="rule_4__subrule_11__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>the know-your-customer procedure followed by it for verifying the identity of the users of such online game;</p>
+              </content>
+            </clause>
+            <clause eId="rule_4__subrule_11__cl_c">
+              <num>(c)</num>
+              <content>
+                <p>the measures taken for protection of deposit made by a user for such online game; and</p>
+              </content>
+            </clause>
+            <clause eId="rule_4__subrule_11__cl_d">
+              <num>(d)</num>
+              <content>
+                <p>the framework referred to in <ref href="#rule_4A">rule 4A</ref>, relating to such online game.</p>
+              </content>
+            </clause>
+          </subrule>
+          <subrule eId="rule_4__subrule_12">
+            <num>(12)</num>
+            <intro>
+              <p>An online gaming intermediary shall, before accepting any deposit in cash or kind from any user for a permissible online real money game, identify such user and verify his identity:</p>
+            </intro>
+            <proviso eId="rule_4__subrule_12__proviso_1">
+              <content>
+                <p>Provided that the procedure required to be followed by an entity regulated by the Reserve Bank of India for identification and verification of a customer at the commencement of an account-based relationship shall apply, mutatis mutandis, in identification and verification of the users of such online gaming intermediary.</p>
+              </content>
+            </proviso>
+          </subrule>
+          <subrule eId="rule_4__subrule_13">
+            <num>(13)</num>
+            <content>
+              <p>An online gaming intermediary who enables the users to access any permissible online real money game shall not itself finance by way of credit or enable financing to be offered by third party for the purpose of playing such online game.</p>
+            </content>
+          </subrule>
+        </rule>
+        <rule eId="rule_4A" period="#tg_3">
+          <num>4A.</num>
+          <heading>Verification of online real money game</heading>
+          <subrule eId="rule_4A__subrule_1">
+            <num>(1)</num>
+            <content>
+              <p>The Ministry may, by a notification in the Official Gazette, designate as many online gaming self-regulatory bodies as it may consider necessary for the purposes of verifying an online real money game as a permissible online real money game under these rules.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_2">
+            <num>(2)</num>
+            <intro>
+              <p>An entity which fulfils the following criteria may apply to the Ministry for designation as an online gaming self-regulatory body, namely:—</p>
+            </intro>
+            <clause eId="rule_4A__subrule_2__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>the entity is a company registered under section 8 of the Companies Act, 2013 (18 of 2013);</p>
+              </content>
+            </clause>
+            <clause eId="rule_4A__subrule_2__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>its membership is representative of the gaming industry;</p>
+              </content>
+            </clause>
+            <clause eId="rule_4A__subrule_2__cl_c">
+              <num>(c)</num>
+              <content>
+                <p>its members have been offering and promoting online games in a responsible manner;</p>
+              </content>
+            </clause>
+            <clause eId="rule_4A__subrule_2__cl_d">
+              <num>(d)</num>
+              <intro>
+                <p>its Board of Directors is comprised of individuals of repute and do not have any conflict of interest and possess special knowledge or practical experience suitable for the performance of the functions of such self-regulatory body, and consists of—</p>
+              </intro>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_i">
+                <num>(i)</num>
+                <content>
+                  <p>an individual having special knowledge of or practical experience in the online gaming industry;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>an individual having experience in promoting the interests of users of online games;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>an educationist;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>an expert in the field of psychology or mental health or such other relevant field;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_v">
+                <num>(v)</num>
+                <content>
+                  <p>an individual having special knowledge of or practical experience in the field of information and communications technology;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_vi">
+                <num>(vi)</num>
+                <content>
+                  <p>an individual who is or has been a member or officer of an organisation dealing with the protection of child rights;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_vii">
+                <num>(vii)</num>
+                <content>
+                  <p>an individual having practical experience in the field of public policy or public administration or law enforcement or public finance or other relevant field, to be nominated by the Ministry; and</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_d__subcl_viii">
+                <num>(viii)</num>
+                <content>
+                  <p>such other individuals as may be appointed with the previous approval of the Ministry;</p>
+                </content>
+              </subclause>
+            </clause>
+            <clause eId="rule_4A__subrule_2__cl_e">
+              <num>(e)</num>
+              <intro>
+                <p>its memorandum of association and articles of association contain provisions relating to—</p>
+              </intro>
+              <subclause eId="rule_4A__subrule_2__cl_e__subcl_i">
+                <num>(i)</num>
+                <content>
+                  <p>the performance of its functions under these rules, including the redressal of grievances under <ref href="#rule_4A__subrule_11">sub-rule (11)</ref>, in a manner free from conflict of interest and at arm’s length from its members;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_e__subcl_ii">
+                <num>(ii)</num>
+                <content>
+                  <p>the disclosure and reporting by and accountability of its members in relation to the online games verified by such body;</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_e__subcl_iii">
+                <num>(iii)</num>
+                <content>
+                  <p>the clear and relevant criteria, consistent with these rules, for the acceptance and continuation of a person as its member, and for revoking or suspending such membership after giving such person an opportunity of being heard; and</p>
+                </content>
+              </subclause>
+              <subclause eId="rule_4A__subrule_2__cl_e__subcl_iv">
+                <num>(iv)</num>
+                <content>
+                  <p>the requirement that the amendment in the memorandum of association and articles of association in relation to any matter referred to in sub-clauses <ref href="#rule_4A__subrule_2__cl_e__subcl_i">(i)</ref>, <ref href="#rule_4A__subrule_2__cl_e__subcl_ii">(ii)</ref> or <ref href="#rule_4A__subrule_2__cl_e__subcl_iii">(iii)</ref> is carried out with the previous approval of the Ministry; and</p>
+                </content>
+              </subclause>
+            </clause>
+            <clause eId="rule_4A__subrule_2__cl_f">
+              <num>(f)</num>
+              <content>
+                <p>the entity has sufficient capacity, including financial capacity, to perform its functions as an online gaming self-regulatory body under these rules.</p>
+              </content>
+            </clause>
+          </subrule>
+          <subrule eId="rule_4A__subrule_3">
+            <num>(3)</num>
+            <intro>
+              <p>The online gaming self-regulatory body, upon an application made to it by its member in respect of an online real money game, may declare such online real money game as a permissible online real money game, if, after making such inquiry as it deems fit, it is satisfied that—</p>
+            </intro>
+            <clause eId="rule_4A__subrule_3__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>the online real money game does not involve wagering on any outcome; and</p>
+              </content>
+            </clause>
+            <clause eId="rule_4A__subrule_3__cl_b">
+              <num>(b)</num>
+              <intro>
+                <p>the online gaming intermediary and such online game is in compliance with the provisions of rules <ref href="#rule_3">3</ref> and <ref href="#rule_4">4</ref>, the provisions of any law relating to the age at which an individual is competent to enter into a contract, and the framework made by the online gaming self-regulatory body under <ref href="#rule_4A__subrule_8">sub-rule (8)</ref>:</p>
+              </intro>
+              <proviso eId="rule_4A__subrule_3__cl_b__proviso_1">
+                <content>
+                  <p>Provided that an online gaming self-regulatory body may, initially rely upon the information furnished by the applicant for verification of the online real money game and declare such game as a permissible online real money game for a period not exceeding three months:</p>
+                </content>
+              </proviso>
+              <proviso eId="rule_4A__subrule_3__cl_b__proviso_2">
+                <content>
+                  <p>Provided further that the online gaming self-regulatory body shall endeavour to complete the inquiry within the said period of three months and, upon its completion, either declare the online real money game as a permissible online real money game or inform the applicant in writing with the reasons thereof that such online game does not meet the requirements under these rules.</p>
+                </content>
+              </proviso>
+            </clause>
+          </subrule>
+          <subrule eId="rule_4A__subrule_4">
+            <num>(4)</num>
+            <content>
+              <p>The online gaming self-regulatory body shall publish and maintain on its website, mobile based application or both, at all times, an updated list of all permissible online real money games verified under <ref href="#rule_4A__subrule_3">sub-rule (3)</ref>, along with the details of such online games including the details of the applicant, the dates and period of validity of the verification, the reasons of such verification and the details of the suspension or revocation, if any, of verification of any online real money game.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_5">
+            <num>(5)</num>
+            <content>
+              <p>Every online gaming self-regulatory body shall publish and maintain on its website, mobile based application or both, at all times, an updated list of all its members, whether present or former, the dates of their acceptance as member, their corporate or business-related identity number and other details, and the details of suspension or revocation of membership of any member.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_6">
+            <num>(6)</num>
+            <content>
+              <p>The online gaming self-regulatory body may, at any time, after giving the applicant member an opportunity of being heard and for reasons to be communicated in writing, suspend or revoke the verification, if it is satisfied that the online real money game verified by it is not in compliance with the provisions of these rules.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_7">
+            <num>(7)</num>
+            <content>
+              <p>The online real money game verified under <ref href="#rule_4A__subrule_3">sub-rule (3)</ref>, and the online gaming intermediary which enables access to such online real money game, shall display a demonstrable and visible mark of such verification stating that the online real money game is verified by the online gaming self-regulatory body as a permissible online real money game under these rules.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_8">
+            <num>(8)</num>
+            <intro>
+              <p>The online gaming self-regulatory body shall prominently publish on its website, mobile based application or both, as the case may be, a framework for verifying an online real money game, which, among other things, includes the following, namely:—</p>
+            </intro>
+            <clause eId="rule_4A__subrule_8__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>the measures to ensure that such online real money game is not against the interests of sovereignty and integrity of India, security of the State, friendly relations with foreign States and public order;</p>
+              </content>
+            </clause>
+            <clause eId="rule_4A__subrule_8__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>the safeguards against user harm, including self-harm and psychological harm;</p>
+              </content>
+            </clause>
+            <clause eId="rule_4A__subrule_8__cl_c">
+              <num>(c)</num>
+              <content>
+                <p>the measures to safeguard children, including measures for parental or access control and classifying online games through age-rating mechanism, based on the nature and type of content; and</p>
+              </content>
+            </clause>
+            <clause eId="rule_4A__subrule_8__cl_d">
+              <num>(d)</num>
+              <content>
+                <p>the measures to safeguard users against the risk of gaming addiction, financial loss and financial fraud, including repeated warning messages at higher frequency beyond a reasonable duration for a gaming session and provision to enable a user to exclude himself upon user-defined limits being reached for time or money spent.</p>
+              </content>
+            </clause>
+          </subrule>
+          <subrule eId="rule_4A__subrule_9">
+            <num>(9)</num>
+            <content>
+              <p>The Ministry may, if it considers it necessary, by a notice in writing, require an online gaming self-regulatory body to furnish to the Ministry or disclose on such body’s website or mobile based application or both, such information as the Ministry may specify in the notice.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_10">
+            <num>(10)</num>
+            <content>
+              <p>Before issuing a direction under <ref href="/akn/in/act/2000/21/~sec_69A">section 69A of the Act</ref> in respect of a permissible online real money game, the Central Government may take into consideration the details published by an online gaming self-regulatory body under <ref href="#rule_4A__subrule_4">sub-rule (4)</ref>.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_11">
+            <num>(11)</num>
+            <content>
+              <p>Every online gaming self-regulatory body shall prominently publish on its website, mobile based application or both, the framework for redressal of grievances and the contact details of the Grievance Officer to which an applicant aggrieved by a decision of such body with respect to verification may make a complaint in respect of any matter related to such online real money game or verification which shall be acknowledged by the Grievance Officer within twenty-four hours and resolved within a period of fifteen days from the date of its receipt.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_12">
+            <num>(12)</num>
+            <content>
+              <p>Where the Ministry is of the view that any verification of a permissible online real money game by an online gaming self-regulatory body is not in conformity with these rules, it may, after giving such body an opportunity of being heard, communicate, in writing, the fact of such non-conformity to that body and direct it to take measures to rectify the same.</p>
+            </content>
+          </subrule>
+          <subrule eId="rule_4A__subrule_13">
+            <num>(13)</num>
+            <intro>
+              <p>The Ministry may, if it is satisfied that it is necessary so to do, after giving the online gaming self-regulatory body an opportunity of being heard, by order, for reasons to be recorded in writing, suspend or revoke the designation of such body:</p>
+            </intro>
+            <proviso eId="rule_4A__subrule_13__proviso_1">
+              <content>
+                <p>Provided that the Ministry may, in the interest of the users of any online game that was verified by such body at the same time or at any subsequent time, give such interim directions as it may deem necessary to any intermediary or class of intermediaries regarding enabling its users to access such online game.</p>
+              </content>
+            </proviso>
+          </subrule>
+          <subrule eId="rule_4A__subrule_14">
+            <num>(14)</num>
+            <content>
+              <p>In this rule, ‘prominently publish’ shall mean publishing in a clearly visible manner on the home page of the website or the home screen of the mobile based application, or both, as the case may be, or on a web page or an app screen directly accessible from the home page or home screen.</p>
+            </content>
+          </subrule>
+        </rule>
+        <rule eId="rule_4B" period="#tg_3">
+          <num>4B.</num>
+          <heading>Applicability of certain obligations after an initial period</heading>
+          <intro>
+            <p>The obligations under rules <ref href="#rule_3">3</ref> and <ref href="#rule_4">4</ref> shall not apply in relation to online games until the expiry of a period of three months from the date on which at least three online gaming self-regulatory bodies have been designated under <ref href="#rule_4A">rule 4A</ref>:</p>
+          </intro>
+          <proviso eId="rule_4B__proviso_1">
+            <content>
+              <p>Provided that the Central Government may, at any time before the expiry of the said period of three months, by a notification in the Official Gazette, direct that the obligations under rules <ref href="#rule_3">3</ref> and <ref href="#rule_4">4</ref> shall apply in relation to an online game from such date as may be specified in the notification.</p>
+            </content>
+          </proviso>
+        </rule>
+        <rule eId="rule_4C" period="#tg_3">
+          <num>4C.</num>
+          <heading>Obligations in relation to online game other than online real money game</heading>
+          <subrule eId="rule_4C__subrule_1">
+            <num>(1)</num>
+            <intro>
+              <p>If the Central Government considers it necessary so to do in the interest of the sovereignty and integrity of India or security of the State or friendly relations with foreign States or public order, or preventing user harm, it may, by a notification in the Official Gazette, for reasons to be recorded in writing,—</p>
+            </intro>
+            <clause eId="rule_4C__subrule_1__cl_a">
+              <num>(a)</num>
+              <content>
+                <p>direct that an intermediary in respect of such online game, shall observe, mutatis mutandis, the obligations under sub-clauses <ref href="#rule_3__subrule_1__cl_b__subcl_ix">(ix)</ref> and <ref href="#rule_3__subrule_1__cl_b__subcl_x">(x)</ref> of clause (b) of sub-rule (1) of rule 3 and sub-rules (1), (5), (6), (7), (10) and <ref href="#rule_4__subrule_11__cl_d">clause (d) of sub-rule (11) of rule 4</ref> as if it is a permissible online real money game; and</p>
+              </content>
+            </clause>
+            <clause eId="rule_4C__subrule_1__cl_b">
+              <num>(b)</num>
+              <content>
+                <p>specify the period within which the online gaming intermediary which enables access to such online game shall observe the obligations referred to in <ref href="#rule_4C__subrule_1__cl_a">clause (a)</ref>.</p>
+              </content>
+            </clause>
+          </subrule>
+          <subrule eId="rule_4C__subrule_2">
+            <num>(2)</num>
+            <intro>
+              <p>Where an online game is notified under <ref href="#rule_4C__subrule_1">sub-rule (1)</ref>, the provisions of <ref href="#rule_4A">rule 4A</ref> shall apply as they apply to a permissible online real money game.</p>
+            </intro>
+            <hcontainer eId="rule_4C__subrule_2__hcontainer_1" name="explanation">
+              <num>Explanation.—</num>
+              <content>
+                <p>In this rule, “user harm” means any effect which is detrimental to users.</p>
+              </content>
+            </hcontainer>
           </subrule>
         </rule>
         <rule eId="rule_5" period="#tg_1">
@@ -741,17 +1906,17 @@
             </proviso>
           </subrule>
         </rule>
-        <rule eId="rule_7" period="#tg_1">
+        <rule eId="rule_7" period="#tg_4">
           <num>7.</num>
           <heading>Non-observance of Rules</heading>
           <content>
-            <p>Where an intermediary fails to observe these rules, the provisions of sub-section (1) of section 79 of the Actshall not be applicable to such intermediary and the intermediary shall be liable for punishment under any law for the time being in force including the provisions of the Act and the Indian Penal Code.</p>
+            <p>Where an intermediary fails to observe these rules, the provisions of <ref href="/akn/in/act/2000/21/~sec_79__subsec_1">sub-section (1) of section 79 of the Act</ref> shall not be applicable to such intermediary and the intermediary shall be liable for punishment under any law for the time being in force including the provisions of the Act and the Bharatiya Nyaya Sanhita, 2023 (45 of 2023).</p>
           </content>
         </rule>
       </part>
       <part eId="part_III">
         <num>PART III</num>
-        <heading>CODE OF ETHICS AND PROCEDURE AND SAFEGUARDS IN RELATION TO DIGITALMEDIA</heading>
+        <heading>CODE OF ETHICS AND PROCEDURE AND SAFEGUARDS IN RELATION TO DIGITAL MEDIA</heading>
         <rule eId="rule_8" period="#tg_1">
           <num>8.</num>
           <heading>Application of this Part</heading>
@@ -774,7 +1939,7 @@
             </clause>
             <hcontainer name="continuation" eId="rule_8__subrule_1__wrap_1">
               <content>
-                <p>shall be administered by the Ministry of Information and Broadcasting, Government of India, which shall be referred to in this Part as the ―Ministry‖:</p>
+                <p>shall be administered by the Ministry of Information and Broadcasting, Government of India, which shall be referred to in this Part as the “Ministry”:</p>
               </content>
             </hcontainer>
             <proviso eId="rule_8__subrule_1__proviso_1">
@@ -815,7 +1980,7 @@
             <clause eId="rule_8__hcontainer_1__cl_b">
               <num>(b)</num>
               <content>
-                <p>―systematic activity‖ shall mean any structured or organised activity that involves an element of planning, method, continuity or persistence.</p>
+                <p>“systematic activity” shall mean any structured or organised activity that involves an element of planning, method, continuity or persistence.</p>
               </content>
             </clause>
           </hcontainer>
@@ -1174,7 +2339,7 @@
             <subrule eId="rule_13__subrule_2">
               <num>(2)</num>
               <content>
-                <p>The Ministry shall appoint an officer of the Ministry not below the rank of a Joint Secretary to the Government of India, as the ―Authorised Officer‖, for the purposes of issuing directions under rules <ref href="#rule_15">15</ref> or <ref href="#rule_16">16</ref>, as the case may be.</p>
+                <p>The Ministry shall appoint an officer of the Ministry not below the rank of a Joint Secretary to the Government of India, as the “Authorised Officer”, for the purposes of issuing directions under rules <ref href="#rule_15">15</ref> or <ref href="#rule_16">16</ref>, as the case may be.</p>
               </content>
             </subrule>
           </rule>
@@ -1289,7 +2454,7 @@
               </intro>
               <proviso eId="rule_14__subrule_6__proviso_1">
                 <content>
-                  <p>Provided that no such order shall be issued without the approval of the Secretary, Ministry of Information and Broadcasting, Government of India (hereinafter referred to as the ―Secretary, Ministry of Information and Broadcasting‖).</p>
+                  <p>Provided that no such order shall be issued without the approval of the Secretary, Ministry of Information and Broadcasting, Government of India (hereinafter referred to as the “Secretary, Ministry of Information and Broadcasting”).</p>
                 </content>
               </proviso>
             </subrule>
@@ -1367,7 +2532,7 @@
             <hcontainer eId="rule_17__hcontainer_1" name="explanation">
               <num>Explanation.—</num>
               <content>
-                <p>For the purpose of this rule, ―Review Committee‖ shall mean the Review Committee constituted under rule 419A of the Indian Telegraph Rules, 1951.</p>
+                <p>For the purpose of this rule, “Review Committee” shall mean the Review Committee constituted under rule 419A of the Indian Telegraph Rules, 1951.</p>
               </content>
             </hcontainer>
           </rule>
@@ -1452,15 +2617,15 @@
                 <FRBRnumber value="139E" />
               </FRBRWork>
               <FRBRExpression>
-                <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2021-08-14/!schedule_1" />
-                <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2021-08-14" />
-                <FRBRdate date="2021-08-14" name="version" />
+                <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2026-02-20/!schedule_1" />
+                <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2026-02-20" />
+                <FRBRdate date="2026-02-20" name="version" />
                 <FRBRauthor href="#central-government" />
                 <FRBRlanguage language="eng" />
               </FRBRExpression>
               <FRBRManifestation>
-                <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2021-08-14/!schedule_1.xml" />
-                <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2021-08-14.akn" />
+                <FRBRthis value="/akn/in/act/gsr/2021/139E/eng@2026-02-20/!schedule_1.xml" />
+                <FRBRuri value="/akn/in/act/gsr/2021/139E/eng@2026-02-20.akn" />
                 <FRBRdate date="2026-10-29" name="transform" />
                 <FRBRauthor href="#lex-kernel" />
               </FRBRManifestation>
@@ -1468,7 +2633,7 @@
           </meta>
           <preface>
             <p class="title">APPENDIX</p>
-            <p class="heading">CODE OF ETHICS I News and current affairs: (i) Norms of Journalistic Conduct of the Press Council of India under the Press Council Act, 1978; (ii) Programme Code under section 5 of the Cable Television Networks Regulation) Act, 1995; (iii) Content which is prohibited under any law for the time being in force shall not be published or transmitted. II Online curated content: (A) General Principles: (a) A publisher shall not transmit or publish or exhibit any content which is prohibited under any law for the time being in force or has been prohibited by any court of competent jurisdiction. (b) A publisher shall take into consideration the following factors, when deciding to feature or transmit or publish or exhibit any content, after duly considering the implications of any content as falling under the following categories, and shall exercise due caution and discretion in relation to the same, namely:— (i) content which affects the sovereignty and integrity of India; (ii) content which threatens, endangers or jeopardises the security of the State; (iii) content which is detrimental to India‘s friendly relations with foreign countries; (iv) content which is likely to incite violence or disturb the maintenance of public order. (c) A publisher shall take into consideration India‘s multi-racial and multi-religious context and exercise due caution and discretion when featuring the activities, beliefs, practices, or views of any racial or religious group. (B) Content Classification: (i) All content transmitted or published or exhibited by a publisher of online curated content shall be classified, based on the nature and type of content, into the following rating categories, namely:— (a) Online curated content which is suitable for children as well as people of all ages shall be classified as ―U‖ rating; (b) Online curated content which is suitable for persons aged 7 years and above, and can be viewed by a person under the age of 7 years with parental guidance, shall be classified as ―U/A 7+‖ rating; (c) Online curated content which is suitable for persons aged 13 years and above, and can be viewed by a person under the age of 13 years with parental guidance, shall be classified as ―U/A 13+‖ rating; (d) Online curated content which is suitable for persons aged 16 years and above, and can be viewed by a person under the age of 16 years with parental guidance, shall be classified as ―U/A 16+‖ rating; and (e) Online curated content which is restricted to adults shall be classified as ―A‖ rating. (ii) The Content may be classified on the basis of.—i) Themes and messages; ii) Violence; iii) Nudity; iv) Sex; v) Language; vi) Drug and substance abuse; and (vii) Horror as described in the Schedule, as may be modified from time to time by the Ministry of Information &amp; Broadcasting. (C) Display of Classification: (a) The publisher of online curated content shall prominently display the classification rating specific to each content or programme together with a content descriptor informing the user about the nature of the content, and advising on viewer discretion (if applicable) at the beginning of every programme enabling the user to make an informed decision, prior to watching the programme. (b) The publisher of online curated content making available content that is classified as U/A 13+ or higher shall ensure that access control mechanisms, including parental locks, are made available for such content. (c) A publisher of online curated content which makes available content or programme that is classified as ―A‖ shall implement a reliable age verification mechanism for viewership of such content. (d) A publisher of online curated content must strive to include classification rating and consumer advice for their programmes in any print, televised or online promotional or publicity material and prominently display the classification rating specific to each such content. (D) Restriction of access to certain curated content by a child: Every publisher of online curated content providing access to online curated content which has an ―A‖ rating shall take all efforts to restrict access to such content by a child through the implementation of appropriate access control measures. (E) Measures to improve accessibility of online curated content by persons with disabilities: Every publisher of online curated content shall, to the extent feasible, take reasonable efforts to improve the accessibility of online curated content transmitted by it to persons with disabilities through the implementation of appropriate access services. SCHEDULE Classification of any curated content shall be guided by the following sets of guidelines, namely:—</p>
+            <p class="heading">CODE OF ETHICS I News and current affairs: (i) Norms of Journalistic Conduct of the Press Council of India under the Press Council Act, 1978; (ii) Programme Code under section 5 of the Cable Television Networks Regulation) Act, 1995; (iii) Content which is prohibited under any law for the time being in force shall not be published or transmitted. II Online curated content: (A) General Principles: (a) A publisher shall not transmit or publish or exhibit any content which is prohibited under any law for the time being in force or has been prohibited by any court of competent jurisdiction. (b) A publisher shall take into consideration the following factors, when deciding to feature or transmit or publish or exhibit any content, after duly considering the implications of any content as falling under the following categories, and shall exercise due caution and discretion in relation to the same, namely:— (i) content which affects the sovereignty and integrity of India; (ii) content which threatens, endangers or jeopardises the security of the State; (iii) content which is detrimental to India‘s friendly relations with foreign countries; (iv) content which is likely to incite violence or disturb the maintenance of public order. (c) A publisher shall take into consideration India‘s multi-racial and multi-religious context and exercise due caution and discretion when featuring the activities, beliefs, practices, or views of any racial or religious group. (B) Content Classification: (i) All content transmitted or published or exhibited by a publisher of online curated content shall be classified, based on the nature and type of content, into the following rating categories, namely:— (a) Online curated content which is suitable for children as well as people of all ages shall be classified as “U” rating; (b) Online curated content which is suitable for persons aged 7 years and above, and can be viewed by a person under the age of 7 years with parental guidance, shall be classified as “U/A 7+” rating; (c) Online curated content which is suitable for persons aged 13 years and above, and can be viewed by a person under the age of 13 years with parental guidance, shall be classified as “U/A 13+” rating; (d) Online curated content which is suitable for persons aged 16 years and above, and can be viewed by a person under the age of 16 years with parental guidance, shall be classified as “U/A 16+” rating; and (e) Online curated content which is restricted to adults shall be classified as “A” rating. (ii) The Content may be classified on the basis of.—i) Themes and messages; ii) Violence; iii) Nudity; iv) Sex; v) Language; vi) Drug and substance abuse; and (vii) Horror as described in the Schedule, as may be modified from time to time by the Ministry of Information &amp; Broadcasting. (C) Display of Classification: (a) The publisher of online curated content shall prominently display the classification rating specific to each content or programme together with a content descriptor informing the user about the nature of the content, and advising on viewer discretion (if applicable) at the beginning of every programme enabling the user to make an informed decision, prior to watching the programme. (b) The publisher of online curated content making available content that is classified as U/A 13+ or higher shall ensure that access control mechanisms, including parental locks, are made available for such content. (c) A publisher of online curated content which makes available content or programme that is classified as “A” shall implement a reliable age verification mechanism for viewership of such content. (d) A publisher of online curated content must strive to include classification rating and consumer advice for their programmes in any print, televised or online promotional or publicity material and prominently display the classification rating specific to each such content. (D) Restriction of access to certain curated content by a child: Every publisher of online curated content providing access to online curated content which has an “A” rating shall take all efforts to restrict access to such content by a child through the implementation of appropriate access control measures. (E) Measures to improve accessibility of online curated content by persons with disabilities: Every publisher of online curated content shall, to the extent feasible, take reasonable efforts to improve the accessibility of online curated content transmitted by it to persons with disabilities through the implementation of appropriate access services. SCHEDULE Classification of any curated content shall be guided by the following sets of guidelines, namely:—</p>
           </preface>
           <mainBody>
             <part eId="sched_1__part_I">
@@ -1589,7 +2754,7 @@
                 <subparagraph eId="sched_1__part_II__cl_e__subpara_2">
                   <num>(2)</num>
                   <content>
-                    <p>Nudity with a sexual context will receive a higher classification of ―A‖.</p>
+                    <p>Nudity with a sexual context will receive a higher classification of “A”.</p>
                   </content>
                 </subparagraph>
               </clause>
@@ -1597,7 +2762,7 @@
                 <num>(f)</num>
                 <content>
                   <p>Sex:</p>
-                  <p>No content that is prohibited by law at the time being in force can be published or transmitted. The classification of content in various ratings from U/A 16+ to ―A‖ shall depend upon the portrayal of non-explicit (implicit) to explicit depiction of sexual behaviour.</p>
+                  <p>No content that is prohibited by law at the time being in force can be published or transmitted. The classification of content in various ratings from U/A 16+ to “A” shall depend upon the portrayal of non-explicit (implicit) to explicit depiction of sexual behaviour.</p>
                 </content>
               </clause>
               <clause eId="sched_1__part_II__cl_g">
