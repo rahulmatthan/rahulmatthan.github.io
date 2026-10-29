@@ -105,6 +105,14 @@
     const s = document.getElementById("asof-summary");
     if (s) s.textContent = summary;
     document.getElementById("asof-date").value = d;
+    let hit = null;
+    document.querySelectorAll(".bar .dates button").forEach((b) => {
+      b.setAttribute("aria-pressed", b.dataset.date === d);
+      if (b.dataset.date <= d) hit = b;
+    });
+    const w = document.getElementById("asof-what");
+    if (w) w.textContent = hit && hit.dataset.date !== LAW.today ? `The law as it stood after ${fmt(hit.dataset.date)}: ${hit.dataset.what}.` +
+      (hit.dataset.date > LAW.today ? " Not yet in force." : "") : "";
     setParam("on", d === LAW.today ? "" : d);
     if (view === "section") showUnit(current());
     else if (body.dataset.for) openDossier(document.getElementById(body.dataset.for), true);

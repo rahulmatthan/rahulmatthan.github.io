@@ -18,7 +18,8 @@
   --l-courts: #b3261e;
   --l-terms: #276b37;
   --l-refs: #1b57a0;
-  --l-links: #6d3fb0;
+  --l-rules: #6d3fb0;
+  --l-citations: #8a4a6b;
   --l-states: #0f6f78;
   --l-notes: #6b6862;
   --serif: "Source Serif 4", "Iowan Old Style", Georgia, serif;
@@ -44,7 +45,8 @@
   --l-courts: #ff8f84;
   --l-terms: #8fd6a0;
   --l-refs: #8dbdf5;
-  --l-links: #c3a6f5;
+  --l-rules: #c3a6f5;
+  --l-citations: #f0a3c8;
   --l-states: #6fd3dc;
   --l-notes: #b3b0a9;
   color-scheme: dark;
@@ -156,7 +158,7 @@ pre.code { background: var(--surface); border: 1px solid var(--rule); border-rad
 .ly[aria-pressed="true"] { color: var(--ink); border-color: var(--c); background: color-mix(in srgb, var(--c) 12%, var(--surface)); }
 .ly[aria-pressed="true"]::before { background: var(--c); }
 .ly-history { --c: var(--l-history); } .ly-courts { --c: var(--l-courts); } .ly-terms { --c: var(--l-terms); }
-.ly-refs { --c: var(--l-refs); } .ly-links { --c: var(--l-links); } .ly-states { --c: var(--l-states); } .ly-notes { --c: var(--l-notes); }
+.ly-refs { --c: var(--l-refs); } .ly-rules { --c: var(--l-rules); } .ly-citations { --c: var(--l-citations); } .ly-states { --c: var(--l-states); } .ly-notes { --c: var(--l-notes); }
 .sw { margin-right: 6px; transform: translateY(-1px); background: var(--c); }
 
 .doc-head { padding: 36px 0 12px; text-align: center; }
@@ -226,8 +228,8 @@ td p, th p { margin: 0 0 4px; }
   background: color-mix(in srgb, var(--c) 8%, var(--bg)); cursor: pointer; vertical-align: 2px; white-space: nowrap; }
 .mk:hover { background: color-mix(in srgb, var(--c) 18%, var(--bg)); }
 .mk.still { display: inline-block; cursor: default; }
-.mk-history { --c: var(--l-history); } .mk-courts { --c: var(--l-courts); } .mk-links { --c: var(--l-links); } .mk-states { --c: var(--l-states); }
-.show-history .mk-history, .show-courts .mk-courts, .show-links .mk-links, .show-states .mk-states { display: inline-block; }
+.mk-history { --c: var(--l-history); } .mk-courts { --c: var(--l-courts); } .mk-citations { --c: var(--l-citations); } .mk-states { --c: var(--l-states); }
+.show-history .mk-history, .show-courts .mk-courts, .show-citations .mk-citations, .show-states .mk-states { display: inline-block; }
 
 /* inline annotations: plain text until their layer is on */
 a.ref { color: inherit; cursor: text; }
@@ -291,7 +293,7 @@ del { text-decoration-color: color-mix(in srgb, var(--danger) 70%, transparent);
 .d-sec h4 { display: flex; align-items: center; gap: 6px; }
 .d-sec[data-layer] h4::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--c, var(--faint)); }
 .d-sec[data-layer="history"] { --c: var(--l-history); } .d-sec[data-layer="courts"] { --c: var(--l-courts); }
-.d-sec[data-layer="links"] { --c: var(--l-links); } .d-sec[data-layer="states"] { --c: var(--l-states); }
+.d-sec[data-layer="rules"] { --c: var(--l-rules); } .d-sec[data-layer="citations"] { --c: var(--l-citations); } .d-sec[data-layer="states"] { --c: var(--l-states); }
 .d-sec[data-layer="terms"] { --c: var(--l-terms); }
 .d-sec details { border: 0; padding: 0; margin: 4px 0; }
 .d-sec details p { font-family: var(--serif); font-size: 14.5px; margin: 4px 0; }
@@ -382,3 +384,18 @@ ul.sources li { margin: .5rem 0; }
 ul.fixes { font-size: .85em; }
 p.pages a { margin-right: .35rem; }
 @media (max-width: 700px) { .pg .pair, .pairq { grid-template-columns: 1fr; } }
+
+/* the dates on which the text changed, in the bar */
+.when { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; flex-basis: 100%; }
+.presets.dates { display: flex; flex-wrap: nowrap; gap: 4px; overflow-x: auto; scrollbar-width: thin; max-width: 100%; }
+.presets.dates button { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.presets.dates button.future { border-style: dashed; color: var(--muted); }
+.presets.dates button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); font-weight: 600; }
+.asof-what { flex-basis: 100%; color: var(--muted); font-size: 12.5px; }
+.asof-what:empty { display: none; }
+
+/* links to rules, shown in the text when Rules is on */
+.rulelinks { display: none; font-family: var(--sans); font-size: 0.74em; line-height: 1.5; color: var(--muted); margin: 0.2em 0 0.5em;
+  padding-left: 10px; border-left: 2px solid var(--l-rules); }
+.show-rules .rulelinks { display: block; }
+.rulelinks a { color: var(--l-rules); font-weight: 500; }
